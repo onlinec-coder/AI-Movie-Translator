@@ -1,0 +1,2045 @@
+{
+  "version": "3.0",
+  "video": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\input\\Husbands.mp4",
+  "test_duration": 30.0,
+  "sample_interval": 0.25,
+  "frames_processed": 120,
+  "reference_srt_cues": 908,
+  "detections": 41,
+  "subtitle_cues": 17,
+  "raw_detections": [
+    {
+      "timestamp": 9.5,
+      "text": "tasted like rot The third bowl",
+      "confidence": 95.84,
+      "word_count": 6,
+      "x_center": 0.4969,
+      "y_center": 0.7354,
+      "line_count": 2,
+      "reference": {
+        "score": 1.0,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 9.75,
+      "text": "tasted lik 2 rot.",
+      "confidence": 78.25,
+      "word_count": 4,
+      "x_center": 0.5104,
+      "y_center": 0.7516,
+      "line_count": 1,
+      "reference": {
+        "score": 0.75,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 10.0,
+      "text": "The third bowl tasted like rot.",
+      "confidence": 95.5,
+      "word_count": 6,
+      "x_center": 0.5005,
+      "y_center": 0.7358,
+      "line_count": 2,
+      "reference": {
+        "score": 1.0,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 10.25,
+      "text": "The th AC FOU",
+      "confidence": 91.25,
+      "word_count": 4,
+      "x_center": 0.4988,
+      "y_center": 0.7426,
+      "line_count": 2,
+      "reference": {
+        "score": 0.25,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 10.75,
+      "text": "The thir tasted li",
+      "confidence": 95.5,
+      "word_count": 4,
+      "x_center": 0.4172,
+      "y_center": 0.7374,
+      "line_count": 2,
+      "reference": {
+        "score": 0.75,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 11.0,
+      "text": "The third bo d like rot.",
+      "confidence": 88.17,
+      "word_count": 6,
+      "x_center": 0.5212,
+      "y_center": 0.7376,
+      "line_count": 2,
+      "reference": {
+        "score": 0.667,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 11.5,
+      "text": "I couldn't hands an",
+      "confidence": 94.5,
+      "word_count": 4,
+      "x_center": 0.4055,
+      "y_center": 0.7378,
+      "line_count": 2,
+      "reference": {
+        "score": 0.75,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 11.75,
+      "text": "I couldn't hands an",
+      "confidence": 90.5,
+      "word_count": 4,
+      "x_center": 0.4055,
+      "y_center": 0.737,
+      "line_count": 2,
+      "reference": {
+        "score": 0.75,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 12.0,
+      "text": "hands an I couldn't f",
+      "confidence": 93.84,
+      "word_count": 5,
+      "x_center": 0.4144,
+      "y_center": 0.7378,
+      "line_count": 2,
+      "reference": {
+        "score": 0.6,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 12.25,
+      "text": "hands a I couldn't fee",
+      "confidence": 86.84,
+      "word_count": 5,
+      "x_center": 0.4209,
+      "y_center": 0.7363,
+      "line_count": 2,
+      "reference": {
+        "score": 0.8,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 12.5,
+      "text": "hands anyn I couldn't feel r",
+      "confidence": 92.38,
+      "word_count": 6,
+      "x_center": 0.4554,
+      "y_center": 0.7378,
+      "line_count": 2,
+      "reference": {
+        "score": 0.667,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 12.75,
+      "text": "hands any m I couldn't feel",
+      "confidence": 94.16,
+      "word_count": 6,
+      "x_center": 0.4524,
+      "y_center": 0.7378,
+      "line_count": 2,
+      "reference": {
+        "score": 0.667,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 13.0,
+      "text": "I couldn't feel hands anymore",
+      "confidence": 95.5,
+      "word_count": 5,
+      "x_center": 0.4736,
+      "y_center": 0.7376,
+      "line_count": 2,
+      "reference": {
+        "score": 1.0,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 13.75,
+      "text": "already reached my The wolfshan",
+      "confidence": 82.59,
+      "word_count": 5,
+      "x_center": 0.4233,
+      "y_center": 0.728,
+      "line_count": 2,
+      "reference": {
+        "score": 0.8,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 14.0,
+      "text": "-* The wolfsban already reached my",
+      "confidence": 87.0,
+      "word_count": 5,
+      "x_center": 0.3993,
+      "y_center": 0.7304,
+      "line_count": 2,
+      "reference": {
+        "score": 0.8,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 14.25,
+      "text": "a the wolfsbane already reached my ¢",
+      "confidence": 80.16,
+      "word_count": 6,
+      "x_center": 0.4193,
+      "y_center": 0.7154,
+      "line_count": 2,
+      "reference": {
+        "score": 0.667,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 14.5,
+      "text": "hec my chest™",
+      "confidence": 85.0,
+      "word_count": 3,
+      "x_center": 0.6809,
+      "y_center": 0.7575,
+      "line_count": 1,
+      "reference": {
+        "score": 0.667,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 14.75,
+      "text": "ied my chest™",
+      "confidence": 63.0,
+      "word_count": 3,
+      "x_center": 0.6861,
+      "y_center": 0.7508,
+      "line_count": 1,
+      "reference": {
+        "score": 0.667,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 15.0,
+      "text": "ached my chest» _",
+      "confidence": 69.75,
+      "word_count": 3,
+      "x_center": 0.7094,
+      "y_center": 0.7512,
+      "line_count": 1,
+      "reference": {
+        "score": 1.0,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 15.5,
+      "text": "The ha",
+      "confidence": 96.5,
+      "word_count": 2,
+      "x_center": 0.4847,
+      "y_center": 0.7182,
+      "line_count": 1,
+      "reference": {
+        "score": 0.5,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 15.75,
+      "text": "ady re. ne ha my chests»",
+      "confidence": 86.0,
+      "word_count": 6,
+      "x_center": 0.5741,
+      "y_center": 0.7403,
+      "line_count": 3,
+      "reference": {
+        "score": 0.333,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 16.25,
+      "text": "the fo Of the bed",
+      "confidence": 92.16,
+      "word_count": 5,
+      "x_center": 0.4736,
+      "y_center": 0.7559,
+      "line_count": 2,
+      "reference": {
+        "score": 0.8,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 16.5,
+      "text": "the fo Lucian sto ood",
+      "confidence": 95.16,
+      "word_count": 5,
+      "x_center": 0.4038,
+      "y_center": 0.7311,
+      "line_count": 2,
+      "reference": {
+        "score": 0.4,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 17.25,
+      "text": "the foot of.",
+      "confidence": 96.0,
+      "word_count": 3,
+      "x_center": 0.4014,
+      "y_center": 0.7528,
+      "line_count": 1,
+      "reference": {
+        "score": 0.667,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 17.5,
+      "text": "ian. vi",
+      "confidence": 57.0,
+      "word_count": 2,
+      "x_center": 0.567,
+      "y_center": 0.6969,
+      "line_count": 1,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 17.75,
+      "text": "Cucian at,",
+      "confidence": 92.0,
+      "word_count": 2,
+      "x_center": 0.5118,
+      "y_center": 0.7099,
+      "line_count": 1,
+      "reference": {
+        "score": 1.0,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 18.0,
+      "text": "and watched mé",
+      "confidence": 78.0,
+      "word_count": 3,
+      "x_center": 0.4604,
+      "y_center": 0.6993,
+      "line_count": 1,
+      "reference": {
+        "score": 0.667,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 18.25,
+      "text": "and watched",
+      "confidence": 96.0,
+      "word_count": 2,
+      "x_center": 0.4066,
+      "y_center": 0.7182,
+      "line_count": 1,
+      "reference": {
+        "score": 1.0,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 18.5,
+      "text": "and watched me go.",
+      "confidence": 95.75,
+      "word_count": 4,
+      "x_center": 0.5028,
+      "y_center": 0.7154,
+      "line_count": 1,
+      "reference": {
+        "score": 1.0,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 20.25,
+      "text": "ing bl",
+      "confidence": 94.5,
+      "word_count": 2,
+      "x_center": 0.6097,
+      "y_center": 0.7182,
+      "line_count": 1,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 20.75,
+      "text": "ing blog",
+      "confidence": 96.0,
+      "word_count": 2,
+      "x_center": 0.6413,
+      "y_center": 0.7154,
+      "line_count": 1,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 21.0,
+      "text": "‘All hig king blog",
+      "confidence": 87.0,
+      "word_count": 4,
+      "x_center": 0.4507,
+      "y_center": 0.712,
+      "line_count": 2,
+      "reference": {
+        "score": 0.25,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 21.0,
+      "text": "Ay C2,",
+      "confidence": 49.5,
+      "word_count": 2,
+      "x_center": 0.4045,
+      "y_center": 0.8597,
+      "line_count": 1,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 24.5,
+      "text": "othing cam",
+      "confidence": 76.5,
+      "word_count": 2,
+      "x_center": 0.4507,
+      "y_center": 0.7174,
+      "line_count": 1,
+      "reference": {
+        "score": 1.0,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 26.25,
+      "text": "he o",
+      "confidence": 79.0,
+      "word_count": 2,
+      "x_center": 0.3524,
+      "y_center": 0.7445,
+      "line_count": 1,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 26.5,
+      "text": "ou were ever i) Po i",
+      "confidence": 74.5,
+      "word_count": 6,
+      "x_center": 0.5637,
+      "y_center": 0.7345,
+      "line_count": 2,
+      "reference": {
+        "score": 0.667,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 26.75,
+      "text": "were never _",
+      "confidence": 82.33,
+      "word_count": 2,
+      "x_center": 0.5851,
+      "y_center": 0.7052,
+      "line_count": 1,
+      "reference": {
+        "score": 1.0,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 27.25,
+      "text": "vor e",
+      "confidence": 71.5,
+      "word_count": 2,
+      "x_center": 0.3931,
+      "y_center": 0.7197,
+      "line_count": 1,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 29.0,
+      "text": "So at",
+      "confidence": 54.0,
+      "word_count": 2,
+      "x_center": 0.8469,
+      "y_center": 0.7484,
+      "line_count": 1,
+      "reference": {
+        "score": 0.5,
+        "matched_text": "You threw yourself at me. I let it happen. That's all this ever was."
+      }
+    },
+    {
+      "timestamp": 29.0,
+      "text": "“9 on",
+      "confidence": 59.0,
+      "word_count": 2,
+      "x_center": 0.1951,
+      "y_center": 0.9076,
+      "line_count": 1,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 29.5,
+      "text": "His voice",
+      "confidence": 96.0,
+      "word_count": 2,
+      "x_center": 0.3285,
+      "y_center": 0.7197,
+      "line_count": 1,
+      "reference": {
+        "score": 1.0,
+        "matched_text": "His voice didn't waver."
+      }
+    }
+  ],
+  "frame_results": [
+    {
+      "timestamp": 0.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 0.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 0.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 0.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 1.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 1.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 1.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 1.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 2.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 2.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 2.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 2.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 3.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 3.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 3.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 3.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 4.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 4.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 4.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 4.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 5.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 5.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 5.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 5.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 6.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 6.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 6.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 6.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 7.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 7.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 7.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 7.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 8.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 8.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 8.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 8.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 9.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 9.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 9.5,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 9.5,
+          "text": "tasted like rot The third bowl",
+          "confidence": 95.84,
+          "word_count": 6,
+          "x_center": 0.4969,
+          "y_center": 0.7354,
+          "line_count": 2,
+          "reference": {
+            "score": 1.0,
+            "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 9.75,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 9.75,
+          "text": "tasted lik 2 rot.",
+          "confidence": 78.25,
+          "word_count": 4,
+          "x_center": 0.5104,
+          "y_center": 0.7516,
+          "line_count": 1,
+          "reference": {
+            "score": 0.75,
+            "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 10.0,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 10.0,
+          "text": "The third bowl tasted like rot.",
+          "confidence": 95.5,
+          "word_count": 6,
+          "x_center": 0.5005,
+          "y_center": 0.7358,
+          "line_count": 2,
+          "reference": {
+            "score": 1.0,
+            "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 10.25,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 10.25,
+          "text": "The th AC FOU",
+          "confidence": 91.25,
+          "word_count": 4,
+          "x_center": 0.4988,
+          "y_center": 0.7426,
+          "line_count": 2,
+          "reference": {
+            "score": 0.25,
+            "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 10.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 10.75,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 10.75,
+          "text": "The thir tasted li",
+          "confidence": 95.5,
+          "word_count": 4,
+          "x_center": 0.4172,
+          "y_center": 0.7374,
+          "line_count": 2,
+          "reference": {
+            "score": 0.75,
+            "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 11.0,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 11.0,
+          "text": "The third bo d like rot.",
+          "confidence": 88.17,
+          "word_count": 6,
+          "x_center": 0.5212,
+          "y_center": 0.7376,
+          "line_count": 2,
+          "reference": {
+            "score": 0.667,
+            "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 11.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 11.5,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 11.5,
+          "text": "I couldn't hands an",
+          "confidence": 94.5,
+          "word_count": 4,
+          "x_center": 0.4055,
+          "y_center": 0.7378,
+          "line_count": 2,
+          "reference": {
+            "score": 0.75,
+            "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 11.75,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 11.75,
+          "text": "I couldn't hands an",
+          "confidence": 90.5,
+          "word_count": 4,
+          "x_center": 0.4055,
+          "y_center": 0.737,
+          "line_count": 2,
+          "reference": {
+            "score": 0.75,
+            "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 12.0,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 12.0,
+          "text": "hands an I couldn't f",
+          "confidence": 93.84,
+          "word_count": 5,
+          "x_center": 0.4144,
+          "y_center": 0.7378,
+          "line_count": 2,
+          "reference": {
+            "score": 0.6,
+            "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 12.25,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 12.25,
+          "text": "hands a I couldn't fee",
+          "confidence": 86.84,
+          "word_count": 5,
+          "x_center": 0.4209,
+          "y_center": 0.7363,
+          "line_count": 2,
+          "reference": {
+            "score": 0.8,
+            "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 12.5,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 12.5,
+          "text": "hands anyn I couldn't feel r",
+          "confidence": 92.38,
+          "word_count": 6,
+          "x_center": 0.4554,
+          "y_center": 0.7378,
+          "line_count": 2,
+          "reference": {
+            "score": 0.667,
+            "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 12.75,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 12.75,
+          "text": "hands any m I couldn't feel",
+          "confidence": 94.16,
+          "word_count": 6,
+          "x_center": 0.4524,
+          "y_center": 0.7378,
+          "line_count": 2,
+          "reference": {
+            "score": 0.667,
+            "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 13.0,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 13.0,
+          "text": "I couldn't feel hands anymore",
+          "confidence": 95.5,
+          "word_count": 5,
+          "x_center": 0.4736,
+          "y_center": 0.7376,
+          "line_count": 2,
+          "reference": {
+            "score": 1.0,
+            "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 13.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 13.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 13.75,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 13.75,
+          "text": "already reached my The wolfshan",
+          "confidence": 82.59,
+          "word_count": 5,
+          "x_center": 0.4233,
+          "y_center": 0.728,
+          "line_count": 2,
+          "reference": {
+            "score": 0.8,
+            "matched_text": "The wolf bead had already reached my chest."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 14.0,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 14.0,
+          "text": "-* The wolfsban already reached my",
+          "confidence": 87.0,
+          "word_count": 5,
+          "x_center": 0.3993,
+          "y_center": 0.7304,
+          "line_count": 2,
+          "reference": {
+            "score": 0.8,
+            "matched_text": "The wolf bead had already reached my chest."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 14.25,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 14.25,
+          "text": "a the wolfsbane already reached my ¢",
+          "confidence": 80.16,
+          "word_count": 6,
+          "x_center": 0.4193,
+          "y_center": 0.7154,
+          "line_count": 2,
+          "reference": {
+            "score": 0.667,
+            "matched_text": "The wolf bead had already reached my chest."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 14.5,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 14.5,
+          "text": "hec my chest™",
+          "confidence": 85.0,
+          "word_count": 3,
+          "x_center": 0.6809,
+          "y_center": 0.7575,
+          "line_count": 1,
+          "reference": {
+            "score": 0.667,
+            "matched_text": "The wolf bead had already reached my chest."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 14.75,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 14.75,
+          "text": "ied my chest™",
+          "confidence": 63.0,
+          "word_count": 3,
+          "x_center": 0.6861,
+          "y_center": 0.7508,
+          "line_count": 1,
+          "reference": {
+            "score": 0.667,
+            "matched_text": "The wolf bead had already reached my chest."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 15.0,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 15.0,
+          "text": "ached my chest» _",
+          "confidence": 69.75,
+          "word_count": 3,
+          "x_center": 0.7094,
+          "y_center": 0.7512,
+          "line_count": 1,
+          "reference": {
+            "score": 1.0,
+            "matched_text": "The wolf bead had already reached my chest."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 15.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 15.5,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 15.5,
+          "text": "The ha",
+          "confidence": 96.5,
+          "word_count": 2,
+          "x_center": 0.4847,
+          "y_center": 0.7182,
+          "line_count": 1,
+          "reference": {
+            "score": 0.5,
+            "matched_text": "The wolf bead had already reached my chest."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 15.75,
+      "line_count": 3,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 15.75,
+          "text": "ady re. ne ha my chests»",
+          "confidence": 86.0,
+          "word_count": 6,
+          "x_center": 0.5741,
+          "y_center": 0.7403,
+          "line_count": 3,
+          "reference": {
+            "score": 0.333,
+            "matched_text": "The wolf bead had already reached my chest."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 16.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 16.25,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 16.25,
+          "text": "the fo Of the bed",
+          "confidence": 92.16,
+          "word_count": 5,
+          "x_center": 0.4736,
+          "y_center": 0.7559,
+          "line_count": 2,
+          "reference": {
+            "score": 0.8,
+            "matched_text": "Lucian stood at the dend of the bed and watched me go."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 16.5,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 16.5,
+          "text": "the fo Lucian sto ood",
+          "confidence": 95.16,
+          "word_count": 5,
+          "x_center": 0.4038,
+          "y_center": 0.7311,
+          "line_count": 2,
+          "reference": {
+            "score": 0.4,
+            "matched_text": "Lucian stood at the dend of the bed and watched me go."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 16.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 17.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 17.25,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 17.25,
+          "text": "the foot of.",
+          "confidence": 96.0,
+          "word_count": 3,
+          "x_center": 0.4014,
+          "y_center": 0.7528,
+          "line_count": 1,
+          "reference": {
+            "score": 0.667,
+            "matched_text": "Lucian stood at the dend of the bed and watched me go."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 17.5,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 17.5,
+          "text": "ian. vi",
+          "confidence": 57.0,
+          "word_count": 2,
+          "x_center": 0.567,
+          "y_center": 0.6969,
+          "line_count": 1,
+          "reference": {
+            "score": 0.0,
+            "matched_text": null
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 17.75,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 17.75,
+          "text": "Cucian at,",
+          "confidence": 92.0,
+          "word_count": 2,
+          "x_center": 0.5118,
+          "y_center": 0.7099,
+          "line_count": 1,
+          "reference": {
+            "score": 1.0,
+            "matched_text": "Lucian stood at the dend of the bed and watched me go."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 18.0,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 18.0,
+          "text": "and watched mé",
+          "confidence": 78.0,
+          "word_count": 3,
+          "x_center": 0.4604,
+          "y_center": 0.6993,
+          "line_count": 1,
+          "reference": {
+            "score": 0.667,
+            "matched_text": "Lucian stood at the dend of the bed and watched me go."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 18.25,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 18.25,
+          "text": "and watched",
+          "confidence": 96.0,
+          "word_count": 2,
+          "x_center": 0.4066,
+          "y_center": 0.7182,
+          "line_count": 1,
+          "reference": {
+            "score": 1.0,
+            "matched_text": "Lucian stood at the dend of the bed and watched me go."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 18.5,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 18.5,
+          "text": "and watched me go.",
+          "confidence": 95.75,
+          "word_count": 4,
+          "x_center": 0.5028,
+          "y_center": 0.7154,
+          "line_count": 1,
+          "reference": {
+            "score": 1.0,
+            "matched_text": "Lucian stood at the dend of the bed and watched me go."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 18.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 19.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 19.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 19.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 19.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 20.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 20.25,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 20.25,
+          "text": "ing bl",
+          "confidence": 94.5,
+          "word_count": 2,
+          "x_center": 0.6097,
+          "y_center": 0.7182,
+          "line_count": 1,
+          "reference": {
+            "score": 0.0,
+            "matched_text": null
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 20.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 20.75,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 20.75,
+          "text": "ing blog",
+          "confidence": 96.0,
+          "word_count": 2,
+          "x_center": 0.6413,
+          "y_center": 0.7154,
+          "line_count": 1,
+          "reference": {
+            "score": 0.0,
+            "matched_text": null
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 21.0,
+      "line_count": 3,
+      "candidate_count": 2,
+      "candidates": [
+        {
+          "timestamp": 21.0,
+          "text": "‘All hig king blog",
+          "confidence": 87.0,
+          "word_count": 4,
+          "x_center": 0.4507,
+          "y_center": 0.712,
+          "line_count": 2,
+          "reference": {
+            "score": 0.25,
+            "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+          }
+        },
+        {
+          "timestamp": 21.0,
+          "text": "Ay C2,",
+          "confidence": 49.5,
+          "word_count": 2,
+          "x_center": 0.4045,
+          "y_center": 0.8597,
+          "line_count": 1,
+          "reference": {
+            "score": 0.0,
+            "matched_text": null
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 21.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 21.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 21.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 22.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 22.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 22.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 22.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 23.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 23.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 23.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 23.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 24.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 24.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 24.5,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 24.5,
+          "text": "othing cam",
+          "confidence": 76.5,
+          "word_count": 2,
+          "x_center": 0.4507,
+          "y_center": 0.7174,
+          "line_count": 1,
+          "reference": {
+            "score": 1.0,
+            "matched_text": "I tried to speak. Nothing came out."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 24.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 25.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 25.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 25.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 25.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 26.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 26.25,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 26.25,
+          "text": "he o",
+          "confidence": 79.0,
+          "word_count": 2,
+          "x_center": 0.3524,
+          "y_center": 0.7445,
+          "line_count": 1,
+          "reference": {
+            "score": 0.0,
+            "matched_text": null
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 26.5,
+      "line_count": 2,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 26.5,
+          "text": "ou were ever i) Po i",
+          "confidence": 74.5,
+          "word_count": 6,
+          "x_center": 0.5637,
+          "y_center": 0.7345,
+          "line_count": 2,
+          "reference": {
+            "score": 0.667,
+            "matched_text": "You were never the one I wanted Vivienne."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 26.75,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 26.75,
+          "text": "were never _",
+          "confidence": 82.33,
+          "word_count": 2,
+          "x_center": 0.5851,
+          "y_center": 0.7052,
+          "line_count": 1,
+          "reference": {
+            "score": 1.0,
+            "matched_text": "You were never the one I wanted Vivienne."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 27.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 27.25,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 27.25,
+          "text": "vor e",
+          "confidence": 71.5,
+          "word_count": 2,
+          "x_center": 0.3931,
+          "y_center": 0.7197,
+          "line_count": 1,
+          "reference": {
+            "score": 0.0,
+            "matched_text": null
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 27.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 27.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 28.0,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 28.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 28.5,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 28.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 29.0,
+      "line_count": 2,
+      "candidate_count": 2,
+      "candidates": [
+        {
+          "timestamp": 29.0,
+          "text": "So at",
+          "confidence": 54.0,
+          "word_count": 2,
+          "x_center": 0.8469,
+          "y_center": 0.7484,
+          "line_count": 1,
+          "reference": {
+            "score": 0.5,
+            "matched_text": "You threw yourself at me. I let it happen. That's all this ever was."
+          }
+        },
+        {
+          "timestamp": 29.0,
+          "text": "“9 on",
+          "confidence": 59.0,
+          "word_count": 2,
+          "x_center": 0.1951,
+          "y_center": 0.9076,
+          "line_count": 1,
+          "reference": {
+            "score": 0.0,
+            "matched_text": null
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 29.25,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "timestamp": 29.5,
+      "line_count": 1,
+      "candidate_count": 1,
+      "candidates": [
+        {
+          "timestamp": 29.5,
+          "text": "His voice",
+          "confidence": 96.0,
+          "word_count": 2,
+          "x_center": 0.3285,
+          "y_center": 0.7197,
+          "line_count": 1,
+          "reference": {
+            "score": 1.0,
+            "matched_text": "His voice didn't waver."
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": 29.75,
+      "line_count": 0,
+      "candidate_count": 0,
+      "candidates": []
+    }
+  ],
+  "subtitle_cues_data": [
+    {
+      "cue_id": "OCR_0001",
+      "start_seconds": 9.5,
+      "end_seconds": 10.25,
+      "text": "tasted like rot The third bowl",
+      "confidence": 95.84,
+      "reference_match_score": 1.0,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "detection_count": 3,
+      "average_y": 0.7409,
+      "review_required": false
+    },
+    {
+      "cue_id": "OCR_0002",
+      "start_seconds": 10.25,
+      "end_seconds": 11.25,
+      "text": "The thir tasted li",
+      "confidence": 95.5,
+      "reference_match_score": 0.75,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "detection_count": 3,
+      "average_y": 0.7392,
+      "review_required": false
+    },
+    {
+      "cue_id": "OCR_0003",
+      "start_seconds": 11.5,
+      "end_seconds": 13.25,
+      "text": "I couldn't feel hands anymore",
+      "confidence": 95.5,
+      "reference_match_score": 1.0,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "detection_count": 7,
+      "average_y": 0.7374,
+      "review_required": false
+    },
+    {
+      "cue_id": "OCR_0004",
+      "start_seconds": 13.75,
+      "end_seconds": 14.5,
+      "text": "-* The wolfsban already reached my",
+      "confidence": 87.0,
+      "reference_match_score": 0.8,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detection_count": 3,
+      "average_y": 0.7246,
+      "review_required": false
+    },
+    {
+      "cue_id": "OCR_0005",
+      "start_seconds": 14.5,
+      "end_seconds": 16.5,
+      "text": "the fo Of the bed",
+      "confidence": 92.16,
+      "reference_match_score": 0.8,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "detection_count": 5,
+      "average_y": 0.7467,
+      "review_required": false
+    },
+    {
+      "cue_id": "OCR_0006",
+      "start_seconds": 15.75,
+      "end_seconds": 16.0,
+      "text": "ady re. ne ha my chests»",
+      "confidence": 86.0,
+      "reference_match_score": 0.333,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detection_count": 1,
+      "average_y": 0.7403,
+      "review_required": true
+    },
+    {
+      "cue_id": "OCR_0007",
+      "start_seconds": 16.5,
+      "end_seconds": 17.5,
+      "text": "the foot of.",
+      "confidence": 96.0,
+      "reference_match_score": 0.667,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "detection_count": 2,
+      "average_y": 0.7419,
+      "review_required": false
+    },
+    {
+      "cue_id": "OCR_0008",
+      "start_seconds": 17.5,
+      "end_seconds": 18.75,
+      "text": "and watched",
+      "confidence": 96.0,
+      "reference_match_score": 1.0,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "detection_count": 5,
+      "average_y": 0.7079,
+      "review_required": false
+    },
+    {
+      "cue_id": "OCR_0009",
+      "start_seconds": 20.25,
+      "end_seconds": 21.25,
+      "text": "ing blog",
+      "confidence": 96.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detection_count": 3,
+      "average_y": 0.7152,
+      "review_required": true
+    },
+    {
+      "cue_id": "OCR_0010",
+      "start_seconds": 21.0,
+      "end_seconds": 21.25,
+      "text": "Ay C2,",
+      "confidence": 49.5,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detection_count": 1,
+      "average_y": 0.8597,
+      "review_required": true
+    },
+    {
+      "cue_id": "OCR_0011",
+      "start_seconds": 24.5,
+      "end_seconds": 24.75,
+      "text": "othing cam",
+      "confidence": 76.5,
+      "reference_match_score": 1.0,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detection_count": 1,
+      "average_y": 0.7174,
+      "review_required": true
+    },
+    {
+      "cue_id": "OCR_0012",
+      "start_seconds": 26.25,
+      "end_seconds": 26.5,
+      "text": "he o",
+      "confidence": 79.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detection_count": 1,
+      "average_y": 0.7445,
+      "review_required": true
+    },
+    {
+      "cue_id": "OCR_0013",
+      "start_seconds": 26.5,
+      "end_seconds": 27.0,
+      "text": "were never _",
+      "confidence": 82.33,
+      "reference_match_score": 1.0,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detection_count": 2,
+      "average_y": 0.7199,
+      "review_required": false
+    },
+    {
+      "cue_id": "OCR_0014",
+      "start_seconds": 27.25,
+      "end_seconds": 27.5,
+      "text": "vor e",
+      "confidence": 71.5,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detection_count": 1,
+      "average_y": 0.7197,
+      "review_required": true
+    },
+    {
+      "cue_id": "OCR_0015",
+      "start_seconds": 29.0,
+      "end_seconds": 29.25,
+      "text": "So at",
+      "confidence": 54.0,
+      "reference_match_score": 0.5,
+      "reference_text": "You threw yourself at me. I let it happen. That's all this ever was.",
+      "detection_count": 1,
+      "average_y": 0.7484,
+      "review_required": true
+    },
+    {
+      "cue_id": "OCR_0016",
+      "start_seconds": 29.0,
+      "end_seconds": 29.25,
+      "text": "“9 on",
+      "confidence": 59.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detection_count": 1,
+      "average_y": 0.9076,
+      "review_required": true
+    },
+    {
+      "cue_id": "OCR_0017",
+      "start_seconds": 29.5,
+      "end_seconds": 29.75,
+      "text": "His voice",
+      "confidence": 96.0,
+      "reference_match_score": 1.0,
+      "reference_text": "His voice didn't waver.",
+      "detection_count": 1,
+      "average_y": 0.7197,
+      "review_required": true
+    }
+  ]
+}

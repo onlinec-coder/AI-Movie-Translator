@@ -1,0 +1,2366 @@
+{
+  "version": "4.0",
+  "video": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\input\\Husbands.mp4",
+  "test_duration": 30.0,
+  "sample_interval": 0.25,
+  "reference_srt": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\input\\input.srt",
+  "summary": {
+    "total": 7,
+    "confirmed": 0,
+    "partial": 5,
+    "not_detected": 0,
+    "potential_mismatch": 2,
+    "review_required": 7
+  },
+  "results": [
+    {
+      "subtitle_id": 1,
+      "start_seconds": 9.07,
+      "end_seconds": 13.47,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "ocr_best_text": "The third bowl 4 tasted like rot",
+      "ocr_confidence": 90.88,
+      "word_coverage": 0.5,
+      "matched_pairs": [
+        {
+          "reference_word": "the",
+          "ocr_word": "the",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "third",
+          "ocr_word": "third",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "bowl",
+          "ocr_word": "bowl",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "tasted",
+          "ocr_word": "tasted",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "like",
+          "ocr_word": "like",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "rot",
+          "ocr_word": "rot",
+          "similarity": 1.0
+        }
+      ],
+      "frames_checked": 21,
+      "frames_with_text": 18,
+      "status": "PARTIAL",
+      "review_required": true,
+      "frame_evidence": [
+        {
+          "timestamp": 8.72,
+          "text": "| ye",
+          "confidence": 29.0,
+          "word_count": 2,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 12,
+            "ocr_word_count": 2,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 9.22,
+          "text": "Tine tire owl (fia ro.",
+          "confidence": 57.16,
+          "word_count": 5,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 12,
+            "ocr_word_count": 5,
+            "word_coverage": 0.167,
+            "matched_pairs": [
+              {
+                "reference_word": "bowl",
+                "ocr_word": "owl",
+                "similarity": 0.857
+              },
+              {
+                "reference_word": "rot",
+                "ocr_word": "ro",
+                "similarity": 0.8
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 9.47,
+          "text": "The third bowl 4 tasted like rot",
+          "confidence": 90.88,
+          "word_count": 7,
+          "alignment": {
+            "matched_words": 6,
+            "reference_word_count": 12,
+            "ocr_word_count": 7,
+            "word_coverage": 0.5,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "third",
+                "ocr_word": "third",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "bowl",
+                "ocr_word": "bowl",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "tasted",
+                "ocr_word": "tasted",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "like",
+                "ocr_word": "like",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "rot",
+                "ocr_word": "rot",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 9.72,
+          "text": "tasted lik 2 rot. ees",
+          "confidence": 53.38,
+          "word_count": 5,
+          "alignment": {
+            "matched_words": 3,
+            "reference_word_count": 12,
+            "ocr_word_count": 5,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "tasted",
+                "ocr_word": "tasted",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "like",
+                "ocr_word": "lik",
+                "similarity": 0.857
+              },
+              {
+                "reference_word": "rot",
+                "ocr_word": "rot",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 9.97,
+          "text": "The third bowl tasted lil Wa rot",
+          "confidence": 93.0,
+          "word_count": 7,
+          "alignment": {
+            "matched_words": 5,
+            "reference_word_count": 12,
+            "ocr_word_count": 7,
+            "word_coverage": 0.417,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "third",
+                "ocr_word": "third",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "bowl",
+                "ocr_word": "bowl",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "tasted",
+                "ocr_word": "tasted",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "rot",
+                "ocr_word": "rot",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 10.22,
+          "text": "The thi C tasted he",
+          "confidence": 81.22,
+          "word_count": 5,
+          "alignment": {
+            "matched_words": 3,
+            "reference_word_count": 12,
+            "ocr_word_count": 5,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "third",
+                "ocr_word": "thi",
+                "similarity": 0.75
+              },
+              {
+                "reference_word": "tasted",
+                "ocr_word": "tasted",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 10.47,
+          "text": "Thet tastec e ro",
+          "confidence": 90.0,
+          "word_count": 4,
+          "alignment": {
+            "matched_words": 3,
+            "reference_word_count": 12,
+            "ocr_word_count": 4,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "thet",
+                "similarity": 0.857
+              },
+              {
+                "reference_word": "tasted",
+                "ocr_word": "tastec",
+                "similarity": 0.833
+              },
+              {
+                "reference_word": "rot",
+                "ocr_word": "ro",
+                "similarity": 0.8
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 10.72,
+          "text": "The rd bowl tast afl ce | rot",
+          "confidence": 82.6,
+          "word_count": 8,
+          "alignment": {
+            "matched_words": 4,
+            "reference_word_count": 12,
+            "ocr_word_count": 8,
+            "word_coverage": 0.333,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "bowl",
+                "ocr_word": "bowl",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "tasted",
+                "ocr_word": "tast",
+                "similarity": 0.8
+              },
+              {
+                "reference_word": "rot",
+                "ocr_word": "rot",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 10.97,
+          "text": "The third 20 tas d like rot",
+          "confidence": 81.34,
+          "word_count": 7,
+          "alignment": {
+            "matched_words": 4,
+            "reference_word_count": 12,
+            "ocr_word_count": 7,
+            "word_coverage": 0.333,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "third",
+                "ocr_word": "third",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "like",
+                "ocr_word": "like",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "rot",
+                "ocr_word": "rot",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 11.47,
+          "text": "le 4 I couldn't hands an yp? s fi",
+          "confidence": 76.75,
+          "word_count": 9,
+          "alignment": {
+            "matched_words": 3,
+            "reference_word_count": 12,
+            "ocr_word_count": 9,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "i",
+                "ocr_word": "i",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "couldn't",
+                "ocr_word": "couldn't",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "hands",
+                "ocr_word": "hands",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 11.72,
+          "text": "i” mn NS a a” I couldn't fl | hands ar",
+          "confidence": 68.75,
+          "word_count": 11,
+          "alignment": {
+            "matched_words": 3,
+            "reference_word_count": 12,
+            "ocr_word_count": 11,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "i",
+                "ocr_word": "i",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "couldn't",
+                "ocr_word": "couldn't",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "hands",
+                "ocr_word": "hands",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 11.97,
+          "text": "a I couldn't fee my hands any fi",
+          "confidence": 79.2,
+          "word_count": 8,
+          "alignment": {
+            "matched_words": 5,
+            "reference_word_count": 12,
+            "ocr_word_count": 8,
+            "word_coverage": 0.417,
+            "matched_pairs": [
+              {
+                "reference_word": "i",
+                "ocr_word": "i",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "couldn't",
+                "ocr_word": "couldn't",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "feel",
+                "ocr_word": "fee",
+                "similarity": 0.857
+              },
+              {
+                "reference_word": "my",
+                "ocr_word": "my",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "hands",
+                "ocr_word": "hands",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 12.22,
+          "text": "<2) I couldn't f hands a",
+          "confidence": 74.33,
+          "word_count": 6,
+          "alignment": {
+            "matched_words": 3,
+            "reference_word_count": 12,
+            "ocr_word_count": 6,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "i",
+                "ocr_word": "i",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "couldn't",
+                "ocr_word": "couldn't",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "hands",
+                "ocr_word": "hands",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 12.47,
+          "text": "al I couldn't feel hands anyn",
+          "confidence": 86.25,
+          "word_count": 6,
+          "alignment": {
+            "matched_words": 4,
+            "reference_word_count": 12,
+            "ocr_word_count": 6,
+            "word_coverage": 0.333,
+            "matched_pairs": [
+              {
+                "reference_word": "i",
+                "ocr_word": "i",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "couldn't",
+                "ocr_word": "couldn't",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "feel",
+                "ocr_word": "feel",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "hands",
+                "ocr_word": "hands",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 12.72,
+          "text": "eee ert I couldn't feel hands anym re. *e",
+          "confidence": 71.79,
+          "word_count": 9,
+          "alignment": {
+            "matched_words": 5,
+            "reference_word_count": 12,
+            "ocr_word_count": 9,
+            "word_coverage": 0.417,
+            "matched_pairs": [
+              {
+                "reference_word": "i",
+                "ocr_word": "i",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "couldn't",
+                "ocr_word": "couldn't",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "feel",
+                "ocr_word": "feel",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "hands",
+                "ocr_word": "hands",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "anymore",
+                "ocr_word": "anym",
+                "similarity": 0.727
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 12.97,
+          "text": "LO wi feel hands any re",
+          "confidence": 70.83,
+          "word_count": 6,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 12,
+            "ocr_word_count": 6,
+            "word_coverage": 0.167,
+            "matched_pairs": [
+              {
+                "reference_word": "feel",
+                "ocr_word": "feel",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "hands",
+                "ocr_word": "hands",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 13.22,
+          "text": "al al",
+          "confidence": 41.5,
+          "word_count": 2,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 12,
+            "ocr_word_count": 2,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 13.72,
+          "text": "os The if already reached",
+          "confidence": 78.22,
+          "word_count": 5,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 12,
+            "ocr_word_count": 5,
+            "word_coverage": 0.083,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "subtitle_id": 2,
+      "start_seconds": 13.471,
+      "end_seconds": 15.807,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "ocr_best_text": "The wolfsbane ha 1 already reached my |",
+      "ocr_confidence": 82.37,
+      "word_coverage": 0.625,
+      "matched_pairs": [
+        {
+          "reference_word": "the",
+          "ocr_word": "the",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "had",
+          "ocr_word": "ha",
+          "similarity": 0.8
+        },
+        {
+          "reference_word": "already",
+          "ocr_word": "already",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "reached",
+          "ocr_word": "reached",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "my",
+          "ocr_word": "my",
+          "similarity": 1.0
+        }
+      ],
+      "frames_checked": 13,
+      "frames_with_text": 11,
+      "status": "PARTIAL",
+      "review_required": true,
+      "frame_evidence": [
+        {
+          "timestamp": 13.121,
+          "text": "Cor",
+          "confidence": 33.0,
+          "word_count": 1,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 8,
+            "ocr_word_count": 1,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 13.621,
+          "text": "od The wolfsbane if reached my.c",
+          "confidence": 73.0,
+          "word_count": 6,
+          "alignment": {
+            "matched_words": 3,
+            "reference_word_count": 8,
+            "ocr_word_count": 7,
+            "word_coverage": 0.375,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "reached",
+                "ocr_word": "reached",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "my",
+                "ocr_word": "my",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 13.871,
+          "text": "The wolfsban if already reached my sos",
+          "confidence": 68.42,
+          "word_count": 7,
+          "alignment": {
+            "matched_words": 4,
+            "reference_word_count": 8,
+            "ocr_word_count": 7,
+            "word_coverage": 0.5,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "already",
+                "ocr_word": "already",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "reached",
+                "ocr_word": "reached",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "my",
+                "ocr_word": "my",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 14.121,
+          "text": "The wolfsbane ha 1 already reached my |",
+          "confidence": 82.37,
+          "word_count": 8,
+          "alignment": {
+            "matched_words": 5,
+            "reference_word_count": 8,
+            "ocr_word_count": 8,
+            "word_coverage": 0.625,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "had",
+                "ocr_word": "ha",
+                "similarity": 0.8
+              },
+              {
+                "reference_word": "already",
+                "ocr_word": "already",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "reached",
+                "ocr_word": "reached",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "my",
+                "ocr_word": "my",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 14.371,
+          "text": "The hed my",
+          "confidence": 79.75,
+          "word_count": 3,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 8,
+            "ocr_word_count": 3,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "my",
+                "ocr_word": "my",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 14.621,
+          "text": "The reach ned my chest",
+          "confidence": 75.38,
+          "word_count": 5,
+          "alignment": {
+            "matched_words": 4,
+            "reference_word_count": 8,
+            "ocr_word_count": 5,
+            "word_coverage": 0.5,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "reached",
+                "ocr_word": "reach",
+                "similarity": 0.833
+              },
+              {
+                "reference_word": "my",
+                "ocr_word": "my",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "chest",
+                "ocr_word": "chest",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 14.871,
+          "text": "“The hy a reac vec my chest",
+          "confidence": 60.25,
+          "word_count": 7,
+          "alignment": {
+            "matched_words": 4,
+            "reference_word_count": 8,
+            "ocr_word_count": 7,
+            "word_coverage": 0.5,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "reached",
+                "ocr_word": "reac",
+                "similarity": 0.727
+              },
+              {
+                "reference_word": "my",
+                "ocr_word": "my",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "chest",
+                "ocr_word": "chest",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 15.121,
+          "text": "te “The le ne ha dy re ac my chest",
+          "confidence": 64.53,
+          "word_count": 10,
+          "alignment": {
+            "matched_words": 4,
+            "reference_word_count": 8,
+            "ocr_word_count": 10,
+            "word_coverage": 0.5,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "had",
+                "ocr_word": "ha",
+                "similarity": 0.8
+              },
+              {
+                "reference_word": "my",
+                "ocr_word": "my",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "chest",
+                "ocr_word": "chest",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 15.371,
+          "text": "‘a a” Ye The wo my",
+          "confidence": 75.11,
+          "word_count": 6,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 8,
+            "ocr_word_count": 6,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "my",
+                "ocr_word": "my",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 15.621,
+          "text": "ae a he The my chest",
+          "confidence": 64.44,
+          "word_count": 6,
+          "alignment": {
+            "matched_words": 3,
+            "reference_word_count": 8,
+            "ocr_word_count": 6,
+            "word_coverage": 0.375,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "my",
+                "ocr_word": "my",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "chest",
+                "ocr_word": "chest",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 16.121,
+          "text": "the fo e bed",
+          "confidence": 94.5,
+          "word_count": 4,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 8,
+            "ocr_word_count": 4,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "bead",
+                "ocr_word": "bed",
+                "similarity": 0.857
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "subtitle_id": 3,
+      "start_seconds": 15.831,
+      "end_seconds": 18.757,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "ocr_best_text": "“i be Cucian at, “the foot of the bed 4",
+      "ocr_confidence": 67.7,
+      "word_coverage": 0.5,
+      "matched_pairs": [
+        {
+          "reference_word": "lucian",
+          "ocr_word": "cucian",
+          "similarity": 0.833
+        },
+        {
+          "reference_word": "at",
+          "ocr_word": "at",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "the",
+          "ocr_word": "the",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "of",
+          "ocr_word": "of",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "the",
+          "ocr_word": "the",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "bed",
+          "ocr_word": "bed",
+          "similarity": 1.0
+        }
+      ],
+      "frames_checked": 15,
+      "frames_with_text": 14,
+      "status": "PARTIAL",
+      "review_required": true,
+      "frame_evidence": [
+        {
+          "timestamp": 15.481,
+          "text": "eee The ha reac my",
+          "confidence": 74.5,
+          "word_count": 5,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 12,
+            "ocr_word_count": 5,
+            "word_coverage": 0.083,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 15.731,
+          "text": "The ne ha ady re. my chests»",
+          "confidence": 88.16,
+          "word_count": 7,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 12,
+            "ocr_word_count": 7,
+            "word_coverage": 0.083,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 16.231,
+          "text": "the fo Of the bed",
+          "confidence": 91.6,
+          "word_count": 5,
+          "alignment": {
+            "matched_words": 4,
+            "reference_word_count": 12,
+            "ocr_word_count": 5,
+            "word_coverage": 0.333,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "of",
+                "ocr_word": "of",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "bed",
+                "ocr_word": "bed",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 16.481,
+          "text": "Lucian sto ood at the fo",
+          "confidence": 86.38,
+          "word_count": 6,
+          "alignment": {
+            "matched_words": 4,
+            "reference_word_count": 12,
+            "ocr_word_count": 6,
+            "word_coverage": 0.333,
+            "matched_pairs": [
+              {
+                "reference_word": "lucian",
+                "ocr_word": "lucian",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "stood",
+                "ocr_word": "ood",
+                "similarity": 0.75
+              },
+              {
+                "reference_word": "at",
+                "ocr_word": "at",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 16.731,
+          "text": "YW “4 Eke Pid Ry pe rN stoor \"the foot of Bes Ss",
+          "confidence": 49.48,
+          "word_count": 13,
+          "alignment": {
+            "matched_words": 3,
+            "reference_word_count": 12,
+            "ocr_word_count": 13,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "stood",
+                "ocr_word": "stoor",
+                "similarity": 0.8
+              },
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "of",
+                "ocr_word": "of",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 16.981,
+          "text": "ry Lucian:sto ay “a ey \\y “ar ‘the foot of",
+          "confidence": 55.89,
+          "word_count": 10,
+          "alignment": {
+            "matched_words": 4,
+            "reference_word_count": 12,
+            "ocr_word_count": 11,
+            "word_coverage": 0.333,
+            "matched_pairs": [
+              {
+                "reference_word": "lucian",
+                "ocr_word": "lucian",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "stood",
+                "ocr_word": "sto",
+                "similarity": 0.75
+              },
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "of",
+                "ocr_word": "of",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 17.231,
+          "text": "Lucianstood Bess 1 at ates the foot of. rem z",
+          "confidence": 49.5,
+          "word_count": 10,
+          "alignment": {
+            "matched_words": 4,
+            "reference_word_count": 12,
+            "ocr_word_count": 10,
+            "word_coverage": 0.333,
+            "matched_pairs": [
+              {
+                "reference_word": "lucian",
+                "ocr_word": "lucianstood",
+                "similarity": 0.706
+              },
+              {
+                "reference_word": "at",
+                "ocr_word": "at",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "of",
+                "ocr_word": "of",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 17.481,
+          "text": "7 at 4 ian. vi thé foot of the ebed",
+          "confidence": 68.23,
+          "word_count": 10,
+          "alignment": {
+            "matched_words": 5,
+            "reference_word_count": 12,
+            "ocr_word_count": 10,
+            "word_coverage": 0.417,
+            "matched_pairs": [
+              {
+                "reference_word": "at",
+                "ocr_word": "at",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "the",
+                "ocr_word": "th",
+                "similarity": 0.8
+              },
+              {
+                "reference_word": "of",
+                "ocr_word": "of",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "bed",
+                "ocr_word": "ebed",
+                "similarity": 0.857
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 17.731,
+          "text": "“i be Cucian at, “the foot of the bed 4",
+          "confidence": 67.7,
+          "word_count": 10,
+          "alignment": {
+            "matched_words": 6,
+            "reference_word_count": 12,
+            "ocr_word_count": 10,
+            "word_coverage": 0.5,
+            "matched_pairs": [
+              {
+                "reference_word": "lucian",
+                "ocr_word": "cucian",
+                "similarity": 0.833
+              },
+              {
+                "reference_word": "at",
+                "ocr_word": "at",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "of",
+                "ocr_word": "of",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "the",
+                "ocr_word": "the",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "bed",
+                "ocr_word": "bed",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 17.981,
+          "text": "and watched mé g0., ad We a",
+          "confidence": 48.25,
+          "word_count": 7,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 12,
+            "ocr_word_count": 7,
+            "word_coverage": 0.167,
+            "matched_pairs": [
+              {
+                "reference_word": "and",
+                "ocr_word": "and",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "watched",
+                "ocr_word": "watched",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 18.231,
+          "text": "4 and watched mé ~s",
+          "confidence": 48.33,
+          "word_count": 5,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 12,
+            "ocr_word_count": 5,
+            "word_coverage": 0.167,
+            "matched_pairs": [
+              {
+                "reference_word": "and",
+                "ocr_word": "and",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "watched",
+                "ocr_word": "watched",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 18.481,
+          "text": "and watched me go. S =f",
+          "confidence": 73.25,
+          "word_count": 6,
+          "alignment": {
+            "matched_words": 4,
+            "reference_word_count": 12,
+            "ocr_word_count": 6,
+            "word_coverage": 0.333,
+            "matched_pairs": [
+              {
+                "reference_word": "and",
+                "ocr_word": "and",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "watched",
+                "ocr_word": "watched",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "me",
+                "ocr_word": "me",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "go",
+                "ocr_word": "go",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 18.731,
+          "text": "v4 mY ee YL] e's",
+          "confidence": 37.33,
+          "word_count": 5,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 12,
+            "ocr_word_count": 5,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 18.981,
+          "text": "¥4 ar ii ha re eA (Er a Ee.",
+          "confidence": 47.94,
+          "word_count": 9,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 12,
+            "ocr_word_count": 9,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        }
+      ]
+    },
+    {
+      "subtitle_id": 4,
+      "start_seconds": 18.758,
+      "end_seconds": 21.79,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "ocr_best_text": "aor wae ify me fr high- anking bl es A hi SY ce",
+      "ocr_confidence": 59.14,
+      "word_coverage": 0.25,
+      "matched_pairs": [
+        {
+          "reference_word": "high",
+          "ocr_word": "high",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "ranking",
+          "ocr_word": "anking",
+          "similarity": 0.923
+        }
+      ],
+      "frames_checked": 15,
+      "frames_with_text": 15,
+      "status": "POTENTIAL_MISMATCH",
+      "review_required": true,
+      "frame_evidence": [
+        {
+          "timestamp": 18.408,
+          "text": "and watched me go. “f/f",
+          "confidence": 54.25,
+          "word_count": 5,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 8,
+            "ocr_word_count": 6,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 18.658,
+          "text": "and watched me go. Xt",
+          "confidence": 62.0,
+          "word_count": 5,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 8,
+            "ocr_word_count": 5,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 18.908,
+          "text": "ae ‘Vs ef eA Se en.pups; Ys (er a> Ra. Cy ee,",
+          "confidence": 44.0,
+          "word_count": 12,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 8,
+            "ocr_word_count": 13,
+            "word_coverage": 0.125,
+            "matched_pairs": [
+              {
+                "reference_word": "pups",
+                "ocr_word": "pups",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 19.158,
+          "text": "se ONY a ‘Seven:pups; Ys is CQ w~,",
+          "confidence": 44.29,
+          "word_count": 8,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 8,
+            "ocr_word_count": 9,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "seven",
+                "ocr_word": "seven",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "pups",
+                "ocr_word": "pups",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 19.408,
+          "text": "aor (Pr SS CT",
+          "confidence": 41.5,
+          "word_count": 4,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 8,
+            "ocr_word_count": 4,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 19.658,
+          "text": "$272 EE, 48. pe es of) hi SS. je iN",
+          "confidence": 41.15,
+          "word_count": 10,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 8,
+            "ocr_word_count": 10,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 19.908,
+          "text": "meek ar “ee a ge fon ing bl A hy ae 3. od",
+          "confidence": 53.04,
+          "word_count": 13,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 8,
+            "ocr_word_count": 13,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 20.158,
+          "text": "AS a Rr \\G 5 ing bl ee A (Er se —e NY as",
+          "confidence": 48.57,
+          "word_count": 14,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 8,
+            "ocr_word_count": 14,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 20.408,
+          "text": "7\" “he is D> NS Fe Allh ing bl Xi A (Er ae od",
+          "confidence": 50.49,
+          "word_count": 14,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 8,
+            "ocr_word_count": 14,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 20.658,
+          "text": "1% 0 oF gr *Alh gh: ank ing bl was A fi i fe A.",
+          "confidence": 50.52,
+          "word_count": 15,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 8,
+            "ocr_word_count": 15,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 20.908,
+          "text": "aor wae ify me fr high- anking bl es A hi SY ce",
+          "confidence": 59.14,
+          "word_count": 13,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 8,
+            "ocr_word_count": 13,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "high",
+                "ocr_word": "high",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "ranking",
+                "ocr_word": "anking",
+                "similarity": 0.923
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 21.158,
+          "text": "j lar ro. choo pe es",
+          "confidence": 42.9,
+          "word_count": 6,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 8,
+            "ocr_word_count": 6,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 21.408,
+          "text": "i Ace Pe ‘enough es: of) (i con ee:",
+          "confidence": 38.93,
+          "word_count": 9,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 8,
+            "ocr_word_count": 9,
+            "word_coverage": 0.125,
+            "matched_pairs": [
+              {
+                "reference_word": "enough",
+                "ocr_word": "enough",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 21.658,
+          "text": "Acs Ae pk 4 (i Se he:",
+          "confidence": 39.4,
+          "word_count": 7,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 8,
+            "ocr_word_count": 7,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 21.908,
+          "text": "TY ie ox ow “sy 6 a ae",
+          "confidence": 43.71,
+          "word_count": 8,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 8,
+            "ocr_word_count": 8,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        }
+      ]
+    },
+    {
+      "subtitle_id": 5,
+      "start_seconds": 21.791,
+      "end_seconds": 24.27,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "ocr_best_text": "c ning came C oy",
+      "ocr_confidence": 55.12,
+      "word_coverage": 0.286,
+      "matched_pairs": [
+        {
+          "reference_word": "nothing",
+          "ocr_word": "ning",
+          "similarity": 0.727
+        },
+        {
+          "reference_word": "came",
+          "ocr_word": "came",
+          "similarity": 1.0
+        }
+      ],
+      "frames_checked": 13,
+      "frames_with_text": 13,
+      "status": "POTENTIAL_MISMATCH",
+      "review_required": true,
+      "frame_evidence": [
+        {
+          "timestamp": 21.441,
+          "text": "i Ace ‘enough es: (i con Ge,",
+          "confidence": 50.17,
+          "word_count": 7,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 7,
+            "ocr_word_count": 7,
+            "word_coverage": 0.143,
+            "matched_pairs": [
+              {
+                "reference_word": "i",
+                "ocr_word": "i",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 21.691,
+          "text": "Aca PRY -s | pk ‘That's enough es: of (i",
+          "confidence": 53.36,
+          "word_count": 10,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 7,
+            "ocr_word_count": 10,
+            "word_coverage": 0.143,
+            "matched_pairs": [
+              {
+                "reference_word": "i",
+                "ocr_word": "i",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 21.941,
+          "text": "TY ie ox 7 ot Ge ae",
+          "confidence": 41.08,
+          "word_count": 7,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 7,
+            "ocr_word_count": 7,
+            "word_coverage": 0.143,
+            "matched_pairs": [
+              {
+                "reference_word": "out",
+                "ocr_word": "ot",
+                "similarity": 0.8
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 22.191,
+          "text": "at ad tf ee ox ne LF ie at",
+          "confidence": 48.42,
+          "word_count": 9,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 7,
+            "ocr_word_count": 9,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 22.441,
+          "text": "t,o 6 ae",
+          "confidence": 48.33,
+          "word_count": 3,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 7,
+            "ocr_word_count": 4,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 22.691,
+          "text": "ts t2: 1 tc spi ot GL ae",
+          "confidence": 62.42,
+          "word_count": 8,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 7,
+            "ocr_word_count": 8,
+            "word_coverage": 0.143,
+            "matched_pairs": [
+              {
+                "reference_word": "out",
+                "ocr_word": "ot",
+                "similarity": 0.8
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 22.941,
+          "text": "ord, any 0 sped re 96 ss ed at",
+          "confidence": 58.04,
+          "word_count": 9,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 7,
+            "ocr_word_count": 9,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 23.191,
+          "text": "re 96 an",
+          "confidence": 58.25,
+          "word_count": 3,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 7,
+            "ocr_word_count": 3,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 23.441,
+          "text": "on ail T~ ot a a",
+          "confidence": 54.72,
+          "word_count": 6,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 7,
+            "ocr_word_count": 6,
+            "word_coverage": 0.143,
+            "matched_pairs": [
+              {
+                "reference_word": "out",
+                "ocr_word": "ot",
+                "similarity": 0.8
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 23.691,
+          "text": "KA. ot rs",
+          "confidence": 56.0,
+          "word_count": 3,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 7,
+            "ocr_word_count": 3,
+            "word_coverage": 0.143,
+            "matched_pairs": [
+              {
+                "reference_word": "out",
+                "ocr_word": "ot",
+                "similarity": 0.8
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 23.941,
+          "text": "a 9 y Lf | “A",
+          "confidence": 53.0,
+          "word_count": 6,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 7,
+            "ocr_word_count": 6,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 24.191,
+          "text": "mY ut. ne",
+          "confidence": 52.5,
+          "word_count": 3,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 7,
+            "ocr_word_count": 3,
+            "word_coverage": 0.143,
+            "matched_pairs": [
+              {
+                "reference_word": "out",
+                "ocr_word": "ut",
+                "similarity": 0.8
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 24.441,
+          "text": "c ning came C oy",
+          "confidence": 55.12,
+          "word_count": 5,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 7,
+            "ocr_word_count": 5,
+            "word_coverage": 0.286,
+            "matched_pairs": [
+              {
+                "reference_word": "nothing",
+                "ocr_word": "ning",
+                "similarity": 0.727
+              },
+              {
+                "reference_word": "came",
+                "ocr_word": "came",
+                "similarity": 1.0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "subtitle_id": 6,
+      "start_seconds": 26.11,
+      "end_seconds": 28.03,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "ocr_best_text": "rd ou were ever | if i) Po i",
+      "ocr_confidence": 60.11,
+      "word_coverage": 0.5,
+      "matched_pairs": [
+        {
+          "reference_word": "you",
+          "ocr_word": "ou",
+          "similarity": 0.8
+        },
+        {
+          "reference_word": "were",
+          "ocr_word": "were",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "never",
+          "ocr_word": "ever",
+          "similarity": 0.889
+        },
+        {
+          "reference_word": "i",
+          "ocr_word": "i",
+          "similarity": 1.0
+        }
+      ],
+      "frames_checked": 11,
+      "frames_with_text": 11,
+      "status": "PARTIAL",
+      "review_required": true,
+      "frame_evidence": [
+        {
+          "timestamp": 25.76,
+          "text": "13 kh erm 7 AN a",
+          "confidence": 43.0,
+          "word_count": 6,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 8,
+            "ocr_word_count": 6,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 26.01,
+          "text": "7",
+          "confidence": 52.0,
+          "word_count": 1,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 8,
+            "ocr_word_count": 1,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 26.26,
+          "text": "y=. You iki he o il",
+          "confidence": 70.89,
+          "word_count": 6,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 8,
+            "ocr_word_count": 6,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "you",
+                "ocr_word": "you",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "the",
+                "ocr_word": "he",
+                "similarity": 0.8
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 26.51,
+          "text": "rd ou were ever | if i) Po i",
+          "confidence": 60.11,
+          "word_count": 9,
+          "alignment": {
+            "matched_words": 4,
+            "reference_word_count": 8,
+            "ocr_word_count": 9,
+            "word_coverage": 0.5,
+            "matched_pairs": [
+              {
+                "reference_word": "you",
+                "ocr_word": "ou",
+                "similarity": 0.8
+              },
+              {
+                "reference_word": "were",
+                "ocr_word": "were",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "never",
+                "ocr_word": "ever",
+                "similarity": 0.889
+              },
+              {
+                "reference_word": "i",
+                "ocr_word": "i",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 26.76,
+          "text": "97 were never si Ve il x",
+          "confidence": 43.21,
+          "word_count": 7,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 8,
+            "ocr_word_count": 7,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "were",
+                "ocr_word": "were",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "never",
+                "ocr_word": "never",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 27.01,
+          "text": "A f, au a i ae were es a oO 4 oe",
+          "confidence": 59.9,
+          "word_count": 12,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 8,
+            "ocr_word_count": 12,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "were",
+                "ocr_word": "were",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "one",
+                "ocr_word": "oe",
+                "similarity": 0.8
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 27.26,
+          "text": "rd a 4 =f c i Sas, vor e Oo A",
+          "confidence": 50.46,
+          "word_count": 11,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 8,
+            "ocr_word_count": 11,
+            "word_coverage": 0.125,
+            "matched_pairs": [
+              {
+                "reference_word": "i",
+                "ocr_word": "i",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 27.51,
+          "text": "7 ou were ie A a 3",
+          "confidence": 63.0,
+          "word_count": 7,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 8,
+            "ocr_word_count": 7,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "you",
+                "ocr_word": "ou",
+                "similarity": 0.8
+              },
+              {
+                "reference_word": "were",
+                "ocr_word": "were",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 27.76,
+          "text": "J as ta4 Vivien st i wo",
+          "confidence": 44.45,
+          "word_count": 7,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 8,
+            "ocr_word_count": 7,
+            "word_coverage": 0.125,
+            "matched_pairs": [
+              {
+                "reference_word": "i",
+                "ocr_word": "i",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 28.01,
+          "text": "t,o =-7 Vivien sil fe a.",
+          "confidence": 48.67,
+          "word_count": 6,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 8,
+            "ocr_word_count": 7,
+            "word_coverage": 0.125,
+            "matched_pairs": [
+              {
+                "reference_word": "vivienne",
+                "ocr_word": "vivien",
+                "similarity": 0.857
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 28.26,
+          "text": "Vivie a 3 ao or 7 ws =z“ Noe wes Dy Se 7 ro ae SS te oe",
+          "confidence": 47.38,
+          "word_count": 18,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 8,
+            "ocr_word_count": 18,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "the",
+                "ocr_word": "te",
+                "similarity": 0.8
+              },
+              {
+                "reference_word": "one",
+                "ocr_word": "oe",
+                "similarity": 0.8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "subtitle_id": 7,
+      "start_seconds": 29.23,
+      "end_seconds": 30.43,
+      "reference_text": "His voice didn't waver.",
+      "ocr_best_text": "| His voice didn't wa \\e f= ta Egat Se aay wy t Me 26% s 52 a",
+      "ocr_confidence": 53.6,
+      "word_coverage": 0.75,
+      "matched_pairs": [
+        {
+          "reference_word": "his",
+          "ocr_word": "his",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "voice",
+          "ocr_word": "voice",
+          "similarity": 1.0
+        },
+        {
+          "reference_word": "didn't",
+          "ocr_word": "didn't",
+          "similarity": 1.0
+        }
+      ],
+      "frames_checked": 8,
+      "frames_with_text": 8,
+      "status": "PARTIAL",
+      "review_required": true,
+      "frame_evidence": [
+        {
+          "timestamp": 28.88,
+          "text": "s* 3 i A> i od x a Col Se TA Whee 5 4",
+          "confidence": 39.78,
+          "word_count": 14,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 4,
+            "ocr_word_count": 14,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 29.13,
+          "text": "ay i is) “al wat 3 7 ‘ten J B. Le on RNS Ow",
+          "confidence": 44.03,
+          "word_count": 14,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 4,
+            "ocr_word_count": 14,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "his",
+                "ocr_word": "is",
+                "similarity": 0.8
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 29.38,
+          "text": "i rau ae: i i) 3, ae thee ae Lee eae t a Sie oS n> #4 A ate",
+          "confidence": 37.19,
+          "word_count": 19,
+          "alignment": {
+            "matched_words": 0,
+            "reference_word_count": 4,
+            "ocr_word_count": 19,
+            "word_coverage": 0.0,
+            "matched_pairs": []
+          }
+        },
+        {
+          "timestamp": 29.63,
+          "text": "ax His voice d re. (Pisce ie se A, i? Ps 7 a \"Wy ge",
+          "confidence": 43.24,
+          "word_count": 15,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 4,
+            "ocr_word_count": 15,
+            "word_coverage": 0.5,
+            "matched_pairs": [
+              {
+                "reference_word": "his",
+                "ocr_word": "his",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "voice",
+                "ocr_word": "voice",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 29.88,
+          "text": "es voice n't Ya oe xe, aC oe ws nee",
+          "confidence": 50.3,
+          "word_count": 10,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 4,
+            "ocr_word_count": 10,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "voice",
+                "ocr_word": "voice",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 30.13,
+          "text": "24 His vol 2 dn't w. tn. 2 i. ‘tea aS x Nat aN yk pms i) w Ma aS id a ~2 or",
+          "confidence": 54.84,
+          "word_count": 24,
+          "alignment": {
+            "matched_words": 2,
+            "reference_word_count": 4,
+            "ocr_word_count": 24,
+            "word_coverage": 0.5,
+            "matched_pairs": [
+              {
+                "reference_word": "his",
+                "ocr_word": "his",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "didn't",
+                "ocr_word": "dn't",
+                "similarity": 0.8
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 30.38,
+          "text": "| His voice didn't wa \\e f= ta Egat Se aay wy t Me 26% s 52 a",
+          "confidence": 53.6,
+          "word_count": 18,
+          "alignment": {
+            "matched_words": 3,
+            "reference_word_count": 4,
+            "ocr_word_count": 18,
+            "word_coverage": 0.75,
+            "matched_pairs": [
+              {
+                "reference_word": "his",
+                "ocr_word": "his",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "voice",
+                "ocr_word": "voice",
+                "similarity": 1.0
+              },
+              {
+                "reference_word": "didn't",
+                "ocr_word": "didn't",
+                "similarity": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "timestamp": 30.63,
+          "text": "and 4 ce didn't wa \\e “ae. Toe x ee ex”",
+          "confidence": 63.0,
+          "word_count": 11,
+          "alignment": {
+            "matched_words": 1,
+            "reference_word_count": 4,
+            "ocr_word_count": 11,
+            "word_coverage": 0.25,
+            "matched_pairs": [
+              {
+                "reference_word": "didn't",
+                "ocr_word": "didn't",
+                "similarity": 1.0
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

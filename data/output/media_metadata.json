@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "filename": "Husbands.mp4",
+    "duration_seconds": 2261.083333,
+    "size_bytes": 237580353
+  },
+  "video": {
+    "codec": "h264",
+    "width": 480,
+    "height": 848,
+    "fps": "24/1"
+  },
+  "audio": {
+    "codec": "aac",
+    "sample_rate": "44100",
+    "channels": 2
+  },
+  "analysis_window": {
+    "start_seconds": 0.0,
+    "base_window_end_seconds": 300.0,
+    "last_subtitle_end_seconds": 301.87,
+    "required_end_seconds": 302.87,
+    "extraction_duration_seconds": 310
+  },
+  "extracted_files": {
+    "audio": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\audio\\audio_sample.wav",
+    "frames_directory": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\frames"
+  },
+  "frame_metadata": {
+    "interval_seconds": 2,
+    "total_frames": 155
+  }
+}

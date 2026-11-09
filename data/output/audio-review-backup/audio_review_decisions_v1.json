@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "title": "Husbands audio review decisions",
+  "branch": "audio-review-fixes",
+  "status": "confirmed_decisions_applied_to_segment_transcript_and_speaker_mapping",
+  "scope": "Human-confirmed audio corrections from the speaker review conversation. Apply these as authoritative overrides during transcript and speaker-map reconciliation.",
+  "transcript_corrections": [
+    {
+      "time": "00:14",
+      "target": "wolf bead",
+      "decision": "wolf's bane",
+      "status": "confirmed"
+    },
+    {
+      "time": "00:17",
+      "target": "end of the bed",
+      "decision": "foot of the bed",
+      "status": "confirmed"
+    },
+    {
+      "time": "05:14",
+      "target": "wolf-bait / wolfbab ASR candidate",
+      "decision": "wolf's bane",
+      "status": "confirmed"
+    },
+    {
+      "time": "12:11",
+      "target": "I returned",
+      "decision": "I got back",
+      "status": "confirmed",
+      "note": "Replace the ASR wording; reconcile surrounding duplicated segment text before rewriting the full transcript."
+    },
+    {
+      "time": "30:59-31:01",
+      "target": "What are you doing?",
+      "decision": "remove_asr_words",
+      "status": "confirmed_absent_from_audio",
+      "note": "Do not retain this ASR phrase in the transcript."
+    }
+  ],
+  "speaker_identity_overrides": [
+    {
+      "speaker_id": "SPK_004",
+      "speaker_name": "Lucian",
+      "segment_ids": [
+        "SEG_000170",
+        "SEG_000172",
+        "SEG_000236"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "time": "33:02.96",
+      "utterance": "Vivienne.",
+      "speaker_name": "Lucian",
+      "segment_id": "SEG_000236",
+      "status": "confirmed"
+    }
+  ],
+  "identity_policy": [
+    {
+      "identity": "Vivienne",
+      "include": [
+        "spoken dialogue",
+        "narration",
+        "inner monologue"
+      ],
+      "status": "previously_confirmed",
+      "note": "Narrator is a narrative role, not a separate voice identity."
+    },
+    {
+      "identity": "Luna Valerius",
+      "note": "Use the character name Luna Valerius where the previously reviewed female Alpha voice is referenced; do not infer unrelated female Alpha mentions."
+    }
+  ],
+  "implementation_notes": [
+    "Keep the original provider speaker IDs as stable diarization IDs; map SPK_004 to the character Lucian in the character mapping layer.",
+    "Do not infer that the 10:51 wolfbab candidate is wolf's bane from the 05:14 confirmation; it remains unresolved unless separately supported.",
+    "Do not alter speaker_assignments.json C001/C005 entries until their full role-to-character mapping has been reconciled; C-series subtitle speaker IDs are not the SPK-series diarization IDs.",
+    "The large speaker_review_words_v1.json file could not be retrieved through the current GitHub connector response; do not claim its word-level entries were rewritten.",
+    "Review SEG_000084 and SEG_000209 surrounding text carefully before editing because their provider transcript contains duplicated or malformed spans.",
+    "Applied confirmed text changes to speaker_review_v1.json segments SEG_000001, SEG_000045, SEG_000084, and SEG_000209.",
+    "Mapped SPK_004 to Lucian in speaker_review_v1.json and speaker_character_mapping_v1.json.",
+    "speaker_review_words_v1.json could not be fetched with non-empty content through the connector, so word-level token timestamps were not rewritten."
+  ]
+}

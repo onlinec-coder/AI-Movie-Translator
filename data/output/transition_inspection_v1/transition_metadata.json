@@ -1,0 +1,622 @@
+{
+  "schema_version": "1.0.0",
+  "engine_version": "1.0.0",
+  "created_at": "2026-11-05T19:33:24.751564+00:00",
+  "source": {
+    "video": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\input\\Husbands.mp4"
+  },
+  "sampling": {
+    "method": "FIXED_INTERVAL",
+    "frames_per_second": 5,
+    "interval_seconds": 0.2,
+    "timestamp_note": "Approximate timestamps calculated from frame order. Verify exact transition timing against source video."
+  },
+  "statistics": {
+    "total_windows": 4,
+    "total_frames": 95
+  },
+  "windows": [
+    {
+      "window_id": "TW_001",
+      "start_seconds": 7.0,
+      "end_seconds": 11.0,
+      "total_frames": 20,
+      "frames": [
+        {
+          "frame_id": "TW_001_F000",
+          "timestamp_seconds_approx": 7.0,
+          "filename": "frame_000.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_000.jpg"
+        },
+        {
+          "frame_id": "TW_001_F001",
+          "timestamp_seconds_approx": 7.2,
+          "filename": "frame_001.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_001.jpg"
+        },
+        {
+          "frame_id": "TW_001_F002",
+          "timestamp_seconds_approx": 7.4,
+          "filename": "frame_002.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_002.jpg"
+        },
+        {
+          "frame_id": "TW_001_F003",
+          "timestamp_seconds_approx": 7.6,
+          "filename": "frame_003.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_003.jpg"
+        },
+        {
+          "frame_id": "TW_001_F004",
+          "timestamp_seconds_approx": 7.8,
+          "filename": "frame_004.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_004.jpg"
+        },
+        {
+          "frame_id": "TW_001_F005",
+          "timestamp_seconds_approx": 8.0,
+          "filename": "frame_005.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_005.jpg"
+        },
+        {
+          "frame_id": "TW_001_F006",
+          "timestamp_seconds_approx": 8.2,
+          "filename": "frame_006.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_006.jpg"
+        },
+        {
+          "frame_id": "TW_001_F007",
+          "timestamp_seconds_approx": 8.4,
+          "filename": "frame_007.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_007.jpg"
+        },
+        {
+          "frame_id": "TW_001_F008",
+          "timestamp_seconds_approx": 8.6,
+          "filename": "frame_008.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_008.jpg"
+        },
+        {
+          "frame_id": "TW_001_F009",
+          "timestamp_seconds_approx": 8.8,
+          "filename": "frame_009.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_009.jpg"
+        },
+        {
+          "frame_id": "TW_001_F010",
+          "timestamp_seconds_approx": 9.0,
+          "filename": "frame_010.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_010.jpg"
+        },
+        {
+          "frame_id": "TW_001_F011",
+          "timestamp_seconds_approx": 9.2,
+          "filename": "frame_011.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_011.jpg"
+        },
+        {
+          "frame_id": "TW_001_F012",
+          "timestamp_seconds_approx": 9.4,
+          "filename": "frame_012.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_012.jpg"
+        },
+        {
+          "frame_id": "TW_001_F013",
+          "timestamp_seconds_approx": 9.6,
+          "filename": "frame_013.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_013.jpg"
+        },
+        {
+          "frame_id": "TW_001_F014",
+          "timestamp_seconds_approx": 9.8,
+          "filename": "frame_014.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_014.jpg"
+        },
+        {
+          "frame_id": "TW_001_F015",
+          "timestamp_seconds_approx": 10.0,
+          "filename": "frame_015.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_015.jpg"
+        },
+        {
+          "frame_id": "TW_001_F016",
+          "timestamp_seconds_approx": 10.2,
+          "filename": "frame_016.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_016.jpg"
+        },
+        {
+          "frame_id": "TW_001_F017",
+          "timestamp_seconds_approx": 10.4,
+          "filename": "frame_017.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_017.jpg"
+        },
+        {
+          "frame_id": "TW_001_F018",
+          "timestamp_seconds_approx": 10.6,
+          "filename": "frame_018.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_018.jpg"
+        },
+        {
+          "frame_id": "TW_001_F019",
+          "timestamp_seconds_approx": 10.8,
+          "filename": "frame_019.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_001\\frame_019.jpg"
+        }
+      ]
+    },
+    {
+      "window_id": "TW_002",
+      "start_seconds": 108.0,
+      "end_seconds": 113.0,
+      "total_frames": 25,
+      "frames": [
+        {
+          "frame_id": "TW_002_F000",
+          "timestamp_seconds_approx": 108.0,
+          "filename": "frame_000.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_000.jpg"
+        },
+        {
+          "frame_id": "TW_002_F001",
+          "timestamp_seconds_approx": 108.2,
+          "filename": "frame_001.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_001.jpg"
+        },
+        {
+          "frame_id": "TW_002_F002",
+          "timestamp_seconds_approx": 108.4,
+          "filename": "frame_002.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_002.jpg"
+        },
+        {
+          "frame_id": "TW_002_F003",
+          "timestamp_seconds_approx": 108.6,
+          "filename": "frame_003.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_003.jpg"
+        },
+        {
+          "frame_id": "TW_002_F004",
+          "timestamp_seconds_approx": 108.8,
+          "filename": "frame_004.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_004.jpg"
+        },
+        {
+          "frame_id": "TW_002_F005",
+          "timestamp_seconds_approx": 109.0,
+          "filename": "frame_005.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_005.jpg"
+        },
+        {
+          "frame_id": "TW_002_F006",
+          "timestamp_seconds_approx": 109.2,
+          "filename": "frame_006.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_006.jpg"
+        },
+        {
+          "frame_id": "TW_002_F007",
+          "timestamp_seconds_approx": 109.4,
+          "filename": "frame_007.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_007.jpg"
+        },
+        {
+          "frame_id": "TW_002_F008",
+          "timestamp_seconds_approx": 109.6,
+          "filename": "frame_008.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_008.jpg"
+        },
+        {
+          "frame_id": "TW_002_F009",
+          "timestamp_seconds_approx": 109.8,
+          "filename": "frame_009.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_009.jpg"
+        },
+        {
+          "frame_id": "TW_002_F010",
+          "timestamp_seconds_approx": 110.0,
+          "filename": "frame_010.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_010.jpg"
+        },
+        {
+          "frame_id": "TW_002_F011",
+          "timestamp_seconds_approx": 110.2,
+          "filename": "frame_011.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_011.jpg"
+        },
+        {
+          "frame_id": "TW_002_F012",
+          "timestamp_seconds_approx": 110.4,
+          "filename": "frame_012.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_012.jpg"
+        },
+        {
+          "frame_id": "TW_002_F013",
+          "timestamp_seconds_approx": 110.6,
+          "filename": "frame_013.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_013.jpg"
+        },
+        {
+          "frame_id": "TW_002_F014",
+          "timestamp_seconds_approx": 110.8,
+          "filename": "frame_014.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_014.jpg"
+        },
+        {
+          "frame_id": "TW_002_F015",
+          "timestamp_seconds_approx": 111.0,
+          "filename": "frame_015.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_015.jpg"
+        },
+        {
+          "frame_id": "TW_002_F016",
+          "timestamp_seconds_approx": 111.2,
+          "filename": "frame_016.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_016.jpg"
+        },
+        {
+          "frame_id": "TW_002_F017",
+          "timestamp_seconds_approx": 111.4,
+          "filename": "frame_017.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_017.jpg"
+        },
+        {
+          "frame_id": "TW_002_F018",
+          "timestamp_seconds_approx": 111.6,
+          "filename": "frame_018.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_018.jpg"
+        },
+        {
+          "frame_id": "TW_002_F019",
+          "timestamp_seconds_approx": 111.8,
+          "filename": "frame_019.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_019.jpg"
+        },
+        {
+          "frame_id": "TW_002_F020",
+          "timestamp_seconds_approx": 112.0,
+          "filename": "frame_020.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_020.jpg"
+        },
+        {
+          "frame_id": "TW_002_F021",
+          "timestamp_seconds_approx": 112.2,
+          "filename": "frame_021.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_021.jpg"
+        },
+        {
+          "frame_id": "TW_002_F022",
+          "timestamp_seconds_approx": 112.4,
+          "filename": "frame_022.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_022.jpg"
+        },
+        {
+          "frame_id": "TW_002_F023",
+          "timestamp_seconds_approx": 112.6,
+          "filename": "frame_023.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_023.jpg"
+        },
+        {
+          "frame_id": "TW_002_F024",
+          "timestamp_seconds_approx": 112.8,
+          "filename": "frame_024.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_002\\frame_024.jpg"
+        }
+      ]
+    },
+    {
+      "window_id": "TW_003",
+      "start_seconds": 244.0,
+      "end_seconds": 249.0,
+      "total_frames": 25,
+      "frames": [
+        {
+          "frame_id": "TW_003_F000",
+          "timestamp_seconds_approx": 244.0,
+          "filename": "frame_000.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_000.jpg"
+        },
+        {
+          "frame_id": "TW_003_F001",
+          "timestamp_seconds_approx": 244.2,
+          "filename": "frame_001.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_001.jpg"
+        },
+        {
+          "frame_id": "TW_003_F002",
+          "timestamp_seconds_approx": 244.4,
+          "filename": "frame_002.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_002.jpg"
+        },
+        {
+          "frame_id": "TW_003_F003",
+          "timestamp_seconds_approx": 244.6,
+          "filename": "frame_003.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_003.jpg"
+        },
+        {
+          "frame_id": "TW_003_F004",
+          "timestamp_seconds_approx": 244.8,
+          "filename": "frame_004.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_004.jpg"
+        },
+        {
+          "frame_id": "TW_003_F005",
+          "timestamp_seconds_approx": 245.0,
+          "filename": "frame_005.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_005.jpg"
+        },
+        {
+          "frame_id": "TW_003_F006",
+          "timestamp_seconds_approx": 245.2,
+          "filename": "frame_006.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_006.jpg"
+        },
+        {
+          "frame_id": "TW_003_F007",
+          "timestamp_seconds_approx": 245.4,
+          "filename": "frame_007.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_007.jpg"
+        },
+        {
+          "frame_id": "TW_003_F008",
+          "timestamp_seconds_approx": 245.6,
+          "filename": "frame_008.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_008.jpg"
+        },
+        {
+          "frame_id": "TW_003_F009",
+          "timestamp_seconds_approx": 245.8,
+          "filename": "frame_009.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_009.jpg"
+        },
+        {
+          "frame_id": "TW_003_F010",
+          "timestamp_seconds_approx": 246.0,
+          "filename": "frame_010.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_010.jpg"
+        },
+        {
+          "frame_id": "TW_003_F011",
+          "timestamp_seconds_approx": 246.2,
+          "filename": "frame_011.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_011.jpg"
+        },
+        {
+          "frame_id": "TW_003_F012",
+          "timestamp_seconds_approx": 246.4,
+          "filename": "frame_012.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_012.jpg"
+        },
+        {
+          "frame_id": "TW_003_F013",
+          "timestamp_seconds_approx": 246.6,
+          "filename": "frame_013.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_013.jpg"
+        },
+        {
+          "frame_id": "TW_003_F014",
+          "timestamp_seconds_approx": 246.8,
+          "filename": "frame_014.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_014.jpg"
+        },
+        {
+          "frame_id": "TW_003_F015",
+          "timestamp_seconds_approx": 247.0,
+          "filename": "frame_015.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_015.jpg"
+        },
+        {
+          "frame_id": "TW_003_F016",
+          "timestamp_seconds_approx": 247.2,
+          "filename": "frame_016.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_016.jpg"
+        },
+        {
+          "frame_id": "TW_003_F017",
+          "timestamp_seconds_approx": 247.4,
+          "filename": "frame_017.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_017.jpg"
+        },
+        {
+          "frame_id": "TW_003_F018",
+          "timestamp_seconds_approx": 247.6,
+          "filename": "frame_018.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_018.jpg"
+        },
+        {
+          "frame_id": "TW_003_F019",
+          "timestamp_seconds_approx": 247.8,
+          "filename": "frame_019.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_019.jpg"
+        },
+        {
+          "frame_id": "TW_003_F020",
+          "timestamp_seconds_approx": 248.0,
+          "filename": "frame_020.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_020.jpg"
+        },
+        {
+          "frame_id": "TW_003_F021",
+          "timestamp_seconds_approx": 248.2,
+          "filename": "frame_021.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_021.jpg"
+        },
+        {
+          "frame_id": "TW_003_F022",
+          "timestamp_seconds_approx": 248.4,
+          "filename": "frame_022.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_022.jpg"
+        },
+        {
+          "frame_id": "TW_003_F023",
+          "timestamp_seconds_approx": 248.6,
+          "filename": "frame_023.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_023.jpg"
+        },
+        {
+          "frame_id": "TW_003_F024",
+          "timestamp_seconds_approx": 248.8,
+          "filename": "frame_024.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_003\\frame_024.jpg"
+        }
+      ]
+    },
+    {
+      "window_id": "TW_004",
+      "start_seconds": 287.0,
+      "end_seconds": 292.0,
+      "total_frames": 25,
+      "frames": [
+        {
+          "frame_id": "TW_004_F000",
+          "timestamp_seconds_approx": 287.0,
+          "filename": "frame_000.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_000.jpg"
+        },
+        {
+          "frame_id": "TW_004_F001",
+          "timestamp_seconds_approx": 287.2,
+          "filename": "frame_001.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_001.jpg"
+        },
+        {
+          "frame_id": "TW_004_F002",
+          "timestamp_seconds_approx": 287.4,
+          "filename": "frame_002.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_002.jpg"
+        },
+        {
+          "frame_id": "TW_004_F003",
+          "timestamp_seconds_approx": 287.6,
+          "filename": "frame_003.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_003.jpg"
+        },
+        {
+          "frame_id": "TW_004_F004",
+          "timestamp_seconds_approx": 287.8,
+          "filename": "frame_004.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_004.jpg"
+        },
+        {
+          "frame_id": "TW_004_F005",
+          "timestamp_seconds_approx": 288.0,
+          "filename": "frame_005.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_005.jpg"
+        },
+        {
+          "frame_id": "TW_004_F006",
+          "timestamp_seconds_approx": 288.2,
+          "filename": "frame_006.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_006.jpg"
+        },
+        {
+          "frame_id": "TW_004_F007",
+          "timestamp_seconds_approx": 288.4,
+          "filename": "frame_007.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_007.jpg"
+        },
+        {
+          "frame_id": "TW_004_F008",
+          "timestamp_seconds_approx": 288.6,
+          "filename": "frame_008.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_008.jpg"
+        },
+        {
+          "frame_id": "TW_004_F009",
+          "timestamp_seconds_approx": 288.8,
+          "filename": "frame_009.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_009.jpg"
+        },
+        {
+          "frame_id": "TW_004_F010",
+          "timestamp_seconds_approx": 289.0,
+          "filename": "frame_010.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_010.jpg"
+        },
+        {
+          "frame_id": "TW_004_F011",
+          "timestamp_seconds_approx": 289.2,
+          "filename": "frame_011.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_011.jpg"
+        },
+        {
+          "frame_id": "TW_004_F012",
+          "timestamp_seconds_approx": 289.4,
+          "filename": "frame_012.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_012.jpg"
+        },
+        {
+          "frame_id": "TW_004_F013",
+          "timestamp_seconds_approx": 289.6,
+          "filename": "frame_013.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_013.jpg"
+        },
+        {
+          "frame_id": "TW_004_F014",
+          "timestamp_seconds_approx": 289.8,
+          "filename": "frame_014.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_014.jpg"
+        },
+        {
+          "frame_id": "TW_004_F015",
+          "timestamp_seconds_approx": 290.0,
+          "filename": "frame_015.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_015.jpg"
+        },
+        {
+          "frame_id": "TW_004_F016",
+          "timestamp_seconds_approx": 290.2,
+          "filename": "frame_016.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_016.jpg"
+        },
+        {
+          "frame_id": "TW_004_F017",
+          "timestamp_seconds_approx": 290.4,
+          "filename": "frame_017.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_017.jpg"
+        },
+        {
+          "frame_id": "TW_004_F018",
+          "timestamp_seconds_approx": 290.6,
+          "filename": "frame_018.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_018.jpg"
+        },
+        {
+          "frame_id": "TW_004_F019",
+          "timestamp_seconds_approx": 290.8,
+          "filename": "frame_019.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_019.jpg"
+        },
+        {
+          "frame_id": "TW_004_F020",
+          "timestamp_seconds_approx": 291.0,
+          "filename": "frame_020.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_020.jpg"
+        },
+        {
+          "frame_id": "TW_004_F021",
+          "timestamp_seconds_approx": 291.2,
+          "filename": "frame_021.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_021.jpg"
+        },
+        {
+          "frame_id": "TW_004_F022",
+          "timestamp_seconds_approx": 291.4,
+          "filename": "frame_022.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_022.jpg"
+        },
+        {
+          "frame_id": "TW_004_F023",
+          "timestamp_seconds_approx": 291.6,
+          "filename": "frame_023.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_023.jpg"
+        },
+        {
+          "frame_id": "TW_004_F024",
+          "timestamp_seconds_approx": 291.8,
+          "filename": "frame_024.jpg",
+          "path": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\TW_004\\frame_024.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,801 @@
+﻿ASR DIFFERENCE DIAGNOSTIC V1
+=================================================================
+ASR difference cues: 135
+Cues with missing words: 135
+
+MISSING WORD TYPE COUNTS
+-----------------------------------------------------------------
+CONTENT_WORD_OR_UNKNOWN_NAME: 80
+KNOWN_NAME_OR_STORY_TERM: 77
+FUNCTION_WORD: 35
+
+MOST FREQUENT MISSING WORDS
+-----------------------------------------------------------------
+lucian: 41
+various: 10
+arya's: 7
+at: 4
+moon: 4
+cold: 4
+he: 4
+to: 4
+blood: 3
+looked: 3
+me: 3
+it: 3
+coldwell: 2
+well: 2
+manner: 2
+a: 2
+her: 2
+going: 2
+various's: 2
+laronde: 2
+lucian's: 2
+valerce: 2
+valeris: 2
+valerius: 2
+pact: 2
+manor: 1
+velice's: 1
+wolf's: 1
+babe: 1
+unerisval: 1
+coldwild: 1
+veal: 1
+limbs: 1
+gates: 1
+that: 1
+graze: 1
+trouble: 1
+wolf: 1
+bab: 1
+enough: 1
+be: 1
+convincing: 1
+willed: 1
+more: 1
+month: 1
+it's: 1
+word: 1
+there: 1
+was: 1
+beaten: 1
+
+CUE-BY-CUE DETAILS
+=================================================================
+
+CUE 15 | 52.58-56.74
+WHISPER: I opened my eyes. In my mother's sitting room at Coldwell Manor.
+ASSEMBLYAI: I opened my eyes in my mother's sitting room
+  - at -> FUNCTION_WORD
+  - coldwell -> KNOWN_NAME_OR_STORY_TERM
+  - manor -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 19 | 68.271-72.43
+WHISPER: A mating bond contract, sealed with the Blood Moon Pack crest.
+ASSEMBLYAI: a mating bond contract, sealed with the Pack crest.
+  - blood -> KNOWN_NAME_OR_STORY_TERM
+  - moon -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 21 | 74.51-77.87
+WHISPER: The Velice's heir sent this earlier this morning, Vivienne.
+ASSEMBLYAI: The heir sent this earlier this morning, Viviana.
+  - velice's -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 23 | 79.471-83.47
+WHISPER: Lucian sat across from her. Same face. Same steady eyes.
+ASSEMBLYAI: sat across from her, same face, Same steady eyes,
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 27 | 90.911-92.50999999999999
+WHISPER: Three bowls of wolf's babe.
+ASSEMBLYAI: 3 bowls of
+  - wolf's -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - babe -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 32 | 102.991-106.59
+WHISPER: Lucian looked at me. That calm, unerisval stare.
+ASSEMBLYAI: looked at me, that calm, stare
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+  - unerisval -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 40 | 124.75-127.95
+WHISPER: My mother turned back to Lucian with a tight smile.
+ASSEMBLYAI: My mother turned back to with a tight smile.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 43 | 137.52-139.76
+WHISPER: No. Lucian stood.
+ASSEMBLYAI: No. stood.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 46 | 146.47-149.04
+WHISPER: The woman I marry comes from the Coldwild family.
+ASSEMBLYAI: The woman I marry comes from the family.
+  - coldwild -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 70 | 216.18-218.18
+WHISPER: You told me Lucian loved me.
+ASSEMBLYAI: You told me loved me.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 76 | 228.18099999999998-234.7
+WHISPER: He said the only thing I was good for was my Moon Veal voice.
+ASSEMBLYAI: He said the only thing I was good for was my voice.
+  - moon -> KNOWN_NAME_OR_STORY_TERM
+  - veal -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 81 | 253.631-255.63
+WHISPER: He had my limbs severed so I couldn't shift.
+ASSEMBLYAI: He had my severed so I couldn't shift.
+  - limbs -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 94 | 291.861-295.86
+WHISPER: Arya's expression turned puzzled after learning the truth.
+ASSEMBLYAI: expression turned puzzled after learning the truth.
+  - arya's -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 112 | 343.741-345.74
+WHISPER: Why cold well?
+ASSEMBLYAI: Why
+  - cold -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - well -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 113 | 345.79-347.74
+WHISPER: Why only cold well?
+ASSEMBLYAI: Why only
+  - cold -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - well -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 128 | 383.921-385.92
+WHISPER: You go through the manner.
+ASSEMBLYAI: You go through the
+  - manner -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 130 | 389.921-391.92
+WHISPER: anyone connected to Lucian in the last five years.
+ASSEMBLYAI: anyone connected to in the last 5 years.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 133 | 395.921-399.92
+WHISPER: And you know him best, so you're going to Blood Moon Manor.
+ASSEMBLYAI: And you know him best, so you're going to Manor.
+  - blood -> KNOWN_NAME_OR_STORY_TERM
+  - moon -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 138 | 408.445-409.92
+WHISPER: Blood Moon Manor was exactly as I remembered it.
+ASSEMBLYAI: Manor was exactly as I remembered it.
+  - blood -> KNOWN_NAME_OR_STORY_TERM
+  - moon -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 139 | 409.921-415.2
+WHISPER: Same long driveway, same iron gates, same guard at
+ASSEMBLYAI: Same long driveway, same iron Same guard at
+  - gates -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 140 | 415.201-417.92
+WHISPER: the door that waved me through without question.
+ASSEMBLYAI: the door waved me through without question,
+  - that -> FUNCTION_WORD
+
+CUE 141 | 417.921-421.92
+WHISPER: Because in this life, Lucian and I were still childhood friends.
+ASSEMBLYAI: because in this life, and I were still childhood friends.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 147 | 431.921-434.657
+WHISPER: Lucian sat at his desk with a brush in his hand,
+ASSEMBLYAI: sat at his desk with a brush in his hand,
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 167 | 484.861-486.86
+WHISPER: Lucian, I kept my voice flat.
+ASSEMBLYAI: I kept my voice flat,
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 175 | 500.861-504.397
+WHISPER: He said, he smudged it.
+ASSEMBLYAI: he said. smudged it.
+  - he -> FUNCTION_WORD
+
+CUE 177 | 504.861-506.86
+WHISPER: Right. I held his graze.
+ASSEMBLYAI: Right. I held his
+  - graze -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 185 | 522.861-526.86
+WHISPER: A painter like Lucian didn't slip.
+ASSEMBLYAI: A painter like didn't slip.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 186 | 526.861-528.86
+WHISPER: Lucian stared at me for a long moment.
+ASSEMBLYAI: stared at me for a long moment.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 208 | 575.189-579.14
+WHISPER: He used to take the blame when we were kids so I wouldn't get in trouble.
+ASSEMBLYAI: He used to take the blame when we were kids so I wouldn't get in
+  - trouble -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 240 | 649.141-653.14
+WHISPER: He'd killed her himself with three bowls of Wolf Bab.
+ASSEMBLYAI: He'd killed her himself with 3 bowls of
+  - wolf -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - bab -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 241 | 653.141-657.14
+WHISPER: I let the silence hang just long enough to be convincing.
+ASSEMBLYAI: I let the silence hang just long
+  - enough -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - to -> FUNCTION_WORD
+  - be -> FUNCTION_WORD
+  - convincing -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 264 | 707.141-713.14
+WHISPER: Lucian had sat at our table and watched me do it more times than I could count.
+ASSEMBLYAI: had sat at our table and watched me do it, more times than I could count.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 271 | 727.639-731.14
+WHISPER: And I'm going to use a single second of it.
+ASSEMBLYAI: And I'm going to use single second of it.
+  - a -> FUNCTION_WORD
+
+CUE 283 | 761.151-763.15
+WHISPER: Arya's voice was strange.
+ASSEMBLYAI: voice was strange.
+  - arya's -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 295 | 788.641-790.64
+WHISPER: Arya's eyes narrowed.
+ASSEMBLYAI: eyes narrowed.
+  - arya's -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 306 | 810.739-812.64
+WHISPER: The room was quiet. Then Arya's face shifted.
+ASSEMBLYAI: The room was quiet, then face shifted.
+  - arya's -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 310 | 818.641-820.64
+WHISPER: A cold-willed woman.
+ASSEMBLYAI: a woman,
+  - cold -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - willed -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 311 | 820.641-822.64
+WHISPER: We give her more.
+ASSEMBLYAI: we give
+  - her -> FUNCTION_WORD
+  - more -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 315 | 828.641-830.64
+WHISPER: Arya dropped onto the couch across from her.
+ASSEMBLYAI: Aria dropped onto the couch across from
+  - her -> FUNCTION_WORD
+
+CUE 323 | 844.989-846.64
+WHISPER: Lucian can give her a title.
+ASSEMBLYAI: can give her a title,
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 354 | 910.641-914.64
+WHISPER: Lucian was coming in three days expecting a bride.
+ASSEMBLYAI: was coming in 3 days expecting a bride,
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 361 | 930.7139999999999-934.64
+WHISPER: I held my contract for a month after.
+ASSEMBLYAI: I held my contract for a after.
+  - month -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 377 | 974.241-976.24
+WHISPER: It's cold word. Both of you.
+ASSEMBLYAI: both of you.
+  - it's -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - cold -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - word -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 383 | 986.8389999999999-992.24
+WHISPER: On the desk there was a beaten piece of snow lily cake on a ceramic plate.
+ASSEMBLYAI: On the desk, a piece of snow lily cake on a ceramic plate.
+  - there -> FUNCTION_WORD
+  - was -> FUNCTION_WORD
+  - beaten -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 387 | 1004.641-1008.88
+WHISPER: All right?
+ASSEMBLYAI: 
+  - all -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - right -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 390 | 1012.881-1016.88
+WHISPER: About Lucien coming to Coldwilled Manor for years always with a reason.
+ASSEMBLYAI: about Lucien coming to manor for years, always with a reason,
+  - coldwilled -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 409 | 1064.271-1066.27
+WHISPER: That I needed to be patient.
+ASSEMBLYAI: that I needed to be
+  - patient -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 410 | 1066.271-1068.27
+WHISPER: Arya made a small side beside me.
+ASSEMBLYAI: Aria made a small beside me.
+  - side -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 421 | 1095.681-1097.68
+WHISPER: Morgana looked at her.
+ASSEMBLYAI: looked at her,
+  - morgana -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 429 | 1114.461-1116.46
+WHISPER: I'll have it handled before the wedding.
+ASSEMBLYAI: I'll have it handled before the
+  - wedding -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 439 | 1144.524-1146.35
+WHISPER: Lucien's motor cord arrived exactly on time.
+ASSEMBLYAI: Lucien's arrived exactly on time.
+  - motor -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - cord -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 459 | 1201.151-1203.15
+WHISPER: It's going to be very interesting.
+ASSEMBLYAI: it's be very interesting.
+  - going -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - to -> FUNCTION_WORD
+
+CUE 460 | 1203.349-1205.15
+WHISPER: They grabbed me the net.
+ASSEMBLYAI: They grabbed me the
+  - net -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 461 | 1210.96-1220.96
+WHISPER: Arya and I had gone out to look at jewelry for our own upcoming ceremonies.
+ASSEMBLYAI: and I had gone out to look at jewelry for our own upcoming ceremonies.
+  - aria -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 462 | 1220.961-1224.96
+WHISPER: I stopped at a small cafe to wait while she went ahead.
+ASSEMBLYAI: I stopped at a small to wait while she went ahead.
+  - cafe -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 470 | 1240.961-1242.96
+WHISPER: Lucian sat on the edge of the bed.
+ASSEMBLYAI: sat on the edge of the bed.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 474 | 1250.961-1252.96
+WHISPER: He looked at me the way he used to look at me.
+ASSEMBLYAI: 
+  - he -> FUNCTION_WORD
+  - looked -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - at -> FUNCTION_WORD
+  - me -> FUNCTION_WORD
+  - the -> FUNCTION_WORD
+  - way -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - he -> FUNCTION_WORD
+  - used -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - to -> FUNCTION_WORD
+  - look -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - at -> FUNCTION_WORD
+  - me -> FUNCTION_WORD
+
+CUE 475 | 1252.961-1254.96
+WHISPER: He looked at me.
+ASSEMBLYAI: 
+  - he -> FUNCTION_WORD
+  - looked -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - at -> FUNCTION_WORD
+  - me -> FUNCTION_WORD
+
+CUE 502 | 1316.501-1320.74
+WHISPER: Your jaw tightened.
+ASSEMBLYAI: jaw tightened.
+  - your -> FUNCTION_WORD
+
+CUE 503 | 1320.939-1324.88
+WHISPER: The room was dark. I didn't know it.
+ASSEMBLYAI: The room was dark. I didn't know
+  - it -> FUNCTION_WORD
+
+CUE 507 | 1330.881-1332.88
+WHISPER: Faint but unrestakeable.
+ASSEMBLYAI: faint but
+  - unrestakeable -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 511 | 1338.881-1340.88
+WHISPER: At Lucian standing there with his red eyes
+ASSEMBLYAI: at standing there with his red eyes
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 525 | 1372.221-1374.22
+WHISPER: And then we're going to fix this.
+ASSEMBLYAI: and then we're fix this.
+  - going -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - to -> FUNCTION_WORD
+
+CUE 537 | 1398.221-1400.22
+WHISPER: Except whatever you decided to give me?
+ASSEMBLYAI: whatever you decided to give me?
+  - except -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 544 | 1412.221-1414.22
+WHISPER: Then the door opened and Alpha Various walked in.
+ASSEMBLYAI: Then the door opened and Alpha walked in,
+  - various -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 545 | 1414.221-1416.22
+WHISPER: Followed by Luna Various.
+ASSEMBLYAI: followed by Luna
+  - various -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 546 | 1416.221-1418.22
+WHISPER: Luna Various rushed toward me with both hands out.
+ASSEMBLYAI: Luna rushed toward me with both hands out.
+  - various -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 547 | 1418.221-1420.22
+WHISPER: Vivian, sweetheart. You're finally up.
+ASSEMBLYAI: sweetheart! You're finally up!
+  - vivienne -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 549 | 1422.221-1424.22
+WHISPER: Smoothing it back like I was 12 years old.
+ASSEMBLYAI: smoothing it back like I was 12 years
+  - old -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 556 | 1437.601-1439.6
+WHISPER: Luna Various's laughed.
+ASSEMBLYAI: Luna laughed,
+  - various's -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 562 | 1451.601-1453.183
+WHISPER: Which is why you can call Chief Elder LaRonde
+ASSEMBLYAI: Which is why you can call Chief Elder
+  - laronde -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 565 | 1459.649-1461.6
+WHISPER: Alpha Various looked at his son.
+ASSEMBLYAI: Alpha looked at his son.
+  - various -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 566 | 1461.601-1463.6
+WHISPER: Lucian said nothing.
+ASSEMBLYAI: said nothing.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 572 | 1477.141-1481.14
+WHISPER: I was at Coldwell Manor having dinner with Chief Elder LaRonde and his wife.
+ASSEMBLYAI: I was at Coldwell Manor having dinner with Chief Elder and his wife.
+  - laronde -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 573 | 1483.14-1485.14
+WHISPER: Luna Various looked between me and Lucian.
+ASSEMBLYAI: Luna looked between me and
+  - various -> KNOWN_NAME_OR_STORY_TERM
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 574 | 1485.141-1489.14
+WHISPER: That's not... The servants said the bride arrived in the convoy.
+ASSEMBLYAI: That's not— the said the bride arrived in the convoy.
+  - servants -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 582 | 1503.141-1505.301
+WHISPER: Luna Various has sat down hard in the chair behind her.
+ASSEMBLYAI: Luna sat down hard in the chair behind her.
+  - various -> KNOWN_NAME_OR_STORY_TERM
+  - has -> FUNCTION_WORD
+
+CUE 583 | 1507.14-1509.14
+WHISPER: Alpha Various turned to Lucian.
+ASSEMBLYAI: Alpha turned to
+  - various -> KNOWN_NAME_OR_STORY_TERM
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 586 | 1515.141-1519.63
+WHISPER: Lucian's mouth tightened.
+ASSEMBLYAI: mouth tightened.
+  - lucian's -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 588 | 1521.631-1527.04
+WHISPER: Lucian... Various's voice dropped.
+ASSEMBLYAI: voice dropped.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+  - various's -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 589 | 1527.041-1531.15
+WHISPER: Who is she?
+ASSEMBLYAI: Who is
+  - she -> FUNCTION_WORD
+
+CUE 590 | 1531.151-1533.15
+WHISPER: Lucian stopped.
+ASSEMBLYAI: stopped,
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 600 | 1553.781-1555.78
+WHISPER: He came to Coldwell Manor every chance he got.
+ASSEMBLYAI: He came to Manor every chance he got.
+  - coldwell -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 603 | 1559.781-1561.78
+WHISPER: I looked at Alpha Various.
+ASSEMBLYAI: I looked at Alpha
+  - various -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 606 | 1565.781-1567.78
+WHISPER: Lucian went pale.
+ASSEMBLYAI: went pale.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 610 | 1573.781-1575.78
+WHISPER: Alpha Various said he didn't raise his voice.
+ASSEMBLYAI: Alpha said. He didn't raise his voice.
+  - various -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 615 | 1590.381-1592.38
+WHISPER: Lucian turned to me.
+ASSEMBLYAI: turned to me.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 620 | 1600.381-1602.38
+WHISPER: Alpha Various looked at me.
+ASSEMBLYAI: Alpha looked at me,
+  - various -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 624 | 1608.381-1610.38
+WHISPER: The same calculation I'd seen in Lucian a hundred times.
+ASSEMBLYAI: the same calculation I'd seen in a hundred times.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 629 | 1619.891-1621.89
+WHISPER: Lucian and Morgana are properly made it now.
+ASSEMBLYAI: and Morgana are properly now.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+  - made -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - it -> FUNCTION_WORD
+
+CUE 632 | 1625.891-1627.89
+WHISPER: No reason this has to leave these walls.
+ASSEMBLYAI: No reason this has to leave
+  - these -> FUNCTION_WORD
+  - walls -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 634 | 1631.391-1633.39
+WHISPER: Luna Valerce recovered fast.
+ASSEMBLYAI: Luna recovered fast,
+  - valerce -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 641 | 1646.391-1648.39
+WHISPER: Then at Lucian.
+ASSEMBLYAI: then at
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 651 | 1674.901-1677.9
+WHISPER: Instead, Alpha Valerce told the guards to keep me in the East guest room
+ASSEMBLYAI: Instead, Alpha told the guards to keep me in the east guest room
+  - valerce -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 652 | 1677.901-1681.9
+WHISPER: until he and Lucian returned from what he called a necessary visit.
+ASSEMBLYAI: until he and returned from what he called A necessary visit.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 662 | 1701.471-1703.47
+WHISPER: Then Lucian came back alone.
+ASSEMBLYAI: Then came back alone.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 666 | 1711.471-1713.47
+WHISPER: Laurent's talked to us.
+ASSEMBLYAI: talked to us,
+  - laurent's -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 670 | 1719.471-1723.62
+WHISPER: Lucian looked up.
+ASSEMBLYAI: looked up.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 704 | 1804.211-1808.21
+WHISPER: Lucian, my voice came out steady even though nothing else was.
+ASSEMBLYAI: my voice came out steady even though nothing else was.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 715 | 1833.484-1835.21
+WHISPER: A silver blade in both hands.
+ASSEMBLYAI: a silver blade in both
+  - hands -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 718 | 1838.211-1840.21
+WHISPER: Lucian turned his head.
+ASSEMBLYAI: turned his head.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 721 | 1846.211-1851.21
+WHISPER: The blade flew out of Arya's grip and hit the far wall.
+ASSEMBLYAI: The blade flew out of grip and hit the far wall.
+  - arya's -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 723 | 1853.211-1855.21
+WHISPER: Caught herself on the door warm.
+ASSEMBLYAI: caught herself on the door
+  - warm -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 724 | 1855.259-1857.21
+WHISPER: Lucian turned back to me.
+ASSEMBLYAI: turned back to me.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 735 | 1874.211-1876.21
+WHISPER: At Arya's empty hands.
+ASSEMBLYAI: at empty hands,
+  - arya's -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 736 | 1876.211-1878.21
+WHISPER: At Lucian standing over me.
+ASSEMBLYAI: at standing over me.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 739 | 1882.211-1885.78
+WHISPER: Lucian didn't move immediately.
+ASSEMBLYAI: didn't move immediately.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 744 | 1898.781-1900.78
+WHISPER: White haired, unharried.
+ASSEMBLYAI: white-haired, white-haired,
+  - unharried -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 746 | 1901.781-1903.78
+WHISPER: The alpha king's personal emise.
+ASSEMBLYAI: the Alpha King's personal
+  - emise -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 749 | 1907.781-1909.78
+WHISPER: Laurent looked at Lucian.
+ASSEMBLYAI: Laurent looked at
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 753 | 1916.781-1919.78
+WHISPER: He clipped his hands behind his back.
+ASSEMBLYAI: He his hands behind his back.
+  - clipped -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 757 | 1925.781-1927.78
+WHISPER: Lucian's eyes moved to the royal seal.
+ASSEMBLYAI: eyes moved to the royal
+  - lucian's -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - seal -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 762 | 1936.781-1939.78
+WHISPER: He looked at Alpha Valeris who had appeared in the doorway.
+ASSEMBLYAI: He looked at Alpha who had appeared in the doorway.
+  - valeris -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 770 | 1954.781-1956.78
+WHISPER: The royal sea was with me.
+ASSEMBLYAI: The Royal was with me,
+  - sea -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 773 | 1961.781-1963.78
+WHISPER: Alpha Valeris looked at Lucian.
+ASSEMBLYAI: Alpha looked at
+  - valeris -> KNOWN_NAME_OR_STORY_TERM
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 788 | 1991.301-1992.3
+WHISPER: I looked at him.
+ASSEMBLYAI: at him.
+  - i -> FUNCTION_WORD
+  - looked -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 796 | 2013.221-2016.22
+WHISPER: Arya Appyr appeared at my side immediately.
+ASSEMBLYAI: Aria appeared at my side immediately.
+  - appyr -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 801 | 2026.221-2029.22
+WHISPER: watching everything he built from a part of the scenes.
+ASSEMBLYAI: watching everything he built the
+  - from -> FUNCTION_WORD
+  - a -> FUNCTION_WORD
+  - part -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - of -> FUNCTION_WORD
+  - scenes -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 802 | 2029.221-2033.22
+WHISPER: Lucian didn't look away from me until the guards put their hands on his arms.
+ASSEMBLYAI: didn't look away from me until the guards put their hands on his arms.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 807 | 2040.27-2041.245
+WHISPER: Lucian.
+ASSEMBLYAI: 
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 809 | 2044.221-2046.22
+WHISPER: Soulbinding shackles.
+ASSEMBLYAI: shackles,
+  - soulbinding -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 811 | 2048.22-2050.219
+WHISPER: Alpha Valerius and Luna Valerius.
+ASSEMBLYAI: 
+  - alpha -> KNOWN_NAME_OR_STORY_TERM
+  - valerius -> KNOWN_NAME_OR_STORY_TERM
+  - and -> FUNCTION_WORD
+  - luna -> KNOWN_NAME_OR_STORY_TERM
+  - valerius -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 814 | 2055.22-2056.219
+WHISPER: Their pact title stripped.
+ASSEMBLYAI: Their title stripped,
+  - pact -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 815 | 2056.22-2058.219
+WHISPER: The blood moon pact dissolved.
+ASSEMBLYAI: the Blood Moon dissolved,
+  - pact -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 816 | 2058.22-2061.219
+WHISPER: Valerius' manner seized and transferred to high council jurisdiction.
+ASSEMBLYAI: seized and transferred to High Council jurisdiction.
+  - valerius' -> CONTENT_WORD_OR_UNKNOWN_NAME
+  - manner -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 824 | 2081.061-2082.06
+WHISPER: Packs gone.
+ASSEMBLYAI: gone,
+  - packs -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 825 | 2082.061-2083.06
+WHISPER: Manners sealed.
+ASSEMBLYAI: sealed.
+  - manners -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 841 | 2115.061-2116.061
+WHISPER: Either am I.
+ASSEMBLYAI: am I.
+  - either -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 843 | 2118.61-2121.06
+WHISPER: Then Arya straightened up.
+ASSEMBLYAI: then Aria straightened
+  - up -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 855 | 2139.11-2143.06
+WHISPER: When Lucian came back injured and I wouldn't leave until I knew he was okay.
+ASSEMBLYAI: when came back injured, and I wouldn't leave until I knew he was okay.
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 859 | 2148.11-2150.06
+WHISPER: You waited a month at a border post for Lucian?
+ASSEMBLYAI: You waited a month at a border post for
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 868 | 2167.72-2175.72
+WHISPER: Just two men who knocked on the front door and came in when my mother opened it.
+ASSEMBLYAI: Just 2 men who knocked on the front door and came in when my mother opened
+  - it -> FUNCTION_WORD
+
+CUE 878 | 2191.721-2194.72
+WHISPER: Not the desperate, clinging feeling I used to get around Lucian.
+ASSEMBLYAI: Not the desperate, clinging feeling I used to get around
+  - lucian -> KNOWN_NAME_OR_STORY_TERM
+
+CUE 886 | 2206.721-2208.72
+WHISPER: From the sitting room I heard Arya's voice.
+ASSEMBLYAI: From the sitting room, I heard voice,
+  - arya's -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+CUE 893 | 2224.84-2227.09
+WHISPER: You challenged three older kids to a race and one.
+ASSEMBLYAI: You challenged 3 older kids to a race and
+  - one -> CONTENT_WORD_OR_UNKNOWN_NAME
+
+=================================================================
+END OF REPORT

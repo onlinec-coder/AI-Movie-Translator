@@ -1,0 +1,2244 @@
+{
+  "schema_version": "1.0.0",
+  "engine_version": "1.0.0",
+  "created_at": "2026-11-05T19:25:22.379458+00:00",
+  "source": {
+    "frame_metadata": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\visual_frames\\frame_metadata.json"
+  },
+  "method": {
+    "name": "CONSECUTIVE_FRAME_PIXEL_DIFFERENCE",
+    "resize_width": 160,
+    "resize_height": 90,
+    "threshold": 0.3
+  },
+  "statistics": {
+    "total_frames": 310,
+    "total_comparisons": 309,
+    "candidate_scene_changes": 8,
+    "strong_changes": 6,
+    "possible_changes": 2
+  },
+  "comparisons": [
+    {
+      "previous_frame_id": "VF_000001",
+      "current_frame_id": "VF_000002",
+      "timestamp_seconds": 1.0,
+      "difference_score": 0.129933,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000002",
+      "current_frame_id": "VF_000003",
+      "timestamp_seconds": 2.0,
+      "difference_score": 0.231534,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000003",
+      "current_frame_id": "VF_000004",
+      "timestamp_seconds": 3.0,
+      "difference_score": 0.151146,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000004",
+      "current_frame_id": "VF_000005",
+      "timestamp_seconds": 4.0,
+      "difference_score": 0.135513,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000005",
+      "current_frame_id": "VF_000006",
+      "timestamp_seconds": 5.0,
+      "difference_score": 0.07999,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000006",
+      "current_frame_id": "VF_000007",
+      "timestamp_seconds": 6.0,
+      "difference_score": 0.11912,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000007",
+      "current_frame_id": "VF_000008",
+      "timestamp_seconds": 7.0,
+      "difference_score": 0.177117,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000008",
+      "current_frame_id": "VF_000009",
+      "timestamp_seconds": 8.0,
+      "difference_score": 0.079209,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000009",
+      "current_frame_id": "VF_000010",
+      "timestamp_seconds": 9.0,
+      "difference_score": 0.515493,
+      "classification": "STRONG_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000010",
+      "current_frame_id": "VF_000011",
+      "timestamp_seconds": 10.0,
+      "difference_score": 0.538515,
+      "classification": "STRONG_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000011",
+      "current_frame_id": "VF_000012",
+      "timestamp_seconds": 11.0,
+      "difference_score": 0.161909,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000012",
+      "current_frame_id": "VF_000013",
+      "timestamp_seconds": 12.0,
+      "difference_score": 0.058042,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000013",
+      "current_frame_id": "VF_000014",
+      "timestamp_seconds": 13.0,
+      "difference_score": 0.058387,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000014",
+      "current_frame_id": "VF_000015",
+      "timestamp_seconds": 14.0,
+      "difference_score": 0.149825,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000015",
+      "current_frame_id": "VF_000016",
+      "timestamp_seconds": 15.0,
+      "difference_score": 0.028033,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000016",
+      "current_frame_id": "VF_000017",
+      "timestamp_seconds": 16.0,
+      "difference_score": 0.044033,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000017",
+      "current_frame_id": "VF_000018",
+      "timestamp_seconds": 17.0,
+      "difference_score": 0.151868,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000018",
+      "current_frame_id": "VF_000019",
+      "timestamp_seconds": 18.0,
+      "difference_score": 0.053585,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000019",
+      "current_frame_id": "VF_000020",
+      "timestamp_seconds": 19.0,
+      "difference_score": 0.105204,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000020",
+      "current_frame_id": "VF_000021",
+      "timestamp_seconds": 20.0,
+      "difference_score": 0.021919,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000021",
+      "current_frame_id": "VF_000022",
+      "timestamp_seconds": 21.0,
+      "difference_score": 0.034856,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000022",
+      "current_frame_id": "VF_000023",
+      "timestamp_seconds": 22.0,
+      "difference_score": 0.145149,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000023",
+      "current_frame_id": "VF_000024",
+      "timestamp_seconds": 23.0,
+      "difference_score": 0.05145,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000024",
+      "current_frame_id": "VF_000025",
+      "timestamp_seconds": 24.0,
+      "difference_score": 0.066233,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000025",
+      "current_frame_id": "VF_000026",
+      "timestamp_seconds": 25.0,
+      "difference_score": 0.138288,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000026",
+      "current_frame_id": "VF_000027",
+      "timestamp_seconds": 26.0,
+      "difference_score": 0.033781,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000027",
+      "current_frame_id": "VF_000028",
+      "timestamp_seconds": 27.0,
+      "difference_score": 0.023829,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000028",
+      "current_frame_id": "VF_000029",
+      "timestamp_seconds": 28.0,
+      "difference_score": 0.116474,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000029",
+      "current_frame_id": "VF_000030",
+      "timestamp_seconds": 29.0,
+      "difference_score": 0.092773,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000030",
+      "current_frame_id": "VF_000031",
+      "timestamp_seconds": 30.0,
+      "difference_score": 0.095383,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000031",
+      "current_frame_id": "VF_000032",
+      "timestamp_seconds": 31.0,
+      "difference_score": 0.134041,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000032",
+      "current_frame_id": "VF_000033",
+      "timestamp_seconds": 32.0,
+      "difference_score": 0.024437,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000033",
+      "current_frame_id": "VF_000034",
+      "timestamp_seconds": 33.0,
+      "difference_score": 0.149802,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000034",
+      "current_frame_id": "VF_000035",
+      "timestamp_seconds": 34.0,
+      "difference_score": 0.084312,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000035",
+      "current_frame_id": "VF_000036",
+      "timestamp_seconds": 35.0,
+      "difference_score": 0.094363,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000036",
+      "current_frame_id": "VF_000037",
+      "timestamp_seconds": 36.0,
+      "difference_score": 0.145857,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000037",
+      "current_frame_id": "VF_000038",
+      "timestamp_seconds": 37.0,
+      "difference_score": 0.128507,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000038",
+      "current_frame_id": "VF_000039",
+      "timestamp_seconds": 38.0,
+      "difference_score": 0.189862,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000039",
+      "current_frame_id": "VF_000040",
+      "timestamp_seconds": 39.0,
+      "difference_score": 0.177935,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000040",
+      "current_frame_id": "VF_000041",
+      "timestamp_seconds": 40.0,
+      "difference_score": 0.116096,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000041",
+      "current_frame_id": "VF_000042",
+      "timestamp_seconds": 41.0,
+      "difference_score": 0.100795,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000042",
+      "current_frame_id": "VF_000043",
+      "timestamp_seconds": 42.0,
+      "difference_score": 0.160623,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000043",
+      "current_frame_id": "VF_000044",
+      "timestamp_seconds": 43.0,
+      "difference_score": 0.107614,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000044",
+      "current_frame_id": "VF_000045",
+      "timestamp_seconds": 44.0,
+      "difference_score": 0.164365,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000045",
+      "current_frame_id": "VF_000046",
+      "timestamp_seconds": 45.0,
+      "difference_score": 0.044283,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000046",
+      "current_frame_id": "VF_000047",
+      "timestamp_seconds": 46.0,
+      "difference_score": 0.156588,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000047",
+      "current_frame_id": "VF_000048",
+      "timestamp_seconds": 47.0,
+      "difference_score": 0.117438,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000048",
+      "current_frame_id": "VF_000049",
+      "timestamp_seconds": 48.0,
+      "difference_score": 0.098897,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000049",
+      "current_frame_id": "VF_000050",
+      "timestamp_seconds": 49.0,
+      "difference_score": 0.175568,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000050",
+      "current_frame_id": "VF_000051",
+      "timestamp_seconds": 50.0,
+      "difference_score": 0.127517,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000051",
+      "current_frame_id": "VF_000052",
+      "timestamp_seconds": 51.0,
+      "difference_score": 0.132146,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000052",
+      "current_frame_id": "VF_000053",
+      "timestamp_seconds": 52.0,
+      "difference_score": 0.132419,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000053",
+      "current_frame_id": "VF_000054",
+      "timestamp_seconds": 53.0,
+      "difference_score": 0.148959,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000054",
+      "current_frame_id": "VF_000055",
+      "timestamp_seconds": 54.0,
+      "difference_score": 0.185346,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000055",
+      "current_frame_id": "VF_000056",
+      "timestamp_seconds": 55.0,
+      "difference_score": 0.145498,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000056",
+      "current_frame_id": "VF_000057",
+      "timestamp_seconds": 56.0,
+      "difference_score": 0.105549,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000057",
+      "current_frame_id": "VF_000058",
+      "timestamp_seconds": 57.0,
+      "difference_score": 0.094736,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000058",
+      "current_frame_id": "VF_000059",
+      "timestamp_seconds": 58.0,
+      "difference_score": 0.06906,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000059",
+      "current_frame_id": "VF_000060",
+      "timestamp_seconds": 59.0,
+      "difference_score": 0.143027,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000060",
+      "current_frame_id": "VF_000061",
+      "timestamp_seconds": 60.0,
+      "difference_score": 0.037844,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000061",
+      "current_frame_id": "VF_000062",
+      "timestamp_seconds": 61.0,
+      "difference_score": 0.141026,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000062",
+      "current_frame_id": "VF_000063",
+      "timestamp_seconds": 62.0,
+      "difference_score": 0.032341,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000063",
+      "current_frame_id": "VF_000064",
+      "timestamp_seconds": 63.0,
+      "difference_score": 0.02225,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000064",
+      "current_frame_id": "VF_000065",
+      "timestamp_seconds": 64.0,
+      "difference_score": 0.021725,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000065",
+      "current_frame_id": "VF_000066",
+      "timestamp_seconds": 65.0,
+      "difference_score": 0.020945,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000066",
+      "current_frame_id": "VF_000067",
+      "timestamp_seconds": 66.0,
+      "difference_score": 0.122888,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000067",
+      "current_frame_id": "VF_000068",
+      "timestamp_seconds": 67.0,
+      "difference_score": 0.167074,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000068",
+      "current_frame_id": "VF_000069",
+      "timestamp_seconds": 68.0,
+      "difference_score": 0.11858,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000069",
+      "current_frame_id": "VF_000070",
+      "timestamp_seconds": 69.0,
+      "difference_score": 0.108101,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000070",
+      "current_frame_id": "VF_000071",
+      "timestamp_seconds": 70.0,
+      "difference_score": 0.092728,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000071",
+      "current_frame_id": "VF_000072",
+      "timestamp_seconds": 71.0,
+      "difference_score": 0.074732,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000072",
+      "current_frame_id": "VF_000073",
+      "timestamp_seconds": 72.0,
+      "difference_score": 0.072533,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000073",
+      "current_frame_id": "VF_000074",
+      "timestamp_seconds": 73.0,
+      "difference_score": 0.227062,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000074",
+      "current_frame_id": "VF_000075",
+      "timestamp_seconds": 74.0,
+      "difference_score": 0.054266,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000075",
+      "current_frame_id": "VF_000076",
+      "timestamp_seconds": 75.0,
+      "difference_score": 0.137221,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000076",
+      "current_frame_id": "VF_000077",
+      "timestamp_seconds": 76.0,
+      "difference_score": 0.153911,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000077",
+      "current_frame_id": "VF_000078",
+      "timestamp_seconds": 77.0,
+      "difference_score": 0.144562,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000078",
+      "current_frame_id": "VF_000079",
+      "timestamp_seconds": 78.0,
+      "difference_score": 0.118229,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000079",
+      "current_frame_id": "VF_000080",
+      "timestamp_seconds": 79.0,
+      "difference_score": 0.052432,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000080",
+      "current_frame_id": "VF_000081",
+      "timestamp_seconds": 80.0,
+      "difference_score": 0.128398,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000081",
+      "current_frame_id": "VF_000082",
+      "timestamp_seconds": 81.0,
+      "difference_score": 0.158906,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000082",
+      "current_frame_id": "VF_000083",
+      "timestamp_seconds": 82.0,
+      "difference_score": 0.025233,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000083",
+      "current_frame_id": "VF_000084",
+      "timestamp_seconds": 83.0,
+      "difference_score": 0.031727,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000084",
+      "current_frame_id": "VF_000085",
+      "timestamp_seconds": 84.0,
+      "difference_score": 0.032466,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000085",
+      "current_frame_id": "VF_000086",
+      "timestamp_seconds": 85.0,
+      "difference_score": 0.159958,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000086",
+      "current_frame_id": "VF_000087",
+      "timestamp_seconds": 86.0,
+      "difference_score": 0.03391,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000087",
+      "current_frame_id": "VF_000088",
+      "timestamp_seconds": 87.0,
+      "difference_score": 0.123943,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000088",
+      "current_frame_id": "VF_000089",
+      "timestamp_seconds": 88.0,
+      "difference_score": 0.059737,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000089",
+      "current_frame_id": "VF_000090",
+      "timestamp_seconds": 89.0,
+      "difference_score": 0.047157,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000090",
+      "current_frame_id": "VF_000091",
+      "timestamp_seconds": 90.0,
+      "difference_score": 0.147652,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000091",
+      "current_frame_id": "VF_000092",
+      "timestamp_seconds": 91.0,
+      "difference_score": 0.028803,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000092",
+      "current_frame_id": "VF_000093",
+      "timestamp_seconds": 92.0,
+      "difference_score": 0.151497,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000093",
+      "current_frame_id": "VF_000094",
+      "timestamp_seconds": 93.0,
+      "difference_score": 0.111565,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000094",
+      "current_frame_id": "VF_000095",
+      "timestamp_seconds": 94.0,
+      "difference_score": 0.07758,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000095",
+      "current_frame_id": "VF_000096",
+      "timestamp_seconds": 95.0,
+      "difference_score": 0.090105,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000096",
+      "current_frame_id": "VF_000097",
+      "timestamp_seconds": 96.0,
+      "difference_score": 0.132463,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000097",
+      "current_frame_id": "VF_000098",
+      "timestamp_seconds": 97.0,
+      "difference_score": 0.028084,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000098",
+      "current_frame_id": "VF_000099",
+      "timestamp_seconds": 98.0,
+      "difference_score": 0.025053,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000099",
+      "current_frame_id": "VF_000100",
+      "timestamp_seconds": 99.0,
+      "difference_score": 0.030722,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000100",
+      "current_frame_id": "VF_000101",
+      "timestamp_seconds": 100.0,
+      "difference_score": 0.165214,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000101",
+      "current_frame_id": "VF_000102",
+      "timestamp_seconds": 101.0,
+      "difference_score": 0.052469,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000102",
+      "current_frame_id": "VF_000103",
+      "timestamp_seconds": 102.0,
+      "difference_score": 0.061111,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000103",
+      "current_frame_id": "VF_000104",
+      "timestamp_seconds": 103.0,
+      "difference_score": 0.153583,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000104",
+      "current_frame_id": "VF_000105",
+      "timestamp_seconds": 104.0,
+      "difference_score": 0.048254,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000105",
+      "current_frame_id": "VF_000106",
+      "timestamp_seconds": 105.0,
+      "difference_score": 0.059328,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000106",
+      "current_frame_id": "VF_000107",
+      "timestamp_seconds": 106.0,
+      "difference_score": 0.15379,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000107",
+      "current_frame_id": "VF_000108",
+      "timestamp_seconds": 107.0,
+      "difference_score": 0.045689,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000108",
+      "current_frame_id": "VF_000109",
+      "timestamp_seconds": 108.0,
+      "difference_score": 0.168368,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000109",
+      "current_frame_id": "VF_000110",
+      "timestamp_seconds": 109.0,
+      "difference_score": 0.118068,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000110",
+      "current_frame_id": "VF_000111",
+      "timestamp_seconds": 110.0,
+      "difference_score": 0.691657,
+      "classification": "STRONG_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000111",
+      "current_frame_id": "VF_000112",
+      "timestamp_seconds": 111.0,
+      "difference_score": 0.71127,
+      "classification": "STRONG_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000112",
+      "current_frame_id": "VF_000113",
+      "timestamp_seconds": 112.0,
+      "difference_score": 0.108507,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000113",
+      "current_frame_id": "VF_000114",
+      "timestamp_seconds": 113.0,
+      "difference_score": 0.017205,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000114",
+      "current_frame_id": "VF_000115",
+      "timestamp_seconds": 114.0,
+      "difference_score": 0.009518,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000115",
+      "current_frame_id": "VF_000116",
+      "timestamp_seconds": 115.0,
+      "difference_score": 0.005147,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000116",
+      "current_frame_id": "VF_000117",
+      "timestamp_seconds": 116.0,
+      "difference_score": 0.100248,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000117",
+      "current_frame_id": "VF_000118",
+      "timestamp_seconds": 117.0,
+      "difference_score": 0.105332,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000118",
+      "current_frame_id": "VF_000119",
+      "timestamp_seconds": 118.0,
+      "difference_score": 0.11502,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000119",
+      "current_frame_id": "VF_000120",
+      "timestamp_seconds": 119.0,
+      "difference_score": 0.0221,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000120",
+      "current_frame_id": "VF_000121",
+      "timestamp_seconds": 120.0,
+      "difference_score": 0.04621,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000121",
+      "current_frame_id": "VF_000122",
+      "timestamp_seconds": 121.0,
+      "difference_score": 0.049713,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000122",
+      "current_frame_id": "VF_000123",
+      "timestamp_seconds": 122.0,
+      "difference_score": 0.042676,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000123",
+      "current_frame_id": "VF_000124",
+      "timestamp_seconds": 123.0,
+      "difference_score": 0.030778,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000124",
+      "current_frame_id": "VF_000125",
+      "timestamp_seconds": 124.0,
+      "difference_score": 0.015878,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000125",
+      "current_frame_id": "VF_000126",
+      "timestamp_seconds": 125.0,
+      "difference_score": 0.133733,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000126",
+      "current_frame_id": "VF_000127",
+      "timestamp_seconds": 126.0,
+      "difference_score": 0.076495,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000127",
+      "current_frame_id": "VF_000128",
+      "timestamp_seconds": 127.0,
+      "difference_score": 0.146932,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000128",
+      "current_frame_id": "VF_000129",
+      "timestamp_seconds": 128.0,
+      "difference_score": 0.064215,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000129",
+      "current_frame_id": "VF_000130",
+      "timestamp_seconds": 129.0,
+      "difference_score": 0.123486,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000130",
+      "current_frame_id": "VF_000131",
+      "timestamp_seconds": 130.0,
+      "difference_score": 0.041281,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000131",
+      "current_frame_id": "VF_000132",
+      "timestamp_seconds": 131.0,
+      "difference_score": 0.124802,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000132",
+      "current_frame_id": "VF_000133",
+      "timestamp_seconds": 132.0,
+      "difference_score": 0.024798,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000133",
+      "current_frame_id": "VF_000134",
+      "timestamp_seconds": 133.0,
+      "difference_score": 0.039636,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000134",
+      "current_frame_id": "VF_000135",
+      "timestamp_seconds": 134.0,
+      "difference_score": 0.121095,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000135",
+      "current_frame_id": "VF_000136",
+      "timestamp_seconds": 135.0,
+      "difference_score": 0.026398,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000136",
+      "current_frame_id": "VF_000137",
+      "timestamp_seconds": 136.0,
+      "difference_score": 0.03311,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000137",
+      "current_frame_id": "VF_000138",
+      "timestamp_seconds": 137.0,
+      "difference_score": 0.121554,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000138",
+      "current_frame_id": "VF_000139",
+      "timestamp_seconds": 138.0,
+      "difference_score": 0.019664,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000139",
+      "current_frame_id": "VF_000140",
+      "timestamp_seconds": 139.0,
+      "difference_score": 0.137246,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000140",
+      "current_frame_id": "VF_000141",
+      "timestamp_seconds": 140.0,
+      "difference_score": 0.126789,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000141",
+      "current_frame_id": "VF_000142",
+      "timestamp_seconds": 141.0,
+      "difference_score": 0.043852,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000142",
+      "current_frame_id": "VF_000143",
+      "timestamp_seconds": 142.0,
+      "difference_score": 0.0464,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000143",
+      "current_frame_id": "VF_000144",
+      "timestamp_seconds": 143.0,
+      "difference_score": 0.107787,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000144",
+      "current_frame_id": "VF_000145",
+      "timestamp_seconds": 144.0,
+      "difference_score": 0.045459,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000145",
+      "current_frame_id": "VF_000146",
+      "timestamp_seconds": 145.0,
+      "difference_score": 0.044661,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000146",
+      "current_frame_id": "VF_000147",
+      "timestamp_seconds": 146.0,
+      "difference_score": 0.113345,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000147",
+      "current_frame_id": "VF_000148",
+      "timestamp_seconds": 147.0,
+      "difference_score": 0.066392,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000148",
+      "current_frame_id": "VF_000149",
+      "timestamp_seconds": 148.0,
+      "difference_score": 0.054811,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000149",
+      "current_frame_id": "VF_000150",
+      "timestamp_seconds": 149.0,
+      "difference_score": 0.059193,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000150",
+      "current_frame_id": "VF_000151",
+      "timestamp_seconds": 150.0,
+      "difference_score": 0.033468,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000151",
+      "current_frame_id": "VF_000152",
+      "timestamp_seconds": 151.0,
+      "difference_score": 0.184704,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000152",
+      "current_frame_id": "VF_000153",
+      "timestamp_seconds": 152.0,
+      "difference_score": 0.028728,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000153",
+      "current_frame_id": "VF_000154",
+      "timestamp_seconds": 153.0,
+      "difference_score": 0.188563,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000154",
+      "current_frame_id": "VF_000155",
+      "timestamp_seconds": 154.0,
+      "difference_score": 0.180942,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000155",
+      "current_frame_id": "VF_000156",
+      "timestamp_seconds": 155.0,
+      "difference_score": 0.172957,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000156",
+      "current_frame_id": "VF_000157",
+      "timestamp_seconds": 156.0,
+      "difference_score": 0.077907,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000157",
+      "current_frame_id": "VF_000158",
+      "timestamp_seconds": 157.0,
+      "difference_score": 0.136448,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000158",
+      "current_frame_id": "VF_000159",
+      "timestamp_seconds": 158.0,
+      "difference_score": 0.1145,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000159",
+      "current_frame_id": "VF_000160",
+      "timestamp_seconds": 159.0,
+      "difference_score": 0.105056,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000160",
+      "current_frame_id": "VF_000161",
+      "timestamp_seconds": 160.0,
+      "difference_score": 0.140479,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000161",
+      "current_frame_id": "VF_000162",
+      "timestamp_seconds": 161.0,
+      "difference_score": 0.013153,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000162",
+      "current_frame_id": "VF_000163",
+      "timestamp_seconds": 162.0,
+      "difference_score": 0.012142,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000163",
+      "current_frame_id": "VF_000164",
+      "timestamp_seconds": 163.0,
+      "difference_score": 0.008863,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000164",
+      "current_frame_id": "VF_000165",
+      "timestamp_seconds": 164.0,
+      "difference_score": 0.132063,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000165",
+      "current_frame_id": "VF_000166",
+      "timestamp_seconds": 165.0,
+      "difference_score": 0.040413,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000166",
+      "current_frame_id": "VF_000167",
+      "timestamp_seconds": 166.0,
+      "difference_score": 0.132762,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000167",
+      "current_frame_id": "VF_000168",
+      "timestamp_seconds": 167.0,
+      "difference_score": 0.165031,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000168",
+      "current_frame_id": "VF_000169",
+      "timestamp_seconds": 168.0,
+      "difference_score": 0.10271,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000169",
+      "current_frame_id": "VF_000170",
+      "timestamp_seconds": 169.0,
+      "difference_score": 0.100748,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000170",
+      "current_frame_id": "VF_000171",
+      "timestamp_seconds": 170.0,
+      "difference_score": 0.087544,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000171",
+      "current_frame_id": "VF_000172",
+      "timestamp_seconds": 171.0,
+      "difference_score": 0.077881,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000172",
+      "current_frame_id": "VF_000173",
+      "timestamp_seconds": 172.0,
+      "difference_score": 0.152748,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000173",
+      "current_frame_id": "VF_000174",
+      "timestamp_seconds": 173.0,
+      "difference_score": 0.022785,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000174",
+      "current_frame_id": "VF_000175",
+      "timestamp_seconds": 174.0,
+      "difference_score": 0.022012,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000175",
+      "current_frame_id": "VF_000176",
+      "timestamp_seconds": 175.0,
+      "difference_score": 0.118559,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000176",
+      "current_frame_id": "VF_000177",
+      "timestamp_seconds": 176.0,
+      "difference_score": 0.024205,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000177",
+      "current_frame_id": "VF_000178",
+      "timestamp_seconds": 177.0,
+      "difference_score": 0.042587,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000178",
+      "current_frame_id": "VF_000179",
+      "timestamp_seconds": 178.0,
+      "difference_score": 0.114986,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000179",
+      "current_frame_id": "VF_000180",
+      "timestamp_seconds": 179.0,
+      "difference_score": 0.101356,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000180",
+      "current_frame_id": "VF_000181",
+      "timestamp_seconds": 180.0,
+      "difference_score": 0.077847,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000181",
+      "current_frame_id": "VF_000182",
+      "timestamp_seconds": 181.0,
+      "difference_score": 0.117333,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000182",
+      "current_frame_id": "VF_000183",
+      "timestamp_seconds": 182.0,
+      "difference_score": 0.058325,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000183",
+      "current_frame_id": "VF_000184",
+      "timestamp_seconds": 183.0,
+      "difference_score": 0.0479,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000184",
+      "current_frame_id": "VF_000185",
+      "timestamp_seconds": 184.0,
+      "difference_score": 0.131238,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000185",
+      "current_frame_id": "VF_000186",
+      "timestamp_seconds": 185.0,
+      "difference_score": 0.139279,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000186",
+      "current_frame_id": "VF_000187",
+      "timestamp_seconds": 186.0,
+      "difference_score": 0.141491,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000187",
+      "current_frame_id": "VF_000188",
+      "timestamp_seconds": 187.0,
+      "difference_score": 0.116181,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000188",
+      "current_frame_id": "VF_000189",
+      "timestamp_seconds": 188.0,
+      "difference_score": 0.150998,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000189",
+      "current_frame_id": "VF_000190",
+      "timestamp_seconds": 189.0,
+      "difference_score": 0.133713,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000190",
+      "current_frame_id": "VF_000191",
+      "timestamp_seconds": 190.0,
+      "difference_score": 0.139343,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000191",
+      "current_frame_id": "VF_000192",
+      "timestamp_seconds": 191.0,
+      "difference_score": 0.12345,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000192",
+      "current_frame_id": "VF_000193",
+      "timestamp_seconds": 192.0,
+      "difference_score": 0.150796,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000193",
+      "current_frame_id": "VF_000194",
+      "timestamp_seconds": 193.0,
+      "difference_score": 0.087695,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000194",
+      "current_frame_id": "VF_000195",
+      "timestamp_seconds": 194.0,
+      "difference_score": 0.079679,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000195",
+      "current_frame_id": "VF_000196",
+      "timestamp_seconds": 195.0,
+      "difference_score": 0.163239,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000196",
+      "current_frame_id": "VF_000197",
+      "timestamp_seconds": 196.0,
+      "difference_score": 0.064938,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000197",
+      "current_frame_id": "VF_000198",
+      "timestamp_seconds": 197.0,
+      "difference_score": 0.025396,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000198",
+      "current_frame_id": "VF_000199",
+      "timestamp_seconds": 198.0,
+      "difference_score": 0.159442,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000199",
+      "current_frame_id": "VF_000200",
+      "timestamp_seconds": 199.0,
+      "difference_score": 0.039687,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000200",
+      "current_frame_id": "VF_000201",
+      "timestamp_seconds": 200.0,
+      "difference_score": 0.039339,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000201",
+      "current_frame_id": "VF_000202",
+      "timestamp_seconds": 201.0,
+      "difference_score": 0.026155,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000202",
+      "current_frame_id": "VF_000203",
+      "timestamp_seconds": 202.0,
+      "difference_score": 0.16101,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000203",
+      "current_frame_id": "VF_000204",
+      "timestamp_seconds": 203.0,
+      "difference_score": 0.040509,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000204",
+      "current_frame_id": "VF_000205",
+      "timestamp_seconds": 204.0,
+      "difference_score": 0.157667,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000205",
+      "current_frame_id": "VF_000206",
+      "timestamp_seconds": 205.0,
+      "difference_score": 0.060598,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000206",
+      "current_frame_id": "VF_000207",
+      "timestamp_seconds": 206.0,
+      "difference_score": 0.057306,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000207",
+      "current_frame_id": "VF_000208",
+      "timestamp_seconds": 207.0,
+      "difference_score": 0.144922,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000208",
+      "current_frame_id": "VF_000209",
+      "timestamp_seconds": 208.0,
+      "difference_score": 0.059126,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000209",
+      "current_frame_id": "VF_000210",
+      "timestamp_seconds": 209.0,
+      "difference_score": 0.169322,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000210",
+      "current_frame_id": "VF_000211",
+      "timestamp_seconds": 210.0,
+      "difference_score": 0.066812,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000211",
+      "current_frame_id": "VF_000212",
+      "timestamp_seconds": 211.0,
+      "difference_score": 0.112792,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000212",
+      "current_frame_id": "VF_000213",
+      "timestamp_seconds": 212.0,
+      "difference_score": 0.04398,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000213",
+      "current_frame_id": "VF_000214",
+      "timestamp_seconds": 213.0,
+      "difference_score": 0.037582,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000214",
+      "current_frame_id": "VF_000215",
+      "timestamp_seconds": 214.0,
+      "difference_score": 0.035518,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000215",
+      "current_frame_id": "VF_000216",
+      "timestamp_seconds": 215.0,
+      "difference_score": 0.132386,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000216",
+      "current_frame_id": "VF_000217",
+      "timestamp_seconds": 216.0,
+      "difference_score": 0.015777,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000217",
+      "current_frame_id": "VF_000218",
+      "timestamp_seconds": 217.0,
+      "difference_score": 0.129476,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000218",
+      "current_frame_id": "VF_000219",
+      "timestamp_seconds": 218.0,
+      "difference_score": 0.050495,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000219",
+      "current_frame_id": "VF_000220",
+      "timestamp_seconds": 219.0,
+      "difference_score": 0.04978,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000220",
+      "current_frame_id": "VF_000221",
+      "timestamp_seconds": 220.0,
+      "difference_score": 0.052975,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000221",
+      "current_frame_id": "VF_000222",
+      "timestamp_seconds": 221.0,
+      "difference_score": 0.148131,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000222",
+      "current_frame_id": "VF_000223",
+      "timestamp_seconds": 222.0,
+      "difference_score": 0.020233,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000223",
+      "current_frame_id": "VF_000224",
+      "timestamp_seconds": 223.0,
+      "difference_score": 0.026111,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000224",
+      "current_frame_id": "VF_000225",
+      "timestamp_seconds": 224.0,
+      "difference_score": 0.148112,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000225",
+      "current_frame_id": "VF_000226",
+      "timestamp_seconds": 225.0,
+      "difference_score": 0.017767,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000226",
+      "current_frame_id": "VF_000227",
+      "timestamp_seconds": 226.0,
+      "difference_score": 0.139633,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000227",
+      "current_frame_id": "VF_000228",
+      "timestamp_seconds": 227.0,
+      "difference_score": 0.039648,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000228",
+      "current_frame_id": "VF_000229",
+      "timestamp_seconds": 228.0,
+      "difference_score": 0.150624,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000229",
+      "current_frame_id": "VF_000230",
+      "timestamp_seconds": 229.0,
+      "difference_score": 0.095685,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000230",
+      "current_frame_id": "VF_000231",
+      "timestamp_seconds": 230.0,
+      "difference_score": 0.12243,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000231",
+      "current_frame_id": "VF_000232",
+      "timestamp_seconds": 231.0,
+      "difference_score": 0.098189,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000232",
+      "current_frame_id": "VF_000233",
+      "timestamp_seconds": 232.0,
+      "difference_score": 0.069681,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000233",
+      "current_frame_id": "VF_000234",
+      "timestamp_seconds": 233.0,
+      "difference_score": 0.046913,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000234",
+      "current_frame_id": "VF_000235",
+      "timestamp_seconds": 234.0,
+      "difference_score": 0.125665,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000235",
+      "current_frame_id": "VF_000236",
+      "timestamp_seconds": 235.0,
+      "difference_score": 0.062672,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000236",
+      "current_frame_id": "VF_000237",
+      "timestamp_seconds": 236.0,
+      "difference_score": 0.099157,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000237",
+      "current_frame_id": "VF_000238",
+      "timestamp_seconds": 237.0,
+      "difference_score": 0.094747,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000238",
+      "current_frame_id": "VF_000239",
+      "timestamp_seconds": 238.0,
+      "difference_score": 0.100938,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000239",
+      "current_frame_id": "VF_000240",
+      "timestamp_seconds": 239.0,
+      "difference_score": 0.094652,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000240",
+      "current_frame_id": "VF_000241",
+      "timestamp_seconds": 240.0,
+      "difference_score": 0.105696,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000241",
+      "current_frame_id": "VF_000242",
+      "timestamp_seconds": 241.0,
+      "difference_score": 0.016443,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000242",
+      "current_frame_id": "VF_000243",
+      "timestamp_seconds": 242.0,
+      "difference_score": 0.116064,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000243",
+      "current_frame_id": "VF_000244",
+      "timestamp_seconds": 243.0,
+      "difference_score": 0.066224,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000244",
+      "current_frame_id": "VF_000245",
+      "timestamp_seconds": 244.0,
+      "difference_score": 0.070059,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000245",
+      "current_frame_id": "VF_000246",
+      "timestamp_seconds": 245.0,
+      "difference_score": 0.048761,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000246",
+      "current_frame_id": "VF_000247",
+      "timestamp_seconds": 246.0,
+      "difference_score": 0.789452,
+      "classification": "STRONG_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000247",
+      "current_frame_id": "VF_000248",
+      "timestamp_seconds": 247.0,
+      "difference_score": 0.799444,
+      "classification": "STRONG_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000248",
+      "current_frame_id": "VF_000249",
+      "timestamp_seconds": 248.0,
+      "difference_score": 0.124149,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000249",
+      "current_frame_id": "VF_000250",
+      "timestamp_seconds": 249.0,
+      "difference_score": 0.048585,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000250",
+      "current_frame_id": "VF_000251",
+      "timestamp_seconds": 250.0,
+      "difference_score": 0.151508,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000251",
+      "current_frame_id": "VF_000252",
+      "timestamp_seconds": 251.0,
+      "difference_score": 0.144143,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000252",
+      "current_frame_id": "VF_000253",
+      "timestamp_seconds": 252.0,
+      "difference_score": 0.03497,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000253",
+      "current_frame_id": "VF_000254",
+      "timestamp_seconds": 253.0,
+      "difference_score": 0.029179,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000254",
+      "current_frame_id": "VF_000255",
+      "timestamp_seconds": 254.0,
+      "difference_score": 0.1222,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000255",
+      "current_frame_id": "VF_000256",
+      "timestamp_seconds": 255.0,
+      "difference_score": 0.042328,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000256",
+      "current_frame_id": "VF_000257",
+      "timestamp_seconds": 256.0,
+      "difference_score": 0.208435,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000257",
+      "current_frame_id": "VF_000258",
+      "timestamp_seconds": 257.0,
+      "difference_score": 0.231291,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000258",
+      "current_frame_id": "VF_000259",
+      "timestamp_seconds": 258.0,
+      "difference_score": 0.107906,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000259",
+      "current_frame_id": "VF_000260",
+      "timestamp_seconds": 259.0,
+      "difference_score": 0.151589,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000260",
+      "current_frame_id": "VF_000261",
+      "timestamp_seconds": 260.0,
+      "difference_score": 0.136117,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000261",
+      "current_frame_id": "VF_000262",
+      "timestamp_seconds": 261.0,
+      "difference_score": 0.080271,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000262",
+      "current_frame_id": "VF_000263",
+      "timestamp_seconds": 262.0,
+      "difference_score": 0.122404,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000263",
+      "current_frame_id": "VF_000264",
+      "timestamp_seconds": 263.0,
+      "difference_score": 0.144401,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000264",
+      "current_frame_id": "VF_000265",
+      "timestamp_seconds": 264.0,
+      "difference_score": 0.017795,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000265",
+      "current_frame_id": "VF_000266",
+      "timestamp_seconds": 265.0,
+      "difference_score": 0.029904,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000266",
+      "current_frame_id": "VF_000267",
+      "timestamp_seconds": 266.0,
+      "difference_score": 0.207204,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000267",
+      "current_frame_id": "VF_000268",
+      "timestamp_seconds": 267.0,
+      "difference_score": 0.105979,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000268",
+      "current_frame_id": "VF_000269",
+      "timestamp_seconds": 268.0,
+      "difference_score": 0.185072,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000269",
+      "current_frame_id": "VF_000270",
+      "timestamp_seconds": 269.0,
+      "difference_score": 0.137781,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000270",
+      "current_frame_id": "VF_000271",
+      "timestamp_seconds": 270.0,
+      "difference_score": 0.157508,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000271",
+      "current_frame_id": "VF_000272",
+      "timestamp_seconds": 271.0,
+      "difference_score": 0.18245,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000272",
+      "current_frame_id": "VF_000273",
+      "timestamp_seconds": 272.0,
+      "difference_score": 0.066211,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000273",
+      "current_frame_id": "VF_000274",
+      "timestamp_seconds": 273.0,
+      "difference_score": 0.064484,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000274",
+      "current_frame_id": "VF_000275",
+      "timestamp_seconds": 274.0,
+      "difference_score": 0.057007,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000275",
+      "current_frame_id": "VF_000276",
+      "timestamp_seconds": 275.0,
+      "difference_score": 0.180658,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000276",
+      "current_frame_id": "VF_000277",
+      "timestamp_seconds": 276.0,
+      "difference_score": 0.050231,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000277",
+      "current_frame_id": "VF_000278",
+      "timestamp_seconds": 277.0,
+      "difference_score": 0.108998,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000278",
+      "current_frame_id": "VF_000279",
+      "timestamp_seconds": 278.0,
+      "difference_score": 0.114713,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000279",
+      "current_frame_id": "VF_000280",
+      "timestamp_seconds": 279.0,
+      "difference_score": 0.057118,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000280",
+      "current_frame_id": "VF_000281",
+      "timestamp_seconds": 280.0,
+      "difference_score": 0.040379,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000281",
+      "current_frame_id": "VF_000282",
+      "timestamp_seconds": 281.0,
+      "difference_score": 0.06891,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000282",
+      "current_frame_id": "VF_000283",
+      "timestamp_seconds": 282.0,
+      "difference_score": 0.06622,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000283",
+      "current_frame_id": "VF_000284",
+      "timestamp_seconds": 283.0,
+      "difference_score": 0.145115,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000284",
+      "current_frame_id": "VF_000285",
+      "timestamp_seconds": 284.0,
+      "difference_score": 0.063305,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000285",
+      "current_frame_id": "VF_000286",
+      "timestamp_seconds": 285.0,
+      "difference_score": 0.148646,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000286",
+      "current_frame_id": "VF_000287",
+      "timestamp_seconds": 286.0,
+      "difference_score": 0.080489,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000287",
+      "current_frame_id": "VF_000288",
+      "timestamp_seconds": 287.0,
+      "difference_score": 0.123469,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000288",
+      "current_frame_id": "VF_000289",
+      "timestamp_seconds": 288.0,
+      "difference_score": 0.05429,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000289",
+      "current_frame_id": "VF_000290",
+      "timestamp_seconds": 289.0,
+      "difference_score": 0.442618,
+      "classification": "POSSIBLE_SCENE_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000290",
+      "current_frame_id": "VF_000291",
+      "timestamp_seconds": 290.0,
+      "difference_score": 0.316504,
+      "classification": "POSSIBLE_SCENE_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000291",
+      "current_frame_id": "VF_000292",
+      "timestamp_seconds": 291.0,
+      "difference_score": 0.086079,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000292",
+      "current_frame_id": "VF_000293",
+      "timestamp_seconds": 292.0,
+      "difference_score": 0.108335,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000293",
+      "current_frame_id": "VF_000294",
+      "timestamp_seconds": 293.0,
+      "difference_score": 0.153679,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000294",
+      "current_frame_id": "VF_000295",
+      "timestamp_seconds": 294.0,
+      "difference_score": 0.235099,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000295",
+      "current_frame_id": "VF_000296",
+      "timestamp_seconds": 295.0,
+      "difference_score": 0.02234,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000296",
+      "current_frame_id": "VF_000297",
+      "timestamp_seconds": 296.0,
+      "difference_score": 0.109413,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000297",
+      "current_frame_id": "VF_000298",
+      "timestamp_seconds": 297.0,
+      "difference_score": 0.045757,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000298",
+      "current_frame_id": "VF_000299",
+      "timestamp_seconds": 298.0,
+      "difference_score": 0.107585,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000299",
+      "current_frame_id": "VF_000300",
+      "timestamp_seconds": 299.0,
+      "difference_score": 0.058148,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000300",
+      "current_frame_id": "VF_000301",
+      "timestamp_seconds": 300.0,
+      "difference_score": 0.107739,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000301",
+      "current_frame_id": "VF_000302",
+      "timestamp_seconds": 301.0,
+      "difference_score": 0.021726,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000302",
+      "current_frame_id": "VF_000303",
+      "timestamp_seconds": 302.0,
+      "difference_score": 0.016298,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000303",
+      "current_frame_id": "VF_000304",
+      "timestamp_seconds": 303.0,
+      "difference_score": 0.039483,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000304",
+      "current_frame_id": "VF_000305",
+      "timestamp_seconds": 304.0,
+      "difference_score": 0.114258,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000305",
+      "current_frame_id": "VF_000306",
+      "timestamp_seconds": 305.0,
+      "difference_score": 0.108057,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000306",
+      "current_frame_id": "VF_000307",
+      "timestamp_seconds": 306.0,
+      "difference_score": 0.096456,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000307",
+      "current_frame_id": "VF_000308",
+      "timestamp_seconds": 307.0,
+      "difference_score": 0.067175,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000308",
+      "current_frame_id": "VF_000309",
+      "timestamp_seconds": 308.0,
+      "difference_score": 0.138554,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000309",
+      "current_frame_id": "VF_000310",
+      "timestamp_seconds": 309.0,
+      "difference_score": 0.141006,
+      "classification": "NO_SIGNIFICANT_CHANGE"
+    }
+  ],
+  "scene_change_candidates": [
+    {
+      "previous_frame_id": "VF_000009",
+      "current_frame_id": "VF_000010",
+      "timestamp_seconds": 9.0,
+      "difference_score": 0.515493,
+      "classification": "STRONG_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000010",
+      "current_frame_id": "VF_000011",
+      "timestamp_seconds": 10.0,
+      "difference_score": 0.538515,
+      "classification": "STRONG_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000110",
+      "current_frame_id": "VF_000111",
+      "timestamp_seconds": 110.0,
+      "difference_score": 0.691657,
+      "classification": "STRONG_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000111",
+      "current_frame_id": "VF_000112",
+      "timestamp_seconds": 111.0,
+      "difference_score": 0.71127,
+      "classification": "STRONG_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000246",
+      "current_frame_id": "VF_000247",
+      "timestamp_seconds": 246.0,
+      "difference_score": 0.789452,
+      "classification": "STRONG_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000247",
+      "current_frame_id": "VF_000248",
+      "timestamp_seconds": 247.0,
+      "difference_score": 0.799444,
+      "classification": "STRONG_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000289",
+      "current_frame_id": "VF_000290",
+      "timestamp_seconds": 289.0,
+      "difference_score": 0.442618,
+      "classification": "POSSIBLE_SCENE_CHANGE"
+    },
+    {
+      "previous_frame_id": "VF_000290",
+      "current_frame_id": "VF_000291",
+      "timestamp_seconds": 290.0,
+      "difference_score": 0.316504,
+      "classification": "POSSIBLE_SCENE_CHANGE"
+    }
+  ]
+}

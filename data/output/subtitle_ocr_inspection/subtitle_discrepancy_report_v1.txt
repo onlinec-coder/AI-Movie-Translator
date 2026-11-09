@@ -1,0 +1,884 @@
+﻿SUBTITLE DISCREPANCY REPORT V1
+=================================================================
+Total cues: 908
+
+CATEGORY SUMMARY
+-----------------------------------------------------------------
+MANUAL_CORRECTION_CONFIRMED: 1
+MANUAL_SEQUENCE_CONFIRMED: 3
+MANUAL_TEXT_CONFIRMED: 1
+OCR_FULL_COVERAGE_UNVERIFIED: 1
+OCR_PARTIAL_REVIEW: 1
+ASR_DIFFERENCE_REVIEW: 135
+ASR_ALIGNED_NO_FLAGGED_DIFFERENCE: 766
+
+REVIEW CANDIDATES
+=================================================================
+
+CUE 3 | 15.831-18.757
+CATEGORY: MANUAL_CORRECTION_CONFIRMED
+WHISPER: Lucian stood at the dend of the bed and watched me go.
+ASSEMBLYAI: stood at the of the bed and watched me go.
+MISSING FROM ASSEMBLYAI: lucian, dend
+MANUALLY CONFIRMED CORRECTION: Lucian stood at the foot of the bed and watched me go.
+NOTES: Manually verified against the burned-in English subtitles in the source video. The correct word is 'foot'. Repeated OCR detections also read 'foot'. Whisper produced 'dend' and AssemblyAI produced 'end'.
+
+CUE 4 | 18.758-21.79
+CATEGORY: MANUAL_SEQUENCE_CONFIRMED
+WHISPER: Seven pups, whole high-ranking blood. That's enough.
+ASSEMBLYAI: 7 pups, high-ranking high-ranking blood. That's enough.
+MISSING FROM ASSEMBLYAI: whole
+BURNED-IN SUBTITLE SEQUENCE:
+  - Seven pups,
+  - whole high-ranking blood.
+  - That's enough.
+NOTES: Words are correct. Three subtitle displays appear sequentially within one SRT cue. Individual display timestamps have not been measured.
+
+CUE 5 | 21.791-24.27
+CATEGORY: MANUAL_SEQUENCE_CONFIRMED
+WHISPER: I tried to speak. Nothing came out.
+ASSEMBLYAI: I tried to speak. Nothing came out.
+BURNED-IN SUBTITLE SEQUENCE:
+  - I tried to speak.
+  - Nothing came out.
+NOTES: Both subtitle displays are present. OCR failed to reliably recognize the first display.
+
+CUE 6 | 26.11-28.03
+CATEGORY: MANUAL_SEQUENCE_CONFIRMED
+WHISPER: You were never the one I wanted Vivienne.
+ASSEMBLYAI: You were never the one I wanted, Vivienne.
+BURNED-IN SUBTITLE SEQUENCE:
+  - You were never the one I wanted,
+  - Vivienne.
+NOTES: Words are correct. Two subtitle displays appear sequentially within one SRT cue. Individual display timestamps have not been measured.
+
+CUE 7 | 29.23-30.43
+CATEGORY: MANUAL_TEXT_CONFIRMED
+WHISPER: His voice didn't waver.
+ASSEMBLYAI: His voice didn't waver.
+NOTES: Manually verified against the burned-in English subtitles in the source video. The complete subtitle reads 'His voice didn't waver.'. OCR V5 detected only three of the four words.
+
+CUE 1 | 9.07-13.47
+CATEGORY: OCR_FULL_COVERAGE_UNVERIFIED
+WHISPER: The third bowl tasted like rot. I couldn't feel my hands anymore.
+ASSEMBLYAI: The 3rd bowl tasted like rot. I couldn't feel my hands anymore.
+NOTES: OCR V5 confirmed all reference words across multiple frames. No correction proposed.
+
+CUE 2 | 13.471-15.807
+CATEGORY: OCR_PARTIAL_REVIEW
+WHISPER: The wolf bead had already reached my chest.
+ASSEMBLYAI: The wolf bead had already reached my chest.
+NOTES: OCR V5 confirmed the reference text with 0.75 coverage. No correction proposed.
+
+CUE 15 | 52.58-56.74
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: I opened my eyes. In my mother's sitting room at Coldwell Manor.
+ASSEMBLYAI: I opened my eyes in my mother's sitting room
+MISSING FROM ASSEMBLYAI: at, coldwell, manor
+
+CUE 19 | 68.271-72.43
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: A mating bond contract, sealed with the Blood Moon Pack crest.
+ASSEMBLYAI: a mating bond contract, sealed with the Pack crest.
+MISSING FROM ASSEMBLYAI: blood, moon
+
+CUE 21 | 74.51-77.87
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: The Velice's heir sent this earlier this morning, Vivienne.
+ASSEMBLYAI: The heir sent this earlier this morning, Viviana.
+MISSING FROM ASSEMBLYAI: velice's
+
+CUE 23 | 79.471-83.47
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian sat across from her. Same face. Same steady eyes.
+ASSEMBLYAI: sat across from her, same face, Same steady eyes,
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 27 | 90.911-92.50999999999999
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Three bowls of wolf's babe.
+ASSEMBLYAI: 3 bowls of
+MISSING FROM ASSEMBLYAI: wolf's, babe
+
+CUE 32 | 102.991-106.59
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian looked at me. That calm, unerisval stare.
+ASSEMBLYAI: looked at me, that calm, stare
+MISSING FROM ASSEMBLYAI: lucian, unerisval
+
+CUE 40 | 124.75-127.95
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: My mother turned back to Lucian with a tight smile.
+ASSEMBLYAI: My mother turned back to with a tight smile.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 43 | 137.52-139.76
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: No. Lucian stood.
+ASSEMBLYAI: No. stood.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 46 | 146.47-149.04
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: The woman I marry comes from the Coldwild family.
+ASSEMBLYAI: The woman I marry comes from the family.
+MISSING FROM ASSEMBLYAI: coldwild
+
+CUE 70 | 216.18-218.18
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: You told me Lucian loved me.
+ASSEMBLYAI: You told me loved me.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 76 | 228.18099999999998-234.7
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: He said the only thing I was good for was my Moon Veal voice.
+ASSEMBLYAI: He said the only thing I was good for was my voice.
+MISSING FROM ASSEMBLYAI: moon, veal
+
+CUE 81 | 253.631-255.63
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: He had my limbs severed so I couldn't shift.
+ASSEMBLYAI: He had my severed so I couldn't shift.
+MISSING FROM ASSEMBLYAI: limbs
+
+CUE 94 | 291.861-295.86
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Arya's expression turned puzzled after learning the truth.
+ASSEMBLYAI: expression turned puzzled after learning the truth.
+MISSING FROM ASSEMBLYAI: arya's
+
+CUE 112 | 343.741-345.74
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Why cold well?
+ASSEMBLYAI: Why
+MISSING FROM ASSEMBLYAI: cold, well
+
+CUE 113 | 345.79-347.74
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Why only cold well?
+ASSEMBLYAI: Why only
+MISSING FROM ASSEMBLYAI: cold, well
+
+CUE 128 | 383.921-385.92
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: You go through the manner.
+ASSEMBLYAI: You go through the
+MISSING FROM ASSEMBLYAI: manner
+
+CUE 130 | 389.921-391.92
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: anyone connected to Lucian in the last five years.
+ASSEMBLYAI: anyone connected to in the last 5 years.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 133 | 395.921-399.92
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: And you know him best, so you're going to Blood Moon Manor.
+ASSEMBLYAI: And you know him best, so you're going to Manor.
+MISSING FROM ASSEMBLYAI: blood, moon
+
+CUE 138 | 408.445-409.92
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Blood Moon Manor was exactly as I remembered it.
+ASSEMBLYAI: Manor was exactly as I remembered it.
+MISSING FROM ASSEMBLYAI: blood, moon
+
+CUE 139 | 409.921-415.2
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Same long driveway, same iron gates, same guard at
+ASSEMBLYAI: Same long driveway, same iron Same guard at
+MISSING FROM ASSEMBLYAI: gates
+
+CUE 140 | 415.201-417.92
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: the door that waved me through without question.
+ASSEMBLYAI: the door waved me through without question,
+MISSING FROM ASSEMBLYAI: that
+
+CUE 141 | 417.921-421.92
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Because in this life, Lucian and I were still childhood friends.
+ASSEMBLYAI: because in this life, and I were still childhood friends.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 147 | 431.921-434.657
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian sat at his desk with a brush in his hand,
+ASSEMBLYAI: sat at his desk with a brush in his hand,
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 167 | 484.861-486.86
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian, I kept my voice flat.
+ASSEMBLYAI: I kept my voice flat,
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 175 | 500.861-504.397
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: He said, he smudged it.
+ASSEMBLYAI: he said. smudged it.
+MISSING FROM ASSEMBLYAI: he
+
+CUE 177 | 504.861-506.86
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Right. I held his graze.
+ASSEMBLYAI: Right. I held his
+MISSING FROM ASSEMBLYAI: graze
+
+CUE 185 | 522.861-526.86
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: A painter like Lucian didn't slip.
+ASSEMBLYAI: A painter like didn't slip.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 186 | 526.861-528.86
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian stared at me for a long moment.
+ASSEMBLYAI: stared at me for a long moment.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 208 | 575.189-579.14
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: He used to take the blame when we were kids so I wouldn't get in trouble.
+ASSEMBLYAI: He used to take the blame when we were kids so I wouldn't get in
+MISSING FROM ASSEMBLYAI: trouble
+
+CUE 240 | 649.141-653.14
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: He'd killed her himself with three bowls of Wolf Bab.
+ASSEMBLYAI: He'd killed her himself with 3 bowls of
+MISSING FROM ASSEMBLYAI: wolf, bab
+
+CUE 241 | 653.141-657.14
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: I let the silence hang just long enough to be convincing.
+ASSEMBLYAI: I let the silence hang just long
+MISSING FROM ASSEMBLYAI: enough, to, be, convincing
+
+CUE 264 | 707.141-713.14
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian had sat at our table and watched me do it more times than I could count.
+ASSEMBLYAI: had sat at our table and watched me do it, more times than I could count.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 271 | 727.639-731.14
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: And I'm going to use a single second of it.
+ASSEMBLYAI: And I'm going to use single second of it.
+MISSING FROM ASSEMBLYAI: a
+
+CUE 283 | 761.151-763.15
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Arya's voice was strange.
+ASSEMBLYAI: voice was strange.
+MISSING FROM ASSEMBLYAI: arya's
+
+CUE 295 | 788.641-790.64
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Arya's eyes narrowed.
+ASSEMBLYAI: eyes narrowed.
+MISSING FROM ASSEMBLYAI: arya's
+
+CUE 306 | 810.739-812.64
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: The room was quiet. Then Arya's face shifted.
+ASSEMBLYAI: The room was quiet, then face shifted.
+MISSING FROM ASSEMBLYAI: arya's
+
+CUE 310 | 818.641-820.64
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: A cold-willed woman.
+ASSEMBLYAI: a woman,
+MISSING FROM ASSEMBLYAI: cold, willed
+
+CUE 311 | 820.641-822.64
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: We give her more.
+ASSEMBLYAI: we give
+MISSING FROM ASSEMBLYAI: her, more
+
+CUE 315 | 828.641-830.64
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Arya dropped onto the couch across from her.
+ASSEMBLYAI: Aria dropped onto the couch across from
+MISSING FROM ASSEMBLYAI: her
+
+CUE 323 | 844.989-846.64
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian can give her a title.
+ASSEMBLYAI: can give her a title,
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 354 | 910.641-914.64
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian was coming in three days expecting a bride.
+ASSEMBLYAI: was coming in 3 days expecting a bride,
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 361 | 930.7139999999999-934.64
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: I held my contract for a month after.
+ASSEMBLYAI: I held my contract for a after.
+MISSING FROM ASSEMBLYAI: month
+
+CUE 377 | 974.241-976.24
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: It's cold word. Both of you.
+ASSEMBLYAI: both of you.
+MISSING FROM ASSEMBLYAI: it's, cold, word
+
+CUE 383 | 986.8389999999999-992.24
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: On the desk there was a beaten piece of snow lily cake on a ceramic plate.
+ASSEMBLYAI: On the desk, a piece of snow lily cake on a ceramic plate.
+MISSING FROM ASSEMBLYAI: there, was, beaten
+
+CUE 387 | 1004.641-1008.88
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: All right?
+ASSEMBLYAI: 
+MISSING FROM ASSEMBLYAI: all, right
+
+CUE 390 | 1012.881-1016.88
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: About Lucien coming to Coldwilled Manor for years always with a reason.
+ASSEMBLYAI: about Lucien coming to manor for years, always with a reason,
+MISSING FROM ASSEMBLYAI: coldwilled
+
+CUE 409 | 1064.271-1066.27
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: That I needed to be patient.
+ASSEMBLYAI: that I needed to be
+MISSING FROM ASSEMBLYAI: patient
+
+CUE 410 | 1066.271-1068.27
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Arya made a small side beside me.
+ASSEMBLYAI: Aria made a small beside me.
+MISSING FROM ASSEMBLYAI: side
+
+CUE 421 | 1095.681-1097.68
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Morgana looked at her.
+ASSEMBLYAI: looked at her,
+MISSING FROM ASSEMBLYAI: morgana
+
+CUE 429 | 1114.461-1116.46
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: I'll have it handled before the wedding.
+ASSEMBLYAI: I'll have it handled before the
+MISSING FROM ASSEMBLYAI: wedding
+
+CUE 439 | 1144.524-1146.35
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucien's motor cord arrived exactly on time.
+ASSEMBLYAI: Lucien's arrived exactly on time.
+MISSING FROM ASSEMBLYAI: motor, cord
+
+CUE 459 | 1201.151-1203.15
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: It's going to be very interesting.
+ASSEMBLYAI: it's be very interesting.
+MISSING FROM ASSEMBLYAI: going, to
+
+CUE 460 | 1203.349-1205.15
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: They grabbed me the net.
+ASSEMBLYAI: They grabbed me the
+MISSING FROM ASSEMBLYAI: net
+
+CUE 461 | 1210.96-1220.96
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Arya and I had gone out to look at jewelry for our own upcoming ceremonies.
+ASSEMBLYAI: and I had gone out to look at jewelry for our own upcoming ceremonies.
+MISSING FROM ASSEMBLYAI: aria
+
+CUE 462 | 1220.961-1224.96
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: I stopped at a small cafe to wait while she went ahead.
+ASSEMBLYAI: I stopped at a small to wait while she went ahead.
+MISSING FROM ASSEMBLYAI: cafe
+
+CUE 470 | 1240.961-1242.96
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian sat on the edge of the bed.
+ASSEMBLYAI: sat on the edge of the bed.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 474 | 1250.961-1252.96
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: He looked at me the way he used to look at me.
+ASSEMBLYAI: 
+MISSING FROM ASSEMBLYAI: he, looked, at, me, the, way, he, used, to, look, at, me
+
+CUE 475 | 1252.961-1254.96
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: He looked at me.
+ASSEMBLYAI: 
+MISSING FROM ASSEMBLYAI: he, looked, at, me
+
+CUE 502 | 1316.501-1320.74
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Your jaw tightened.
+ASSEMBLYAI: jaw tightened.
+MISSING FROM ASSEMBLYAI: your
+
+CUE 503 | 1320.939-1324.88
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: The room was dark. I didn't know it.
+ASSEMBLYAI: The room was dark. I didn't know
+MISSING FROM ASSEMBLYAI: it
+
+CUE 507 | 1330.881-1332.88
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Faint but unrestakeable.
+ASSEMBLYAI: faint but
+MISSING FROM ASSEMBLYAI: unrestakeable
+
+CUE 511 | 1338.881-1340.88
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: At Lucian standing there with his red eyes
+ASSEMBLYAI: at standing there with his red eyes
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 525 | 1372.221-1374.22
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: And then we're going to fix this.
+ASSEMBLYAI: and then we're fix this.
+MISSING FROM ASSEMBLYAI: going, to
+
+CUE 537 | 1398.221-1400.22
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Except whatever you decided to give me?
+ASSEMBLYAI: whatever you decided to give me?
+MISSING FROM ASSEMBLYAI: except
+
+CUE 544 | 1412.221-1414.22
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Then the door opened and Alpha Various walked in.
+ASSEMBLYAI: Then the door opened and Alpha walked in,
+MISSING FROM ASSEMBLYAI: various
+
+CUE 545 | 1414.221-1416.22
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Followed by Luna Various.
+ASSEMBLYAI: followed by Luna
+MISSING FROM ASSEMBLYAI: various
+
+CUE 546 | 1416.221-1418.22
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Luna Various rushed toward me with both hands out.
+ASSEMBLYAI: Luna rushed toward me with both hands out.
+MISSING FROM ASSEMBLYAI: various
+
+CUE 547 | 1418.221-1420.22
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Vivian, sweetheart. You're finally up.
+ASSEMBLYAI: sweetheart! You're finally up!
+MISSING FROM ASSEMBLYAI: vivienne
+
+CUE 549 | 1422.221-1424.22
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Smoothing it back like I was 12 years old.
+ASSEMBLYAI: smoothing it back like I was 12 years
+MISSING FROM ASSEMBLYAI: old
+
+CUE 556 | 1437.601-1439.6
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Luna Various's laughed.
+ASSEMBLYAI: Luna laughed,
+MISSING FROM ASSEMBLYAI: various's
+
+CUE 562 | 1451.601-1453.183
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Which is why you can call Chief Elder LaRonde
+ASSEMBLYAI: Which is why you can call Chief Elder
+MISSING FROM ASSEMBLYAI: laronde
+
+CUE 565 | 1459.649-1461.6
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Alpha Various looked at his son.
+ASSEMBLYAI: Alpha looked at his son.
+MISSING FROM ASSEMBLYAI: various
+
+CUE 566 | 1461.601-1463.6
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian said nothing.
+ASSEMBLYAI: said nothing.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 572 | 1477.141-1481.14
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: I was at Coldwell Manor having dinner with Chief Elder LaRonde and his wife.
+ASSEMBLYAI: I was at Coldwell Manor having dinner with Chief Elder and his wife.
+MISSING FROM ASSEMBLYAI: laronde
+
+CUE 573 | 1483.14-1485.14
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Luna Various looked between me and Lucian.
+ASSEMBLYAI: Luna looked between me and
+MISSING FROM ASSEMBLYAI: various, lucian
+
+CUE 574 | 1485.141-1489.14
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: That's not... The servants said the bride arrived in the convoy.
+ASSEMBLYAI: That's not— the said the bride arrived in the convoy.
+MISSING FROM ASSEMBLYAI: servants
+
+CUE 582 | 1503.141-1505.301
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Luna Various has sat down hard in the chair behind her.
+ASSEMBLYAI: Luna sat down hard in the chair behind her.
+MISSING FROM ASSEMBLYAI: various, has
+
+CUE 583 | 1507.14-1509.14
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Alpha Various turned to Lucian.
+ASSEMBLYAI: Alpha turned to
+MISSING FROM ASSEMBLYAI: various, lucian
+
+CUE 586 | 1515.141-1519.63
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian's mouth tightened.
+ASSEMBLYAI: mouth tightened.
+MISSING FROM ASSEMBLYAI: lucian's
+
+CUE 588 | 1521.631-1527.04
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian... Various's voice dropped.
+ASSEMBLYAI: voice dropped.
+MISSING FROM ASSEMBLYAI: lucian, various's
+
+CUE 589 | 1527.041-1531.15
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Who is she?
+ASSEMBLYAI: Who is
+MISSING FROM ASSEMBLYAI: she
+
+CUE 590 | 1531.151-1533.15
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian stopped.
+ASSEMBLYAI: stopped,
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 600 | 1553.781-1555.78
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: He came to Coldwell Manor every chance he got.
+ASSEMBLYAI: He came to Manor every chance he got.
+MISSING FROM ASSEMBLYAI: coldwell
+
+CUE 603 | 1559.781-1561.78
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: I looked at Alpha Various.
+ASSEMBLYAI: I looked at Alpha
+MISSING FROM ASSEMBLYAI: various
+
+CUE 606 | 1565.781-1567.78
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian went pale.
+ASSEMBLYAI: went pale.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 610 | 1573.781-1575.78
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Alpha Various said he didn't raise his voice.
+ASSEMBLYAI: Alpha said. He didn't raise his voice.
+MISSING FROM ASSEMBLYAI: various
+
+CUE 615 | 1590.381-1592.38
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian turned to me.
+ASSEMBLYAI: turned to me.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 620 | 1600.381-1602.38
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Alpha Various looked at me.
+ASSEMBLYAI: Alpha looked at me,
+MISSING FROM ASSEMBLYAI: various
+
+CUE 624 | 1608.381-1610.38
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: The same calculation I'd seen in Lucian a hundred times.
+ASSEMBLYAI: the same calculation I'd seen in a hundred times.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 629 | 1619.891-1621.89
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian and Morgana are properly made it now.
+ASSEMBLYAI: and Morgana are properly now.
+MISSING FROM ASSEMBLYAI: lucian, made, it
+
+CUE 632 | 1625.891-1627.89
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: No reason this has to leave these walls.
+ASSEMBLYAI: No reason this has to leave
+MISSING FROM ASSEMBLYAI: these, walls
+
+CUE 634 | 1631.391-1633.39
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Luna Valerce recovered fast.
+ASSEMBLYAI: Luna recovered fast,
+MISSING FROM ASSEMBLYAI: valerce
+
+CUE 641 | 1646.391-1648.39
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Then at Lucian.
+ASSEMBLYAI: then at
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 651 | 1674.901-1677.9
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Instead, Alpha Valerce told the guards to keep me in the East guest room
+ASSEMBLYAI: Instead, Alpha told the guards to keep me in the east guest room
+MISSING FROM ASSEMBLYAI: valerce
+
+CUE 652 | 1677.901-1681.9
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: until he and Lucian returned from what he called a necessary visit.
+ASSEMBLYAI: until he and returned from what he called A necessary visit.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 662 | 1701.471-1703.47
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Then Lucian came back alone.
+ASSEMBLYAI: Then came back alone.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 666 | 1711.471-1713.47
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Laurent's talked to us.
+ASSEMBLYAI: talked to us,
+MISSING FROM ASSEMBLYAI: laurent's
+
+CUE 670 | 1719.471-1723.62
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian looked up.
+ASSEMBLYAI: looked up.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 704 | 1804.211-1808.21
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian, my voice came out steady even though nothing else was.
+ASSEMBLYAI: my voice came out steady even though nothing else was.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 715 | 1833.484-1835.21
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: A silver blade in both hands.
+ASSEMBLYAI: a silver blade in both
+MISSING FROM ASSEMBLYAI: hands
+
+CUE 718 | 1838.211-1840.21
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian turned his head.
+ASSEMBLYAI: turned his head.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 721 | 1846.211-1851.21
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: The blade flew out of Arya's grip and hit the far wall.
+ASSEMBLYAI: The blade flew out of grip and hit the far wall.
+MISSING FROM ASSEMBLYAI: arya's
+
+CUE 723 | 1853.211-1855.21
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Caught herself on the door warm.
+ASSEMBLYAI: caught herself on the door
+MISSING FROM ASSEMBLYAI: warm
+
+CUE 724 | 1855.259-1857.21
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian turned back to me.
+ASSEMBLYAI: turned back to me.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 735 | 1874.211-1876.21
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: At Arya's empty hands.
+ASSEMBLYAI: at empty hands,
+MISSING FROM ASSEMBLYAI: arya's
+
+CUE 736 | 1876.211-1878.21
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: At Lucian standing over me.
+ASSEMBLYAI: at standing over me.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 739 | 1882.211-1885.78
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian didn't move immediately.
+ASSEMBLYAI: didn't move immediately.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 744 | 1898.781-1900.78
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: White haired, unharried.
+ASSEMBLYAI: white-haired, white-haired,
+MISSING FROM ASSEMBLYAI: unharried
+
+CUE 746 | 1901.781-1903.78
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: The alpha king's personal emise.
+ASSEMBLYAI: the Alpha King's personal
+MISSING FROM ASSEMBLYAI: emise
+
+CUE 749 | 1907.781-1909.78
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Laurent looked at Lucian.
+ASSEMBLYAI: Laurent looked at
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 753 | 1916.781-1919.78
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: He clipped his hands behind his back.
+ASSEMBLYAI: He his hands behind his back.
+MISSING FROM ASSEMBLYAI: clipped
+
+CUE 757 | 1925.781-1927.78
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian's eyes moved to the royal seal.
+ASSEMBLYAI: eyes moved to the royal
+MISSING FROM ASSEMBLYAI: lucian's, seal
+
+CUE 762 | 1936.781-1939.78
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: He looked at Alpha Valeris who had appeared in the doorway.
+ASSEMBLYAI: He looked at Alpha who had appeared in the doorway.
+MISSING FROM ASSEMBLYAI: valeris
+
+CUE 770 | 1954.781-1956.78
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: The royal sea was with me.
+ASSEMBLYAI: The Royal was with me,
+MISSING FROM ASSEMBLYAI: sea
+
+CUE 773 | 1961.781-1963.78
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Alpha Valeris looked at Lucian.
+ASSEMBLYAI: Alpha looked at
+MISSING FROM ASSEMBLYAI: valeris, lucian
+
+CUE 788 | 1991.301-1992.3
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: I looked at him.
+ASSEMBLYAI: at him.
+MISSING FROM ASSEMBLYAI: i, looked
+
+CUE 796 | 2013.221-2016.22
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Arya Appyr appeared at my side immediately.
+ASSEMBLYAI: Aria appeared at my side immediately.
+MISSING FROM ASSEMBLYAI: appyr
+
+CUE 801 | 2026.221-2029.22
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: watching everything he built from a part of the scenes.
+ASSEMBLYAI: watching everything he built the
+MISSING FROM ASSEMBLYAI: from, a, part, of, scenes
+
+CUE 802 | 2029.221-2033.22
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian didn't look away from me until the guards put their hands on his arms.
+ASSEMBLYAI: didn't look away from me until the guards put their hands on his arms.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 807 | 2040.27-2041.245
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Lucian.
+ASSEMBLYAI: 
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 809 | 2044.221-2046.22
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Soulbinding shackles.
+ASSEMBLYAI: shackles,
+MISSING FROM ASSEMBLYAI: soulbinding
+
+CUE 811 | 2048.22-2050.219
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Alpha Valerius and Luna Valerius.
+ASSEMBLYAI: 
+MISSING FROM ASSEMBLYAI: alpha, valerius, and, luna, valerius
+
+CUE 814 | 2055.22-2056.219
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Their pact title stripped.
+ASSEMBLYAI: Their title stripped,
+MISSING FROM ASSEMBLYAI: pact
+
+CUE 815 | 2056.22-2058.219
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: The blood moon pact dissolved.
+ASSEMBLYAI: the Blood Moon dissolved,
+MISSING FROM ASSEMBLYAI: pact
+
+CUE 816 | 2058.22-2061.219
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Valerius' manner seized and transferred to high council jurisdiction.
+ASSEMBLYAI: seized and transferred to High Council jurisdiction.
+MISSING FROM ASSEMBLYAI: valerius', manner
+
+CUE 824 | 2081.061-2082.06
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Packs gone.
+ASSEMBLYAI: gone,
+MISSING FROM ASSEMBLYAI: packs
+
+CUE 825 | 2082.061-2083.06
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Manners sealed.
+ASSEMBLYAI: sealed.
+MISSING FROM ASSEMBLYAI: manners
+
+CUE 841 | 2115.061-2116.061
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Either am I.
+ASSEMBLYAI: am I.
+MISSING FROM ASSEMBLYAI: either
+
+CUE 843 | 2118.61-2121.06
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Then Arya straightened up.
+ASSEMBLYAI: then Aria straightened
+MISSING FROM ASSEMBLYAI: up
+
+CUE 855 | 2139.11-2143.06
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: When Lucian came back injured and I wouldn't leave until I knew he was okay.
+ASSEMBLYAI: when came back injured, and I wouldn't leave until I knew he was okay.
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 859 | 2148.11-2150.06
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: You waited a month at a border post for Lucian?
+ASSEMBLYAI: You waited a month at a border post for
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 868 | 2167.72-2175.72
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Just two men who knocked on the front door and came in when my mother opened it.
+ASSEMBLYAI: Just 2 men who knocked on the front door and came in when my mother opened
+MISSING FROM ASSEMBLYAI: it
+
+CUE 878 | 2191.721-2194.72
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: Not the desperate, clinging feeling I used to get around Lucian.
+ASSEMBLYAI: Not the desperate, clinging feeling I used to get around
+MISSING FROM ASSEMBLYAI: lucian
+
+CUE 886 | 2206.721-2208.72
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: From the sitting room I heard Arya's voice.
+ASSEMBLYAI: From the sitting room, I heard voice,
+MISSING FROM ASSEMBLYAI: arya's
+
+CUE 893 | 2224.84-2227.09
+CATEGORY: ASR_DIFFERENCE_REVIEW
+WHISPER: You challenged three older kids to a race and one.
+ASSEMBLYAI: You challenged 3 older kids to a race and
+MISSING FROM ASSEMBLYAI: one
+
+=================================================================
+END OF REPORT

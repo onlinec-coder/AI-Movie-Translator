@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "project": "Husbands",
+  "source": "speaker_review_v1.json",
+  "branch": "audio-review-fixes",
+  "speaker_mappings": [
+    {
+      "speaker_id": "SPK_004",
+      "character_name": "Lucian",
+      "status": "confirmed",
+      "evidence_segments": [
+        {
+          "segment_id": "SEG_000170",
+          "start_seconds": 1530.39,
+          "end_seconds": 1531.229,
+          "text": "She's—"
+        },
+        {
+          "segment_id": "SEG_000172",
+          "start_seconds": 1534.57,
+          "end_seconds": 1540.215,
+          "text": "She was connected to the Coldwood family. She's been under their care for years. It's not— it's not what it looks like."
+        },
+        {
+          "segment_id": "SEG_000236",
+          "start_seconds": 1982.962,
+          "end_seconds": 1983.35,
+          "text": "Vivienne."
+        }
+      ]
+    }
+  ],
+  "identity_rules": [
+    {
+      "character_name": "Vivienne",
+      "roles": [
+        "spoken_dialogue",
+        "narration",
+        "inner_monologue"
+      ],
+      "status": "confirmed",
+      "note": "Narrator is a narrative role, not a separate voice identity."
+    }
+  ],
+  "cautions": [
+    "Do not map SPK_001, SPK_002, or SPK_003 from this file; their character identities were not newly confirmed in this review.",
+    "speaker_assignments.json uses C-series subtitle speaker IDs; do not equate those with SPK-series diarization IDs without explicit crosswalk evidence."
+  ]
+}

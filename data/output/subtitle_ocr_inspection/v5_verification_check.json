@@ -1,0 +1,1780 @@
+﻿[
+    {
+        "subtitle_id":  1,
+        "whisper":  {
+                        "text":  "The third bowl tasted like rot. I couldn\u0027t feel my hands anymore.",
+                        "words":  [
+                                      "the",
+                                      "third",
+                                      "bowl",
+                                      "tasted",
+                                      "like",
+                                      "rot",
+                                      "i",
+                                      "couldn\u0027t",
+                                      "feel",
+                                      "my",
+                                      "hands",
+                                      "anymore"
+                                  ]
+                    },
+        "assemblyai_time_alignment":  {
+                                          "matched_text":  "The 3rd bowl tasted like rot. I couldn\u0027t feel my hands anymore.",
+                                          "matched_token_count":  12,
+                                          "missing_from_assemblyai":  [
+
+                                                                      ]
+                                      },
+        "ocr_v5":  {
+                       "status":  "CONFIRMED",
+                       "word_coverage":  1.0,
+                       "matched_words":  [
+                                             "the",
+                                             "third",
+                                             "bowl",
+                                             "tasted",
+                                             "like",
+                                             "rot",
+                                             "i",
+                                             "couldn\u0027t",
+                                             "feel",
+                                             "my",
+                                             "hands",
+                                             "anymore"
+                                         ],
+                       "missing_words":  [
+
+                                         ],
+                       "frames_checked":  21
+                   },
+        "ocr_v7":  null,
+        "manual_verification":  {
+                                    "cue_index":  1,
+                                    "start_seconds":  9.07,
+                                    "end_seconds":  13.47,
+                                    "original_text":  "The third bowl tasted like rot. I couldn\u0027t feel my hands anymore.",
+                                    "status":  "OCR_CONFIRMED",
+                                    "manual_visual_confirmation":  false,
+                                    "notes":  "OCR V5 confirmed all reference words across multiple frames. No correction proposed."
+                                }
+    },
+    {
+        "subtitle_id":  2,
+        "whisper":  {
+                        "text":  "The wolf bead had already reached my chest.",
+                        "words":  [
+                                      "the",
+                                      "wolf",
+                                      "bead",
+                                      "had",
+                                      "already",
+                                      "reached",
+                                      "my",
+                                      "chest"
+                                  ]
+                    },
+        "assemblyai_time_alignment":  {
+                                          "matched_text":  "The wolf bead had already reached my chest.",
+                                          "matched_token_count":  8,
+                                          "missing_from_assemblyai":  [
+
+                                                                      ]
+                                      },
+        "ocr_v5":  {
+                       "status":  "CONFIRMED",
+                       "word_coverage":  0.75,
+                       "matched_words":  [
+                                             "the",
+                                             "bead",
+                                             "already",
+                                             "reached",
+                                             "my",
+                                             "chest"
+                                         ],
+                       "missing_words":  [
+                                             "wolf",
+                                             "had"
+                                         ],
+                       "frames_checked":  13
+                   },
+        "ocr_v7":  null,
+        "manual_verification":  {
+                                    "cue_index":  2,
+                                    "start_seconds":  13.47,
+                                    "end_seconds":  15.81,
+                                    "original_text":  "The wolf bead had already reached my chest.",
+                                    "status":  "OCR_CONFIRMED",
+                                    "manual_visual_confirmation":  false,
+                                    "notes":  "OCR V5 confirmed the reference text with 0.75 coverage. No correction proposed."
+                                }
+    },
+    {
+        "subtitle_id":  3,
+        "whisper":  {
+                        "text":  "Lucian stood at the dend of the bed and watched me go.",
+                        "words":  [
+                                      "lucian",
+                                      "stood",
+                                      "at",
+                                      "the",
+                                      "dend",
+                                      "of",
+                                      "the",
+                                      "bed",
+                                      "and",
+                                      "watched",
+                                      "me",
+                                      "go"
+                                  ]
+                    },
+        "assemblyai_time_alignment":  {
+                                          "matched_text":  "Lucien stood at the of the bed and watched me go.",
+                                          "matched_token_count":  11,
+                                          "missing_from_assemblyai":  [
+                                                                          "dend"
+                                                                      ]
+                                      },
+        "ocr_v5":  {
+                       "status":  "CONFIRMED",
+                       "word_coverage":  0.917,
+                       "matched_words":  [
+                                             "lucian",
+                                             "stood",
+                                             "at",
+                                             "the",
+                                             "of",
+                                             "the",
+                                             "bed",
+                                             "and",
+                                             "watched",
+                                             "me",
+                                             "go"
+                                         ],
+                       "missing_words":  [
+                                             "dend"
+                                         ],
+                       "frames_checked":  15
+                   },
+        "ocr_v7":  {
+                       "6":  {
+                                 "coverage":  0.818,
+                                 "matched_words":  [
+                                                       "and",
+                                                       "at",
+                                                       "bed",
+                                                       "lucian",
+                                                       "me",
+                                                       "of",
+                                                       "stood",
+                                                       "the",
+                                                       "watched"
+                                                   ],
+                                 "missing_words":  [
+                                                       "dend",
+                                                       "go"
+                                                   ],
+                                 "unmatched_ocr_words":  [
+                                                             {
+                                                                 "word":  "foot",
+                                                                 "frame_count":  3
+                                                             },
+                                                             {
+                                                                 "word":  "ss",
+                                                                 "frame_count":  2
+                                                             },
+                                                             {
+                                                                 "word":  "od",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "lian",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ae",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "yx",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "nx",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "as",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ba",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "to",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "nee",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "berg",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "po",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "pe",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ie",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ee",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "thebed",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "br",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "we",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "an",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "aes",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "thefoot",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ff",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "rees",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "bs",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "fe",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "mego",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "tad",
+                                                                 "frame_count":  1
+                                                             }
+                                                         ]
+                             },
+                       "11":  {
+                                  "coverage":  0.909,
+                                  "matched_words":  [
+                                                        "and",
+                                                        "at",
+                                                        "bed",
+                                                        "go",
+                                                        "lucian",
+                                                        "me",
+                                                        "of",
+                                                        "stood",
+                                                        "the",
+                                                        "watched"
+                                                    ],
+                                  "missing_words":  [
+                                                        "dend"
+                                                    ],
+                                  "unmatched_ocr_words":  [
+                                                              {
+                                                                  "word":  "foot",
+                                                                  "frame_count":  3
+                                                              },
+                                                              {
+                                                                  "word":  "as",
+                                                                  "frame_count":  3
+                                                              },
+                                                              {
+                                                                  "word":  "ot",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "he",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "fa",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "ee",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "yf",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "os",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "sea",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ye",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "in",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ss",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ete",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "oor",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "sx",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "uiciar",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "the\u0027be",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "nx",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "aoe",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ey",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "et",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ees",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "cian",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "stoc",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "thefoot",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ax",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ve",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "yy",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ihe",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "zs",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "sto",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "sre",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "om",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "cc",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ian",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ae",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "orn",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "re",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "tey",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "hs",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "sim",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "te",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "mego",
+                                                                  "frame_count":  1
+                                                              }
+                                                          ]
+                              }
+                   },
+        "manual_verification":  {
+                                    "cue_index":  3,
+                                    "start_seconds":  15.831,
+                                    "end_seconds":  18.757,
+                                    "original_text":  "Lucian stood at the dend of the bed and watched me go.",
+                                    "candidate_text":  "Lucian stood at the foot of the bed and watched me go.",
+                                    "status":  "MANUALLY_CONFIRMED",
+                                    "manual_visual_confirmation":  true,
+                                    "notes":  "Manually verified against the burned-in English subtitles in the source video. The correct word is \u0027foot\u0027. Repeated OCR detections also read \u0027foot\u0027. Whisper produced \u0027dend\u0027 and AssemblyAI produced \u0027end\u0027."
+                                }
+    },
+    {
+        "subtitle_id":  4,
+        "whisper":  {
+                        "text":  "Seven pups, whole high-ranking blood. That\u0027s enough.",
+                        "words":  [
+                                      "seven",
+                                      "pups",
+                                      "whole",
+                                      "high",
+                                      "ranking",
+                                      "blood",
+                                      "that\u0027s",
+                                      "enough"
+                                  ]
+                    },
+        "assemblyai_time_alignment":  {
+                                          "matched_text":  "7 pups, high-ranking high-ranking blood. That\u0027s enough.",
+                                          "matched_token_count":  7,
+                                          "missing_from_assemblyai":  [
+                                                                          "whole"
+                                                                      ]
+                                      },
+        "ocr_v5":  {
+                       "status":  "PARTIAL",
+                       "word_coverage":  0.5,
+                       "matched_words":  [
+                                             "pups",
+                                             "high",
+                                             "ranking",
+                                             "enough"
+                                         ],
+                       "missing_words":  [
+                                             "seven",
+                                             "whole",
+                                             "blood",
+                                             "that\u0027s"
+                                         ],
+                       "frames_checked":  15
+                   },
+        "ocr_v7":  {
+                       "6":  {
+                                 "coverage":  0.429,
+                                 "matched_words":  [
+                                                       "blood",
+                                                       "enough",
+                                                       "highranking"
+                                                   ],
+                                 "missing_words":  [
+                                                       "seven",
+                                                       "pups",
+                                                       "whole",
+                                                       "that\u0027s"
+                                                   ],
+                                 "unmatched_ocr_words":  [
+                                                             {
+                                                                 "word":  "ay",
+                                                                 "frame_count":  4
+                                                             },
+                                                             {
+                                                                 "word":  "os",
+                                                                 "frame_count":  3
+                                                             },
+                                                             {
+                                                                 "word":  "re",
+                                                                 "frame_count":  2
+                                                             },
+                                                             {
+                                                                 "word":  "ns",
+                                                                 "frame_count":  2
+                                                             },
+                                                             {
+                                                                 "word":  "on",
+                                                                 "frame_count":  2
+                                                             },
+                                                             {
+                                                                 "word":  "wi",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "gj",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "se",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ter",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "py",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "meee",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "sir",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "a4",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "v4",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "me",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "va",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "he",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "tas",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "we",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ge",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "blogd",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ee",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ad",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "my",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ss",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "oe",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "iy",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "pe",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "fre",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ye",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "au",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "gem",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ca",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "geos",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "js",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ac",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "hon",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "sie",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "yf",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ual",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "sale",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "cp",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "cs",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ean",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "vom",
+                                                                 "frame_count":  1
+                                                             }
+                                                         ]
+                             },
+                       "11":  {
+                                  "coverage":  0.286,
+                                  "matched_words":  [
+                                                        "enough",
+                                                        "highranking"
+                                                    ],
+                                  "missing_words":  [
+                                                        "seven",
+                                                        "pups",
+                                                        "whole",
+                                                        "blood",
+                                                        "that\u0027s"
+                                                    ],
+                                  "unmatched_ocr_words":  [
+                                                              {
+                                                                  "word":  "bl",
+                                                                  "frame_count":  5
+                                                              },
+                                                              {
+                                                                  "word":  "ae",
+                                                                  "frame_count":  4
+                                                              },
+                                                              {
+                                                                  "word":  "ie",
+                                                                  "frame_count":  4
+                                                              },
+                                                              {
+                                                                  "word":  "er",
+                                                                  "frame_count":  4
+                                                              },
+                                                              {
+                                                                  "word":  "ing",
+                                                                  "frame_count":  4
+                                                              },
+                                                              {
+                                                                  "word":  "ce",
+                                                                  "frame_count":  3
+                                                              },
+                                                              {
+                                                                  "word":  "ee",
+                                                                  "frame_count":  3
+                                                              },
+                                                              {
+                                                                  "word":  "es",
+                                                                  "frame_count":  3
+                                                              },
+                                                              {
+                                                                  "word":  "aa",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "all",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "of",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "ank",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "se",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "cr",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ny",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "4s",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "trg",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "tz",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ty",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ad",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ts",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "wr",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "if",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "emp",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "cx",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "fi",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ms",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ar",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "as",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "sess",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "at",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "zi",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "fis",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ses",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "sl",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ik",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ka",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "atte",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "pe",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ky",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "od",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "fic",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "wf",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "v3",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "st",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "wee",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "oa",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "hy",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ba",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "wae",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "eae",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "yy",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "thy",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "it",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "we",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "by",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "aly",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ate",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "aw",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ve",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "aor",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "allh",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "hi",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "sw",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "bk",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "is",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "eh",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "an",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "he",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "cs",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ied",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ta",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ace",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ele",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "py",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "em",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "vis",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ter",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "aoe",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "cm",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "fees",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "vials",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "hae",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "sz",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ough",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "fen",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ey",
+                                                                  "frame_count":  1
+                                                              }
+                                                          ]
+                              }
+                   },
+        "manual_verification":  {
+                                    "cue_index":  4,
+                                    "start_seconds":  18.758,
+                                    "end_seconds":  21.79,
+                                    "original_text":  "Seven pups, whole high-ranking blood. That\u0027s enough.",
+                                    "status":  "VISUALLY_CONFIRMED",
+                                    "manual_visual_confirmation":  true,
+                                    "burned_in_subtitle_sequence":  [
+                                                                        "Seven pups,",
+                                                                        "whole high-ranking blood.",
+                                                                        "That\u0027s enough."
+                                                                    ],
+                                    "notes":  "Words are correct. Three subtitle displays appear sequentially within one SRT cue. Individual display timestamps have not been measured."
+                                }
+    },
+    {
+        "subtitle_id":  5,
+        "whisper":  {
+                        "text":  "I tried to speak. Nothing came out.",
+                        "words":  [
+                                      "i",
+                                      "tried",
+                                      "to",
+                                      "speak",
+                                      "nothing",
+                                      "came",
+                                      "out"
+                                  ]
+                    },
+        "assemblyai_time_alignment":  {
+                                          "matched_text":  "I tried to speak. Nothing came out.",
+                                          "matched_token_count":  7,
+                                          "missing_from_assemblyai":  [
+
+                                                                      ]
+                                      },
+        "ocr_v5":  {
+                       "status":  "PARTIAL",
+                       "word_coverage":  0.429,
+                       "matched_words":  [
+                                             "i",
+                                             "nothing",
+                                             "came"
+                                         ],
+                       "missing_words":  [
+                                             "tried",
+                                             "to",
+                                             "speak",
+                                             "out"
+                                         ],
+                       "frames_checked":  13
+                   },
+        "ocr_v7":  {
+                       "6":  {
+                                 "coverage":  0.0,
+                                 "matched_words":  [
+
+                                                   ],
+                                 "missing_words":  [
+                                                       "i",
+                                                       "tried",
+                                                       "to",
+                                                       "speak",
+                                                       "nothing",
+                                                       "came",
+                                                       "out"
+                                                   ],
+                                 "unmatched_ocr_words":  [
+                                                             {
+                                                                 "word":  "ss",
+                                                                 "frame_count":  3
+                                                             },
+                                                             {
+                                                                 "word":  "et",
+                                                                 "frame_count":  2
+                                                             },
+                                                             {
+                                                                 "word":  "ee",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "te",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "oe",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "se",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "sat",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "bd",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "aa",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "er",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "on",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "nae",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "phd",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "om",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ol",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "og",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "yy",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ar",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "aoe",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ae",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "sss",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "pot",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "yp",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "lo",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ao",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "pt",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ym",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ia",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ate",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "es",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "baw",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "net",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ot",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "oie",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "at",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ef",
+                                                                 "frame_count":  1
+                                                             }
+                                                         ]
+                             },
+                       "11":  {
+                                  "coverage":  0.143,
+                                  "matched_words":  [
+                                                        "came"
+                                                    ],
+                                  "missing_words":  [
+                                                        "i",
+                                                        "tried",
+                                                        "to",
+                                                        "speak",
+                                                        "nothing",
+                                                        "out"
+                                                    ],
+                                  "unmatched_ocr_words":  [
+                                                              {
+                                                                  "word":  "ww",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "ait",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "et",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "he",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "or",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "tea",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ih",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ry",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "te",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "4d",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ox",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "vi",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "oie",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "fj",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "is",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ir",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "pai",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ty",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "aa",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ff",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "oe",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "mm",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ai",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "in",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "lh",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "an",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "we",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ee",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "la",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ef",
+                                                                  "frame_count":  1
+                                                              }
+                                                          ]
+                              }
+                   },
+        "manual_verification":  {
+                                    "cue_index":  5,
+                                    "start_seconds":  21.791,
+                                    "end_seconds":  24.27,
+                                    "original_text":  "I tried to speak. Nothing came out.",
+                                    "status":  "VISUALLY_CONFIRMED",
+                                    "manual_visual_confirmation":  true,
+                                    "burned_in_subtitle_sequence":  [
+                                                                        "I tried to speak.",
+                                                                        "Nothing came out."
+                                                                    ],
+                                    "notes":  "Both subtitle displays are present. OCR failed to reliably recognize the first display."
+                                }
+    },
+    {
+        "subtitle_id":  6,
+        "whisper":  {
+                        "text":  "You were never the one I wanted Vivienne.",
+                        "words":  [
+                                      "you",
+                                      "were",
+                                      "never",
+                                      "the",
+                                      "one",
+                                      "i",
+                                      "wanted",
+                                      "vivienne"
+                                  ]
+                    },
+        "assemblyai_time_alignment":  {
+                                          "matched_text":  "You were never the one I wanted, Vivienne.",
+                                          "matched_token_count":  8,
+                                          "missing_from_assemblyai":  [
+
+                                                                      ]
+                                      },
+        "ocr_v5":  {
+                       "status":  "PARTIAL",
+                       "word_coverage":  0.625,
+                       "matched_words":  [
+                                             "you",
+                                             "were",
+                                             "never",
+                                             "i",
+                                             "vivienne"
+                                         ],
+                       "missing_words":  [
+                                             "the",
+                                             "one",
+                                             "wanted"
+                                         ],
+                       "frames_checked":  11
+                   },
+        "ocr_v7":  {
+                       "6":  {
+                                 "coverage":  0.5,
+                                 "matched_words":  [
+                                                       "never",
+                                                       "vivienne",
+                                                       "were",
+                                                       "you"
+                                                   ],
+                                 "missing_words":  [
+                                                       "the",
+                                                       "one",
+                                                       "i",
+                                                       "wanted"
+                                                   ],
+                                 "unmatched_ocr_words":  [
+                                                             {
+                                                                 "word":  "ss",
+                                                                 "frame_count":  2
+                                                             },
+                                                             {
+                                                                 "word":  "wt",
+                                                                 "frame_count":  2
+                                                             },
+                                                             {
+                                                                 "word":  "os",
+                                                                 "frame_count":  2
+                                                             },
+                                                             {
+                                                                 "word":  "sed",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "sf",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ey",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ove",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "bed",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ah",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ee",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "poe",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "wv",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "ye",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "xy",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "or",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "tel",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "re",
+                                                                 "frame_count":  1
+                                                             },
+                                                             {
+                                                                 "word":  "nut",
+                                                                 "frame_count":  1
+                                                             }
+                                                         ]
+                             },
+                       "11":  {
+                                  "coverage":  0.375,
+                                  "matched_words":  [
+                                                        "never",
+                                                        "vivienne",
+                                                        "were"
+                                                    ],
+                                  "missing_words":  [
+                                                        "you",
+                                                        "the",
+                                                        "one",
+                                                        "i",
+                                                        "wanted"
+                                                    ],
+                                  "unmatched_ocr_words":  [
+                                                              {
+                                                                  "word":  "ou",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "ps",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "or",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "st",
+                                                                  "frame_count":  2
+                                                              },
+                                                              {
+                                                                  "word":  "com",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "eb",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "zak",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "xf",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ec",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "se",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "maes",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "os",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "at",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "oo",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "pane",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "yo",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "on",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ve",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ae",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "u\u0027we",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "re",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "gever",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ts",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ane",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "as",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "taf",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "ed",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "hy",
+                                                                  "frame_count":  1
+                                                              },
+                                                              {
+                                                                  "word":  "tay",
+                                                                  "frame_count":  1
+                                                              }
+                                                          ]
+                              }
+                   },
+        "manual_verification":  {
+                                    "cue_index":  6,
+                                    "start_seconds":  26.11,
+                                    "end_seconds":  28.03,
+                                    "original_text":  "You were never the one I wanted Vivienne.",
+                                    "status":  "VISUALLY_CONFIRMED",
+                                    "manual_visual_confirmation":  true,
+                                    "burned_in_subtitle_sequence":  [
+                                                                        "You were never the one I wanted,",
+                                                                        "Vivienne."
+                                                                    ],
+                                    "notes":  "Words are correct. Two subtitle displays appear sequentially within one SRT cue. Individual display timestamps have not been measured."
+                                }
+    },
+    {
+        "subtitle_id":  7,
+        "whisper":  {
+                        "text":  "His voice didn\u0027t waver.",
+                        "words":  [
+                                      "his",
+                                      "voice",
+                                      "didn\u0027t",
+                                      "waver"
+                                  ]
+                    },
+        "assemblyai_time_alignment":  {
+                                          "matched_text":  "His voice didn\u0027t waver.",
+                                          "matched_token_count":  4,
+                                          "missing_from_assemblyai":  [
+
+                                                                      ]
+                                      },
+        "ocr_v5":  {
+                       "status":  "CONFIRMED",
+                       "word_coverage":  0.75,
+                       "matched_words":  [
+                                             "his",
+                                             "voice",
+                                             "didn\u0027t"
+                                         ],
+                       "missing_words":  [
+                                             "waver"
+                                         ],
+                       "frames_checked":  8
+                   },
+        "ocr_v7":  null,
+        "manual_verification":  {
+                                    "cue_index":  7,
+                                    "start_seconds":  29.23,
+                                    "end_seconds":  30.43,
+                                    "original_text":  "His voice didn\u0027t waver.",
+                                    "status":  "MANUALLY_CONFIRMED",
+                                    "manual_visual_confirmation":  true,
+                                    "notes":  "Manually verified against the burned-in English subtitles in the source video. The complete subtitle reads \u0027His voice didn\u0027t waver.\u0027. OCR V5 detected only three of the four words."
+                                }
+    }
+]

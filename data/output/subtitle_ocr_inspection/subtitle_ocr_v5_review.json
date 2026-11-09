@@ -1,0 +1,358 @@
+[
+  {
+    "subtitle_id": 4,
+    "start_seconds": 18.758,
+    "end_seconds": 21.79,
+    "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+    "reference_word_count": 8,
+    "matched_word_count": 4,
+    "matched_words": [
+      "pups",
+      "high",
+      "ranking",
+      "enough"
+    ],
+    "missing_words": [
+      "seven",
+      "whole",
+      "blood",
+      "that's"
+    ],
+    "word_coverage": 0.5,
+    "frames_checked": 15,
+    "frames_with_text": 15,
+    "frames_with_match": 3,
+    "status": "PARTIAL",
+    "review_required": true,
+    "frame_evidence": [
+      {
+        "timestamp": 18.408,
+        "ocr_text": "and watched me f f go",
+        "ocr_word_count": 5,
+        "matched_word_count": 0,
+        "confidence": 70.6
+      },
+      {
+        "timestamp": 18.658,
+        "ocr_text": "xt and watched me go",
+        "ocr_word_count": 5,
+        "matched_word_count": 0,
+        "confidence": 81.2
+      },
+      {
+        "timestamp": 18.908,
+        "ocr_text": "ae ef ea se ys a ra en pups vs cy ee er",
+        "ocr_word_count": 12,
+        "matched_word_count": 1,
+        "confidence": 44.33
+      },
+      {
+        "timestamp": 19.158,
+        "ocr_text": "a seven pups is ys se ony cq w",
+        "ocr_word_count": 8,
+        "matched_word_count": 0,
+        "confidence": 45.25
+      },
+      {
+        "timestamp": 19.408,
+        "ocr_text": "aor ss ct pr",
+        "ocr_word_count": 4,
+        "matched_word_count": 0,
+        "confidence": 43.5
+      },
+      {
+        "timestamp": 19.658,
+        "ocr_text": "272 ee 48 ss pe je in of es hi",
+        "ocr_word_count": 10,
+        "matched_word_count": 0,
+        "confidence": 39.4
+      },
+      {
+        "timestamp": 19.908,
+        "ocr_text": "meek ar ae a 3 fon ee ing od bl a hy ge",
+        "ocr_word_count": 13,
+        "matched_word_count": 0,
+        "confidence": 49.0
+      },
+      {
+        "timestamp": 20.158,
+        "ocr_text": "as se ee e a 5 ing as bl ny a er g rr",
+        "ocr_word_count": 14,
+        "matched_word_count": 0,
+        "confidence": 49.57
+      },
+      {
+        "timestamp": 20.408,
+        "ocr_text": "7 allh he ae a is d ing od bl ns er xi fe",
+        "ocr_word_count": 14,
+        "matched_word_count": 0,
+        "confidence": 49.93
+      },
+      {
+        "timestamp": 20.658,
+        "ocr_text": "1 alh 0 of gh fe was a a ank ing bl fi gr i",
+        "ocr_word_count": 15,
+        "matched_word_count": 0,
+        "confidence": 56.87
+      },
+      {
+        "timestamp": 20.908,
+        "ocr_text": "aor high sy es a anking wae ify bl ce me hi fr",
+        "ocr_word_count": 13,
+        "matched_word_count": 2,
+        "confidence": 60.62
+      },
+      {
+        "timestamp": 21.158,
+        "ocr_text": "j lar choo ro es pe",
+        "ocr_word_count": 6,
+        "matched_word_count": 0,
+        "confidence": 46.17
+      },
+      {
+        "timestamp": 21.408,
+        "ocr_text": "i ace es enough ee of con i pe",
+        "ocr_word_count": 9,
+        "matched_word_count": 1,
+        "confidence": 41.11
+      },
+      {
+        "timestamp": 21.658,
+        "ocr_text": "4 acs se ae he i pk",
+        "ocr_word_count": 7,
+        "matched_word_count": 0,
+        "confidence": 39.57
+      },
+      {
+        "timestamp": 21.908,
+        "ocr_text": "6 ae ty ie a ox ow sy",
+        "ocr_word_count": 8,
+        "matched_word_count": 0,
+        "confidence": 43.25
+      }
+    ]
+  },
+  {
+    "subtitle_id": 5,
+    "start_seconds": 21.791,
+    "end_seconds": 24.27,
+    "reference_text": "I tried to speak. Nothing came out.",
+    "reference_word_count": 7,
+    "matched_word_count": 3,
+    "matched_words": [
+      "i",
+      "nothing",
+      "came"
+    ],
+    "missing_words": [
+      "tried",
+      "to",
+      "speak",
+      "out"
+    ],
+    "word_coverage": 0.429,
+    "frames_checked": 13,
+    "frames_with_text": 13,
+    "frames_with_match": 3,
+    "status": "PARTIAL",
+    "review_required": true,
+    "frame_evidence": [
+      {
+        "timestamp": 21.441,
+        "ocr_text": "i ace es enough ge con i",
+        "ocr_word_count": 7,
+        "matched_word_count": 1,
+        "confidence": 49.71
+      },
+      {
+        "timestamp": 21.691,
+        "ocr_text": "that's aca es enough of pry s i l pk",
+        "ocr_word_count": 10,
+        "matched_word_count": 1,
+        "confidence": 49.1
+      },
+      {
+        "timestamp": 21.941,
+        "ocr_text": "ot ae ty ie ge ox 7",
+        "ocr_word_count": 7,
+        "matched_word_count": 0,
+        "confidence": 42.43
+      },
+      {
+        "timestamp": 22.191,
+        "ocr_text": "ad at lf tf ie ee at ox ne",
+        "ocr_word_count": 9,
+        "matched_word_count": 0,
+        "confidence": 49.44
+      },
+      {
+        "timestamp": 22.441,
+        "ocr_text": "6 ae t o",
+        "ocr_word_count": 3,
+        "matched_word_count": 0,
+        "confidence": 48.33
+      },
+      {
+        "timestamp": 22.691,
+        "ocr_text": "ot ae ts gl 1 tc spi t2",
+        "ocr_word_count": 8,
+        "matched_word_count": 0,
+        "confidence": 61.5
+      },
+      {
+        "timestamp": 22.941,
+        "ocr_text": "re 96 at ord any 0 sped ss ed",
+        "ocr_word_count": 9,
+        "matched_word_count": 0,
+        "confidence": 51.78
+      },
+      {
+        "timestamp": 23.191,
+        "ocr_text": "re 96 an",
+        "ocr_word_count": 3,
+        "matched_word_count": 0,
+        "confidence": 55.67
+      },
+      {
+        "timestamp": 23.441,
+        "ocr_text": "t ot a a on ail",
+        "ocr_word_count": 6,
+        "matched_word_count": 0,
+        "confidence": 50.67
+      },
+      {
+        "timestamp": 23.691,
+        "ocr_text": "rs ot ka",
+        "ocr_word_count": 3,
+        "matched_word_count": 0,
+        "confidence": 56.0
+      },
+      {
+        "timestamp": 23.941,
+        "ocr_text": "a 9 l lf a y",
+        "ocr_word_count": 6,
+        "matched_word_count": 0,
+        "confidence": 50.83
+      },
+      {
+        "timestamp": 24.191,
+        "ocr_text": "my ne ut",
+        "ocr_word_count": 3,
+        "matched_word_count": 0,
+        "confidence": 59.33
+      },
+      {
+        "timestamp": 24.441,
+        "ocr_text": "c ning came oy c",
+        "ocr_word_count": 5,
+        "matched_word_count": 2,
+        "confidence": 70.8
+      }
+    ]
+  },
+  {
+    "subtitle_id": 6,
+    "start_seconds": 26.11,
+    "end_seconds": 28.03,
+    "reference_text": "You were never the one I wanted Vivienne.",
+    "reference_word_count": 8,
+    "matched_word_count": 5,
+    "matched_words": [
+      "you",
+      "were",
+      "never",
+      "i",
+      "vivienne"
+    ],
+    "missing_words": [
+      "the",
+      "one",
+      "wanted"
+    ],
+    "word_coverage": 0.625,
+    "frames_checked": 11,
+    "frames_with_text": 11,
+    "frames_with_match": 9,
+    "status": "PARTIAL",
+    "review_required": true,
+    "frame_evidence": [
+      {
+        "timestamp": 25.76,
+        "ocr_text": "kh 13 an erm a 7",
+        "ocr_word_count": 6,
+        "matched_word_count": 0,
+        "confidence": 44.83
+      },
+      {
+        "timestamp": 26.01,
+        "ocr_text": "7",
+        "ocr_word_count": 1,
+        "matched_word_count": 0,
+        "confidence": 52.0
+      },
+      {
+        "timestamp": 26.26,
+        "ocr_text": "y he you o il iki",
+        "ocr_word_count": 6,
+        "matched_word_count": 1,
+        "confidence": 71.67
+      },
+      {
+        "timestamp": 26.51,
+        "ocr_text": "rd ou were i po ever i l if",
+        "ocr_word_count": 9,
+        "matched_word_count": 3,
+        "confidence": 66.78
+      },
+      {
+        "timestamp": 26.76,
+        "ocr_text": "97 x were ve never il si",
+        "ocr_word_count": 7,
+        "matched_word_count": 2,
+        "confidence": 50.57
+      },
+      {
+        "timestamp": 27.01,
+        "ocr_text": "a ae a oo were a f es 4 au oe i",
+        "ocr_word_count": 12,
+        "matched_word_count": 2,
+        "confidence": 62.33
+      },
+      {
+        "timestamp": 27.26,
+        "ocr_text": "rd sas a vor oo 4 e f a c i",
+        "ocr_word_count": 11,
+        "matched_word_count": 1,
+        "confidence": 55.55
+      },
+      {
+        "timestamp": 27.51,
+        "ocr_text": "a 7 ou were ie a 3",
+        "ocr_word_count": 7,
+        "matched_word_count": 1,
+        "confidence": 61.43
+      },
+      {
+        "timestamp": 27.76,
+        "ocr_text": "j as vivien wo ta4 st i",
+        "ocr_word_count": 7,
+        "matched_word_count": 2,
+        "confidence": 49.14
+      },
+      {
+        "timestamp": 28.01,
+        "ocr_text": "t o vivien 7 a sil fe",
+        "ocr_word_count": 6,
+        "matched_word_count": 1,
+        "confidence": 50.5
+      },
+      {
+        "timestamp": 28.26,
+        "ocr_text": "ao dy ws or ss z vivie se 7 a 7 ro te ae noe wes oe 3",
+        "ocr_word_count": 18,
+        "matched_word_count": 1,
+        "confidence": 45.06
+      }
+    ]
+  }
+]

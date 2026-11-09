@@ -1,0 +1,2017 @@
+{
+  "statistics": {
+    "total_segments": 247,
+    "total_words": 5574,
+    "total_speakers": 4
+  },
+  "speakers": [
+    {
+      "speaker_id": "SPK_001",
+      "provider_label": "A",
+      "speaker_type": "unknown",
+      "confidence": 0.9178
+    },
+    {
+      "speaker_id": "SPK_002",
+      "provider_label": "B",
+      "speaker_type": "unknown",
+      "confidence": 0.9569
+    },
+    {
+      "speaker_id": "SPK_003",
+      "provider_label": "C",
+      "speaker_type": "unknown",
+      "confidence": 0.9351
+    },
+    {
+      "speaker_id": "SPK_004",
+      "provider_label": "D",
+      "speaker_type": "character",
+      "confidence": 0.5603,
+      "character_name": "Lucian"
+    }
+  ],
+  "source": {
+    "audio_filename": "full_audio.wav",
+    "source_offset_seconds": 0.0,
+    "duration_seconds": 2260.997
+  },
+  "segments": [
+    {
+      "id": "SEG_000001",
+      "start_seconds": 9.264,
+      "end_seconds": 18.657,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9755494,
+      "text": "The 3rd bowl tasted like rot. I couldn't feel my hands anymore. The wolf's bane had already reached my chest. Lucien stood at the foot of the bed and watched me go."
+    },
+    {
+      "id": "SEG_000002",
+      "start_seconds": 18.657,
+      "end_seconds": 21.853,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9911824,
+      "text": "7 pups, all high-ranking blood. That's enough."
+    },
+    {
+      "id": "SEG_000003",
+      "start_seconds": 21.853,
+      "end_seconds": 24.518,
+      "speaker_id": "SPK_001",
+      "confidence": 0.99157125,
+      "text": "I tried to speak. Nothing came out."
+    },
+    {
+      "id": "SEG_000004",
+      "start_seconds": 26.284,
+      "end_seconds": 28.115,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9928186,
+      "text": "You were never the one I wanted, Vivienne."
+    },
+    {
+      "id": "SEG_000005",
+      "start_seconds": 28.115,
+      "end_seconds": 30.556,
+      "speaker_id": "SPK_001",
+      "confidence": 0.98014444,
+      "text": "His voice didn't waver."
+    },
+    {
+      "id": "SEG_000006",
+      "start_seconds": 30.556,
+      "end_seconds": 35.646,
+      "speaker_id": "SPK_002",
+      "confidence": 0.98437417,
+      "text": "You threw yourself at me. I let it happen. That's all this ever was."
+    },
+    {
+      "id": "SEG_000007",
+      "start_seconds": 35.646,
+      "end_seconds": 40.785,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9837044,
+      "text": "I wanted to scream. I wanted to tear him apart, but my body was already gone."
+    },
+    {
+      "id": "SEG_000008",
+      "start_seconds": 40.785,
+      "end_seconds": 43.274,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9987498,
+      "text": "You've served your purpose."
+    },
+    {
+      "id": "SEG_000009",
+      "start_seconds": 43.274,
+      "end_seconds": 46.967,
+      "speaker_id": "SPK_001",
+      "confidence": 0.99791604,
+      "text": "He set the empty bowl down."
+    },
+    {
+      "id": "SEG_000010",
+      "start_seconds": 46.967,
+      "end_seconds": 48.364,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9962386,
+      "text": "Rest now."
+    },
+    {
+      "id": "SEG_000011",
+      "start_seconds": 48.364,
+      "end_seconds": 84.993,
+      "speaker_id": "SPK_001",
+      "confidence": 0.96228474,
+      "text": "My heartbeat slowed. Then nothing. I opened my eyes in my mother's sitting room I came back. I pressed my hands flat against my thighs and breathed. My mother was holding a contract across the room, a mating bond contract, sealed with the Bloodmoon Pack crest. The name line was blank. The Valises' heir sent this earlier this morning, Viviana. Is it you he's asking for? Lucien sat across from her, same face, Same steady eyes, like none of it had ever happened."
+    },
+    {
+      "id": "SEG_000012",
+      "start_seconds": 84.993,
+      "end_seconds": 88.191,
+      "speaker_id": "SPK_002",
+      "confidence": 0.97030723,
+      "text": "I can marry Vivian. I don't mind."
+    },
+    {
+      "id": "SEG_000013",
+      "start_seconds": 88.191,
+      "end_seconds": 136.956,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9799927,
+      "text": "I don't mind. 7 years, 7 children, 3 bowls of wolfsbane. No. Silence. Viviana, you've wanted this since you were 12. I was a kid. I didn't know any better. Lucien looked at me, that calm, unreleasable stare I used to think meant he was hiding something tender. Now I knew better. I also have someone. He'll be here soon with his own contract. My mother's head snapped toward Aria. Aria had been quiet in the corner this whole time. Now she shook her head hard. Same. I'm not available either. My mother turned back to Lucien with a tight smile. I'm so sorry. It seems both my daughters have prior commitments. Perhaps another pack?"
+    },
+    {
+      "id": "SEG_000014",
+      "start_seconds": 136.956,
+      "end_seconds": 138.027,
+      "speaker_id": "SPK_002",
+      "confidence": 0.98019344,
+      "text": "No."
+    },
+    {
+      "id": "SEG_000015",
+      "start_seconds": 138.917,
+      "end_seconds": 145.342,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9661388,
+      "text": "Lucien stood. The Alpha aura rolled off him slow and deliberate, pressing into every corner of the room."
+    },
+    {
+      "id": "SEG_000016",
+      "start_seconds": 145.342,
+      "end_seconds": 148.824,
+      "speaker_id": "SPK_002",
+      "confidence": 0.96402586,
+      "text": "The woman I marry comes from the Coldwield family."
+    },
+    {
+      "id": "SEG_000017",
+      "start_seconds": 148.824,
+      "end_seconds": 151.262,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9946663,
+      "text": "His voice left no room for argument."
+    },
+    {
+      "id": "SEG_000018",
+      "start_seconds": 151.262,
+      "end_seconds": 152.434,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9987063,
+      "text": "That's not changing."
+    },
+    {
+      "id": "SEG_000019",
+      "start_seconds": 152.434,
+      "end_seconds": 159.926,
+      "speaker_id": "SPK_001",
+      "confidence": 0.99933034,
+      "text": "He picked up the contract and dropped it on the table. The sound cut through the silence like a blade."
+    },
+    {
+      "id": "SEG_000020",
+      "start_seconds": 159.926,
+      "end_seconds": 163.263,
+      "speaker_id": "SPK_002",
+      "confidence": 0.98923814,
+      "text": "You have 3 days. Decide who it is."
+    },
+    {
+      "id": "SEG_000021",
+      "start_seconds": 163.263,
+      "end_seconds": 164.595,
+      "speaker_id": "SPK_001",
+      "confidence": 0.99845827,
+      "text": "Nobody moved."
+    },
+    {
+      "id": "SEG_000022",
+      "start_seconds": 164.595,
+      "end_seconds": 165.75,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9535784,
+      "text": "If you can't choose..."
+    },
+    {
+      "id": "SEG_000023",
+      "start_seconds": 165.75,
+      "end_seconds": 168.638,
+      "speaker_id": "SPK_001",
+      "confidence": 0.97677845,
+      "text": "He straightened his jacket."
+    },
+    {
+      "id": "SEG_000024",
+      "start_seconds": 170.64,
+      "end_seconds": 177.951,
+      "speaker_id": "SPK_002",
+      "confidence": 0.99545634,
+      "text": "I'll take it to the Alpha King. One word from him and it becomes a royal decree. There won't be a choice after that."
+    },
+    {
+      "id": "SEG_000025",
+      "start_seconds": 179.3,
+      "end_seconds": 199.79,
+      "speaker_id": "SPK_001",
+      "confidence": 0.98181355,
+      "text": "He walked out without looking back. The door hadn't finished closing before Aria grabbed my wrist and pulled me down the hall. She shut us into my bedroom and pressed her back against the door. Her face was white, I'll tell you something, but you have to promise not to feel guilty, she said. I went still."
+    },
+    {
+      "id": "SEG_000026",
+      "start_seconds": 199.79,
+      "end_seconds": 203.241,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9636163,
+      "text": "Aria... Promise me first."
+    },
+    {
+      "id": "SEG_000027",
+      "start_seconds": 204.43,
+      "end_seconds": 206.582,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9944726,
+      "text": "Something cold settled in my chest."
+    },
+    {
+      "id": "SEG_000028",
+      "start_seconds": 206.582,
+      "end_seconds": 207.991,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9537661,
+      "text": "I promise."
+    },
+    {
+      "id": "SEG_000029",
+      "start_seconds": 208.751,
+      "end_seconds": 215.636,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9829906,
+      "text": "She didn't look at me when she spoke. In another life, she said quietly, you gave me the contract."
+    },
+    {
+      "id": "SEG_000030",
+      "start_seconds": 217.509,
+      "end_seconds": 220.886,
+      "speaker_id": "SPK_003",
+      "confidence": 0.97241986,
+      "text": "You told me Lucien loved me. You stepped aside..."
+    },
+    {
+      "id": "SEG_000031",
+      "start_seconds": 221.957,
+      "end_seconds": 223.077,
+      "speaker_id": "SPK_001",
+      "confidence": 0.99450624,
+      "text": "I couldn't breathe."
+    },
+    {
+      "id": "SEG_000032",
+      "start_seconds": 224.223,
+      "end_seconds": 225.185,
+      "speaker_id": "SPK_003",
+      "confidence": 0.97696924,
+      "text": "He didn't love me."
+    },
+    {
+      "id": "SEG_000033",
+      "start_seconds": 225.65,
+      "end_seconds": 227.878,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9163966,
+      "text": "Her voice was flat, controlled."
+    },
+    {
+      "id": "SEG_000034",
+      "start_seconds": 228.23,
+      "end_seconds": 239.259,
+      "speaker_id": "SPK_003",
+      "confidence": 0.99010015,
+      "text": "He kept me locked in a room. He said the only thing I was good for was my Moonveil voice. He made me sing for him every night."
+    },
+    {
+      "id": "SEG_000035",
+      "start_seconds": 239.596,
+      "end_seconds": 240.333,
+      "speaker_id": "SPK_001",
+      "confidence": 0.99100035,
+      "text": "She paused."
+    },
+    {
+      "id": "SEG_000036",
+      "start_seconds": 243.283,
+      "end_seconds": 249.15,
+      "speaker_id": "SPK_003",
+      "confidence": 0.969619,
+      "text": "Every time I complained, he hurt me. Aria..."
+    },
+    {
+      "id": "SEG_000037",
+      "start_seconds": 249.791,
+      "end_seconds": 253.606,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9652994,
+      "text": "She finally looked at me. Her eyes were dry. That was somehow worse."
+    },
+    {
+      "id": "SEG_000038",
+      "start_seconds": 255.001,
+      "end_seconds": 265.698,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9452512,
+      "text": "He had my limb severed so I couldn't shift. He took my eyes. He left me my voice because that was the only part of me he wanted."
+    },
+    {
+      "id": "SEG_000039",
+      "start_seconds": 267.03,
+      "end_seconds": 267.996,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9489193,
+      "text": "I couldn't speak."
+    },
+    {
+      "id": "SEG_000040",
+      "start_seconds": 271.478,
+      "end_seconds": 276.085,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9789814,
+      "text": "I made it back because a servant broke the lock. I didn't last 2 months after that."
+    },
+    {
+      "id": "SEG_000041",
+      "start_seconds": 276.085,
+      "end_seconds": 287.119,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9751594,
+      "text": "I crossed the room and pulled her into a hug. She went stiff for a second, then her arms came up and held on. We stayed like that for a long moment. I pulled back, looked at her seriously."
+    },
+    {
+      "id": "SEG_000042",
+      "start_seconds": 287.119,
+      "end_seconds": 288.933,
+      "speaker_id": "SPK_003",
+      "confidence": 0.98238266,
+      "text": "I have something to tell you too."
+    },
+    {
+      "id": "SEG_000043",
+      "start_seconds": 288.933,
+      "end_seconds": 296.829,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9944343,
+      "text": "I told her about everything I'd been through, including that I had been reborn too. Aria's expression turned puzzled after learning the truth."
+    },
+    {
+      "id": "SEG_000044",
+      "start_seconds": 296.829,
+      "end_seconds": 298.049,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9817774,
+      "text": "So what do we do?"
+    },
+    {
+      "id": "SEG_000045",
+      "start_seconds": 298.049,
+      "end_seconds": 351.89,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9847934,
+      "text": "We tell Mom everything. My mother didn't speak while we talked. She sat very still with her hands folded in her lap. When I got to the part about the wolf's bane, her knuckles went white. When Aria described what Lucien had done to her, my mother pressed one hand over her mouth and didn't move it for a long time. When we finished, the room was silent. Then she pulled both of us toward her and held on hard. She was shaking. My girls, she said, Just that. We sat there for a moment. Then she pulled back and wiped her face. So who does he actually want? Her voice was steady again. Why Coldwell? Why only Coldwell? I shook my head."
+    },
+    {
+      "id": "SEG_000046",
+      "start_seconds": 351.89,
+      "end_seconds": 355.281,
+      "speaker_id": "SPK_003",
+      "confidence": 0.98808527,
+      "text": "I died too fast. I never heard the name."
+    },
+    {
+      "id": "SEG_000047",
+      "start_seconds": 356.374,
+      "end_seconds": 357.402,
+      "speaker_id": "SPK_001",
+      "confidence": 0.971702,
+      "text": "She looked at Aria."
+    },
+    {
+      "id": "SEG_000048",
+      "start_seconds": 358.19,
+      "end_seconds": 360.765,
+      "speaker_id": "SPK_003",
+      "confidence": 0.97760797,
+      "text": "He never told me anything. Not once."
+    },
+    {
+      "id": "SEG_000049",
+      "start_seconds": 361.475,
+      "end_seconds": 442.293,
+      "speaker_id": "SPK_001",
+      "confidence": 0.97997475,
+      "text": "My mother stood up, straightened her jacket. That look came onto her face, the one that meant she'd already decided something. Fine. She picked up her phone. I'll make some calls. Find someone willing and available before that deadline hits. She pointed at Aria. You go through the manor. Every woman on staff, every visitor log... anyone connected to Lucien in the last 5 years. Aria nodded. My mother turned to me last. And you know him best, so you're going to Bloodmoon Manor. I know. I'm already thinking about where he hides things. My mother looked at us both. 3 days. Let's move. Bloodmoon Manor was exactly as I remembered it. Same long driveway, same iron gate. Same guard at the door who waved me through without question, because in this life, Lucien and I were still childhood friends. That was the one advantage I had. I walked straight to the study. He was painting when I pushed the door open. No knock. I didn't give him the courtesy. Lucien sat at his desk with a brush in his hand, working on a canvas propped against the wall. A woman. No face. White dress. Hair loose, head slightly turned. He didn't look up."
+    },
+    {
+      "id": "SEG_000050",
+      "start_seconds": 442.293,
+      "end_seconds": 444.24,
+      "speaker_id": "SPK_002",
+      "confidence": 0.994292,
+      "text": "I was wondering when you'd come."
+    },
+    {
+      "id": "SEG_000051",
+      "start_seconds": 444.24,
+      "end_seconds": 446.509,
+      "speaker_id": "SPK_001",
+      "confidence": 0.98785156,
+      "text": "You paint a lot of these."
+    },
+    {
+      "id": "SEG_000052",
+      "start_seconds": 446.509,
+      "end_seconds": 447.367,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9979944,
+      "text": "I do."
+    },
+    {
+      "id": "SEG_000053",
+      "start_seconds": 447.367,
+      "end_seconds": 473.416,
+      "speaker_id": "SPK_001",
+      "confidence": 0.98602515,
+      "text": "I crossed the room and stood behind him. The figure's posture was relaxed. One hand rested at her side. Her head tilted just slightly to the right, like she was listening for something. And there, on the right side of her neck, just below the jaw, A small mole. He used to be perfect. That was the problem. Every time I'd asked about these paintings, he'd said the same thing."
+    },
+    {
+      "id": "SEG_000054",
+      "start_seconds": 473.416,
+      "end_seconds": 476.819,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9920872,
+      "text": "It's you. It's always you."
+    },
+    {
+      "id": "SEG_000055",
+      "start_seconds": 476.819,
+      "end_seconds": 499.371,
+      "speaker_id": "SPK_001",
+      "confidence": 0.98113513,
+      "text": "And I'd believed him. Every single time. Lucien, I kept my voice flat, I said, I don't have a mod on my neck. The brush stopped. His spine went rigid, just for a second, but I saw it. He set the brush down and turned to face me, easy smile, steady eyes."
+    },
+    {
+      "id": "SEG_000056",
+      "start_seconds": 499.371,
+      "end_seconds": 500.494,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9938444,
+      "text": "That's not a mole,"
+    },
+    {
+      "id": "SEG_000057",
+      "start_seconds": 501.151,
+      "end_seconds": 501.713,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9940569,
+      "text": "he said."
+    },
+    {
+      "id": "SEG_000058",
+      "start_seconds": 502.835,
+      "end_seconds": 504.551,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9820651,
+      "text": "I smudged it. The ink slipped."
+    },
+    {
+      "id": "SEG_000059",
+      "start_seconds": 504.551,
+      "end_seconds": 506.748,
+      "speaker_id": "SPK_001",
+      "confidence": 0.98216414,
+      "text": "Right. I held his gaze."
+    },
+    {
+      "id": "SEG_000060",
+      "start_seconds": 506.748,
+      "end_seconds": 508.352,
+      "speaker_id": "SPK_002",
+      "confidence": 0.99569875,
+      "text": "Of course it did."
+    },
+    {
+      "id": "SEG_000061",
+      "start_seconds": 508.352,
+      "end_seconds": 511.207,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9979257,
+      "text": "He leaned back in his chair, completely relaxed."
+    },
+    {
+      "id": "SEG_000062",
+      "start_seconds": 511.207,
+      "end_seconds": 514.446,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9756762,
+      "text": "Vivienne, you know me better than anyone, don't you?"
+    },
+    {
+      "id": "SEG_000063",
+      "start_seconds": 514.446,
+      "end_seconds": 528.496,
+      "speaker_id": "SPK_001",
+      "confidence": 0.985628,
+      "text": "I looked at the painting one more time. The mole was precise, clean-edged. no ink bleeding into the surrounding lines. A painter like Lucien didn't slip. Lucien stared at me for a long moment."
+    },
+    {
+      "id": "SEG_000064",
+      "start_seconds": 528.496,
+      "end_seconds": 530.638,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9933554,
+      "text": "Do you really want to know who she is?"
+    },
+    {
+      "id": "SEG_000065",
+      "start_seconds": 532.438,
+      "end_seconds": 541.119,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9903735,
+      "text": "I held my breath. He held my eyes, and for a second I thought he might actually say it. But then he smiled, slow and soft."
+    },
+    {
+      "id": "SEG_000066",
+      "start_seconds": 541.711,
+      "end_seconds": 544.216,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9687397,
+      "text": "It's you. It's always been you."
+    },
+    {
+      "id": "SEG_000067",
+      "start_seconds": 544.765,
+      "end_seconds": 552.408,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9719676,
+      "text": "He stood, and walked toward me, slow, steady, like he had all the time in the world."
+    },
+    {
+      "id": "SEG_000068",
+      "start_seconds": 552.408,
+      "end_seconds": 556.063,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9808459,
+      "text": "The ink slipped, that's all."
+    },
+    {
+      "id": "SEG_000069",
+      "start_seconds": 556.063,
+      "end_seconds": 559.333,
+      "speaker_id": "SPK_001",
+      "confidence": 0.97421694,
+      "text": "He stopped in front of me."
+    },
+    {
+      "id": "SEG_000070",
+      "start_seconds": 559.333,
+      "end_seconds": 565.008,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9924816,
+      "text": "Vivienne, think about everything we've been through. Have I ever given you a real reason not to trust me?"
+    },
+    {
+      "id": "SEG_000071",
+      "start_seconds": 565.008,
+      "end_seconds": 594.981,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9798109,
+      "text": "And the worst part was, I had to think about it. Because he hadn't, not visibly, not in any way I could have pointed to. He used to take the blame when we were kids so I wouldn't get in He stayed up all night tutoring me when I skipped training. He quietly learned the Luna rulebook just so I wouldn't embarrass myself in front of other packs. For a long time, I would have done anything for him. For a long time. That was the problem. He saw me hesitate. He moved closer."
+    },
+    {
+      "id": "SEG_000072",
+      "start_seconds": 594.981,
+      "end_seconds": 604.869,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9869781,
+      "text": "You and Aria have been competing for years. I left the name blank to protect her. She's your sister. I thought if you accepted first, It'd be easier for her to let go."
+    },
+    {
+      "id": "SEG_000073",
+      "start_seconds": 604.869,
+      "end_seconds": 606.071,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9884418,
+      "text": "He searched my face."
+    },
+    {
+      "id": "SEG_000074",
+      "start_seconds": 606.071,
+      "end_seconds": 608.861,
+      "speaker_id": "SPK_002",
+      "confidence": 0.99800175,
+      "text": "I didn't think you'd say no. I didn't think you'd take it as rejection."
+    },
+    {
+      "id": "SEG_000075",
+      "start_seconds": 608.861,
+      "end_seconds": 616.716,
+      "speaker_id": "SPK_001",
+      "confidence": 0.96554977,
+      "text": "Everything he said landed perfectly. Perfectly timed, perfectly warm. This was what he did. This was what he'd always done."
+    },
+    {
+      "id": "SEG_000076",
+      "start_seconds": 616.716,
+      "end_seconds": 617.117,
+      "speaker_id": "SPK_002",
+      "confidence": 0.8774156,
+      "text": "Vivian..."
+    },
+    {
+      "id": "SEG_000077",
+      "start_seconds": 617.117,
+      "end_seconds": 621.445,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9981046,
+      "text": "He reached out and took my hand, gentle, like I was something worth keeping."
+    },
+    {
+      "id": "SEG_000078",
+      "start_seconds": 621.445,
+      "end_seconds": 632.041,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9852052,
+      "text": "3 days from now, I'll come to Coldwell Manor myself. No contract games. No confusion. Just me, asking for you."
+    },
+    {
+      "id": "SEG_000079",
+      "start_seconds": 632.041,
+      "end_seconds": 652.729,
+      "speaker_id": "SPK_001",
+      "confidence": 0.98935354,
+      "text": "My throat tightened. Not because I believed him, because I used to. Because there was a version of me, not so long ago, who would have cried with relief hearing these exact words. I missed her a little, but that version of me was dead. He'd killed her himself with 3 bowls of wolfbab. I let"
+    },
+    {
+      "id": "SEG_000080",
+      "start_seconds": 652.729,
+      "end_seconds": 666.203,
+      "speaker_id": "SPK_003",
+      "confidence": 0.96817267,
+      "text": "the silence hang just long Then I softened my shoulders and looked up at him through my lashes. One more chance, I said quietly. He exhaled, long and slow."
+    },
+    {
+      "id": "SEG_000081",
+      "start_seconds": 666.203,
+      "end_seconds": 667.312,
+      "speaker_id": "SPK_002",
+      "confidence": 0.98493207,
+      "text": "Thank you."
+    },
+    {
+      "id": "SEG_000082",
+      "start_seconds": 667.312,
+      "end_seconds": 679.767,
+      "speaker_id": "SPK_003",
+      "confidence": 0.98814106,
+      "text": "No formal proposal, though, I kept my voice soft. Aria will make a scene. Just come in 3 days, we'll keep it simple. He nodded, that warm, open, completely convincing smile still on his face."
+    },
+    {
+      "id": "SEG_000083",
+      "start_seconds": 680.263,
+      "end_seconds": 688.239,
+      "speaker_id": "SPK_002",
+      "confidence": 0.97235763,
+      "text": "And I'll make it up to you. Every morning after we're mated. Snow lily cake. The way you like it."
+    },
+    {
+      "id": "SEG_000084",
+      "start_seconds": 688.239,
+      "end_seconds": 738.8,
+      "speaker_id": "SPK_001",
+      "confidence": 0.97801316,
+      "text": "Snow lily cake. The words landed like a stone dropping into still water. I kept my face exactly where it wasâ€” soft, grateful, slightly tearful. Inside, everything went cold and clear. I hated snow lily cake. I had pushed it aside at every family dinner for years. Lucien had sat at our table and watched me do it, more times than I could count. He knew I hated it, which meant he'd just forgotten who he was pretending to love. I squeezed his hand once. That sounds perfect, I said. He smiled like he'd won something. You just made a mistake, I thought. And I'm going to use every single second of it. I got back to Coldwood Manor to find Aria already waiting at the front door. She grabbed my arm before I'd even stepped inside."
+    },
+    {
+      "id": "SEG_000085",
+      "start_seconds": 738.8,
+      "end_seconds": 750.823,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9725732,
+      "text": "I went through the east wing like Mom said. There's a woman living in the staff quarters. Been there 6 years. Keeps entirely to herself. Vivian, it's Morgana."
+    },
+    {
+      "id": "SEG_000086",
+      "start_seconds": 750.823,
+      "end_seconds": 752.057,
+      "speaker_id": "SPK_001",
+      "confidence": 0.99416846,
+      "text": "I went still."
+    },
+    {
+      "id": "SEG_000087",
+      "start_seconds": 752.698,
+      "end_seconds": 760.254,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9457615,
+      "text": "Dad's Morgana? Mom never told us she stayed. Afterâ€” Dad died, Mom gave her a room and let her keep it."
+    },
+    {
+      "id": "SEG_000088",
+      "start_seconds": 760.254,
+      "end_seconds": 761.951,
+      "speaker_id": "SPK_001",
+      "confidence": 0.96834344,
+      "text": "Aria's voice was strange."
+    },
+    {
+      "id": "SEG_000089",
+      "start_seconds": 761.951,
+      "end_seconds": 766.167,
+      "speaker_id": "SPK_003",
+      "confidence": 0.97919345,
+      "text": "She has a mole, right side of her neck, just below the jaw."
+    },
+    {
+      "id": "SEG_000090",
+      "start_seconds": 766.167,
+      "end_seconds": 774.369,
+      "speaker_id": "SPK_001",
+      "confidence": 0.967802,
+      "text": "The painting, the precise, clean-edged mole, the woman with her head tilted slightly to the right."
+    },
+    {
+      "id": "SEG_000091",
+      "start_seconds": 774.369,
+      "end_seconds": 776.025,
+      "speaker_id": "SPK_003",
+      "confidence": 0.96597975,
+      "text": "What does she eat?"
+    },
+    {
+      "id": "SEG_000092",
+      "start_seconds": 776.025,
+      "end_seconds": 778.481,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9744311,
+      "text": "I said. Aria frowned."
+    },
+    {
+      "id": "SEG_000093",
+      "start_seconds": 778.481,
+      "end_seconds": 786.287,
+      "speaker_id": "SPK_003",
+      "confidence": 0.97405726,
+      "text": "What? Her meal requests. Did you check them? I did, actually. Snow lily cake."
+    },
+    {
+      "id": "SEG_000094",
+      "start_seconds": 786.287,
+      "end_seconds": 787.7,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9808339,
+      "text": "Aria's eyes narrowed."
+    },
+    {
+      "id": "SEG_000095",
+      "start_seconds": 787.7,
+      "end_seconds": 788.952,
+      "speaker_id": "SPK_003",
+      "confidence": 0.98952514,
+      "text": "Every single week."
+    },
+    {
+      "id": "SEG_000096",
+      "start_seconds": 788.952,
+      "end_seconds": 791.007,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9981123,
+      "text": "The last piece clicked into place."
+    },
+    {
+      "id": "SEG_000097",
+      "start_seconds": 791.007,
+      "end_seconds": 797.382,
+      "speaker_id": "SPK_003",
+      "confidence": 0.99191153,
+      "text": "He just promised to make me snow lily cake every morning after we're mated. Said it was my favorite."
+    },
+    {
+      "id": "SEG_000098",
+      "start_seconds": 797.382,
+      "end_seconds": 798.65,
+      "speaker_id": "SPK_001",
+      "confidence": 0.99730545,
+      "text": "We looked at each other."
+    },
+    {
+      "id": "SEG_000099",
+      "start_seconds": 798.65,
+      "end_seconds": 801.524,
+      "speaker_id": "SPK_003",
+      "confidence": 0.95812094,
+      "text": "He doesn't know you at all. No."
+    },
+    {
+      "id": "SEG_000100",
+      "start_seconds": 801.942,
+      "end_seconds": 803.933,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9734844,
+      "text": "I casually tossed the jacket in my hand."
+    },
+    {
+      "id": "SEG_000101",
+      "start_seconds": 803.933,
+      "end_seconds": 809.89,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9359466,
+      "text": "He never did. So all these years, every holiday, every packed dinner... He wasn't coming for me."
+    },
+    {
+      "id": "SEG_000102",
+      "start_seconds": 810.147,
+      "end_seconds": 815.349,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9654853,
+      "text": "The room was quiet, then Aria's face shifted. Not quite a smile, something sharper."
+    },
+    {
+      "id": "SEG_000103",
+      "start_seconds": 816.023,
+      "end_seconds": 824.421,
+      "speaker_id": "SPK_003",
+      "confidence": 0.947967,
+      "text": "So that's what we do. He wants a Coldwood woman, we give him one. Morgana. Morgana."
+    },
+    {
+      "id": "SEG_000104",
+      "start_seconds": 824.662,
+      "end_seconds": 825.368,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9625085,
+      "text": "I sat down."
+    },
+    {
+      "id": "SEG_000105",
+      "start_seconds": 826.749,
+      "end_seconds": 882.08,
+      "speaker_id": "SPK_003",
+      "confidence": 0.98191655,
+      "text": "Aria dropped onto the couch across from me. Does she know about him? What he's like? No. Mom needs to handle that carefully. We give her the full picture and let her decide. I paused. She's been living in the East Wing for 6 years, with nowhere to go. Lucien can give her a title, a home, a pack. We just make sure she understands exactly what she's walking into. You're not doing this to hurt her. Aria said it wasn't a question. No. I'm doing this to survive. And so are you. She nodded slowly. Then my mother walked in with 2 men behind her. I recognized them immediatelyâ€” Lance and Luke Laurent, Chief Elder Laurent's twin sons. I'd seen them at High Council ceremonies before, always in uniform, always in the background. They weren't in the background now. My mother looked exhausted and triumphant at the same time."
+    },
+    {
+      "id": "SEG_000106",
+      "start_seconds": 882.08,
+      "end_seconds": 889.691,
+      "speaker_id": "SPK_001",
+      "confidence": 0.96777123,
+      "text": "I ran all over town! These 2 have been waiting for Years, apparently. Good family, good standing, top enforcers in the High Council."
+    },
+    {
+      "id": "SEG_000107",
+      "start_seconds": 890.109,
+      "end_seconds": 899.277,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9881669,
+      "text": "She looked at us. Well? Neither of us spoke. Lance looked at me. Luke looked at Aria. Neither of them said anything pushy or performed anything smooth."
+    },
+    {
+      "id": "SEG_000108",
+      "start_seconds": 899.277,
+      "end_seconds": 903.355,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9769473,
+      "text": "You don't know us. That's fine. We can wait."
+    },
+    {
+      "id": "SEG_000109",
+      "start_seconds": 903.757,
+      "end_seconds": 1007.388,
+      "speaker_id": "SPK_003",
+      "confidence": 0.983013,
+      "text": "I looked at Aria. She looked at me. We didn't have time to be careful. We didn't have 3 days to think it over. Lucien was coming in 3 days expecting a bride, and we needed a plan that held. Okay. Aria exhaled. My mother had the contracts out before we finished the word. We signed, both of us, pack seals pressed and exchanged before the ink was dry. I held my contract for a moment after. The name line wasn't blank. For the first time in 3 lifetimes, my name was on a contract next to someone who had actually chosen me. It felt strange, unfamiliar. I folded it carefully and put it in my pocket. Now, we need to talk to Morgana. Morgana opened the door on the second knock. She was younger than I expected, maybe 25, dark hair, pale skin, and yes, there it was. A small mole on the right side of her neck, just below the jaw. She looked at me and Aria standing in her doorway and her face went careful and still. Miss Coldwood, both of you. This is unexpected. Can we come in? She stepped back without a word. Her room was small and neat, a single window, a bookshelf. On the desk, a half-eaten piece of snow lily cake on a ceramic plate. I sat down across from her and didn't waste time. I'm going to tell you something, and I need you to hear all of it before you respond. She folded her hands in her lap. Alright."
+    },
+    {
+      "id": "SEG_000110",
+      "start_seconds": 1008.083,
+      "end_seconds": 1030.117,
+      "speaker_id": "SPK_001",
+      "confidence": 0.98374057,
+      "text": "So I told her. I told her about the blank contract, about Lucien coming to Coldwheel manor for years, always with a reason, always finding a way to stay a little longer, about the paintings with no faces and a mole on the right side of the neck, about the snow lily cake. When I finished, the room was quiet. Morgana looked at the half-eaten cake on her desk for a long moment."
+    },
+    {
+      "id": "SEG_000111",
+      "start_seconds": 1030.117,
+      "end_seconds": 1033.698,
+      "speaker_id": "SPK_003",
+      "confidence": 0.99362457,
+      "text": "How long have you known? 2 days."
+    },
+    {
+      "id": "SEG_000112",
+      "start_seconds": 1036.563,
+      "end_seconds": 1037.523,
+      "speaker_id": "SPK_001",
+      "confidence": 0.94513834,
+      "text": "She nodded slowly."
+    },
+    {
+      "id": "SEG_000113",
+      "start_seconds": 1037.523,
+      "end_seconds": 1046.032,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9536045,
+      "text": "And you're here because you You want me to take your place? I'm here because you deserve to know the truth. What you do with it is your choice."
+    },
+    {
+      "id": "SEG_000114",
+      "start_seconds": 1048.559,
+      "end_seconds": 1049.908,
+      "speaker_id": "SPK_001",
+      "confidence": 0.95501226,
+      "text": "She was quiet for a long time."
+    },
+    {
+      "id": "SEG_000115",
+      "start_seconds": 1049.908,
+      "end_seconds": 1052.737,
+      "speaker_id": "SPK_003",
+      "confidence": 0.99189126,
+      "text": "He never told me he was trying to marry into your family."
+    },
+    {
+      "id": "SEG_000116",
+      "start_seconds": 1053.074,
+      "end_seconds": 1058.412,
+      "speaker_id": "SPK_001",
+      "confidence": 0.974604,
+      "text": "Her voice was flat, not hurt, just flat, like she was filing something away."
+    },
+    {
+      "id": "SEG_000117",
+      "start_seconds": 1058.906,
+      "end_seconds": 1064.631,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9756377,
+      "text": "He said he was working on a way for us to be together, that it was complicated, that I needed to be"
+    },
+    {
+      "id": "SEG_000118",
+      "start_seconds": 1066.91,
+      "end_seconds": 1072.632,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9512241,
+      "text": "Aria made a small sigh beside me. Morgana looked up."
+    },
+    {
+      "id": "SEG_000119",
+      "start_seconds": 1072.632,
+      "end_seconds": 1094.124,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9787165,
+      "text": "What happens to me if I go? You get a title. A home. A pack. You stop living in a room in someone else's manor, waiting for a man who's been lying to you for years. And what does he get? Exactly what he deserves,"
+    },
+    {
+      "id": "SEG_000120",
+      "start_seconds": 1095.603,
+      "end_seconds": 1099.477,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9904978,
+      "text": "Aria said. Morganella looked at her, then back at me."
+    },
+    {
+      "id": "SEG_000121",
+      "start_seconds": 1099.477,
+      "end_seconds": 1106.723,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9787526,
+      "text": "I have a brother. He's in debt. Lucien's been using that to keep me cooperative."
+    },
+    {
+      "id": "SEG_000122",
+      "start_seconds": 1107.143,
+      "end_seconds": 1107.933,
+      "speaker_id": "SPK_001",
+      "confidence": 0.964989,
+      "text": "She met my eyes."
+    },
+    {
+      "id": "SEG_000123",
+      "start_seconds": 1108.691,
+      "end_seconds": 1142.34,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9709949,
+      "text": "If I do this, I need him protected. Give me his name. I'll have it handled before the She studied my face for a moment. Then she stood up and smoothed her dress. I'll need to know what to wear. The morning of the wedding, Aria and my mother dressed Morgana in the east wing while I waited by the front gate. The scent-blocking veil covered everythingâ€” her face, her neck, her hair. From the"
+    },
+    {
+      "id": "SEG_000124",
+      "start_seconds": 1142.357,
+      "end_seconds": 1152.619,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9932797,
+      "text": "outside, she was just a bride in white. Lucien's motorcade arrived exactly on time. He stepped out and looked at my mother with that perfect, controlled smile."
+    },
+    {
+      "id": "SEG_000125",
+      "start_seconds": 1152.619,
+      "end_seconds": 1154.102,
+      "speaker_id": "SPK_002",
+      "confidence": 0.93626875,
+      "text": "Where's Vivian?"
+    },
+    {
+      "id": "SEG_000126",
+      "start_seconds": 1154.102,
+      "end_seconds": 1182.144,
+      "speaker_id": "SPK_001",
+      "confidence": 0.98645866,
+      "text": "She wanted it kept quiet. You know how she feels about attention. He nodded once. He walked to the car where Morgana sat waiting and held out his hand. She took it. He didn't hesitate. Didn't pause. Didn't notice anything at all. The motorcade pulled away. I stood at the gate and watched till it disappeared around the corner. Aria appeared beside me. She didn't say anything for a moment."
+    },
+    {
+      "id": "SEG_000127",
+      "start_seconds": 1182.144,
+      "end_seconds": 1188.857,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9970055,
+      "text": "Do you think he'll figure it out before the ceremony? No, he'll be too busy being pleased with himself."
+    },
+    {
+      "id": "SEG_000128",
+      "start_seconds": 1191.076,
+      "end_seconds": 1192.135,
+      "speaker_id": "SPK_001",
+      "confidence": 0.92915344,
+      "text": "She almost smiled,"
+    },
+    {
+      "id": "SEG_000129",
+      "start_seconds": 1194.33,
+      "end_seconds": 1195.137,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9564598,
+      "text": "And after?"
+    },
+    {
+      "id": "SEG_000130",
+      "start_seconds": 1195.137,
+      "end_seconds": 1201.583,
+      "speaker_id": "SPK_001",
+      "confidence": 0.98987514,
+      "text": "I turned back toward the house."
+    },
+    {
+      "id": "SEG_000131",
+      "start_seconds": 1201.583,
+      "end_seconds": 1211.505,
+      "speaker_id": "SPK_003",
+      "confidence": 0.933957,
+      "text": "After, it's gonna be very interesting. They grabbed me the next morning."
+    },
+    {
+      "id": "SEG_000132",
+      "start_seconds": 1218.898,
+      "end_seconds": 1261.208,
+      "speaker_id": "SPK_001",
+      "confidence": 0.99296,
+      "text": "Ari and I had gone out to look at jewelry for our own upcoming ceremonies. I stopped at a small cafÃ© to wait while she went ahead. 2 men came out of nowhere. One hand over my mouth, one arm around my waist. I released my inner wolf and fought hard. They decided it was easier to knock me out. When I opened my eyes, I was in a bedroom at Valerius Manor. Lucien sat on the edge of the bed. His eyes were red, not from crying, from something that had been burning all night and hadn't gone out. He looked at me the way he used to look at territory disputes, like a problem that needed to be solved by force."
+    },
+    {
+      "id": "SEG_000133",
+      "start_seconds": 1261.208,
+      "end_seconds": 1262.014,
+      "speaker_id": "SPK_002",
+      "confidence": 0.98179394,
+      "text": "Explain."
+    },
+    {
+      "id": "SEG_000134",
+      "start_seconds": 1262.014,
+      "end_seconds": 1266.267,
+      "speaker_id": "SPK_001",
+      "confidence": 0.99227786,
+      "text": "I sat up slowly. My head was still ringing."
+    },
+    {
+      "id": "SEG_000135",
+      "start_seconds": 1267.678,
+      "end_seconds": 1285.453,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9864863,
+      "text": "Explain what? You sent a contract with no name. Anyone could have shown up. That's not my problem. He grabbed the bed hold beside my head, not touching me, just close enough that I couldn't ignore him."
+    },
+    {
+      "id": "SEG_000136",
+      "start_seconds": 1285.453,
+      "end_seconds": 1287.805,
+      "speaker_id": "SPK_002",
+      "confidence": 0.8593771,
+      "text": "Vivian, don't."
+    },
+    {
+      "id": "SEG_000137",
+      "start_seconds": 1288.127,
+      "end_seconds": 1303.481,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9761854,
+      "text": "His voice was very quiet. Don't what? I met his eyes. You got a cold-willed woman. Isn't that what you wanted? Something moved across his face, fast, gone before I could name it."
+    },
+    {
+      "id": "SEG_000138",
+      "start_seconds": 1303.481,
+      "end_seconds": 1306.81,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9954358,
+      "text": "You know that's not what I wanted."
+    },
+    {
+      "id": "SEG_000139",
+      "start_seconds": 1306.81,
+      "end_seconds": 1317.491,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9868032,
+      "text": "Do I? Because your contract didn't say my name, and last night apparently went just fine without me. His jaw tightened."
+    },
+    {
+      "id": "SEG_000140",
+      "start_seconds": 1319.97,
+      "end_seconds": 1322.135,
+      "speaker_id": "SPK_002",
+      "confidence": 0.90268934,
+      "text": "The room The room was dark. I didn't know until morning."
+    },
+    {
+      "id": "SEG_000141",
+      "start_seconds": 1322.135,
+      "end_seconds": 1361.67,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9854701,
+      "text": "And yet you didn't send her home? Silence. The air in the room smelled like snow lily, faint but unmistakable. Her pheromones, still clinging to everything. I looked at the rumpled sheets, at the 2 glasses on the nightstand, at Lucien standing there with his red eyes and his clenched jaw, furious at me for something he did. You son of a bitch, I said out loud. He flinched. Good. You brought me here against my will. You had me knocked out. You dragged me into the room where you just spent the night with another woman, and now you want me to explain myself? Vivianâ€” Tell your men to bring my car around. I'm leaving."
+    },
+    {
+      "id": "SEG_000142",
+      "start_seconds": 1363.069,
+      "end_seconds": 1364.13,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9408842,
+      "text": "He grabbed my wrist."
+    },
+    {
+      "id": "SEG_000143",
+      "start_seconds": 1364.741,
+      "end_seconds": 1365.528,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9173208,
+      "text": "You're not leaving."
+    },
+    {
+      "id": "SEG_000144",
+      "start_seconds": 1366.445,
+      "end_seconds": 1367.538,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9983028,
+      "text": "His grip was iron."
+    },
+    {
+      "id": "SEG_000145",
+      "start_seconds": 1369.245,
+      "end_seconds": 1372.925,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9696372,
+      "text": "You're going to sit down and you're going to Listen, and then we're gonna fix this."
+    },
+    {
+      "id": "SEG_000146",
+      "start_seconds": 1372.925,
+      "end_seconds": 1374.964,
+      "speaker_id": "SPK_003",
+      "confidence": 0.99618185,
+      "text": "Fix what?"
+    },
+    {
+      "id": "SEG_000147",
+      "start_seconds": 1375.526,
+      "end_seconds": 1376.939,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9954189,
+      "text": "I pulled against his hold."
+    },
+    {
+      "id": "SEG_000148",
+      "start_seconds": 1377.196,
+      "end_seconds": 1380.632,
+      "speaker_id": "SPK_003",
+      "confidence": 0.99585843,
+      "text": "There's nothing to fix. You made your choices, I made mine."
+    },
+    {
+      "id": "SEG_000149",
+      "start_seconds": 1380.632,
+      "end_seconds": 1381.756,
+      "speaker_id": "SPK_002",
+      "confidence": 0.99512255,
+      "text": "What choices?"
+    },
+    {
+      "id": "SEG_000150",
+      "start_seconds": 1382.415,
+      "end_seconds": 1384.566,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9952605,
+      "text": "His voice cracked, just slightly."
+    },
+    {
+      "id": "SEG_000151",
+      "start_seconds": 1385.546,
+      "end_seconds": 1389.736,
+      "speaker_id": "SPK_002",
+      "confidence": 0.994331,
+      "text": "You signed a contract with someone else. When? How? You were supposed toâ€”"
+    },
+    {
+      "id": "SEG_000152",
+      "start_seconds": 1390.603,
+      "end_seconds": 1414.378,
+      "speaker_id": "SPK_003",
+      "confidence": 0.97558576,
+      "text": "He stopped himself. I looked at him. I was supposed to what? Wait for you? Accept whatever you decided to give me? I pulled my wrist free. I did that once. It didn't end well. He stared at me. For just a second, something in his expression shiftedâ€” confused, almost lost. Then the door opened and Alpha Varius walked in, followed by Luna Varius."
+    },
+    {
+      "id": "SEG_000153",
+      "start_seconds": 1414.637,
+      "end_seconds": 1416.852,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9984875,
+      "text": "Luna Varius rushed toward me with both hands out."
+    },
+    {
+      "id": "SEG_000154",
+      "start_seconds": 1416.852,
+      "end_seconds": 1419.082,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9416611,
+      "text": "Viviane, sweetheart! You're finally up!"
+    },
+    {
+      "id": "SEG_000155",
+      "start_seconds": 1419.357,
+      "end_seconds": 1431.108,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9847254,
+      "text": "She reached for my hair, smoothing it back like I was 12 years The morning-after greeting ceremony is in an hour. We've been so excited for this day. I stepped back out of her reach."
+    },
+    {
+      "id": "SEG_000156",
+      "start_seconds": 1433.83,
+      "end_seconds": 1434.006,
+      "speaker_id": "SPK_003",
+      "confidence": 0.86178833,
+      "text": "Ma'am,"
+    },
+    {
+      "id": "SEG_000157",
+      "start_seconds": 1434.183,
+      "end_seconds": 1434.875,
+      "speaker_id": "SPK_001",
+      "confidence": 0.99471396,
+      "text": "I said calmly,"
+    },
+    {
+      "id": "SEG_000158",
+      "start_seconds": 1435.696,
+      "end_seconds": 1436.806,
+      "speaker_id": "SPK_003",
+      "confidence": 0.99914527,
+      "text": "you have the wrong person."
+    },
+    {
+      "id": "SEG_000159",
+      "start_seconds": 1437.079,
+      "end_seconds": 1449.647,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9796531,
+      "text": "Luna Valerius laughed, a nervous, uncertain sound. What do you mean, wrong person? Sweetheart, you're Vivienne. We've known you since you were a child."
+    },
+    {
+      "id": "SEG_000160",
+      "start_seconds": 1449.647,
+      "end_seconds": 1457.052,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9889494,
+      "text": "Yes. Which is why you can call Chief Elder Laurent right now and ask him where I was 2 nights ago."
+    },
+    {
+      "id": "SEG_000161",
+      "start_seconds": 1457.864,
+      "end_seconds": 1463.615,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9890523,
+      "text": "The room went quiet. Alpha Valerius looked at his son. Lucien said nothing."
+    },
+    {
+      "id": "SEG_000162",
+      "start_seconds": 1463.615,
+      "end_seconds": 1485.386,
+      "speaker_id": "SPK_003",
+      "confidence": 0.97825116,
+      "text": "Sir, your son sent a contract with no name. I declined. Someone else accepted. I kept my voice even. The woman who came to this house 2 days ago was not me. I was at Coldwell Manor having dinner with Chief Elder Lardont and his wife. Luna Valeris looked between me and Lucien."
+    },
+    {
+      "id": "SEG_000163",
+      "start_seconds": 1485.386,
+      "end_seconds": 1488.918,
+      "speaker_id": "SPK_001",
+      "confidence": 0.91995203,
+      "text": "That's notâ€” the servant said the bride arrived in the convoy."
+    },
+    {
+      "id": "SEG_000164",
+      "start_seconds": 1488.918,
+      "end_seconds": 1514.731,
+      "speaker_id": "SPK_003",
+      "confidence": 0.977697,
+      "text": "She did. Her name is Morgana. She's been living at Coldwell Manor for 6 years. I paused. She also has a mole on the right side of of her neck, in case anyone needs confirmation. The silence that followed was very long. Luna Velescius sat down hard in the chair behind her. Alpha Velescius turned to Lucien, slow, the way a man turns when he already knows the answer and doesn't want to hear it."
+    },
+    {
+      "id": "SEG_000165",
+      "start_seconds": 1514.731,
+      "end_seconds": 1517.27,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9431521,
+      "text": "Who is she?"
+    },
+    {
+      "id": "SEG_000166",
+      "start_seconds": 1518.211,
+      "end_seconds": 1521.861,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9987386,
+      "text": "Lucien's mouth tightened. He didn't answer."
+    },
+    {
+      "id": "SEG_000167",
+      "start_seconds": 1521.861,
+      "end_seconds": 1524.135,
+      "speaker_id": "SPK_002",
+      "confidence": 0.8097879,
+      "text": "Lucien..."
+    },
+    {
+      "id": "SEG_000168",
+      "start_seconds": 1524.832,
+      "end_seconds": 1526.382,
+      "speaker_id": "SPK_003",
+      "confidence": 0.8179794,
+      "text": "Valerius's voice dropped."
+    },
+    {
+      "id": "SEG_000169",
+      "start_seconds": 1528.615,
+      "end_seconds": 1530.39,
+      "speaker_id": "SPK_002",
+      "confidence": 0.8847766,
+      "text": "Who is Shay?"
+    },
+    {
+      "id": "SEG_000170",
+      "start_seconds": 1530.39,
+      "end_seconds": 1531.229,
+      "speaker_id": "SPK_004",
+      "confidence": 0.85236305,
+      "text": "She'sâ€”"
+    },
+    {
+      "id": "SEG_000171",
+      "start_seconds": 1531.923,
+      "end_seconds": 1534.134,
+      "speaker_id": "SPK_003",
+      "confidence": 0.95400274,
+      "text": "Lucien stopped, started again."
+    },
+    {
+      "id": "SEG_000172",
+      "start_seconds": 1534.57,
+      "end_seconds": 1540.215,
+      "speaker_id": "SPK_004",
+      "confidence": 0.9944194,
+      "text": "She was connected to the Coldwood family. She's been under their care for years. It's notâ€” it's not what it looks like."
+    },
+    {
+      "id": "SEG_000173",
+      "start_seconds": 1541.563,
+      "end_seconds": 1567.393,
+      "speaker_id": "SPK_003",
+      "confidence": 0.98572856,
+      "text": "Then what does it look like? He shot me a look, sharp and warning. I ignored it. Your son has been in love with her for years. He came to Coldwild Manor every chance he got. Not for me, for her. I looked at Alpha Valerius. His study is full of her portraits. Ask him to show you the one in the hidden compartment. Lucien went pale."
+    },
+    {
+      "id": "SEG_000174",
+      "start_seconds": 1567.393,
+      "end_seconds": 1568.3,
+      "speaker_id": "SPK_002",
+      "confidence": 0.88161814,
+      "text": "Vivian..."
+    },
+    {
+      "id": "SEG_000175",
+      "start_seconds": 1568.543,
+      "end_seconds": 1570.519,
+      "speaker_id": "SPK_003",
+      "confidence": 0.953311,
+      "text": "His voice came out low and tight."
+    },
+    {
+      "id": "SEG_000176",
+      "start_seconds": 1572.43,
+      "end_seconds": 1572.74,
+      "speaker_id": "SPK_002",
+      "confidence": 0.84877264,
+      "text": "That's enough."
+    },
+    {
+      "id": "SEG_000177",
+      "start_seconds": 1573.428,
+      "end_seconds": 1578.593,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9362809,
+      "text": "Alpha Valerius said. He didn't raise his voice. He didn't have to."
+    },
+    {
+      "id": "SEG_000178",
+      "start_seconds": 1578.593,
+      "end_seconds": 1585.614,
+      "speaker_id": "SPK_002",
+      "confidence": 0.97118753,
+      "text": "Get me Chief Elder Laurent on the phone,"
+    },
+    {
+      "id": "SEG_000179",
+      "start_seconds": 1585.727,
+      "end_seconds": 1586.824,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9975191,
+      "text": "he said to the nearest guard."
+    },
+    {
+      "id": "SEG_000180",
+      "start_seconds": 1586.936,
+      "end_seconds": 1587.049,
+      "speaker_id": "SPK_002",
+      "confidence": 0.8157535,
+      "text": "Now."
+    },
+    {
+      "id": "SEG_000181",
+      "start_seconds": 1587.049,
+      "end_seconds": 1596.319,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9921844,
+      "text": "Luna Valeris pressed both hands over her face. Lucien turned to me. His composure was cracking at the edges now, something raw and desperate bleeding through."
+    },
+    {
+      "id": "SEG_000182",
+      "start_seconds": 1596.319,
+      "end_seconds": 1597.486,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9740234,
+      "text": "You didn't have to do this,"
+    },
+    {
+      "id": "SEG_000183",
+      "start_seconds": 1597.518,
+      "end_seconds": 1610.758,
+      "speaker_id": "SPK_003",
+      "confidence": 0.91139215,
+      "text": "he said quietly. I know. But you did. Alpha Valeris looked at me. He looked at me, then at his son. Something shifted behind his eyesâ€” calculation, the same calculation I'd seen in Lucien a hundred times. He cleared his throat."
+    },
+    {
+      "id": "SEG_000184",
+      "start_seconds": 1610.758,
+      "end_seconds": 1617.709,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9909549,
+      "text": "Vivian, this is an embarrassing situation for everyone. Let's handle it quietly."
+    },
+    {
+      "id": "SEG_000185",
+      "start_seconds": 1618.047,
+      "end_seconds": 1619.171,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9315826,
+      "text": "He glanced at his wife."
+    },
+    {
+      "id": "SEG_000186",
+      "start_seconds": 1619.268,
+      "end_seconds": 1623.712,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9965762,
+      "text": "You were never here. Lucien and Morgana are properly mated now. We acknowledge it internally and move forward."
+    },
+    {
+      "id": "SEG_000187",
+      "start_seconds": 1623.939,
+      "end_seconds": 1625.884,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9924953,
+      "text": "He tried for a reasonable smile."
+    },
+    {
+      "id": "SEG_000188",
+      "start_seconds": 1626.11,
+      "end_seconds": 1627.374,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9941754,
+      "text": "No reason this has to leave the"
+    },
+    {
+      "id": "SEG_000189",
+      "start_seconds": 1628.226,
+      "end_seconds": 1634.427,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9343412,
+      "text": "I stared at him. Luna Valersey recovered fast, too fast."
+    },
+    {
+      "id": "SEG_000190",
+      "start_seconds": 1634.427,
+      "end_seconds": 1644.81,
+      "speaker_id": "SPK_001",
+      "confidence": 0.9833888,
+      "text": "Yes. Vivian, you're a sensible girl. You understand how these things work. A little discretion now saves everyone a great deal of trouble."
+    },
+    {
+      "id": "SEG_000191",
+      "start_seconds": 1644.81,
+      "end_seconds": 1711.205,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9754815,
+      "text": "I looked at the two of them, then at Lucien. 3 generations of the same thing, smiling faces, reasonable voices, and underneath, the absolute certainty that I would comply because it was easier. I had complied once. I knew exactly how that ended. Call Chief Elder Laurent. I'll wait. They didn't call Laurent. Instead, Alpha Valeris told the guards to keep me in the east guest room until he and Lucien returned from what he called A necessary visit. I knew where they were going. I sat on the edge of the bed and ran through the numbers. Laurent was reasonable. He didn't like drama. In another life, he'd stayed out of it entirely. But this life was different. This life, I was his daughter-in-law. The question was whether he'd answer the door. Two hours passed. Then Lucien came back alone. He walked in and closed the door behind him. He didn't. Look at me right away. He stood with one hand on the door handle, jaw tight, staring at the floor."
+    },
+    {
+      "id": "SEG_000192",
+      "start_seconds": 1711.74,
+      "end_seconds": 1712.77,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9354074,
+      "text": "Lawrence talked to us,"
+    },
+    {
+      "id": "SEG_000193",
+      "start_seconds": 1713.205,
+      "end_seconds": 1714.992,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9364263,
+      "text": "he said finally. And?"
+    },
+    {
+      "id": "SEG_000194",
+      "start_seconds": 1715.62,
+      "end_seconds": 1719.308,
+      "speaker_id": "SPK_002",
+      "confidence": 0.99827117,
+      "text": "He said it wasn't his place to get involved in another pack's internal matters."
+    },
+    {
+      "id": "SEG_000195",
+      "start_seconds": 1719.662,
+      "end_seconds": 1720.548,
+      "speaker_id": "SPK_003",
+      "confidence": 0.90077215,
+      "text": "Lucien looked up."
+    },
+    {
+      "id": "SEG_000196",
+      "start_seconds": 1723.316,
+      "end_seconds": 1724.317,
+      "speaker_id": "SPK_002",
+      "confidence": 0.99904853,
+      "text": "He's not going to intervene."
+    },
+    {
+      "id": "SEG_000197",
+      "start_seconds": 1724.624,
+      "end_seconds": 1730.728,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9938601,
+      "text": "Something cold moved through my chest. I kept my face still. Then you have what you want, I said. Let me go home."
+    },
+    {
+      "id": "SEG_000198",
+      "start_seconds": 1731.442,
+      "end_seconds": 1732.333,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9687989,
+      "text": "I can't."
+    },
+    {
+      "id": "SEG_000199",
+      "start_seconds": 1732.657,
+      "end_seconds": 1735.962,
+      "speaker_id": "SPK_003",
+      "confidence": 0.94878787,
+      "text": "He crossed the room, not aggressive, almost tired."
+    },
+    {
+      "id": "SEG_000200",
+      "start_seconds": 1736.221,
+      "end_seconds": 1742.353,
+      "speaker_id": "SPK_002",
+      "confidence": 0.97868705,
+      "text": "My mother's right. The only way to contain this is if you're part of the solution. Luna, public face. Everything stays clean."
+    },
+    {
+      "id": "SEG_000201",
+      "start_seconds": 1742.353,
+      "end_seconds": 1749.644,
+      "speaker_id": "SPK_003",
+      "confidence": 0.99276984,
+      "text": "You want me to pretend to be your mate?"
+    },
+    {
+      "id": "SEG_000202",
+      "start_seconds": 1749.644,
+      "end_seconds": 1750.716,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9949552,
+      "text": "I want you to be my mate."
+    },
+    {
+      "id": "SEG_000203",
+      "start_seconds": 1750.764,
+      "end_seconds": 1751.755,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9923457,
+      "text": "He stopped in front of me."
+    },
+    {
+      "id": "SEG_000204",
+      "start_seconds": 1754.576,
+      "end_seconds": 1761.261,
+      "speaker_id": "SPK_002",
+      "confidence": 0.98306316,
+      "text": "Vivian, I know this isn't how you wanted it. But I can make it work. I can make it good. You know I can."
+    },
+    {
+      "id": "SEG_000205",
+      "start_seconds": 1761.52,
+      "end_seconds": 1771.08,
+      "speaker_id": "SPK_003",
+      "confidence": 0.97872317,
+      "text": "I looked at him. He used to be able to say things like that and make me feel safe. Now it just made me tired. No. His expression hardened."
+    },
+    {
+      "id": "SEG_000206",
+      "start_seconds": 1771.08,
+      "end_seconds": 1776.162,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9757968,
+      "text": "Then I don't have a choice."
+    },
+    {
+      "id": "SEG_000207",
+      "start_seconds": 1778.48,
+      "end_seconds": 1795.493,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9874014,
+      "text": "I shoved him back hard. He caught my wrists and his alpha aura hit the room like a wave. pressing down on my inner wolf until she went silent and still. I fought anyway. I twisted and kicked and refused to stop moving. It didn't matter. He was stronger. He'd always been stronger."
+    },
+    {
+      "id": "SEG_000208",
+      "start_seconds": 1795.493,
+      "end_seconds": 1796.456,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9622678,
+      "text": "Stop,"
+    },
+    {
+      "id": "SEG_000209",
+      "start_seconds": 1796.681,
+      "end_seconds": 1878.592,
+      "speaker_id": "SPK_003",
+      "confidence": 0.96945703,
+      "text": "he said. Not angry. Worse than angry. Resigned. Like this was just something that had to happen. My back hit the mattress. Lucien, my voice came out steady even though nothing else was. Don't do Thisâ€” He didn't answer. The alpha aura pressed harder. My inner wolf went completely quiet. My arms stopped responding. This was it. This was exactly how it ended last time, except last time there had been no one coming. The door exploded open. Aria stood in the frame, breathing hard, a silver blade in both Get your hands off my sister. Now. Lucien turned his head. He looked at her the way you look at something small and inconvenient. He raised one hand and released a pulse of alpha aura. The blade flew out of Aria's grip and hit the far wall. She stumbled, caught herself on the door warn. Lucien turned back to me. Aria looked at me from across the room. Her hands were empty. empty, her eyes were not. I'm sorry, she mouthed. The door behind her was still open, and then I heard footsteps in the hall. Chief Elder Lawrence walked in. He took one look at the room, at me on the bed, at Aria's empty hands, at Lucien standing over me."
+    },
+    {
+      "id": "SEG_000210",
+      "start_seconds": 1878.948,
+      "end_seconds": 1879.613,
+      "speaker_id": "SPK_002",
+      "confidence": 0.7989676,
+      "text": "Step back,"
+    },
+    {
+      "id": "SEG_000211",
+      "start_seconds": 1879.824,
+      "end_seconds": 1909.328,
+      "speaker_id": "SPK_003",
+      "confidence": 0.98237854,
+      "text": "he said. He didn't raise his voice. Lucien didn't move immediately. For one long second, he stayed exactly where he was, and the room held its breath. Then, he stepped back. Laurent walked to the center of the room. Behind him came an older man I recognized from High Council ceremoniesâ€” white-haired, unhurriedâ€” the Royal Seer, the Alpha King's personal emissary, who had served the throne for 50 years. I sat up slowly. Laurent looked at Lucien."
+    },
+    {
+      "id": "SEG_000212",
+      "start_seconds": 1909.328,
+      "end_seconds": 1911.93,
+      "speaker_id": "SPK_002",
+      "confidence": 0.97118163,
+      "text": "When your father came to me this afternoon..."
+    },
+    {
+      "id": "SEG_000213",
+      "start_seconds": 1911.93,
+      "end_seconds": 1913.214,
+      "speaker_id": "SPK_003",
+      "confidence": 0.8629106,
+      "text": "He said..."
+    },
+    {
+      "id": "SEG_000214",
+      "start_seconds": 1913.214,
+      "end_seconds": 1916.265,
+      "speaker_id": "SPK_002",
+      "confidence": 0.92729586,
+      "text": "He asked me to stay out of it. Another pack's internal matters."
+    },
+    {
+      "id": "SEG_000215",
+      "start_seconds": 1917.582,
+      "end_seconds": 1919.605,
+      "speaker_id": "SPK_003",
+      "confidence": 0.98791623,
+      "text": "He clapped his hands behind his back."
+    },
+    {
+      "id": "SEG_000216",
+      "start_seconds": 1920.295,
+      "end_seconds": 1922.575,
+      "speaker_id": "SPK_002",
+      "confidence": 0.99277765,
+      "text": "He was right that I don't enjoy interfering."
+    },
+    {
+      "id": "SEG_000217",
+      "start_seconds": 1923.041,
+      "end_seconds": 1923.731,
+      "speaker_id": "SPK_003",
+      "confidence": 0.99930865,
+      "text": "He paused."
+    },
+    {
+      "id": "SEG_000218",
+      "start_seconds": 1923.828,
+      "end_seconds": 1925.497,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9997801,
+      "text": "He was wrong about what this is."
+    },
+    {
+      "id": "SEG_000219",
+      "start_seconds": 1926.075,
+      "end_seconds": 1932.321,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9504398,
+      "text": "Lucien's eyes moved to the royal sea. Something in his face changed. Laurent said, nodding toward me,"
+    },
+    {
+      "id": "SEG_000220",
+      "start_seconds": 1932.594,
+      "end_seconds": 1937.235,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9783181,
+      "text": "\"This woman is my daughter-in-law. The contract was signed and sealed three days ago.\""
+    },
+    {
+      "id": "SEG_000221",
+      "start_seconds": 1937.556,
+      "end_seconds": 1940.205,
+      "speaker_id": "SPK_003",
+      "confidence": 0.98061407,
+      "text": "He looked at Alpha Valerius, who had appeared in the doorway."
+    },
+    {
+      "id": "SEG_000222",
+      "start_seconds": 1940.463,
+      "end_seconds": 1946.669,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9935243,
+      "text": "Your son kidnapped her this morning, held her against her will, and just now attempted to assault her in this room."
+    },
+    {
+      "id": "SEG_000223",
+      "start_seconds": 1947.75,
+      "end_seconds": 1949.002,
+      "speaker_id": "SPK_003",
+      "confidence": 0.96032685,
+      "text": "He let that sit for a moment."
+    },
+    {
+      "id": "SEG_000224",
+      "start_seconds": 1949.002,
+      "end_seconds": 1951.734,
+      "speaker_id": "SPK_002",
+      "confidence": 0.97843796,
+      "text": "I was outside the door. I heard everything."
+    },
+    {
+      "id": "SEG_000225",
+      "start_seconds": 1952.173,
+      "end_seconds": 1953.767,
+      "speaker_id": "SPK_003",
+      "confidence": 0.99703205,
+      "text": "The room was completely silent."
+    },
+    {
+      "id": "SEG_000226",
+      "start_seconds": 1955.57,
+      "end_seconds": 1956.903,
+      "speaker_id": "SPK_002",
+      "confidence": 0.840141,
+      "text": "The Royal Seer was with me,"
+    },
+    {
+      "id": "SEG_000227",
+      "start_seconds": 1957.272,
+      "end_seconds": 1958.413,
+      "speaker_id": "SPK_003",
+      "confidence": 0.52396667,
+      "text": "Laurent continued,"
+    },
+    {
+      "id": "SEG_000228",
+      "start_seconds": 1958.799,
+      "end_seconds": 1961.787,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9976442,
+      "text": "as a neutral witness, at the Alpha King's request."
+    },
+    {
+      "id": "SEG_000229",
+      "start_seconds": 1962.654,
+      "end_seconds": 1967.236,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9456225,
+      "text": "Alpha Valerius looked at Lucien, then at the Seer. Then back at Lucian."
+    },
+    {
+      "id": "SEG_000230",
+      "start_seconds": 1967.284,
+      "end_seconds": 1970.479,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9997622,
+      "text": "Whatever calculation he'd been running died behind his eyes."
+    },
+    {
+      "id": "SEG_000231",
+      "start_seconds": 1970.834,
+      "end_seconds": 1972.254,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9345862,
+      "text": "The seer stepped forward."
+    },
+    {
+      "id": "SEG_000232",
+      "start_seconds": 1972.529,
+      "end_seconds": 1973.158,
+      "speaker_id": "SPK_002",
+      "confidence": 0.96808493,
+      "text": "I've seen enough,"
+    },
+    {
+      "id": "SEG_000233",
+      "start_seconds": 1973.723,
+      "end_seconds": 1974.481,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9997879,
+      "text": "he said simply."
+    },
+    {
+      "id": "SEG_000234",
+      "start_seconds": 1974.691,
+      "end_seconds": 1976.603,
+      "speaker_id": "SPK_002",
+      "confidence": 0.99894166,
+      "text": "I'll be reporting directly to the Alpha King."
+    },
+    {
+      "id": "SEG_000235",
+      "start_seconds": 1980.12,
+      "end_seconds": 1982.865,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9936624,
+      "text": "Lucian turned to me, fast, desperate."
+    },
+    {
+      "id": "SEG_000236",
+      "start_seconds": 1982.962,
+      "end_seconds": 1983.35,
+      "speaker_id": "SPK_004",
+      "confidence": 0.86076903,
+      "text": "Vivienne."
+    },
+    {
+      "id": "SEG_000237",
+      "start_seconds": 1983.689,
+      "end_seconds": 1985.288,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9997438,
+      "text": "He took one step towards me."
+    },
+    {
+      "id": "SEG_000238",
+      "start_seconds": 1985.563,
+      "end_seconds": 1991.009,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9869172,
+      "text": "Tell them it wasn't what it looked like. Tell them you came willingly. Just say that. One sentence."
+    },
+    {
+      "id": "SEG_000239",
+      "start_seconds": 1991.622,
+      "end_seconds": 2198.207,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9743476,
+      "text": "at him. This man had poisoned me, mutilated my sister, spent 3 lifetimes treating us like tools and then discarding us when we stopped being useful, and now he was asking me for one more thing. Not a chance. Laurent put his hand out toward me. I took it and stood up. Aria Abir appeared at my side immediately. She didn't say anything. We watched the guards move in. Luna Valerius started crying. Alpha Valerius stood very still with the expression of a man watching everything he built come apart at the seams. Lucien didn't look away from me until the guards put their hands on his arms. Even then, even as they walked him out, he kept looking back. The verdict came fast. 8 years of exile in the northern wastelands. Soul-binding shackles, his inner wolf sealed for the duration. 5 years for aiding covering up an unlawful detention of a High Council member's family. Their pack title stripped, the Blood Moon Pack dissolved, Valaris Manor seized and transferred to High Council jurisdiction. All of it done in 72 hours. Aria found me in the garden the morning the verdict was announced. She sat down beside me without saying anything for a while. Then... Morgana. I looked up. She's on the street. Pack's gone, Manor's sealed. She tried to go back to the underground clubs, but nobody will take her. She paused. Viviana... that painting got out. Everyone knows. I didn't say anything. Are you sorry for her? No. I thought about it, honestly. Morgana had known what she was doing. She'd let my father's household shelter her for 6 years while she maintained a secret arrangement with the man who would later poison me and mutilate my sister. She hadn't warned anyone. She hadn't chosen differently when she had the chance. Her consequences were her own. Neither am I. We sat there for a moment, then Aria straightened So, Lawrence brothers. Lawrence brothers, I agreed. She smoothed her dress. Failed completely. Luke said he's been interested since I was 6. 6, Vivian! He's been waiting 14 years! Lance told me he watched me wait at the border post for a whole month when Lucien came back injured, and I wouldn't leave until I knew he was okay. I paused. He said that was when he knew. Aria looked at me sideways. You waited a month at a border post for Lucien? I was 17. You were an idiot. I was 17, I repeated. She almost smiled. The Laurent brothers arrived at Coldwell Manor that afternoon. No ceremony. No performance. Just 2 men who knocked on the front door and came in when my mother opened Lance found me in the hallway. He held out his hand. I looked at it for a second before I took it. His grip was steady. No alpha aura, no pressure. Just a hand holding mine like it was something he wanted to do, not something he was entitled to. My heart did something unfamiliar. Not the desperate, clinging feeling I used to get around Lucien. Something quieter, Something that didn't hurt."
+    },
+    {
+      "id": "SEG_000240",
+      "start_seconds": 2198.207,
+      "end_seconds": 2203.146,
+      "speaker_id": "SPK_002",
+      "confidence": 0.99448806,
+      "text": "You don't have to figure everything out today. I meant what I said. I can wait."
+    },
+    {
+      "id": "SEG_000241",
+      "start_seconds": 2203.146,
+      "end_seconds": 2216.386,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9896535,
+      "text": "I know. I didn't let go of his hand. From the sitting room, I heard Aria's voice, bright and sharp. 14 years? So you've been following me around since I was 6? That's actually kind of weird, Luke."
+    },
+    {
+      "id": "SEG_000242",
+      "start_seconds": 2216.386,
+      "end_seconds": 2221.118,
+      "speaker_id": "SPK_002",
+      "confidence": 0.9870491,
+      "text": "You were extremely memorable."
+    },
+    {
+      "id": "SEG_000243",
+      "start_seconds": 2222.157,
+      "end_seconds": 2223.161,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9444365,
+      "text": "I was 6."
+    },
+    {
+      "id": "SEG_000244",
+      "start_seconds": 2223.161,
+      "end_seconds": 2229.108,
+      "speaker_id": "SPK_002",
+      "confidence": 0.99583626,
+      "text": "You challenged 3 older kids to a race and won. I was impressed."
+    },
+    {
+      "id": "SEG_000245",
+      "start_seconds": 2229.108,
+      "end_seconds": 2231.064,
+      "speaker_id": "SPK_003",
+      "confidence": 0.99271363,
+      "text": "That's still weird."
+    },
+    {
+      "id": "SEG_000246",
+      "start_seconds": 2231.064,
+      "end_seconds": 2234.171,
+      "speaker_id": "SPK_002",
+      "confidence": 0.99366766,
+      "text": "You keep saying that."
+    },
+    {
+      "id": "SEG_000247",
+      "start_seconds": 2235.718,
+      "end_seconds": 2258.367,
+      "speaker_id": "SPK_003",
+      "confidence": 0.9805209,
+      "text": "I looked at Lance. He was already smiling. I turned toward the sitting room doorway. Aria? She looked at me. Deal. But this time, we both win. She stared at me for a second, then something crossed her face, soft and real, under all the sharp edges. She grabbed Luke's arm and turned back to the window like she hadn't heard me, but she was smiling."
+    }
+  ]
+}

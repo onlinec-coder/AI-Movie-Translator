@@ -1,0 +1,36 @@
+
+{
+  "schema_version": "1.0.0",
+  "review_type": "audio_candidate_verification",
+  "decisions": [
+    {
+      "candidate_id": "MD_0009",
+      "decision": "EXISTING_SUBTITLE_CONTINUATION",
+      "audio_verified": true,
+      "related_subtitle_ids": [56],
+      "notes": "Dialogue is a continuation of subtitle 56. No new subtitle required."
+    },
+    {
+      "candidate_id": "MD_0011",
+      "decision": "CONFIRMED_MISSING_DIALOGUE",
+      "audio_verified": true,
+      "text": "Every time I complained, he hurt me.",
+      "start_seconds": 243.279,
+      "end_seconds": 246.206,
+      "speaker_id": "SPK_003",
+      "related_subtitle_ids": [79],
+      "notes": "Dialogue is audible in source video but absent from the SRT text."
+    },
+    {
+      "candidate_id": "MD_0013",
+      "decision": "CONFIRMED_MISSING_DIALOGUE",
+      "audio_verified": true,
+      "text": "I couldn't speak.",
+      "start_seconds": 267.090,
+      "end_seconds": 267.939,
+      "speaker_id": "SPK_001",
+      "related_subtitle_ids": [84],
+      "notes": "Dialogue is audible in source video but absent from the SRT text."
+    }
+  ]
+}

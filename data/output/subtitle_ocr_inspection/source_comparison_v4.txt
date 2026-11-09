@@ -1,0 +1,1639 @@
+SUBTITLE SOURCE COMPARISON V4
+======================================================================
+Method: GLOBAL WORD SEQUENCE ALIGNMENT
+
+SUMMARY
+======================================================================
+Whisper cues: 908
+Whisper tokens: 5488
+AssemblyAI tokens: 5589
+Globally matched tokens: 5262
+Globally missing Whisper tokens: 226
+Globally extra AssemblyAI tokens: 327
+Global sequence similarity: 0.9501
+Cues with global matches: 903
+Cues without global matches: 5
+OCR V5 records: 7
+OCR V7 records: 4
+Manually confirmed records: 5
+
+CUE-LEVEL RESULTS
+======================================================================
+
+CUE 3 | 15.831-18.757 | GLOBAL_MISMATCH
+WHISPER: Lucian stood at the dend of the bed and watched me go.
+ASSEMBLYAI ALIGNED: stood at the of the bed and watched me go.
+MISSING FROM ASSEMBLYAI: ['lucian', 'dend']
+OCR V5: {'status': 'CONFIRMED', 'word_coverage': 0.917, 'matched_words': ['lucian', 'stood', 'at', 'the', 'of', 'the', 'bed', 'and', 'watched', 'me', 'go'], 'missing_words': ['dend'], 'frames_checked': 15}
+OCR V7: {'6': {'coverage': 0.818, 'matched_words': ['and', 'at', 'bed', 'lucian', 'me', 'of', 'stood', 'the', 'watched'], 'missing_words': ['dend', 'go'], 'unmatched_ocr_words': [{'word': 'foot', 'frame_count': 3}, {'word': 'ss', 'frame_count': 2}, {'word': 'od', 'frame_count': 1}, {'word': 'lian', 'frame_count': 1}, {'word': 'ae', 'frame_count': 1}, {'word': 'yx', 'frame_count': 1}, {'word': 'nx', 'frame_count': 1}, {'word': 'as', 'frame_count': 1}, {'word': 'ba', 'frame_count': 1}, {'word': 'to', 'frame_count': 1}, {'word': 'nee', 'frame_count': 1}, {'word': 'berg', 'frame_count': 1}, {'word': 'po', 'frame_count': 1}, {'word': 'pe', 'frame_count': 1}, {'word': 'ie', 'frame_count': 1}, {'word': 'ee', 'frame_count': 1}, {'word': 'thebed', 'frame_count': 1}, {'word': 'br', 'frame_count': 1}, {'word': 'we', 'frame_count': 1}, {'word': 'an', 'frame_count': 1}, {'word': 'aes', 'frame_count': 1}, {'word': 'thefoot', 'frame_count': 1}, {'word': 'ff', 'frame_count': 1}, {'word': 'rees', 'frame_count': 1}, {'word': 'bs', 'frame_count': 1}, {'word': 'fe', 'frame_count': 1}, {'word': 'mego', 'frame_count': 1}, {'word': 'tad', 'frame_count': 1}]}, '11': {'coverage': 0.909, 'matched_words': ['and', 'at', 'bed', 'go', 'lucian', 'me', 'of', 'stood', 'the', 'watched'], 'missing_words': ['dend'], 'unmatched_ocr_words': [{'word': 'foot', 'frame_count': 3}, {'word': 'as', 'frame_count': 3}, {'word': 'ot', 'frame_count': 2}, {'word': 'he', 'frame_count': 2}, {'word': 'fa', 'frame_count': 2}, {'word': 'ee', 'frame_count': 2}, {'word': 'yf', 'frame_count': 1}, {'word': 'os', 'frame_count': 1}, {'word': 'sea', 'frame_count': 1}, {'word': 'ye', 'frame_count': 1}, {'word': 'in', 'frame_count': 1}, {'word': 'ss', 'frame_count': 1}, {'word': 'ete', 'frame_count': 1}, {'word': 'oor', 'frame_count': 1}, {'word': 'sx', 'frame_count': 1}, {'word': 'uiciar', 'frame_count': 1}, {'word': "the'be", 'frame_count': 1}, {'word': 'nx', 'frame_count': 1}, {'word': 'aoe', 'frame_count': 1}, {'word': 'ey', 'frame_count': 1}, {'word': 'et', 'frame_count': 1}, {'word': 'ees', 'frame_count': 1}, {'word': 'cian', 'frame_count': 1}, {'word': 'stoc', 'frame_count': 1}, {'word': 'thefoot', 'frame_count': 1}, {'word': 'ax', 'frame_count': 1}, {'word': 've', 'frame_count': 1}, {'word': 'yy', 'frame_count': 1}, {'word': 'ihe', 'frame_count': 1}, {'word': 'zs', 'frame_count': 1}, {'word': 'sto', 'frame_count': 1}, {'word': 'sre', 'frame_count': 1}, {'word': 'om', 'frame_count': 1}, {'word': 'cc', 'frame_count': 1}, {'word': 'ian', 'frame_count': 1}, {'word': 'ae', 'frame_count': 1}, {'word': 'orn', 'frame_count': 1}, {'word': 're', 'frame_count': 1}, {'word': 'tey', 'frame_count': 1}, {'word': 'hs', 'frame_count': 1}, {'word': 'sim', 'frame_count': 1}, {'word': 'te', 'frame_count': 1}, {'word': 'mego', 'frame_count': 1}]}}
+Manual status: MANUALLY_CONFIRMED
+
+CUE 4 | 18.758-21.790 | GLOBAL_MISMATCH
+WHISPER: Seven pups, whole high-ranking blood. That's enough.
+ASSEMBLYAI ALIGNED: 7 pups, high-ranking high-ranking blood. That's enough.
+MISSING FROM ASSEMBLYAI: ['whole']
+OCR V5: {'status': 'PARTIAL', 'word_coverage': 0.5, 'matched_words': ['pups', 'high', 'ranking', 'enough'], 'missing_words': ['seven', 'whole', 'blood', "that's"], 'frames_checked': 15}
+OCR V7: {'6': {'coverage': 0.429, 'matched_words': ['blood', 'enough', 'highranking'], 'missing_words': ['seven', 'pups', 'whole', "that's"], 'unmatched_ocr_words': [{'word': 'ay', 'frame_count': 4}, {'word': 'os', 'frame_count': 3}, {'word': 're', 'frame_count': 2}, {'word': 'ns', 'frame_count': 2}, {'word': 'on', 'frame_count': 2}, {'word': 'wi', 'frame_count': 1}, {'word': 'gj', 'frame_count': 1}, {'word': 'se', 'frame_count': 1}, {'word': 'ter', 'frame_count': 1}, {'word': 'py', 'frame_count': 1}, {'word': 'meee', 'frame_count': 1}, {'word': 'sir', 'frame_count': 1}, {'word': 'a4', 'frame_count': 1}, {'word': 'v4', 'frame_count': 1}, {'word': 'me', 'frame_count': 1}, {'word': 'va', 'frame_count': 1}, {'word': 'he', 'frame_count': 1}, {'word': 'tas', 'frame_count': 1}, {'word': 'we', 'frame_count': 1}, {'word': 'ge', 'frame_count': 1}, {'word': 'blogd', 'frame_count': 1}, {'word': 'ee', 'frame_count': 1}, {'word': 'ad', 'frame_count': 1}, {'word': 'my', 'frame_count': 1}, {'word': 'ss', 'frame_count': 1}, {'word': 'oe', 'frame_count': 1}, {'word': 'iy', 'frame_count': 1}, {'word': 'pe', 'frame_count': 1}, {'word': 'fre', 'frame_count': 1}, {'word': 'ye', 'frame_count': 1}, {'word': 'au', 'frame_count': 1}, {'word': 'gem', 'frame_count': 1}, {'word': 'ca', 'frame_count': 1}, {'word': 'geos', 'frame_count': 1}, {'word': 'js', 'frame_count': 1}, {'word': 'ac', 'frame_count': 1}, {'word': 'hon', 'frame_count': 1}, {'word': 'sie', 'frame_count': 1}, {'word': 'yf', 'frame_count': 1}, {'word': 'ual', 'frame_count': 1}, {'word': 'sale', 'frame_count': 1}, {'word': 'cp', 'frame_count': 1}, {'word': 'cs', 'frame_count': 1}, {'word': 'ean', 'frame_count': 1}, {'word': 'vom', 'frame_count': 1}]}, '11': {'coverage': 0.286, 'matched_words': ['enough', 'highranking'], 'missing_words': ['seven', 'pups', 'whole', 'blood', "that's"], 'unmatched_ocr_words': [{'word': 'bl', 'frame_count': 5}, {'word': 'ae', 'frame_count': 4}, {'word': 'ie', 'frame_count': 4}, {'word': 'er', 'frame_count': 4}, {'word': 'ing', 'frame_count': 4}, {'word': 'ce', 'frame_count': 3}, {'word': 'ee', 'frame_count': 3}, {'word': 'es', 'frame_count': 3}, {'word': 'aa', 'frame_count': 2}, {'word': 'all', 'frame_count': 2}, {'word': 'of', 'frame_count': 2}, {'word': 'ank', 'frame_count': 2}, {'word': 'se', 'frame_count': 2}, {'word': 'cr', 'frame_count': 1}, {'word': 'ny', 'frame_count': 1}, {'word': '4s', 'frame_count': 1}, {'word': 'trg', 'frame_count': 1}, {'word': 'tz', 'frame_count': 1}, {'word': 'ty', 'frame_count': 1}, {'word': 'ad', 'frame_count': 1}, {'word': 'ts', 'frame_count': 1}, {'word': 'wr', 'frame_count': 1}, {'word': 'if', 'frame_count': 1}, {'word': 'emp', 'frame_count': 1}, {'word': 'cx', 'frame_count': 1}, {'word': 'fi', 'frame_count': 1}, {'word': 'ms', 'frame_count': 1}, {'word': 'ar', 'frame_count': 1}, {'word': 'as', 'frame_count': 1}, {'word': 'sess', 'frame_count': 1}, {'word': 'at', 'frame_count': 1}, {'word': 'zi', 'frame_count': 1}, {'word': 'fis', 'frame_count': 1}, {'word': 'ses', 'frame_count': 1}, {'word': 'sl', 'frame_count': 1}, {'word': 'ik', 'frame_count': 1}, {'word': 'ka', 'frame_count': 1}, {'word': 'atte', 'frame_count': 1}, {'word': 'pe', 'frame_count': 1}, {'word': 'ky', 'frame_count': 1}, {'word': 'od', 'frame_count': 1}, {'word': 'fic', 'frame_count': 1}, {'word': 'wf', 'frame_count': 1}, {'word': 'v3', 'frame_count': 1}, {'word': 'st', 'frame_count': 1}, {'word': 'wee', 'frame_count': 1}, {'word': 'oa', 'frame_count': 1}, {'word': 'hy', 'frame_count': 1}, {'word': 'ba', 'frame_count': 1}, {'word': 'wae', 'frame_count': 1}, {'word': 'eae', 'frame_count': 1}, {'word': 'yy', 'frame_count': 1}, {'word': 'thy', 'frame_count': 1}, {'word': 'it', 'frame_count': 1}, {'word': 'we', 'frame_count': 1}, {'word': 'by', 'frame_count': 1}, {'word': 'aly', 'frame_count': 1}, {'word': 'ate', 'frame_count': 1}, {'word': 'aw', 'frame_count': 1}, {'word': 've', 'frame_count': 1}, {'word': 'aor', 'frame_count': 1}, {'word': 'allh', 'frame_count': 1}, {'word': 'hi', 'frame_count': 1}, {'word': 'sw', 'frame_count': 1}, {'word': 'bk', 'frame_count': 1}, {'word': 'is', 'frame_count': 1}, {'word': 'eh', 'frame_count': 1}, {'word': 'an', 'frame_count': 1}, {'word': 'he', 'frame_count': 1}, {'word': 'cs', 'frame_count': 1}, {'word': 'ied', 'frame_count': 1}, {'word': 'ta', 'frame_count': 1}, {'word': 'ace', 'frame_count': 1}, {'word': 'ele', 'frame_count': 1}, {'word': 'py', 'frame_count': 1}, {'word': 'em', 'frame_count': 1}, {'word': 'vis', 'frame_count': 1}, {'word': 'ter', 'frame_count': 1}, {'word': 'aoe', 'frame_count': 1}, {'word': 'cm', 'frame_count': 1}, {'word': 'fees', 'frame_count': 1}, {'word': 'vials', 'frame_count': 1}, {'word': 'hae', 'frame_count': 1}, {'word': 'sz', 'frame_count': 1}, {'word': 'ough', 'frame_count': 1}, {'word': 'fen', 'frame_count': 1}, {'word': 'ey', 'frame_count': 1}]}}
+Manual status: VISUALLY_CONFIRMED
+
+CUE 15 | 52.580-56.740 | GLOBAL_MISMATCH
+WHISPER: I opened my eyes. In my mother's sitting room at Coldwell Manor.
+ASSEMBLYAI ALIGNED: I opened my eyes in my mother's sitting room
+MISSING FROM ASSEMBLYAI: ['at', 'coldwell', 'manor']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 19 | 68.271-72.430 | GLOBAL_MISMATCH
+WHISPER: A mating bond contract, sealed with the Blood Moon Pack crest.
+ASSEMBLYAI ALIGNED: a mating bond contract, sealed with the Pack crest.
+MISSING FROM ASSEMBLYAI: ['blood', 'moon']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 21 | 74.510-77.870 | GLOBAL_MISMATCH
+WHISPER: The Velice's heir sent this earlier this morning, Vivienne.
+ASSEMBLYAI ALIGNED: The heir sent this earlier this morning,
+MISSING FROM ASSEMBLYAI: ["velice's", 'vivienne']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 23 | 79.471-83.470 | GLOBAL_MISMATCH
+WHISPER: Lucian sat across from her. Same face. Same steady eyes.
+ASSEMBLYAI ALIGNED: sat across from her, same face, Same steady eyes,
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 25 | 86.190-88.190 | GLOBAL_MISMATCH
+WHISPER: I can marry Vivienne. I don't mind.
+ASSEMBLYAI ALIGNED: I can marry I don't mind.
+MISSING FROM ASSEMBLYAI: ['vivienne']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 27 | 90.911-92.510 | GLOBAL_MISMATCH
+WHISPER: Three bowls of wolf's babe.
+ASSEMBLYAI ALIGNED: 3 bowls of
+MISSING FROM ASSEMBLYAI: ["wolf's", 'babe']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 32 | 102.991-106.590 | GLOBAL_MISMATCH
+WHISPER: Lucian looked at me. That calm, unerisval stare.
+ASSEMBLYAI ALIGNED: looked at me, that calm, stare
+MISSING FROM ASSEMBLYAI: ['lucian', 'unerisval']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 40 | 124.750-127.950 | GLOBAL_MISMATCH
+WHISPER: My mother turned back to Lucian with a tight smile.
+ASSEMBLYAI ALIGNED: My mother turned back to with a tight smile.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 43 | 137.520-139.760 | GLOBAL_MISMATCH
+WHISPER: No. Lucian stood.
+ASSEMBLYAI ALIGNED: No. stood.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 46 | 146.470-149.040 | GLOBAL_MISMATCH
+WHISPER: The woman I marry comes from the Coldwild family.
+ASSEMBLYAI ALIGNED: The woman I marry comes from the family.
+MISSING FROM ASSEMBLYAI: ['coldwild']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 70 | 216.180-218.180 | GLOBAL_MISMATCH
+WHISPER: You told me Lucian loved me.
+ASSEMBLYAI ALIGNED: You told me loved me.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 76 | 228.181-234.700 | GLOBAL_MISMATCH
+WHISPER: He said the only thing I was good for was my Moon Veal voice.
+ASSEMBLYAI ALIGNED: He said the only thing I was good for was my voice.
+MISSING FROM ASSEMBLYAI: ['moon', 'veal']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 81 | 253.631-255.630 | GLOBAL_MISMATCH
+WHISPER: He had my limbs severed so I couldn't shift.
+ASSEMBLYAI ALIGNED: He had my severed so I couldn't shift.
+MISSING FROM ASSEMBLYAI: ['limbs']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 94 | 291.861-295.860 | GLOBAL_MISMATCH
+WHISPER: Arya's expression turned puzzled after learning the truth.
+ASSEMBLYAI ALIGNED: expression turned puzzled after learning the truth.
+MISSING FROM ASSEMBLYAI: ["arya's"]
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 101 | 315.741-319.740 | GLOBAL_MISMATCH
+WHISPER: When Arya described what Lucien had done to her,
+ASSEMBLYAI ALIGNED: When described what Lucien had done to her,
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 112 | 343.741-345.740 | GLOBAL_MISMATCH
+WHISPER: Why cold well?
+ASSEMBLYAI ALIGNED: Why
+MISSING FROM ASSEMBLYAI: ['cold', 'well']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 113 | 345.790-347.740 | GLOBAL_MISMATCH
+WHISPER: Why only cold well?
+ASSEMBLYAI ALIGNED: Why only
+MISSING FROM ASSEMBLYAI: ['cold', 'well']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 117 | 355.091-357.090 | GLOBAL_MISMATCH
+WHISPER: She looked at Arya.
+ASSEMBLYAI ALIGNED: She looked at
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 127 | 381.921-383.920 | GLOBAL_MISMATCH
+WHISPER: She pointed at Arya.
+ASSEMBLYAI ALIGNED: She pointed at
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 128 | 383.921-385.920 | GLOBAL_MISMATCH
+WHISPER: You go through the manner.
+ASSEMBLYAI ALIGNED: You go through the
+MISSING FROM ASSEMBLYAI: ['manner']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 130 | 389.921-391.920 | GLOBAL_MISMATCH
+WHISPER: anyone connected to Lucian in the last five years.
+ASSEMBLYAI ALIGNED: anyone connected to in the last 5 years.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 131 | 391.921-393.920 | GLOBAL_MISMATCH
+WHISPER: Arya nodded.
+ASSEMBLYAI ALIGNED: nodded.
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 133 | 395.921-399.920 | GLOBAL_MISMATCH
+WHISPER: And you know him best, so you're going to Blood Moon Manor.
+ASSEMBLYAI ALIGNED: And you know him best, so you're going to Manor.
+MISSING FROM ASSEMBLYAI: ['blood', 'moon']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 138 | 408.445-409.920 | GLOBAL_MISMATCH
+WHISPER: Blood Moon Manor was exactly as I remembered it.
+ASSEMBLYAI ALIGNED: Manor was exactly as I remembered it.
+MISSING FROM ASSEMBLYAI: ['blood', 'moon']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 139 | 409.921-415.200 | GLOBAL_MISMATCH
+WHISPER: Same long driveway, same iron gates, same guard at
+ASSEMBLYAI ALIGNED: Same long driveway, same iron Same guard at
+MISSING FROM ASSEMBLYAI: ['gates']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 140 | 415.201-417.920 | GLOBAL_MISMATCH
+WHISPER: the door that waved me through without question.
+ASSEMBLYAI ALIGNED: the door waved me through without question,
+MISSING FROM ASSEMBLYAI: ['that']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 141 | 417.921-421.920 | GLOBAL_MISMATCH
+WHISPER: Because in this life, Lucian and I were still childhood friends.
+ASSEMBLYAI ALIGNED: because in this life, and I were still childhood friends.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 147 | 431.921-434.657 | GLOBAL_MISMATCH
+WHISPER: Lucian sat at his desk with a brush in his hand,
+ASSEMBLYAI ALIGNED: sat at his desk with a brush in his hand,
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 167 | 484.861-486.860 | GLOBAL_MISMATCH
+WHISPER: Lucian, I kept my voice flat.
+ASSEMBLYAI ALIGNED: I kept my voice flat,
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 175 | 500.861-504.397 | GLOBAL_MISMATCH
+WHISPER: He said, he smudged it.
+ASSEMBLYAI ALIGNED: he said. smudged it.
+MISSING FROM ASSEMBLYAI: ['he']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 177 | 504.861-506.860 | GLOBAL_MISMATCH
+WHISPER: Right. I held his graze.
+ASSEMBLYAI ALIGNED: Right. I held his
+MISSING FROM ASSEMBLYAI: ['graze']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 180 | 510.861-514.860 | GLOBAL_MISMATCH
+WHISPER: Vivian, you know me better than anyone, don't you?
+ASSEMBLYAI ALIGNED: you know me better than anyone, don't you?
+MISSING FROM ASSEMBLYAI: ['vivian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 185 | 522.861-526.860 | GLOBAL_MISMATCH
+WHISPER: A painter like Lucian didn't slip.
+ASSEMBLYAI ALIGNED: A painter like didn't slip.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 186 | 526.861-528.860 | GLOBAL_MISMATCH
+WHISPER: Lucian stared at me for a long moment.
+ASSEMBLYAI ALIGNED: stared at me for a long moment.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 208 | 575.189-579.140 | GLOBAL_MISMATCH
+WHISPER: He used to take the blame when we were kids so I wouldn't get in trouble.
+ASSEMBLYAI ALIGNED: He used to take the blame when we were kids so I wouldn't get in
+MISSING FROM ASSEMBLYAI: ['trouble']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 216 | 597.141-599.140 | GLOBAL_MISMATCH
+WHISPER: You and Arya have been competing for years.
+ASSEMBLYAI ALIGNED: You and have been competing for years.
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 240 | 649.141-653.140 | GLOBAL_MISMATCH
+WHISPER: He'd killed her himself with three bowls of Wolf Bab.
+ASSEMBLYAI ALIGNED: He'd killed her himself with 3 bowls of
+MISSING FROM ASSEMBLYAI: ['wolf', 'bab']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 241 | 653.141-657.140 | GLOBAL_MISMATCH
+WHISPER: I let the silence hang just long enough to be convincing.
+ASSEMBLYAI ALIGNED: I let the silence hang just long
+MISSING FROM ASSEMBLYAI: ['enough', 'to', 'be', 'convincing']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 264 | 707.141-713.140 | GLOBAL_MISMATCH
+WHISPER: Lucian had sat at our table and watched me do it more times than I could count.
+ASSEMBLYAI ALIGNED: had sat at our table and watched me do it, more times than I could count.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 271 | 727.639-731.140 | GLOBAL_MISMATCH
+WHISPER: And I'm going to use a single second of it.
+ASSEMBLYAI ALIGNED: And I'm going to use single second of it.
+MISSING FROM ASSEMBLYAI: ['a']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 272 | 731.141-735.140 | GLOBAL_MISMATCH
+WHISPER: I got back to Coldwood Manor to find Arya already waiting at the front door.
+ASSEMBLYAI ALIGNED: I got back to Coldwood Manor to find already waiting at the front door.
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 283 | 761.151-763.150 | GLOBAL_MISMATCH
+WHISPER: Arya's voice was strange.
+ASSEMBLYAI ALIGNED: voice was strange.
+MISSING FROM ASSEMBLYAI: ["arya's"]
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 289 | 776.641-778.640 | GLOBAL_MISMATCH
+WHISPER: I said, Arya frowned.
+ASSEMBLYAI ALIGNED: I said. frowned.
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 295 | 788.641-790.640 | GLOBAL_MISMATCH
+WHISPER: Arya's eyes narrowed.
+ASSEMBLYAI ALIGNED: eyes narrowed.
+MISSING FROM ASSEMBLYAI: ["arya's"]
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 306 | 810.739-812.640 | GLOBAL_MISMATCH
+WHISPER: The room was quiet. Then Arya's face shifted.
+ASSEMBLYAI ALIGNED: The room was quiet, then face shifted.
+MISSING FROM ASSEMBLYAI: ["arya's"]
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 310 | 818.641-820.640 | GLOBAL_MISMATCH
+WHISPER: A cold-willed woman.
+ASSEMBLYAI ALIGNED: woman,
+MISSING FROM ASSEMBLYAI: ['a', 'cold', 'willed']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 311 | 820.641-822.640 | GLOBAL_MISMATCH
+WHISPER: We give her more.
+ASSEMBLYAI ALIGNED: we give
+MISSING FROM ASSEMBLYAI: ['her', 'more']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 315 | 828.641-830.640 | GLOBAL_MISMATCH
+WHISPER: Arya dropped onto the couch across from her.
+ASSEMBLYAI ALIGNED: dropped onto the couch across from
+MISSING FROM ASSEMBLYAI: ['arya', 'her']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 323 | 844.989-846.640 | GLOBAL_MISMATCH
+WHISPER: Lucian can give her a title.
+ASSEMBLYAI ALIGNED: can give her a title,
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 328 | 854.640-856.640 | GLOBAL_MISMATCH
+WHISPER: Arya said it wasn't a question.
+ASSEMBLYAI ALIGNED: said it wasn't a question.
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 347 | 894.641-896.640 | GLOBAL_MISMATCH
+WHISPER: Luke looked at Arya.
+ASSEMBLYAI ALIGNED: Luke looked at
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 351 | 904.641-906.640 | GLOBAL_MISMATCH
+WHISPER: I looked at Arya. She looked at me.
+ASSEMBLYAI ALIGNED: I looked at She looked at me.
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 354 | 910.641-914.640 | GLOBAL_MISMATCH
+WHISPER: Lucian was coming in three days expecting a bride.
+ASSEMBLYAI ALIGNED: was coming in 3 days expecting a bride,
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 357 | 918.789-920.640 | GLOBAL_MISMATCH
+WHISPER: Arya exhaled.
+ASSEMBLYAI ALIGNED: exhaled.
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 361 | 930.714-934.640 | GLOBAL_MISMATCH
+WHISPER: I held my contract for a month after.
+ASSEMBLYAI ALIGNED: I held my contract for a after.
+MISSING FROM ASSEMBLYAI: ['month']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 375 | 967.239-968.548 | GLOBAL_MISMATCH
+WHISPER: She looked at me and Arya standing in her
+ASSEMBLYAI ALIGNED: She looked at me and standing in her
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 377 | 974.241-976.240 | GLOBAL_MISMATCH
+WHISPER: It's cold word. Both of you.
+ASSEMBLYAI ALIGNED: both of you.
+MISSING FROM ASSEMBLYAI: ["it's", 'cold', 'word']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 383 | 986.839-992.240 | GLOBAL_MISMATCH
+WHISPER: On the desk there was a beaten piece of snow lily cake on a ceramic plate.
+ASSEMBLYAI ALIGNED: On the desk, piece of snow lily cake on a ceramic plate.
+MISSING FROM ASSEMBLYAI: ['there', 'was', 'a', 'beaten']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 387 | 1004.641-1008.880 | NO_GLOBAL_ASR_MATCH
+WHISPER: All right?
+ASSEMBLYAI ALIGNED: 
+MISSING FROM ASSEMBLYAI: ['all', 'right']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 390 | 1012.881-1016.880 | GLOBAL_MISMATCH
+WHISPER: About Lucien coming to Coldwilled Manor for years always with a reason.
+ASSEMBLYAI ALIGNED: about Lucien coming to manor for years, always with a reason,
+MISSING FROM ASSEMBLYAI: ['coldwilled']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 409 | 1064.271-1066.270 | GLOBAL_MISMATCH
+WHISPER: That I needed to be patient.
+ASSEMBLYAI ALIGNED: that I needed to be
+MISSING FROM ASSEMBLYAI: ['patient']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 410 | 1066.271-1068.270 | GLOBAL_MISMATCH
+WHISPER: Arya made a small side beside me.
+ASSEMBLYAI ALIGNED: made a small beside me.
+MISSING FROM ASSEMBLYAI: ['arya', 'side']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 420 | 1093.681-1095.680 | GLOBAL_MISMATCH
+WHISPER: Arya said.
+ASSEMBLYAI ALIGNED: said.
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 421 | 1095.681-1097.680 | GLOBAL_MISMATCH
+WHISPER: Morgana looked at her.
+ASSEMBLYAI ALIGNED: looked at her,
+MISSING FROM ASSEMBLYAI: ['morgana']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 429 | 1114.461-1116.460 | GLOBAL_MISMATCH
+WHISPER: I'll have it handled before the wedding.
+ASSEMBLYAI ALIGNED: I'll have it handled before the
+MISSING FROM ASSEMBLYAI: ['wedding']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 433 | 1130.351-1134.350 | GLOBAL_MISMATCH
+WHISPER: The morning of the wedding, Arya and my mother dressed Morgana in the east wing
+ASSEMBLYAI ALIGNED: The morning of the wedding, and my mother dressed Morgana in the east wing
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 439 | 1144.524-1146.350 | GLOBAL_MISMATCH
+WHISPER: Lucien's motor cord arrived exactly on time.
+ASSEMBLYAI ALIGNED: Lucien's arrived exactly on time.
+MISSING FROM ASSEMBLYAI: ['motor', 'cord']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 451 | 1176.351-1178.350 | GLOBAL_MISMATCH
+WHISPER: Arya appeared beside me.
+ASSEMBLYAI ALIGNED: appeared beside me.
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 459 | 1201.151-1203.150 | GLOBAL_MISMATCH
+WHISPER: It's going to be very interesting.
+ASSEMBLYAI ALIGNED: it's be very interesting.
+MISSING FROM ASSEMBLYAI: ['going', 'to']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 460 | 1203.349-1205.150 | GLOBAL_MISMATCH
+WHISPER: They grabbed me the net.
+ASSEMBLYAI ALIGNED: They grabbed me the
+MISSING FROM ASSEMBLYAI: ['net']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 461 | 1210.960-1220.960 | GLOBAL_MISMATCH
+WHISPER: Arya and I had gone out to look at jewelry for our own upcoming ceremonies.
+ASSEMBLYAI ALIGNED: and I had gone out to look at jewelry for our own upcoming ceremonies.
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 462 | 1220.961-1224.960 | GLOBAL_MISMATCH
+WHISPER: I stopped at a small cafe to wait while she went ahead.
+ASSEMBLYAI ALIGNED: I stopped at a small to wait while she went ahead.
+MISSING FROM ASSEMBLYAI: ['cafe']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 470 | 1240.961-1242.960 | GLOBAL_MISMATCH
+WHISPER: Lucian sat on the edge of the bed.
+ASSEMBLYAI ALIGNED: sat on the edge of the bed.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 474 | 1250.961-1252.960 | GLOBAL_MISMATCH
+WHISPER: He looked at me the way he used to look at me.
+ASSEMBLYAI ALIGNED: He looked at me the way he used to look at
+MISSING FROM ASSEMBLYAI: ['me']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 475 | 1252.961-1254.960 | NO_GLOBAL_ASR_MATCH
+WHISPER: He looked at me.
+ASSEMBLYAI ALIGNED: 
+MISSING FROM ASSEMBLYAI: ['he', 'looked', 'at', 'me']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 476 | 1254.961-1258.960 | GLOBAL_MISMATCH
+WHISPER: He looked at me the way he used to look at territory disputes.
+ASSEMBLYAI ALIGNED: territory disputes,
+MISSING FROM ASSEMBLYAI: ['he', 'looked', 'at', 'me', 'the', 'way', 'he', 'used', 'to', 'look', 'at']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 502 | 1316.501-1320.740 | GLOBAL_MISMATCH
+WHISPER: Your jaw tightened.
+ASSEMBLYAI ALIGNED: jaw tightened.
+MISSING FROM ASSEMBLYAI: ['your']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 503 | 1320.939-1324.880 | GLOBAL_MISMATCH
+WHISPER: The room was dark. I didn't know it.
+ASSEMBLYAI ALIGNED: The room was dark. I didn't know
+MISSING FROM ASSEMBLYAI: ['it']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 507 | 1330.881-1332.880 | GLOBAL_MISMATCH
+WHISPER: Faint but unrestakeable.
+ASSEMBLYAI ALIGNED: faint but
+MISSING FROM ASSEMBLYAI: ['unrestakeable']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 511 | 1338.881-1340.880 | GLOBAL_MISMATCH
+WHISPER: At Lucian standing there with his red eyes
+ASSEMBLYAI ALIGNED: at standing there with his red eyes
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 525 | 1372.221-1374.220 | GLOBAL_MISMATCH
+WHISPER: And then we're going to fix this.
+ASSEMBLYAI ALIGNED: and then we're fix this.
+MISSING FROM ASSEMBLYAI: ['going', 'to']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 537 | 1398.221-1400.220 | GLOBAL_MISMATCH
+WHISPER: Except whatever you decided to give me?
+ASSEMBLYAI ALIGNED: whatever you decided to give me?
+MISSING FROM ASSEMBLYAI: ['except']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 544 | 1412.221-1414.220 | GLOBAL_MISMATCH
+WHISPER: Then the door opened and Alpha Various walked in.
+ASSEMBLYAI ALIGNED: Then the door opened and Alpha walked in,
+MISSING FROM ASSEMBLYAI: ['various']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 545 | 1414.221-1416.220 | GLOBAL_MISMATCH
+WHISPER: Followed by Luna Various.
+ASSEMBLYAI ALIGNED: followed by Luna
+MISSING FROM ASSEMBLYAI: ['various']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 546 | 1416.221-1418.220 | GLOBAL_MISMATCH
+WHISPER: Luna Various rushed toward me with both hands out.
+ASSEMBLYAI ALIGNED: Luna rushed toward me with both hands out.
+MISSING FROM ASSEMBLYAI: ['various']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 547 | 1418.221-1420.220 | GLOBAL_MISMATCH
+WHISPER: Vivian, sweetheart. You're finally up.
+ASSEMBLYAI ALIGNED: sweetheart! You're finally up!
+MISSING FROM ASSEMBLYAI: ['vivian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 549 | 1422.221-1424.220 | GLOBAL_MISMATCH
+WHISPER: Smoothing it back like I was 12 years old.
+ASSEMBLYAI ALIGNED: smoothing it back like I was 12 years
+MISSING FROM ASSEMBLYAI: ['old']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 556 | 1437.601-1439.600 | GLOBAL_MISMATCH
+WHISPER: Luna Various's laughed.
+ASSEMBLYAI ALIGNED: Luna laughed,
+MISSING FROM ASSEMBLYAI: ["various's"]
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 559 | 1443.601-1445.600 | GLOBAL_MISMATCH
+WHISPER: Sweetheart, you're Vivian.
+ASSEMBLYAI ALIGNED: Sweetheart, you're
+MISSING FROM ASSEMBLYAI: ['vivian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 562 | 1451.601-1453.183 | GLOBAL_MISMATCH
+WHISPER: Which is why you can call Chief Elder LaRonde
+ASSEMBLYAI ALIGNED: Which is why you can call Chief Elder
+MISSING FROM ASSEMBLYAI: ['laronde']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 565 | 1459.649-1461.600 | GLOBAL_MISMATCH
+WHISPER: Alpha Various looked at his son.
+ASSEMBLYAI ALIGNED: Alpha looked at his son.
+MISSING FROM ASSEMBLYAI: ['various']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 566 | 1461.601-1463.600 | GLOBAL_MISMATCH
+WHISPER: Lucian said nothing.
+ASSEMBLYAI ALIGNED: said nothing.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 572 | 1477.141-1481.140 | GLOBAL_MISMATCH
+WHISPER: I was at Coldwell Manor having dinner with Chief Elder LaRonde and his wife.
+ASSEMBLYAI ALIGNED: I was at Coldwell Manor having dinner with Chief Elder and his wife.
+MISSING FROM ASSEMBLYAI: ['laronde']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 573 | 1483.140-1485.140 | GLOBAL_MISMATCH
+WHISPER: Luna Various looked between me and Lucian.
+ASSEMBLYAI ALIGNED: Luna looked between me and
+MISSING FROM ASSEMBLYAI: ['various', 'lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 574 | 1485.141-1489.140 | GLOBAL_MISMATCH
+WHISPER: That's not... The servants said the bride arrived in the convoy.
+ASSEMBLYAI ALIGNED: That's not— the said the bride arrived in the convoy.
+MISSING FROM ASSEMBLYAI: ['servants']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 582 | 1503.141-1505.301 | GLOBAL_MISMATCH
+WHISPER: Luna Various has sat down hard in the chair behind her.
+ASSEMBLYAI ALIGNED: Luna sat down hard in the chair behind her.
+MISSING FROM ASSEMBLYAI: ['various', 'has']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 583 | 1507.140-1509.140 | GLOBAL_MISMATCH
+WHISPER: Alpha Various turned to Lucian.
+ASSEMBLYAI ALIGNED: Alpha turned to
+MISSING FROM ASSEMBLYAI: ['various', 'lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 586 | 1515.141-1519.630 | GLOBAL_MISMATCH
+WHISPER: Lucian's mouth tightened.
+ASSEMBLYAI ALIGNED: mouth tightened.
+MISSING FROM ASSEMBLYAI: ["lucian's"]
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 588 | 1521.631-1527.040 | GLOBAL_MISMATCH
+WHISPER: Lucian... Various's voice dropped.
+ASSEMBLYAI ALIGNED: voice dropped.
+MISSING FROM ASSEMBLYAI: ['lucian', "various's"]
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 589 | 1527.041-1531.150 | GLOBAL_MISMATCH
+WHISPER: Who is she?
+ASSEMBLYAI ALIGNED: Who is
+MISSING FROM ASSEMBLYAI: ['she']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 590 | 1531.151-1533.150 | GLOBAL_MISMATCH
+WHISPER: Lucian stopped.
+ASSEMBLYAI ALIGNED: stopped,
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 600 | 1553.781-1555.780 | GLOBAL_MISMATCH
+WHISPER: He came to Coldwell Manor every chance he got.
+ASSEMBLYAI ALIGNED: He came to Manor every chance he got.
+MISSING FROM ASSEMBLYAI: ['coldwell']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 603 | 1559.781-1561.780 | GLOBAL_MISMATCH
+WHISPER: I looked at Alpha Various.
+ASSEMBLYAI ALIGNED: I looked at Alpha
+MISSING FROM ASSEMBLYAI: ['various']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 606 | 1565.781-1567.780 | GLOBAL_MISMATCH
+WHISPER: Lucian went pale.
+ASSEMBLYAI ALIGNED: went pale.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 610 | 1573.781-1575.780 | GLOBAL_MISMATCH
+WHISPER: Alpha Various said he didn't raise his voice.
+ASSEMBLYAI ALIGNED: Alpha said. He didn't raise his voice.
+MISSING FROM ASSEMBLYAI: ['various']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 615 | 1590.381-1592.380 | GLOBAL_MISMATCH
+WHISPER: Lucian turned to me.
+ASSEMBLYAI ALIGNED: turned to me.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 620 | 1600.381-1602.380 | GLOBAL_MISMATCH
+WHISPER: Alpha Various looked at me.
+ASSEMBLYAI ALIGNED: Alpha looked at me,
+MISSING FROM ASSEMBLYAI: ['various']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 624 | 1608.381-1610.380 | GLOBAL_MISMATCH
+WHISPER: The same calculation I'd seen in Lucian a hundred times.
+ASSEMBLYAI ALIGNED: the same calculation I'd seen in a hundred times.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 629 | 1619.891-1621.890 | GLOBAL_MISMATCH
+WHISPER: Lucian and Morgana are properly made it now.
+ASSEMBLYAI ALIGNED: and Morgana are properly now.
+MISSING FROM ASSEMBLYAI: ['lucian', 'made', 'it']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 632 | 1625.891-1627.890 | GLOBAL_MISMATCH
+WHISPER: No reason this has to leave these walls.
+ASSEMBLYAI ALIGNED: No reason this has to leave
+MISSING FROM ASSEMBLYAI: ['these', 'walls']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 634 | 1631.391-1633.390 | GLOBAL_MISMATCH
+WHISPER: Luna Valerce recovered fast.
+ASSEMBLYAI ALIGNED: Luna recovered fast,
+MISSING FROM ASSEMBLYAI: ['valerce']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 641 | 1646.391-1648.390 | GLOBAL_MISMATCH
+WHISPER: Then at Lucian.
+ASSEMBLYAI ALIGNED: then at
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 651 | 1674.901-1677.900 | GLOBAL_MISMATCH
+WHISPER: Instead, Alpha Valerce told the guards to keep me in the East guest room
+ASSEMBLYAI ALIGNED: Instead, Alpha told the guards to keep me in the east guest room
+MISSING FROM ASSEMBLYAI: ['valerce']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 652 | 1677.901-1681.900 | GLOBAL_MISMATCH
+WHISPER: until he and Lucian returned from what he called a necessary visit.
+ASSEMBLYAI ALIGNED: until he and returned from what he called A necessary visit.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 662 | 1701.471-1703.470 | GLOBAL_MISMATCH
+WHISPER: Then Lucian came back alone.
+ASSEMBLYAI ALIGNED: Then came back alone.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 666 | 1711.471-1713.470 | GLOBAL_MISMATCH
+WHISPER: Laurent's talked to us.
+ASSEMBLYAI ALIGNED: talked to us,
+MISSING FROM ASSEMBLYAI: ["laurent's"]
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 670 | 1719.471-1723.620 | GLOBAL_MISMATCH
+WHISPER: Lucian looked up.
+ASSEMBLYAI ALIGNED: looked up.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 704 | 1804.211-1808.210 | GLOBAL_MISMATCH
+WHISPER: Lucian, my voice came out steady even though nothing else was.
+ASSEMBLYAI ALIGNED: my voice came out steady even though nothing else was.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 714 | 1831.009-1833.210 | GLOBAL_MISMATCH
+WHISPER: Arya stood in the frame, breathing hard.
+ASSEMBLYAI ALIGNED: stood in the frame, breathing hard,
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 715 | 1833.484-1835.210 | GLOBAL_MISMATCH
+WHISPER: A silver blade in both hands.
+ASSEMBLYAI ALIGNED: a silver blade in both
+MISSING FROM ASSEMBLYAI: ['hands']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 718 | 1838.211-1840.210 | GLOBAL_MISMATCH
+WHISPER: Lucian turned his head.
+ASSEMBLYAI ALIGNED: turned his head.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 721 | 1846.211-1851.210 | GLOBAL_MISMATCH
+WHISPER: The blade flew out of Arya's grip and hit the far wall.
+ASSEMBLYAI ALIGNED: The blade flew out of grip and hit the far wall.
+MISSING FROM ASSEMBLYAI: ["arya's"]
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 723 | 1853.211-1855.210 | GLOBAL_MISMATCH
+WHISPER: Caught herself on the door warm.
+ASSEMBLYAI ALIGNED: caught herself on the door
+MISSING FROM ASSEMBLYAI: ['warm']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 724 | 1855.259-1857.210 | GLOBAL_MISMATCH
+WHISPER: Lucian turned back to me.
+ASSEMBLYAI ALIGNED: turned back to me.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 725 | 1857.211-1859.210 | GLOBAL_MISMATCH
+WHISPER: Arya looked at me from across the room.
+ASSEMBLYAI ALIGNED: looked at me from across the room.
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 735 | 1874.211-1876.210 | GLOBAL_MISMATCH
+WHISPER: At Arya's empty hands.
+ASSEMBLYAI ALIGNED: at empty hands,
+MISSING FROM ASSEMBLYAI: ["arya's"]
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 736 | 1876.211-1878.210 | GLOBAL_MISMATCH
+WHISPER: At Lucian standing over me.
+ASSEMBLYAI ALIGNED: at standing over me.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 739 | 1882.211-1885.780 | GLOBAL_MISMATCH
+WHISPER: Lucian didn't move immediately.
+ASSEMBLYAI ALIGNED: didn't move immediately.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 744 | 1898.781-1900.780 | GLOBAL_MISMATCH
+WHISPER: White haired, unharried.
+ASSEMBLYAI ALIGNED: white-haired, white-haired,
+MISSING FROM ASSEMBLYAI: ['unharried']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 746 | 1901.781-1903.780 | GLOBAL_MISMATCH
+WHISPER: The alpha king's personal emise.
+ASSEMBLYAI ALIGNED: the Alpha King's personal
+MISSING FROM ASSEMBLYAI: ['emise']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 749 | 1907.781-1909.780 | GLOBAL_MISMATCH
+WHISPER: Laurent looked at Lucian.
+ASSEMBLYAI ALIGNED: Laurent looked at
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 753 | 1916.781-1919.780 | GLOBAL_MISMATCH
+WHISPER: He clipped his hands behind his back.
+ASSEMBLYAI ALIGNED: He his hands behind his back.
+MISSING FROM ASSEMBLYAI: ['clipped']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 757 | 1925.781-1927.780 | GLOBAL_MISMATCH
+WHISPER: Lucian's eyes moved to the royal seal.
+ASSEMBLYAI ALIGNED: eyes moved to the royal
+MISSING FROM ASSEMBLYAI: ["lucian's", 'seal']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 762 | 1936.781-1939.780 | GLOBAL_MISMATCH
+WHISPER: He looked at Alpha Valeris who had appeared in the doorway.
+ASSEMBLYAI ALIGNED: He looked at Alpha who had appeared in the doorway.
+MISSING FROM ASSEMBLYAI: ['valeris']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 770 | 1954.781-1956.780 | GLOBAL_MISMATCH
+WHISPER: The royal sea was with me.
+ASSEMBLYAI ALIGNED: The Royal was with me,
+MISSING FROM ASSEMBLYAI: ['sea']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 773 | 1961.781-1963.780 | GLOBAL_MISMATCH
+WHISPER: Alpha Valeris looked at Lucian.
+ASSEMBLYAI ALIGNED: Alpha looked at
+MISSING FROM ASSEMBLYAI: ['valeris', 'lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 788 | 1991.301-1992.300 | GLOBAL_MISMATCH
+WHISPER: I looked at him.
+ASSEMBLYAI ALIGNED: at him.
+MISSING FROM ASSEMBLYAI: ['i', 'looked']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 796 | 2013.221-2016.220 | GLOBAL_MISMATCH
+WHISPER: Arya Appyr appeared at my side immediately.
+ASSEMBLYAI ALIGNED: appeared at my side immediately.
+MISSING FROM ASSEMBLYAI: ['arya', 'appyr']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 801 | 2026.221-2029.220 | GLOBAL_MISMATCH
+WHISPER: watching everything he built from a part of the scenes.
+ASSEMBLYAI ALIGNED: watching everything he built
+MISSING FROM ASSEMBLYAI: ['from', 'a', 'part', 'of', 'the', 'scenes']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 802 | 2029.221-2033.220 | GLOBAL_MISMATCH
+WHISPER: Lucian didn't look away from me until the guards put their hands on his arms.
+ASSEMBLYAI ALIGNED: didn't look away from me until the guards put their hands on his arms.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 807 | 2040.270-2041.245 | NO_GLOBAL_ASR_MATCH
+WHISPER: Lucian.
+ASSEMBLYAI ALIGNED: 
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 809 | 2044.221-2046.220 | GLOBAL_MISMATCH
+WHISPER: Soulbinding shackles.
+ASSEMBLYAI ALIGNED: shackles,
+MISSING FROM ASSEMBLYAI: ['soulbinding']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 811 | 2048.220-2050.219 | NO_GLOBAL_ASR_MATCH
+WHISPER: Alpha Valerius and Luna Valerius.
+ASSEMBLYAI ALIGNED: 
+MISSING FROM ASSEMBLYAI: ['alpha', 'valerius', 'and', 'luna', 'valerius']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 814 | 2055.220-2056.219 | GLOBAL_MISMATCH
+WHISPER: Their pact title stripped.
+ASSEMBLYAI ALIGNED: Their title stripped,
+MISSING FROM ASSEMBLYAI: ['pact']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 815 | 2056.220-2058.219 | GLOBAL_MISMATCH
+WHISPER: The blood moon pact dissolved.
+ASSEMBLYAI ALIGNED: the Blood Moon dissolved,
+MISSING FROM ASSEMBLYAI: ['pact']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 816 | 2058.220-2061.219 | GLOBAL_MISMATCH
+WHISPER: Valerius' manner seized and transferred to high council jurisdiction.
+ASSEMBLYAI ALIGNED: seized and transferred to High Council jurisdiction.
+MISSING FROM ASSEMBLYAI: ["valerius'", 'manner']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 818 | 2063.220-2067.219 | GLOBAL_MISMATCH
+WHISPER: Arya found me in the garden the morning the verdict was announced.
+ASSEMBLYAI ALIGNED: found me in the garden the morning the verdict was announced.
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 824 | 2081.061-2082.060 | GLOBAL_MISMATCH
+WHISPER: Packs gone.
+ASSEMBLYAI ALIGNED: gone,
+MISSING FROM ASSEMBLYAI: ['packs']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 825 | 2082.061-2083.060 | GLOBAL_MISMATCH
+WHISPER: Manners sealed.
+ASSEMBLYAI ALIGNED: sealed.
+MISSING FROM ASSEMBLYAI: ['manners']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 841 | 2115.061-2116.061 | GLOBAL_MISMATCH
+WHISPER: Either am I.
+ASSEMBLYAI ALIGNED: am I.
+MISSING FROM ASSEMBLYAI: ['either']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 843 | 2118.610-2121.060 | GLOBAL_MISMATCH
+WHISPER: Then Arya straightened up.
+ASSEMBLYAI ALIGNED: then straightened
+MISSING FROM ASSEMBLYAI: ['arya', 'up']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 855 | 2139.110-2143.060 | GLOBAL_MISMATCH
+WHISPER: When Lucian came back injured and I wouldn't leave until I knew he was okay.
+ASSEMBLYAI ALIGNED: when came back injured, and I wouldn't leave until I knew he was okay.
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 858 | 2146.061-2148.060 | GLOBAL_MISMATCH
+WHISPER: Arya looked at me sideways.
+ASSEMBLYAI ALIGNED: looked at me sideways.
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 859 | 2148.110-2150.060 | GLOBAL_MISMATCH
+WHISPER: You waited a month at a border post for Lucian?
+ASSEMBLYAI ALIGNED: You waited a month at a border post for
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 868 | 2167.720-2175.720 | GLOBAL_MISMATCH
+WHISPER: Just two men who knocked on the front door and came in when my mother opened it.
+ASSEMBLYAI ALIGNED: Just 2 men who knocked on the front door and came in when my mother opened
+MISSING FROM ASSEMBLYAI: ['it']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 878 | 2191.721-2194.720 | GLOBAL_MISMATCH
+WHISPER: Not the desperate, clinging feeling I used to get around Lucian.
+ASSEMBLYAI ALIGNED: Not the desperate, clinging feeling I used to get around
+MISSING FROM ASSEMBLYAI: ['lucian']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 886 | 2206.721-2208.720 | GLOBAL_MISMATCH
+WHISPER: From the sitting room I heard Arya's voice.
+ASSEMBLYAI ALIGNED: From the sitting room, I heard voice,
+MISSING FROM ASSEMBLYAI: ["arya's"]
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 893 | 2224.840-2227.090 | GLOBAL_MISMATCH
+WHISPER: You challenged three older kids to a race and one.
+ASSEMBLYAI ALIGNED: You challenged 3 older kids to a race and
+MISSING FROM ASSEMBLYAI: ['one']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+CUE 900 | 2241.781-2243.500 | NO_GLOBAL_ASR_MATCH
+WHISPER: Arya,
+ASSEMBLYAI ALIGNED: 
+MISSING FROM ASSEMBLYAI: ['arya']
+OCR V5: None
+OCR V7: None
+Manual status: NOT_RECORDED
+
+UNMATCHED ASSEMBLYAI WORDS
+======================================================================
+16.249-16.602 | Lucien | speaker=SPK_001
+17.196-17.373 | end | speaker=SPK_001
+20.006-20.054 | all | speaker=SPK_002
+70.798-71.185 | Bloodmoon | speaker=SPK_001
+74.792-75.212 | Valises' | speaker=SPK_001
+76.971-77.455 | Viviana. | speaker=SPK_001
+79.635-80.022 | Lucien | speaker=SPK_001
+86.949-87.320 | Vivian. | speaker=SPK_002
+91.770-92.447 | wolfsbane. | speaker=SPK_001
+103.177-103.549 | Lucien | speaker=SPK_001
+105.422-105.971 | unreleasable | speaker=SPK_001
+126.121-126.413 | Lucien | speaker=SPK_001
+138.917-139.313 | Lucien | speaker=SPK_001
+147.957-148.423 | Coldwield | speaker=SPK_002
+174.860-175.345 | decree. | speaker=SPK_002
+176.514-176.668 | There | speaker=SPK_002
+176.668-176.839 | won't | speaker=SPK_002
+217.996-218.386 | Lucien | speaker=SPK_003
+234.659-235.332 | Moonveil | speaker=SPK_003
+243.283-243.427 | Every | speaker=SPK_003
+243.619-243.748 | time | speaker=SPK_003
+243.780-243.796 | I | speaker=SPK_003
+243.860-244.501 | complained, | speaker=SPK_003
+244.565-244.758 | he | speaker=SPK_003
+245.623-245.832 | hurt | speaker=SPK_003
+245.928-246.120 | me. | speaker=SPK_003
+248.989-249.150 | Aria... | speaker=SPK_003
+255.427-255.469 | limb | speaker=SPK_003
+267.030-267.063 | I | speaker=SPK_001
+267.146-267.646 | couldn't | speaker=SPK_001
+267.680-267.996 | speak. | speaker=SPK_001
+293.950-294.226 | Aria's | speaker=SPK_001
+317.309-317.614 | Aria | speaker=SPK_001
+346.114-346.807 | Coldwell? | speaker=SPK_001
+348.533-349.049 | Coldwell? | speaker=SPK_001
+357.065-357.402 | Aria. | speaker=SPK_001
+372.651-373.126 | Fine. | speaker=SPK_001
+384.643-385.078 | Aria. | speaker=SPK_001
+386.982-387.320 | manor. | speaker=SPK_001
+392.105-392.410 | Lucien | speaker=SPK_001
+394.511-394.784 | Aria | speaker=SPK_001
+399.723-400.188 | Bloodmoon | speaker=SPK_001
+408.559-409.008 | Bloodmoon | speaker=SPK_001
+413.755-413.915 | gate. | speaker=SPK_001
+415.762-415.858 | who | speaker=SPK_001
+418.668-419.069 | Lucien | speaker=SPK_001
+432.075-432.445 | Lucien | speaker=SPK_001
+442.937-442.953 | I | speaker=SPK_002
+443.001-443.146 | was | speaker=SPK_002
+443.226-443.613 | wondering | speaker=SPK_002
+443.709-443.854 | when | speaker=SPK_002
+470.269-470.415 | Every | speaker=SPK_001
+470.513-470.724 | time | speaker=SPK_001
+470.772-470.902 | I'd | speaker=SPK_001
+470.999-471.210 | asked | speaker=SPK_001
+471.259-471.454 | about | speaker=SPK_001
+471.486-471.632 | these | speaker=SPK_001
+471.729-472.248 | paintings, | speaker=SPK_001
+484.360-484.747 | Lucien, | speaker=SPK_001
+502.835-502.867 | I | speaker=SPK_002
+506.444-506.748 | gaze. | speaker=SPK_001
+511.512-511.800 | Vivienne, | speaker=SPK_002
+524.672-525.059 | Lucien | speaker=SPK_001
+526.285-526.657 | Lucien | speaker=SPK_001
+559.622-560.167 | Vivienne, | speaker=SPK_002
+560.680-560.856 | think | speaker=SPK_002
+560.856-561.080 | about | speaker=SPK_002
+595.719-596.040 | Aria | speaker=SPK_002
+613.446-613.910 | perfectly | speaker=SPK_001
+614.007-614.343 | warm. | speaker=SPK_001
+614.423-614.584 | This | speaker=SPK_001
+614.584-614.712 | was | speaker=SPK_001
+614.744-614.872 | what | speaker=SPK_001
+614.888-615.049 | he | speaker=SPK_001
+615.049-615.273 | did. | speaker=SPK_001
+615.465-615.626 | This | speaker=SPK_001
+615.626-615.754 | was | speaker=SPK_001
+615.786-615.914 | what | speaker=SPK_001
+615.930-616.091 | he'd | speaker=SPK_001
+616.091-616.475 | always | speaker=SPK_001
+616.508-616.716 | done. | speaker=SPK_001
+616.892-617.117 | Vivian... | speaker=SPK_002
+651.046-651.559 | wolfbab. | speaker=SPK_001
+670.669-670.959 | Aria | speaker=SPK_003
+670.975-671.055 | will | speaker=SPK_003
+671.055-671.200 | make | speaker=SPK_003
+671.200-671.248 | a | speaker=SPK_003
+671.248-671.441 | scene. | speaker=SPK_003
+672.035-672.196 | Just | speaker=SPK_003
+672.196-672.325 | come | speaker=SPK_003
+672.357-672.405 | in | speaker=SPK_003
+672.518-672.678 | 3 | speaker=SPK_003
+672.678-673.048 | days, | speaker=SPK_003
+698.479-699.041 | Inside, | speaker=SPK_001
+699.426-699.811 | everything | speaker=SPK_001
+699.844-700.149 | went | speaker=SPK_001
+700.149-700.566 | cold | speaker=SPK_001
+700.566-700.710 | and | speaker=SPK_001
+700.710-701.128 | clear. | speaker=SPK_001
+707.864-708.090 | Lucien | speaker=SPK_001
+728.826-729.037 | every | speaker=SPK_001
+731.346-731.362 | I | speaker=SPK_001
+731.362-731.458 | returned | speaker=SPK_001
+731.458-731.490 | to | speaker=SPK_001
+732.949-733.269 | Aria | speaker=SPK_001
+752.698-753.644 | Dad's | speaker=SPK_003
+753.644-754.350 | Morgana? | speaker=SPK_003
+760.545-760.901 | Aria's | speaker=SPK_001
+765.392-765.569 | just | speaker=SPK_003
+765.569-765.957 | below | speaker=SPK_003
+765.957-766.038 | the | speaker=SPK_003
+766.038-766.167 | jaw. | speaker=SPK_003
+777.635-777.961 | Aria | speaker=SPK_001
+786.447-786.865 | Aria's | speaker=SPK_001
+787.908-788.149 | Every | speaker=SPK_003
+788.149-788.551 | single | speaker=SPK_003
+788.631-788.952 | week. | speaker=SPK_003
+789.337-789.434 | The | speaker=SPK_001
+789.498-789.835 | last | speaker=SPK_001
+789.835-790.044 | piece | speaker=SPK_001
+790.220-790.477 | clicked | speaker=SPK_001
+790.477-790.718 | into | speaker=SPK_001
+790.718-791.007 | place. | speaker=SPK_001
+811.656-811.993 | Aria's | speaker=SPK_001
+818.079-818.175 | He | speaker=SPK_003
+818.175-818.384 | wants | speaker=SPK_003
+818.496-818.576 | a | speaker=SPK_003
+818.576-819.122 | Coldwood | speaker=SPK_003
+820.503-820.648 | him | speaker=SPK_003
+820.648-820.873 | one. | speaker=SPK_003
+826.749-827.070 | Aria | speaker=SPK_003
+828.772-828.965 | me. | speaker=SPK_003
+845.375-845.744 | Lucien | speaker=SPK_003
+854.848-855.057 | Aria | speaker=SPK_003
+895.472-895.744 | Aria. | speaker=SPK_003
+901.573-901.750 | That's | speaker=SPK_002
+901.750-902.039 | fine. | speaker=SPK_002
+904.222-904.479 | Aria. | speaker=SPK_003
+910.870-910.951 | Lucien | speaker=SPK_003
+919.173-919.511 | Aria | speaker=SPK_003
+932.962-933.268 | moment | speaker=SPK_003
+968.142-968.420 | Aria | speaker=SPK_003
+973.964-974.190 | Miss | speaker=SPK_003
+974.190-974.738 | Coldwood, | speaker=SPK_003
+987.857-987.882 | a | speaker=SPK_003
+987.914-988.446 | half-eaten | speaker=SPK_003
+987.914-988.446 | half-eaten | speaker=SPK_003
+1007.113-1007.388 | Alright. | speaker=SPK_003
+1012.769-1014.982 | Coldwheel | speaker=SPK_001
+1019.791-1019.856 | and | speaker=SPK_001
+1019.872-1019.888 | a | speaker=SPK_001
+1019.888-1020.161 | mole | speaker=SPK_001
+1020.514-1020.707 | right | speaker=SPK_001
+1038.988-1039.216 | you | speaker=SPK_003
+1052.110-1052.271 | into | speaker=SPK_003
+1067.010-1067.171 | Aria | speaker=SPK_001
+1067.823-1068.165 | sigh | speaker=SPK_001
+1095.603-1095.924 | Aria | speaker=SPK_001
+1097.114-1097.676 | Morganella | speaker=SPK_001
+1131.313-1131.651 | Aria | speaker=SPK_003
+1146.476-1147.107 | motorcade | speaker=SPK_001
+1178.488-1178.686 | Aria | speaker=SPK_001
+1204.318-1204.480 | gonna | speaker=SPK_003
+1210.795-1211.241 | next | speaker=SPK_003
+1211.274-1211.505 | morning. | speaker=SPK_003
+1218.970-1219.042 | Ari | speaker=SPK_001
+1224.690-1225.171 | café | speaker=SPK_001
+1244.569-1244.833 | Lucien | speaker=SPK_001
+1316.193-1316.339 | His | speaker=SPK_003
+1320.276-1320.292 | The | speaker=SPK_002
+1320.292-1320.341 | room | speaker=SPK_002
+1321.515-1321.776 | until | speaker=SPK_002
+1321.776-1322.135 | morning. | speaker=SPK_002
+1330.446-1331.141 | unmistakable. | speaker=SPK_003
+1337.425-1337.767 | Lucien | speaker=SPK_003
+1347.829-1348.007 | had | speaker=SPK_003
+1348.007-1348.104 | me | speaker=SPK_003
+1348.104-1348.477 | knocked | speaker=SPK_003
+1348.477-1348.898 | out. | speaker=SPK_003
+1349.561-1349.642 | You | speaker=SPK_003
+1372.219-1372.379 | gonna | speaker=SPK_002
+1397.600-1397.893 | Accept | speaker=SPK_003
+1404.931-1405.044 | He | speaker=SPK_003
+1405.093-1405.449 | stared | speaker=SPK_003
+1405.449-1405.530 | at | speaker=SPK_003
+1405.578-1405.805 | me. | speaker=SPK_003
+1405.983-1406.064 | For | speaker=SPK_003
+1411.986-1412.358 | Varius | speaker=SPK_003
+1413.990-1414.378 | Varius. | speaker=SPK_003
+1414.831-1415.187 | Varius | speaker=SPK_001
+1416.916-1417.288 | Viviane, | speaker=SPK_003
+1437.482-1438.189 | Valerius | speaker=SPK_001
+1445.349-1445.812 | Vivienne. | speaker=SPK_001
+1453.872-1454.261 | Laurent | speaker=SPK_003
+1460.087-1460.779 | Valerius | speaker=SPK_001
+1462.342-1462.664 | Lucien | speaker=SPK_001
+1480.537-1481.163 | Lardont | speaker=SPK_003
+1483.266-1483.828 | Valeris | speaker=SPK_003
+1485.016-1485.386 | Lucien. | speaker=SPK_003
+1487.039-1487.441 | servant | speaker=SPK_001
+1499.034-1499.083 | of | speaker=SPK_003
+1504.719-1505.413 | Velescius | speaker=SPK_003
+1508.399-1508.899 | Velescius | speaker=SPK_003
+1509.302-1509.674 | Lucien, | speaker=SPK_003
+1516.330-1516.459 | Who | speaker=SPK_002
+1516.767-1516.816 | is | speaker=SPK_002
+1516.849-1517.270 | she? | speaker=SPK_002
+1518.211-1518.795 | Lucien's | speaker=SPK_003
+1523.930-1524.135 | Lucien... | speaker=SPK_002
+1524.932-1525.393 | Valerius's | speaker=SPK_003
+1530.293-1530.390 | Shay? | speaker=SPK_002
+1531.052-1531.229 | She's— | speaker=SPK_004
+1531.923-1532.278 | Lucien | speaker=SPK_003
+1539.243-1539.356 | it's | speaker=SPK_004
+1539.405-1539.502 | not | speaker=SPK_004
+1554.700-1555.087 | Coldwild | speaker=SPK_003
+1560.375-1560.847 | Valerius. | speaker=SPK_003
+1566.453-1566.874 | Lucien | speaker=SPK_003
+1573.690-1574.213 | Valerius | speaker=SPK_003
+1588.533-1588.727 | Luna | speaker=SPK_003
+1588.727-1589.308 | Valeris | speaker=SPK_003
+1589.340-1589.662 | pressed | speaker=SPK_003
+1589.662-1589.888 | both | speaker=SPK_003
+1589.921-1590.211 | hands | speaker=SPK_003
+1590.243-1590.469 | over | speaker=SPK_003
+1590.469-1590.566 | her | speaker=SPK_003
+1590.566-1590.840 | face. | speaker=SPK_003
+1591.437-1591.727 | Lucien | speaker=SPK_003
+1598.750-1598.896 | I | speaker=SPK_003
+1598.896-1598.993 | know. | speaker=SPK_003
+1599.932-1600.046 | But | speaker=SPK_003
+1600.111-1600.192 | you | speaker=SPK_003
+1600.273-1600.532 | did. | speaker=SPK_003
+1601.245-1601.472 | Valeris | speaker=SPK_003
+1601.488-1601.553 | looked | speaker=SPK_003
+1601.553-1601.650 | at | speaker=SPK_003
+1601.650-1601.698 | me. | speaker=SPK_003
+1601.874-1601.938 | He | speaker=SPK_003
+1608.291-1608.678 | Lucien | speaker=SPK_003
+1618.047-1618.143 | He | speaker=SPK_003
+1618.207-1618.577 | glanced | speaker=SPK_003
+1618.625-1618.705 | at | speaker=SPK_003
+1618.705-1618.834 | his | speaker=SPK_003
+1618.930-1619.171 | wife. | speaker=SPK_003
+1619.268-1619.316 | You | speaker=SPK_002
+1619.332-1619.412 | were | speaker=SPK_002
+1619.412-1619.669 | never | speaker=SPK_002
+1619.669-1619.943 | here. | speaker=SPK_002
+1620.151-1620.441 | Lucien | speaker=SPK_002
+1621.582-1621.839 | mated | speaker=SPK_002
+1627.261-1627.374 | the | speaker=SPK_002
+1631.786-1632.301 | Valersey | speaker=SPK_003
+1647.630-1647.954 | Lucien. | speaker=SPK_003
+1675.354-1675.772 | Valeris | speaker=SPK_003
+1678.497-1679.033 | Lucien | speaker=SPK_003
+1701.672-1701.995 | Lucien | speaker=SPK_003
+1711.740-1712.158 | Lawrence | speaker=SPK_002
+1719.662-1720.113 | Lucien | speaker=SPK_003
+1737.420-1737.484 | The | speaker=SPK_002
+1737.501-1737.647 | only | speaker=SPK_002
+1737.679-1737.760 | way | speaker=SPK_002
+1737.776-1737.906 | to | speaker=SPK_002
+1737.906-1738.246 | contain | speaker=SPK_002
+1738.246-1738.457 | this | speaker=SPK_002
+1738.651-1738.732 | is | speaker=SPK_002
+1738.813-1738.910 | if | speaker=SPK_002
+1738.975-1739.202 | you're | speaker=SPK_002
+1739.202-1739.461 | part | speaker=SPK_002
+1739.461-1739.510 | of | speaker=SPK_002
+1739.510-1739.542 | the | speaker=SPK_002
+1739.542-1740.003 | solution. | speaker=SPK_002
+1740.348-1740.594 | Luna, | speaker=SPK_002
+1740.611-1740.940 | public | speaker=SPK_002
+1741.005-1741.252 | face. | speaker=SPK_002
+1804.725-1805.175 | Lucien, | speaker=SPK_003
+1831.109-1831.384 | Aria | speaker=SPK_003
+1839.130-1839.535 | Lucien | speaker=SPK_003
+1848.539-1848.902 | Aria's | speaker=SPK_003
+1854.868-1855.142 | warn. | speaker=SPK_003
+1855.676-1855.966 | Lucien | speaker=SPK_003
+1857.760-1858.083 | Aria | speaker=SPK_003
+1859.650-1859.779 | empty. | speaker=SPK_003
+1859.860-1859.973 | What | speaker=SPK_003
+1860.038-1860.135 | are | speaker=SPK_003
+1860.135-1860.183 | you | speaker=SPK_003
+1860.183-1860.329 | doing? | speaker=SPK_003
+1874.538-1874.943 | Aria's | speaker=SPK_003
+1876.921-1877.440 | Lucien | speaker=SPK_003
+1884.240-1884.485 | Lucien | speaker=SPK_003
+1900.160-1900.851 | unhurried— | speaker=SPK_003
+1903.452-1903.821 | emissary, | speaker=SPK_003
+1908.911-1909.328 | Lucien. | speaker=SPK_003
+1914.595-1914.659 | it. | speaker=SPK_002
+1917.726-1918.047 | clapped | speaker=SPK_003
+1926.075-1926.509 | Lucien's | speaker=SPK_003
+1927.777-1927.954 | sea. | speaker=SPK_003
+1938.391-1938.824 | Valerius, | speaker=SPK_003
+1955.923-1956.308 | Seer | speaker=SPK_002
+1962.895-1963.554 | Valerius | speaker=SPK_003
+1963.875-1964.245 | Lucien, | speaker=SPK_003
+1982.962-1983.350 | Vivienne. | speaker=SPK_004
+2013.898-2014.271 | Aria | speaker=SPK_003
+2014.288-2014.580 | Abir | speaker=SPK_003
+2027.504-2027.763 | come | speaker=SPK_003
+2027.763-2028.037 | apart | speaker=SPK_003
+2028.037-2028.199 | at | speaker=SPK_003
+2028.215-2028.296 | the | speaker=SPK_003
+2028.296-2028.765 | seams. | speaker=SPK_003
+2029.605-2030.009 | Lucien | speaker=SPK_003
+2044.895-2045.492 | Soul-binding | speaker=SPK_003
+2044.895-2045.492 | Soul-binding | speaker=SPK_003
+2055.708-2055.950 | pack | speaker=SPK_003
+2057.562-2057.804 | Pack | speaker=SPK_003
+2058.693-2059.064 | Valaris | speaker=SPK_003
+2059.178-2059.501 | Manor | speaker=SPK_003
+2064.046-2064.324 | Aria | speaker=SPK_003
+2081.030-2081.352 | Pack's | speaker=SPK_003
+2082.157-2082.431 | Manor's | speaker=SPK_003
+2114.996-2115.255 | Neither | speaker=SPK_003
+2118.948-2119.207 | Aria | speaker=SPK_003
+2139.873-2140.242 | Lucien | speaker=SPK_003
+2146.224-2146.531 | Aria | speaker=SPK_003
+2149.946-2150.286 | Lucien? | speaker=SPK_003
+2194.780-2195.004 | Lucien. | speaker=SPK_003
+2208.036-2208.441 | Aria's | speaker=SPK_003
+2227.358-2227.650 | won. | speaker=SPK_002
+2242.913-2243.464 | Aria? | speaker=SPK_003

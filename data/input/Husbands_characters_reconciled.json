@@ -1,0 +1,663 @@
+{
+  "characters": [
+    {
+      "id": "C001",
+      "canonical_name": "Vivienne",
+      "aliases": [
+        "Viviana",
+        "Vivian",
+        "Vivien",
+        "Vivienna"
+      ],
+      "gender": "female",
+      "relationships": [
+        {
+          "target": "Lucian",
+          "type": "suitor/antagonist"
+        },
+        {
+          "target": "Aria",
+          "type": "sister"
+        },
+        {
+          "target": "Lucien",
+          "type": "antagonistic/former partner"
+        },
+        {
+          "target": "Lucian",
+          "type": "complex/strained"
+        },
+        {
+          "target": "Lucian",
+          "type": "partner/mate"
+        }
+      ],
+      "speech_style": [
+        "calm",
+        "direct",
+        "defiant"
+      ],
+      "evidence": [
+        "6",
+        "21",
+        "30",
+        "41",
+        "828",
+        "852",
+        "180",
+        "488",
+        "493",
+        "466",
+        "518",
+        "547",
+        "559",
+        "572",
+        "607",
+        "626",
+        "637",
+        "659",
+        "674",
+        "681"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C001",
+        "C007"
+      ]
+    },
+    {
+      "id": "C003",
+      "canonical_name": "Aria",
+      "aliases": [
+        "Arya"
+      ],
+      "gender": "female",
+      "relationships": [
+        {
+          "target": "Vivienne",
+          "type": "sister"
+        },
+        {
+          "target": "Mother",
+          "type": "child"
+        },
+        {
+          "target": "Narrator",
+          "type": "sibling"
+        },
+        {
+          "target": "Narrator",
+          "type": "sister"
+        },
+        {
+          "target": "Narrator",
+          "type": "sibling/ally"
+        },
+        {
+          "target": "Vivienne",
+          "type": "ally"
+        }
+      ],
+      "speech_style": [
+        "flat",
+        "controlled",
+        "bright",
+        "sharp"
+      ],
+      "evidence": [
+        "37",
+        "41",
+        "74",
+        "101",
+        "117",
+        "127",
+        "131",
+        "218",
+        "272",
+        "274",
+        "306",
+        "315",
+        "328",
+        "357",
+        "410",
+        "420",
+        "433",
+        "461",
+        "714",
+        "716",
+        "725",
+        "796",
+        "818",
+        "819",
+        "843",
+        "886",
+        "887"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C003",
+        "C006"
+      ]
+    },
+    {
+      "id": "C012",
+      "canonical_name": "Alpha Valeris",
+      "aliases": [
+        "Alpha Various",
+        "Alpha Valerce",
+        "Alpha Valerius"
+      ],
+      "gender": "male",
+      "relationships": [
+        {
+          "target": "Lucian",
+          "type": "father"
+        },
+        {
+          "target": "Luna Valerius",
+          "type": "spouse"
+        }
+      ],
+      "speech_style": [
+        "authoritative",
+        "calculating"
+      ],
+      "evidence": [
+        "544",
+        "565",
+        "583",
+        "603",
+        "610",
+        "620",
+        "627",
+        "651",
+        "762",
+        "763",
+        "773",
+        "800"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C012",
+        "C018"
+      ]
+    },
+    {
+      "id": "C013",
+      "canonical_name": "Luna Valerius",
+      "aliases": [
+        "Luna Various",
+        "Luna Valerce"
+      ],
+      "gender": "female",
+      "relationships": [
+        {
+          "target": "Alpha Valeris",
+          "type": "spouse"
+        },
+        {
+          "target": "Lucian",
+          "type": "mother"
+        }
+      ],
+      "speech_style": [
+        "nervous",
+        "persuasive"
+      ],
+      "evidence": [
+        "545",
+        "546",
+        "556",
+        "582",
+        "634",
+        "637",
+        "679",
+        "799"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C013",
+        "C016",
+        "C020"
+      ]
+    },
+    {
+      "id": "C014",
+      "canonical_name": "Chief Elder Laurent",
+      "aliases": [
+        "Chief Elder LaRonde",
+        "Laurent",
+        "Chief Elder Lawrence",
+        "Laurand",
+        "Lardant"
+      ],
+      "gender": "male",
+      "relationships": [
+        {
+          "target": "Narrator",
+          "type": "father-in-law"
+        }
+      ],
+      "speech_style": [
+        "formal",
+        "authoritative"
+      ],
+      "evidence": [
+        "562",
+        "572",
+        "612",
+        "648",
+        "655",
+        "666",
+        "669",
+        "732",
+        "742",
+        "750",
+        "760"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C014",
+        "C015",
+        "C017"
+      ]
+    },
+    {
+      "id": "C002",
+      "canonical_name": "Lucian",
+      "aliases": [],
+      "gender": "male",
+      "relationships": [
+        {
+          "target": "Vivienne",
+          "type": "suitor"
+        },
+        {
+          "target": "Aria",
+          "type": "suitor"
+        },
+        {
+          "target": "Narrator",
+          "type": "childhood friend"
+        },
+        {
+          "target": "Narrator",
+          "type": "partner/suitor"
+        },
+        {
+          "target": "Aria",
+          "type": "competitor"
+        },
+        {
+          "target": "Vivienne",
+          "type": "complex/strained"
+        },
+        {
+          "target": "Alpha Valeris",
+          "type": "son"
+        },
+        {
+          "target": "Vivienne",
+          "type": "partner/mate"
+        },
+        {
+          "target": "Narrator",
+          "type": "aggressor"
+        }
+      ],
+      "speech_style": [
+        "authoritative",
+        "steady",
+        "calm",
+        "manipulative",
+        "persuasive",
+        "quiet",
+        "tense"
+      ],
+      "evidence": [
+        "3",
+        "23",
+        "44",
+        "47",
+        "101",
+        "130",
+        "141",
+        "147",
+        "175",
+        "180",
+        "191",
+        "264",
+        "266",
+        "216",
+        "253",
+        "323",
+        "354",
+        "390",
+        "511",
+        "565",
+        "566",
+        "583",
+        "606",
+        "615",
+        "621",
+        "629",
+        "662",
+        "666",
+        "676",
+        "682",
+        "704",
+        "718",
+        "720",
+        "724",
+        "736",
+        "749",
+        "781",
+        "802",
+        "807",
+        "810",
+        "855"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C002"
+      ]
+    },
+    {
+      "id": "C004",
+      "canonical_name": "Mother",
+      "aliases": [],
+      "gender": "female",
+      "relationships": [
+        {
+          "target": "Vivienne",
+          "type": "mother"
+        },
+        {
+          "target": "Aria",
+          "type": "mother"
+        },
+        {
+          "target": "Narrator",
+          "type": "parent"
+        },
+        {
+          "target": "Aria",
+          "type": "parent"
+        }
+      ],
+      "speech_style": [
+        "authoritative",
+        "steady"
+      ],
+      "evidence": [
+        "18",
+        "41",
+        "102",
+        "104",
+        "106",
+        "111",
+        "120",
+        "125",
+        "132",
+        "318",
+        "332",
+        "340",
+        "358"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C004"
+      ]
+    },
+    {
+      "id": "C005",
+      "canonical_name": "Narrator",
+      "aliases": [],
+      "gender": null,
+      "relationships": [
+        {
+          "target": "Mother",
+          "type": "child"
+        },
+        {
+          "target": "Aria",
+          "type": "sibling"
+        },
+        {
+          "target": "Lucian",
+          "type": "childhood friend"
+        },
+        {
+          "target": "Aria",
+          "type": "sibling/ally"
+        },
+        {
+          "target": "Mother",
+          "type": "parent"
+        }
+      ],
+      "speech_style": [
+        "Direct",
+        "Analytical"
+      ],
+      "evidence": [
+        "106",
+        "114",
+        "133",
+        "141",
+        "167",
+        "301",
+        "314",
+        "320",
+        "329",
+        "361",
+        "384"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C005"
+      ]
+    },
+    {
+      "id": "C008",
+      "canonical_name": "Morgana",
+      "aliases": [],
+      "gender": "female",
+      "relationships": [
+        {
+          "target": "Lucien",
+          "type": "deceived bride"
+        }
+      ],
+      "speech_style": [
+        "flat"
+      ],
+      "evidence": [
+        "275",
+        "278",
+        "279",
+        "312",
+        "369",
+        "370",
+        "371",
+        "372",
+        "374",
+        "411",
+        "421",
+        "433",
+        "445",
+        "576",
+        "821",
+        "823",
+        "835"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C008"
+      ]
+    },
+    {
+      "id": "C009",
+      "canonical_name": "Lance Laurent",
+      "aliases": [],
+      "gender": "male",
+      "relationships": [
+        {
+          "target": "Luke Laurent",
+          "type": "twin brother"
+        },
+        {
+          "target": "Chief Elder Laurent",
+          "type": "son"
+        }
+      ],
+      "speech_style": [],
+      "evidence": [
+        "334",
+        "335",
+        "346"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C009"
+      ]
+    },
+    {
+      "id": "C010",
+      "canonical_name": "Luke Laurent",
+      "aliases": [],
+      "gender": "male",
+      "relationships": [
+        {
+          "target": "Lance Laurent",
+          "type": "twin brother"
+        },
+        {
+          "target": "Chief Elder Laurent",
+          "type": "son"
+        }
+      ],
+      "speech_style": [],
+      "evidence": [
+        "334",
+        "335",
+        "347"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C010"
+      ]
+    },
+    {
+      "id": "C011",
+      "canonical_name": "Lucien",
+      "aliases": [],
+      "gender": "male",
+      "relationships": [
+        {
+          "target": "Vivienne",
+          "type": "antagonistic"
+        },
+        {
+          "target": "Morgana",
+          "type": "groom"
+        }
+      ],
+      "speech_style": [],
+      "evidence": [
+        "425",
+        "439",
+        "470",
+        "482"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C011"
+      ]
+    },
+    {
+      "id": "C019",
+      "canonical_name": "The royal seer",
+      "aliases": [],
+      "gender": "male",
+      "relationships": [],
+      "speech_style": [
+        "direct"
+      ],
+      "evidence": [
+        "745",
+        "770",
+        "778"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C019"
+      ]
+    },
+    {
+      "id": "C021",
+      "canonical_name": "Valerius",
+      "aliases": [
+        "Alpha Valerius",
+        "Luna Valerius"
+      ],
+      "gender": null,
+      "relationships": [],
+      "speech_style": [],
+      "evidence": [
+        "811",
+        "816"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C021"
+      ]
+    },
+    {
+      "id": "C022",
+      "canonical_name": "Luke",
+      "aliases": [],
+      "gender": "male",
+      "relationships": [],
+      "speech_style": [],
+      "evidence": [
+        "845",
+        "850",
+        "890",
+        "854",
+        "869",
+        "897",
+        "906"
+      ],
+      "confidence": "high",
+      "source_ids": [
+        "C022"
+      ]
+    }
+  ],
+  "review_required": [
+    {
+      "suggested_name": "Valerius",
+      "character_ids": [
+        "C021"
+      ],
+      "reason": "Alpha болон Luna хоёрын хамтарсан дурдлага; тусад нь салгах шаардлагатай"
+    },
+    {
+      "suggested_name": "Luke / Lance / Lawrence Brothers",
+      "character_ids": [
+        "C022"
+      ],
+      "reason": "Хамтын дурдлага болон хувь хүний нэр холилдсон"
+    }
+  ],
+  "unresolved": [
+    "C021: Alpha Valerius болон Luna Valerius хамтарсан дурдлага",
+    "C022: Luke, Lance, Lawrence Brothers хамтын дурдлага"
+  ],
+  "notes": [
+    "Зөвхөн merge_candidates доторх дүрүүдийг нэгтгэсэн.",
+    "review_required дүрүүдийг тусад нь үлдээсэн.",
+    "exclude_from_characters доторх бүртгэлийг хассан."
+  ]
+}

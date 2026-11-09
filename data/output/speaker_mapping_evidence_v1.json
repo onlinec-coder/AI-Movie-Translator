@@ -1,0 +1,411 @@
+{
+  "schema_version": "1.0.0",
+  "engine_version": "speaker_mapping_evidence_v1",
+  "created_at": "2026-11-06T06:09:01.091459+00:00",
+  "source": {
+    "alignment_file": "data\\output\\alignment_result_v4.json",
+    "transcription_file": "data\\output\\transcription_result.json",
+    "assignments_file": "data\\input\\speaker_assignments.json",
+    "characters_file": "data\\input\\Husbands_characters_reconciled.json"
+  },
+  "statistics": {
+    "processed_alignment_segments": 96,
+    "assemblyai_speaker_count": 3,
+    "speaker_count_with_evidence": 3,
+    "character_count": 15,
+    "missing_assignment_subtitles": 0
+  },
+  "assemblyai_speakers": [
+    {
+      "speaker_id": "SPK_001",
+      "provider_label": "A",
+      "speaker_type": "unknown",
+      "confidence": 0.9229
+    },
+    {
+      "speaker_id": "SPK_002",
+      "provider_label": "B",
+      "speaker_type": "unknown",
+      "confidence": 0.9743
+    },
+    {
+      "speaker_id": "SPK_003",
+      "provider_label": "C",
+      "speaker_type": "unknown",
+      "confidence": 0.8893
+    }
+  ],
+  "speaker_evidence": [
+    {
+      "speaker_id": "SPK_001",
+      "total_matched_words": 481,
+      "total_subtitle_links": 70,
+      "unassigned_asr_words": 20,
+      "candidate_matches": [
+        {
+          "character_id": "C005",
+          "character_name": "Narrator",
+          "subtitle_count": 42,
+          "subtitle_ids": [
+            3,
+            7,
+            12,
+            18,
+            19,
+            20,
+            23,
+            29,
+            32,
+            36,
+            37,
+            38,
+            40,
+            43,
+            44,
+            45,
+            47,
+            49,
+            50,
+            52,
+            54,
+            57,
+            58,
+            59,
+            60,
+            61,
+            63,
+            65,
+            67,
+            72,
+            74,
+            78,
+            79,
+            80,
+            86,
+            87,
+            88,
+            89,
+            90,
+            92,
+            93,
+            94
+          ],
+          "word_count": 288,
+          "matched_word_count": 288,
+          "word_share": 0.5988,
+          "average_speaker_confidence": null,
+          "average_asr_confidence": 0.9823,
+          "speaker_types": {
+            "narrator": 42
+          }
+        },
+        {
+          "character_id": "C001",
+          "character_name": "Vivienne",
+          "subtitle_count": 17,
+          "subtitle_ids": [
+            1,
+            2,
+            5,
+            9,
+            10,
+            14,
+            15,
+            16,
+            17,
+            24,
+            27,
+            28,
+            31,
+            33,
+            34,
+            81,
+            96
+          ],
+          "word_count": 110,
+          "matched_word_count": 110,
+          "word_share": 0.2287,
+          "average_speaker_confidence": null,
+          "average_asr_confidence": 0.9723,
+          "speaker_types": {
+            "inner_monologue": 14,
+            "character": 3
+          }
+        },
+        {
+          "character_id": "C003",
+          "character_name": "Aria",
+          "subtitle_count": 5,
+          "subtitle_ids": [
+            35,
+            39,
+            62,
+            68,
+            69
+          ],
+          "word_count": 41,
+          "matched_word_count": 41,
+          "word_share": 0.0852,
+          "average_speaker_confidence": null,
+          "average_asr_confidence": 0.9907,
+          "speaker_types": {
+            "character": 5
+          }
+        },
+        {
+          "character_id": "C004",
+          "character_name": "Mother",
+          "subtitle_count": 4,
+          "subtitle_ids": [
+            21,
+            22,
+            41,
+            42
+          ],
+          "word_count": 27,
+          "matched_word_count": 27,
+          "word_share": 0.0561,
+          "average_speaker_confidence": null,
+          "average_asr_confidence": 0.9976,
+          "speaker_types": {
+            "character": 4
+          }
+        },
+        {
+          "character_id": "C002",
+          "character_name": "Lucian",
+          "subtitle_count": 2,
+          "subtitle_ids": [
+            26,
+            30
+          ],
+          "word_count": 15,
+          "matched_word_count": 15,
+          "word_share": 0.0312,
+          "average_speaker_confidence": null,
+          "average_asr_confidence": 0.962,
+          "speaker_types": {
+            "character": 2
+          }
+        }
+      ],
+      "top_candidate": {
+        "character_id": "C005",
+        "character_name": "Narrator",
+        "subtitle_count": 42,
+        "subtitle_ids": [
+          3,
+          7,
+          12,
+          18,
+          19,
+          20,
+          23,
+          29,
+          32,
+          36,
+          37,
+          38,
+          40,
+          43,
+          44,
+          45,
+          47,
+          49,
+          50,
+          52,
+          54,
+          57,
+          58,
+          59,
+          60,
+          61,
+          63,
+          65,
+          67,
+          72,
+          74,
+          78,
+          79,
+          80,
+          86,
+          87,
+          88,
+          89,
+          90,
+          92,
+          93,
+          94
+        ],
+        "word_count": 288,
+        "matched_word_count": 288,
+        "word_share": 0.5988,
+        "average_speaker_confidence": null,
+        "average_asr_confidence": 0.9823,
+        "speaker_types": {
+          "narrator": 42
+        }
+      },
+      "mapping_status": "REQUIRES_REVIEW"
+    },
+    {
+      "speaker_id": "SPK_002",
+      "total_matched_words": 87,
+      "total_subtitle_links": 13,
+      "unassigned_asr_words": 5,
+      "candidate_matches": [
+        {
+          "character_id": "C002",
+          "character_name": "Lucian",
+          "subtitle_count": 12,
+          "subtitle_ids": [
+            4,
+            6,
+            8,
+            11,
+            13,
+            25,
+            46,
+            48,
+            51,
+            53,
+            55,
+            56
+          ],
+          "word_count": 86,
+          "matched_word_count": 86,
+          "word_share": 0.9885,
+          "average_speaker_confidence": null,
+          "average_asr_confidence": 0.9876,
+          "speaker_types": {
+            "character": 12
+          }
+        },
+        {
+          "character_id": "C005",
+          "character_name": "Narrator",
+          "subtitle_count": 1,
+          "subtitle_ids": [
+            43
+          ],
+          "word_count": 1,
+          "matched_word_count": 1,
+          "word_share": 0.0115,
+          "average_speaker_confidence": null,
+          "average_asr_confidence": 0.9792,
+          "speaker_types": {
+            "narrator": 1
+          }
+        }
+      ],
+      "top_candidate": {
+        "character_id": "C002",
+        "character_name": "Lucian",
+        "subtitle_count": 12,
+        "subtitle_ids": [
+          4,
+          6,
+          8,
+          11,
+          13,
+          25,
+          46,
+          48,
+          51,
+          53,
+          55,
+          56
+        ],
+        "word_count": 86,
+        "matched_word_count": 86,
+        "word_share": 0.9885,
+        "average_speaker_confidence": null,
+        "average_asr_confidence": 0.9876,
+        "speaker_types": {
+          "character": 12
+        }
+      },
+      "mapping_status": "REQUIRES_REVIEW"
+    },
+    {
+      "speaker_id": "SPK_003",
+      "total_matched_words": 100,
+      "total_subtitle_links": 15,
+      "unassigned_asr_words": 9,
+      "candidate_matches": [
+        {
+          "character_id": "C001",
+          "character_name": "Vivienne",
+          "subtitle_count": 7,
+          "subtitle_ids": [
+            64,
+            81,
+            82,
+            83,
+            84,
+            85,
+            91
+          ],
+          "word_count": 53,
+          "matched_word_count": 53,
+          "word_share": 0.53,
+          "average_speaker_confidence": null,
+          "average_asr_confidence": 0.9706,
+          "speaker_types": {
+            "character": 2,
+            "inner_monologue": 5
+          }
+        },
+        {
+          "character_id": "C003",
+          "character_name": "Aria",
+          "subtitle_count": 8,
+          "subtitle_ids": [
+            66,
+            70,
+            71,
+            73,
+            75,
+            76,
+            77,
+            95
+          ],
+          "word_count": 47,
+          "matched_word_count": 47,
+          "word_share": 0.47,
+          "average_speaker_confidence": null,
+          "average_asr_confidence": 0.988,
+          "speaker_types": {
+            "character": 8
+          }
+        }
+      ],
+      "top_candidate": {
+        "character_id": "C001",
+        "character_name": "Vivienne",
+        "subtitle_count": 7,
+        "subtitle_ids": [
+          64,
+          81,
+          82,
+          83,
+          84,
+          85,
+          91
+        ],
+        "word_count": 53,
+        "matched_word_count": 53,
+        "word_share": 0.53,
+        "average_speaker_confidence": null,
+        "average_asr_confidence": 0.9706,
+        "speaker_types": {
+          "character": 2,
+          "inner_monologue": 5
+        }
+      },
+      "mapping_status": "REQUIRES_REVIEW"
+    }
+  ],
+  "missing_assignment_subtitles": [],
+  "automatic_mapping_applied": false
+}

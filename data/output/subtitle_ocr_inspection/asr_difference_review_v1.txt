@@ -1,0 +1,606 @@
+﻿CUE 15 | 52.58-56.74
+WHISPER: I opened my eyes. In my mother's sitting room at Coldwell Manor.
+ASSEMBLYAI: I opened my eyes in my mother's sitting room
+MISSING: at, coldwell, manor
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 19 | 68.271-72.43
+WHISPER: A mating bond contract, sealed with the Blood Moon Pack crest.
+ASSEMBLYAI: a mating bond contract, sealed with the Pack crest.
+MISSING: blood, moon
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 21 | 74.51-77.87
+WHISPER: The Velice's heir sent this earlier this morning, Vivienne.
+ASSEMBLYAI: The heir sent this earlier this morning, Viviana.
+MISSING: velice's
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 27 | 90.911-92.50999999999999
+WHISPER: Three bowls of wolf's babe.
+ASSEMBLYAI: 3 bowls of
+MISSING: wolf's, babe
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 32 | 102.991-106.59
+WHISPER: Lucian looked at me. That calm, unerisval stare.
+ASSEMBLYAI: Lucien looked at me, that calm, stare
+MISSING: unerisval
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 46 | 146.47-149.04
+WHISPER: The woman I marry comes from the Coldwild family.
+ASSEMBLYAI: The woman I marry comes from the family.
+MISSING: coldwild
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 76 | 228.18099999999998-234.7
+WHISPER: He said the only thing I was good for was my Moon Veal voice.
+ASSEMBLYAI: He said the only thing I was good for was my voice.
+MISSING: moon, veal
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 81 | 253.631-255.63
+WHISPER: He had my limbs severed so I couldn't shift.
+ASSEMBLYAI: He had my severed so I couldn't shift.
+MISSING: limbs
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 94 | 291.861-295.86
+WHISPER: Arya's expression turned puzzled after learning the truth.
+ASSEMBLYAI: expression turned puzzled after learning the truth.
+MISSING: arya's
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 112 | 343.741-345.74
+WHISPER: Why cold well?
+ASSEMBLYAI: Why
+MISSING: cold, well
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 113 | 345.79-347.74
+WHISPER: Why only cold well?
+ASSEMBLYAI: Why only
+MISSING: cold, well
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 128 | 383.921-385.92
+WHISPER: You go through the manner.
+ASSEMBLYAI: You go through the
+MISSING: manner
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 133 | 395.921-399.92
+WHISPER: And you know him best, so you're going to Blood Moon Manor.
+ASSEMBLYAI: And you know him best, so you're going to Manor.
+MISSING: blood, moon
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 138 | 408.445-409.92
+WHISPER: Blood Moon Manor was exactly as I remembered it.
+ASSEMBLYAI: Manor was exactly as I remembered it.
+MISSING: blood, moon
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 139 | 409.921-415.2
+WHISPER: Same long driveway, same iron gates, same guard at
+ASSEMBLYAI: Same long driveway, same iron Same guard at
+MISSING: gates
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 140 | 415.201-417.92
+WHISPER: the door that waved me through without question.
+ASSEMBLYAI: the door waved me through without question,
+MISSING: that
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 175 | 500.861-504.397
+WHISPER: He said, he smudged it.
+ASSEMBLYAI: he said. smudged it.
+MISSING: he
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 177 | 504.861-506.86
+WHISPER: Right. I held his graze.
+ASSEMBLYAI: Right. I held his
+MISSING: graze
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 208 | 575.189-579.14
+WHISPER: He used to take the blame when we were kids so I wouldn't get in trouble.
+ASSEMBLYAI: He used to take the blame when we were kids so I wouldn't get in
+MISSING: trouble
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 240 | 649.141-653.14
+WHISPER: He'd killed her himself with three bowls of Wolf Bab.
+ASSEMBLYAI: He'd killed her himself with 3 bowls of
+MISSING: wolf, bab
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 241 | 653.141-657.14
+WHISPER: I let the silence hang just long enough to be convincing.
+ASSEMBLYAI: I let the silence hang just long
+MISSING: enough, to, be, convincing
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 271 | 727.639-731.14
+WHISPER: And I'm going to use a single second of it.
+ASSEMBLYAI: And I'm going to use single second of it.
+MISSING: a
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 283 | 761.151-763.15
+WHISPER: Arya's voice was strange.
+ASSEMBLYAI: voice was strange.
+MISSING: arya's
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 295 | 788.641-790.64
+WHISPER: Arya's eyes narrowed.
+ASSEMBLYAI: eyes narrowed.
+MISSING: arya's
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 306 | 810.739-812.64
+WHISPER: The room was quiet. Then Arya's face shifted.
+ASSEMBLYAI: The room was quiet, then face shifted.
+MISSING: arya's
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 310 | 818.641-820.64
+WHISPER: A cold-willed woman.
+ASSEMBLYAI: a woman,
+MISSING: cold, willed
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 311 | 820.641-822.64
+WHISPER: We give her more.
+ASSEMBLYAI: we give
+MISSING: her, more
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 315 | 828.641-830.64
+WHISPER: Arya dropped onto the couch across from her.
+ASSEMBLYAI: Aria dropped onto the couch across from
+MISSING: her
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 361 | 930.7139999999999-934.64
+WHISPER: I held my contract for a month after.
+ASSEMBLYAI: I held my contract for a after.
+MISSING: month
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 377 | 974.241-976.24
+WHISPER: It's cold word. Both of you.
+ASSEMBLYAI: both of you.
+MISSING: it's, cold, word
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 383 | 986.8389999999999-992.24
+WHISPER: On the desk there was a beaten piece of snow lily cake on a ceramic plate.
+ASSEMBLYAI: On the desk, a piece of snow lily cake on a ceramic plate.
+MISSING: there, was, beaten
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 387 | 1004.641-1008.88
+WHISPER: All right?
+ASSEMBLYAI: 
+MISSING: all, right
+STATUS: NO_TIME_AWARE_ASR_MATCH
+----------------------------------------
+CUE 390 | 1012.881-1016.88
+WHISPER: About Lucien coming to Coldwilled Manor for years always with a reason.
+ASSEMBLYAI: about Lucien coming to manor for years, always with a reason,
+MISSING: coldwilled
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 409 | 1064.271-1066.27
+WHISPER: That I needed to be patient.
+ASSEMBLYAI: that I needed to be
+MISSING: patient
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 410 | 1066.271-1068.27
+WHISPER: Arya made a small side beside me.
+ASSEMBLYAI: Aria made a small beside me.
+MISSING: side
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 421 | 1095.681-1097.68
+WHISPER: Morgana looked at her.
+ASSEMBLYAI: looked at her,
+MISSING: morgana
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 429 | 1114.461-1116.46
+WHISPER: I'll have it handled before the wedding.
+ASSEMBLYAI: I'll have it handled before the
+MISSING: wedding
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 439 | 1144.524-1146.35
+WHISPER: Lucien's motor cord arrived exactly on time.
+ASSEMBLYAI: Lucien's arrived exactly on time.
+MISSING: motor, cord
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 459 | 1201.151-1203.15
+WHISPER: It's going to be very interesting.
+ASSEMBLYAI: it's be very interesting.
+MISSING: going, to
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 460 | 1203.349-1205.15
+WHISPER: They grabbed me the net.
+ASSEMBLYAI: They grabbed me the
+MISSING: net
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 461 | 1210.96-1220.96
+WHISPER: Arya and I had gone out to look at jewelry for our own upcoming ceremonies.
+ASSEMBLYAI: and I had gone out to look at jewelry for our own upcoming ceremonies.
+MISSING: aria
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 462 | 1220.961-1224.96
+WHISPER: I stopped at a small cafe to wait while she went ahead.
+ASSEMBLYAI: I stopped at a small to wait while she went ahead.
+MISSING: cafe
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 474 | 1250.961-1252.96
+WHISPER: He looked at me the way he used to look at me.
+ASSEMBLYAI: 
+MISSING: he, looked, at, me, the, way, he, used, to, look, at, me
+STATUS: NO_TIME_AWARE_ASR_MATCH
+----------------------------------------
+CUE 475 | 1252.961-1254.96
+WHISPER: He looked at me.
+ASSEMBLYAI: 
+MISSING: he, looked, at, me
+STATUS: NO_TIME_AWARE_ASR_MATCH
+----------------------------------------
+CUE 502 | 1316.501-1320.74
+WHISPER: Your jaw tightened.
+ASSEMBLYAI: jaw tightened.
+MISSING: your
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 503 | 1320.939-1324.88
+WHISPER: The room was dark. I didn't know it.
+ASSEMBLYAI: The room was dark. I didn't know
+MISSING: it
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 507 | 1330.881-1332.88
+WHISPER: Faint but unrestakeable.
+ASSEMBLYAI: faint but
+MISSING: unrestakeable
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 525 | 1372.221-1374.22
+WHISPER: And then we're going to fix this.
+ASSEMBLYAI: and then we're fix this.
+MISSING: going, to
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 537 | 1398.221-1400.22
+WHISPER: Except whatever you decided to give me?
+ASSEMBLYAI: whatever you decided to give me?
+MISSING: except
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 544 | 1412.221-1414.22
+WHISPER: Then the door opened and Alpha Various walked in.
+ASSEMBLYAI: Then the door opened and Alpha walked in,
+MISSING: various
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 545 | 1414.221-1416.22
+WHISPER: Followed by Luna Various.
+ASSEMBLYAI: followed by Luna
+MISSING: various
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 546 | 1416.221-1418.22
+WHISPER: Luna Various rushed toward me with both hands out.
+ASSEMBLYAI: Luna rushed toward me with both hands out.
+MISSING: various
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 547 | 1418.221-1420.22
+WHISPER: Vivian, sweetheart. You're finally up.
+ASSEMBLYAI: sweetheart! You're finally up!
+MISSING: vivienne
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 549 | 1422.221-1424.22
+WHISPER: Smoothing it back like I was 12 years old.
+ASSEMBLYAI: smoothing it back like I was 12 years
+MISSING: old
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 556 | 1437.601-1439.6
+WHISPER: Luna Various's laughed.
+ASSEMBLYAI: Luna laughed,
+MISSING: various's
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 562 | 1451.601-1453.183
+WHISPER: Which is why you can call Chief Elder LaRonde
+ASSEMBLYAI: Which is why you can call Chief Elder
+MISSING: laronde
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 565 | 1459.649-1461.6
+WHISPER: Alpha Various looked at his son.
+ASSEMBLYAI: Alpha looked at his son.
+MISSING: various
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 572 | 1477.141-1481.14
+WHISPER: I was at Coldwell Manor having dinner with Chief Elder LaRonde and his wife.
+ASSEMBLYAI: I was at Coldwell Manor having dinner with Chief Elder and his wife.
+MISSING: laronde
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 573 | 1483.14-1485.14
+WHISPER: Luna Various looked between me and Lucian.
+ASSEMBLYAI: Luna looked between me and Lucien.
+MISSING: various
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 574 | 1485.141-1489.14
+WHISPER: That's not... The servants said the bride arrived in the convoy.
+ASSEMBLYAI: That's notâ€” the said the bride arrived in the convoy.
+MISSING: servants
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 582 | 1503.141-1505.301
+WHISPER: Luna Various has sat down hard in the chair behind her.
+ASSEMBLYAI: Luna sat down hard in the chair behind her.
+MISSING: various, has
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 583 | 1507.14-1509.14
+WHISPER: Alpha Various turned to Lucian.
+ASSEMBLYAI: Alpha turned to Lucien,
+MISSING: various
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 586 | 1515.141-1519.63
+WHISPER: Lucian's mouth tightened.
+ASSEMBLYAI: mouth tightened.
+MISSING: lucian's
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 588 | 1521.631-1527.04
+WHISPER: Lucian... Various's voice dropped.
+ASSEMBLYAI: Lucien... voice dropped.
+MISSING: various's
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 589 | 1527.041-1531.15
+WHISPER: Who is she?
+ASSEMBLYAI: Who is
+MISSING: she
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 600 | 1553.781-1555.78
+WHISPER: He came to Coldwell Manor every chance he got.
+ASSEMBLYAI: He came to Manor every chance he got.
+MISSING: coldwell
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 603 | 1559.781-1561.78
+WHISPER: I looked at Alpha Various.
+ASSEMBLYAI: I looked at Alpha
+MISSING: various
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 610 | 1573.781-1575.78
+WHISPER: Alpha Various said he didn't raise his voice.
+ASSEMBLYAI: Alpha said. He didn't raise his voice.
+MISSING: various
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 620 | 1600.381-1602.38
+WHISPER: Alpha Various looked at me.
+ASSEMBLYAI: Alpha looked at me,
+MISSING: various
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 629 | 1619.891-1621.89
+WHISPER: Lucian and Morgana are properly made it now.
+ASSEMBLYAI: Lucien and Morgana are properly now.
+MISSING: made, it
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 632 | 1625.891-1627.89
+WHISPER: No reason this has to leave these walls.
+ASSEMBLYAI: No reason this has to leave
+MISSING: these, walls
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 634 | 1631.391-1633.39
+WHISPER: Luna Valerce recovered fast.
+ASSEMBLYAI: Luna recovered fast,
+MISSING: valerce
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 651 | 1674.901-1677.9
+WHISPER: Instead, Alpha Valerce told the guards to keep me in the East guest room
+ASSEMBLYAI: Instead, Alpha told the guards to keep me in the east guest room
+MISSING: valerce
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 666 | 1711.471-1713.47
+WHISPER: Laurent's talked to us.
+ASSEMBLYAI: talked to us,
+MISSING: laurent's
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 715 | 1833.484-1835.21
+WHISPER: A silver blade in both hands.
+ASSEMBLYAI: a silver blade in both
+MISSING: hands
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 721 | 1846.211-1851.21
+WHISPER: The blade flew out of Arya's grip and hit the far wall.
+ASSEMBLYAI: The blade flew out of grip and hit the far wall.
+MISSING: arya's
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 723 | 1853.211-1855.21
+WHISPER: Caught herself on the door warm.
+ASSEMBLYAI: caught herself on the door
+MISSING: warm
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 735 | 1874.211-1876.21
+WHISPER: At Arya's empty hands.
+ASSEMBLYAI: at empty hands,
+MISSING: arya's
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 744 | 1898.781-1900.78
+WHISPER: White haired, unharried.
+ASSEMBLYAI: white-haired, white-haired,
+MISSING: unharried
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 746 | 1901.781-1903.78
+WHISPER: The alpha king's personal emise.
+ASSEMBLYAI: the Alpha King's personal
+MISSING: emise
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 753 | 1916.781-1919.78
+WHISPER: He clipped his hands behind his back.
+ASSEMBLYAI: He his hands behind his back.
+MISSING: clipped
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 757 | 1925.781-1927.78
+WHISPER: Lucian's eyes moved to the royal seal.
+ASSEMBLYAI: eyes moved to the royal
+MISSING: lucian's, seal
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 762 | 1936.781-1939.78
+WHISPER: He looked at Alpha Valeris who had appeared in the doorway.
+ASSEMBLYAI: He looked at Alpha who had appeared in the doorway.
+MISSING: valeris
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 770 | 1954.781-1956.78
+WHISPER: The royal sea was with me.
+ASSEMBLYAI: The Royal was with me,
+MISSING: sea
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 773 | 1961.781-1963.78
+WHISPER: Alpha Valeris looked at Lucian.
+ASSEMBLYAI: Alpha looked at Lucien,
+MISSING: valeris
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 788 | 1991.301-1992.3
+WHISPER: I looked at him.
+ASSEMBLYAI: at him.
+MISSING: i, looked
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 796 | 2013.221-2016.22
+WHISPER: Arya Appyr appeared at my side immediately.
+ASSEMBLYAI: Aria appeared at my side immediately.
+MISSING: appyr
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 801 | 2026.221-2029.22
+WHISPER: watching everything he built from a part of the scenes.
+ASSEMBLYAI: watching everything he built the
+MISSING: from, a, part, of, scenes
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 807 | 2040.27-2041.245
+WHISPER: Lucian.
+ASSEMBLYAI: 
+MISSING: lucian
+STATUS: NO_TIME_AWARE_ASR_MATCH
+----------------------------------------
+CUE 809 | 2044.221-2046.22
+WHISPER: Soulbinding shackles.
+ASSEMBLYAI: shackles,
+MISSING: soulbinding
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 811 | 2048.22-2050.219
+WHISPER: Alpha Valerius and Luna Valerius.
+ASSEMBLYAI: 
+MISSING: alpha, valerius, and, luna, valerius
+STATUS: NO_TIME_AWARE_ASR_MATCH
+----------------------------------------
+CUE 814 | 2055.22-2056.219
+WHISPER: Their pact title stripped.
+ASSEMBLYAI: Their title stripped,
+MISSING: pact
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 815 | 2056.22-2058.219
+WHISPER: The blood moon pact dissolved.
+ASSEMBLYAI: the Blood Moon dissolved,
+MISSING: pact
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 816 | 2058.22-2061.219
+WHISPER: Valerius' manner seized and transferred to high council jurisdiction.
+ASSEMBLYAI: seized and transferred to High Council jurisdiction.
+MISSING: valerius', manner
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 824 | 2081.061-2082.06
+WHISPER: Packs gone.
+ASSEMBLYAI: gone,
+MISSING: packs
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 825 | 2082.061-2083.06
+WHISPER: Manners sealed.
+ASSEMBLYAI: sealed.
+MISSING: manners
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 841 | 2115.061-2116.061
+WHISPER: Either am I.
+ASSEMBLYAI: am I.
+MISSING: either
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 843 | 2118.61-2121.06
+WHISPER: Then Arya straightened up.
+ASSEMBLYAI: then Aria straightened
+MISSING: up
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 868 | 2167.72-2175.72
+WHISPER: Just two men who knocked on the front door and came in when my mother opened it.
+ASSEMBLYAI: Just 2 men who knocked on the front door and came in when my mother opened
+MISSING: it
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 886 | 2206.721-2208.72
+WHISPER: From the sitting room I heard Arya's voice.
+ASSEMBLYAI: From the sitting room, I heard voice,
+MISSING: arya's
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------
+CUE 893 | 2224.84-2227.09
+WHISPER: You challenged three older kids to a race and one.
+ASSEMBLYAI: You challenged 3 older kids to a race and
+MISSING: one
+STATUS: TIME_AWARE_MISMATCH
+----------------------------------------

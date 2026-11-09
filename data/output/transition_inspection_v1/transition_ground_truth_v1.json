@@ -1,0 +1,103 @@
+
+{
+  "schema_version": "1.0.0",
+  "reference_version": "1.0.0",
+  "source": "Husbands.mp4",
+  "review_method": "HUMAN_VISUAL_REVIEW_OF_0_2_SECOND_CONTACT_SHEET",
+  "review_status": "PROVISIONAL_REFERENCE",
+  "timestamp_tolerance_seconds": 0.2,
+  "events": [
+    {
+      "event_id": "GT_001",
+      "window_id": "TW_001",
+      "start_seconds": 8.4,
+      "end_seconds": 9.8,
+      "boundary_type": "SCENE_BOUNDARY",
+      "transition_effect": "FADE_THROUGH_WHITE_DISSOLVE",
+      "confidence": "MEDIUM",
+      "description": "Dark blue window-side shot transitions to a warm candle-lit environment."
+    },
+    {
+      "event_id": "GT_002",
+      "window_id": "TW_002",
+      "start_seconds": 108.2,
+      "end_seconds": 108.4,
+      "boundary_type": "SHOT_BOUNDARY",
+      "transition_effect": "HARD_CUT",
+      "confidence": "HIGH",
+      "description": "Cut from blonde woman to dark-haired woman's close-up."
+    },
+    {
+      "event_id": "GT_003",
+      "window_id": "TW_002",
+      "start_seconds": 110.0,
+      "end_seconds": 110.6,
+      "boundary_type": "NO_BOUNDARY",
+      "transition_effect": "LIGHT_LEAK_FLASH",
+      "confidence": "HIGH",
+      "description": "Flash effect and focus change; same scene and characters remain."
+    },
+    {
+      "event_id": "GT_004",
+      "window_id": "TW_002",
+      "start_seconds": 111.6,
+      "end_seconds": 111.8,
+      "boundary_type": "SHOT_BOUNDARY",
+      "transition_effect": "HARD_CUT",
+      "confidence": "HIGH",
+      "description": "Reverse shot showing the woman in foreground and man behind her."
+    },
+    {
+      "event_id": "GT_005",
+      "window_id": "TW_003",
+      "start_seconds": 246.2,
+      "end_seconds": 246.6,
+      "boundary_type": "NO_BOUNDARY",
+      "transition_effect": "WHITE_FLASH",
+      "confidence": "HIGH",
+      "description": "Brief flash; same blonde woman and same position before and after."
+    },
+    {
+      "event_id": "GT_006",
+      "window_id": "TW_003",
+      "start_seconds": 248.0,
+      "end_seconds": 248.2,
+      "boundary_type": "SHOT_BOUNDARY",
+      "transition_effect": "HARD_CUT",
+      "confidence": "HIGH",
+      "description": "Cut from blonde woman to dark-haired woman wearing a green necklace."
+    },
+    {
+      "event_id": "GT_007",
+      "window_id": "TW_004",
+      "start_seconds": 289.0,
+      "end_seconds": 289.6,
+      "boundary_type": "SCENE_BOUNDARY_CANDIDATE",
+      "transition_effect": "FADE_THROUGH_WHITE_DISSOLVE",
+      "confidence": "LOW",
+      "description": "Close-up of woman's face transitions to a wide shot of a glass with green liquid. Possible scene or flashback transition."
+    },
+    {
+      "event_id": "GT_008",
+      "window_id": "TW_004",
+      "start_seconds": 290.4,
+      "end_seconds": 291.0,
+      "boundary_type": "SHOT_BOUNDARY",
+      "transition_effect": "DISSOLVE",
+      "confidence": "MEDIUM",
+      "description": "Broken glass insert transitions to a close-up of a bloodied face."
+    }
+  ],
+  "statistics": {
+    "total_events": 8,
+    "scene_boundary_candidates": 2,
+    "confirmed_shot_boundaries": 4,
+    "effect_only_events": 2,
+    "unresolved_scene_boundaries": 1
+  },
+  "limitations": [
+    "Timestamps have approximately 0.2 second sampling resolution.",
+    "Scene identity has not been independently verified.",
+    "TW_004 scene boundary remains uncertain."
+  ]
+}

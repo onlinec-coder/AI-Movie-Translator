@@ -1,0 +1,2528 @@
+{
+  "schema_version": "1.0.0",
+  "engine": "asr_difference_diagnostic_v1",
+  "source": "data\\output\\subtitle_ocr_inspection\\subtitle_discrepancy_report_v1.json",
+  "statistics": {
+    "total_asr_difference_cues": 135,
+    "cues_with_missing_words": 135,
+    "missing_word_type_counts": {
+      "FUNCTION_WORD": 35,
+      "KNOWN_NAME_OR_STORY_TERM": 77,
+      "CONTENT_WORD_OR_UNKNOWN_NAME": 80
+    },
+    "most_frequent_missing_words": [
+      {
+        "word": "lucian",
+        "count": 41
+      },
+      {
+        "word": "various",
+        "count": 10
+      },
+      {
+        "word": "arya's",
+        "count": 7
+      },
+      {
+        "word": "at",
+        "count": 4
+      },
+      {
+        "word": "moon",
+        "count": 4
+      },
+      {
+        "word": "cold",
+        "count": 4
+      },
+      {
+        "word": "he",
+        "count": 4
+      },
+      {
+        "word": "to",
+        "count": 4
+      },
+      {
+        "word": "blood",
+        "count": 3
+      },
+      {
+        "word": "looked",
+        "count": 3
+      },
+      {
+        "word": "me",
+        "count": 3
+      },
+      {
+        "word": "it",
+        "count": 3
+      },
+      {
+        "word": "coldwell",
+        "count": 2
+      },
+      {
+        "word": "well",
+        "count": 2
+      },
+      {
+        "word": "manner",
+        "count": 2
+      },
+      {
+        "word": "a",
+        "count": 2
+      },
+      {
+        "word": "her",
+        "count": 2
+      },
+      {
+        "word": "going",
+        "count": 2
+      },
+      {
+        "word": "various's",
+        "count": 2
+      },
+      {
+        "word": "laronde",
+        "count": 2
+      },
+      {
+        "word": "lucian's",
+        "count": 2
+      },
+      {
+        "word": "valerce",
+        "count": 2
+      },
+      {
+        "word": "valeris",
+        "count": 2
+      },
+      {
+        "word": "valerius",
+        "count": 2
+      },
+      {
+        "word": "pact",
+        "count": 2
+      },
+      {
+        "word": "manor",
+        "count": 1
+      },
+      {
+        "word": "velice's",
+        "count": 1
+      },
+      {
+        "word": "wolf's",
+        "count": 1
+      },
+      {
+        "word": "babe",
+        "count": 1
+      },
+      {
+        "word": "unerisval",
+        "count": 1
+      },
+      {
+        "word": "coldwild",
+        "count": 1
+      },
+      {
+        "word": "veal",
+        "count": 1
+      },
+      {
+        "word": "limbs",
+        "count": 1
+      },
+      {
+        "word": "gates",
+        "count": 1
+      },
+      {
+        "word": "that",
+        "count": 1
+      },
+      {
+        "word": "graze",
+        "count": 1
+      },
+      {
+        "word": "trouble",
+        "count": 1
+      },
+      {
+        "word": "wolf",
+        "count": 1
+      },
+      {
+        "word": "bab",
+        "count": 1
+      },
+      {
+        "word": "enough",
+        "count": 1
+      },
+      {
+        "word": "be",
+        "count": 1
+      },
+      {
+        "word": "convincing",
+        "count": 1
+      },
+      {
+        "word": "willed",
+        "count": 1
+      },
+      {
+        "word": "more",
+        "count": 1
+      },
+      {
+        "word": "month",
+        "count": 1
+      },
+      {
+        "word": "it's",
+        "count": 1
+      },
+      {
+        "word": "word",
+        "count": 1
+      },
+      {
+        "word": "there",
+        "count": 1
+      },
+      {
+        "word": "was",
+        "count": 1
+      },
+      {
+        "word": "beaten",
+        "count": 1
+      }
+    ]
+  },
+  "results": [
+    {
+      "subtitle_id": 15,
+      "start_seconds": 52.58,
+      "end_seconds": 56.74,
+      "whisper_text": "I opened my eyes. In my mother's sitting room at Coldwell Manor.",
+      "assemblyai_text": "I opened my eyes in my mother's sitting room",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "at",
+          "normalized": "at",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "coldwell",
+          "normalized": "coldwell",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "manor",
+          "normalized": "manor",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 19,
+      "start_seconds": 68.271,
+      "end_seconds": 72.43,
+      "whisper_text": "A mating bond contract, sealed with the Blood Moon Pack crest.",
+      "assemblyai_text": "a mating bond contract, sealed with the Pack crest.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "blood",
+          "normalized": "blood",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "moon",
+          "normalized": "moon",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 21,
+      "start_seconds": 74.51,
+      "end_seconds": 77.87,
+      "whisper_text": "The Velice's heir sent this earlier this morning, Vivienne.",
+      "assemblyai_text": "The heir sent this earlier this morning, Viviana.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "velice's",
+          "normalized": "velice's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 23,
+      "start_seconds": 79.471,
+      "end_seconds": 83.47,
+      "whisper_text": "Lucian sat across from her. Same face. Same steady eyes.",
+      "assemblyai_text": "sat across from her, same face, Same steady eyes,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 27,
+      "start_seconds": 90.911,
+      "end_seconds": 92.50999999999999,
+      "whisper_text": "Three bowls of wolf's babe.",
+      "assemblyai_text": "3 bowls of",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "wolf's",
+          "normalized": "wolf's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "babe",
+          "normalized": "babe",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 32,
+      "start_seconds": 102.991,
+      "end_seconds": 106.59,
+      "whisper_text": "Lucian looked at me. That calm, unerisval stare.",
+      "assemblyai_text": "looked at me, that calm, stare",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "unerisval",
+          "normalized": "unerisval",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 40,
+      "start_seconds": 124.75,
+      "end_seconds": 127.95,
+      "whisper_text": "My mother turned back to Lucian with a tight smile.",
+      "assemblyai_text": "My mother turned back to with a tight smile.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 43,
+      "start_seconds": 137.52,
+      "end_seconds": 139.76,
+      "whisper_text": "No. Lucian stood.",
+      "assemblyai_text": "No. stood.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 46,
+      "start_seconds": 146.47,
+      "end_seconds": 149.04,
+      "whisper_text": "The woman I marry comes from the Coldwild family.",
+      "assemblyai_text": "The woman I marry comes from the family.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "coldwild",
+          "normalized": "coldwild",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 70,
+      "start_seconds": 216.18,
+      "end_seconds": 218.18,
+      "whisper_text": "You told me Lucian loved me.",
+      "assemblyai_text": "You told me loved me.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 76,
+      "start_seconds": 228.18099999999998,
+      "end_seconds": 234.7,
+      "whisper_text": "He said the only thing I was good for was my Moon Veal voice.",
+      "assemblyai_text": "He said the only thing I was good for was my voice.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "moon",
+          "normalized": "moon",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "veal",
+          "normalized": "veal",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 81,
+      "start_seconds": 253.631,
+      "end_seconds": 255.63,
+      "whisper_text": "He had my limbs severed so I couldn't shift.",
+      "assemblyai_text": "He had my severed so I couldn't shift.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "limbs",
+          "normalized": "limbs",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 94,
+      "start_seconds": 291.861,
+      "end_seconds": 295.86,
+      "whisper_text": "Arya's expression turned puzzled after learning the truth.",
+      "assemblyai_text": "expression turned puzzled after learning the truth.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "arya's",
+          "normalized": "arya's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 112,
+      "start_seconds": 343.741,
+      "end_seconds": 345.74,
+      "whisper_text": "Why cold well?",
+      "assemblyai_text": "Why",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "cold",
+          "normalized": "cold",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "well",
+          "normalized": "well",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 113,
+      "start_seconds": 345.79,
+      "end_seconds": 347.74,
+      "whisper_text": "Why only cold well?",
+      "assemblyai_text": "Why only",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "cold",
+          "normalized": "cold",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "well",
+          "normalized": "well",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 128,
+      "start_seconds": 383.921,
+      "end_seconds": 385.92,
+      "whisper_text": "You go through the manner.",
+      "assemblyai_text": "You go through the",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "manner",
+          "normalized": "manner",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 130,
+      "start_seconds": 389.921,
+      "end_seconds": 391.92,
+      "whisper_text": "anyone connected to Lucian in the last five years.",
+      "assemblyai_text": "anyone connected to in the last 5 years.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 133,
+      "start_seconds": 395.921,
+      "end_seconds": 399.92,
+      "whisper_text": "And you know him best, so you're going to Blood Moon Manor.",
+      "assemblyai_text": "And you know him best, so you're going to Manor.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "blood",
+          "normalized": "blood",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "moon",
+          "normalized": "moon",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 138,
+      "start_seconds": 408.445,
+      "end_seconds": 409.92,
+      "whisper_text": "Blood Moon Manor was exactly as I remembered it.",
+      "assemblyai_text": "Manor was exactly as I remembered it.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "blood",
+          "normalized": "blood",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "moon",
+          "normalized": "moon",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 139,
+      "start_seconds": 409.921,
+      "end_seconds": 415.2,
+      "whisper_text": "Same long driveway, same iron gates, same guard at",
+      "assemblyai_text": "Same long driveway, same iron Same guard at",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "gates",
+          "normalized": "gates",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 140,
+      "start_seconds": 415.201,
+      "end_seconds": 417.92,
+      "whisper_text": "the door that waved me through without question.",
+      "assemblyai_text": "the door waved me through without question,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "that",
+          "normalized": "that",
+          "type": "FUNCTION_WORD"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 141,
+      "start_seconds": 417.921,
+      "end_seconds": 421.92,
+      "whisper_text": "Because in this life, Lucian and I were still childhood friends.",
+      "assemblyai_text": "because in this life, and I were still childhood friends.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 147,
+      "start_seconds": 431.921,
+      "end_seconds": 434.657,
+      "whisper_text": "Lucian sat at his desk with a brush in his hand,",
+      "assemblyai_text": "sat at his desk with a brush in his hand,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 167,
+      "start_seconds": 484.861,
+      "end_seconds": 486.86,
+      "whisper_text": "Lucian, I kept my voice flat.",
+      "assemblyai_text": "I kept my voice flat,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 175,
+      "start_seconds": 500.861,
+      "end_seconds": 504.397,
+      "whisper_text": "He said, he smudged it.",
+      "assemblyai_text": "he said. smudged it.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "he",
+          "normalized": "he",
+          "type": "FUNCTION_WORD"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 177,
+      "start_seconds": 504.861,
+      "end_seconds": 506.86,
+      "whisper_text": "Right. I held his graze.",
+      "assemblyai_text": "Right. I held his",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "graze",
+          "normalized": "graze",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 185,
+      "start_seconds": 522.861,
+      "end_seconds": 526.86,
+      "whisper_text": "A painter like Lucian didn't slip.",
+      "assemblyai_text": "A painter like didn't slip.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 186,
+      "start_seconds": 526.861,
+      "end_seconds": 528.86,
+      "whisper_text": "Lucian stared at me for a long moment.",
+      "assemblyai_text": "stared at me for a long moment.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 208,
+      "start_seconds": 575.189,
+      "end_seconds": 579.14,
+      "whisper_text": "He used to take the blame when we were kids so I wouldn't get in trouble.",
+      "assemblyai_text": "He used to take the blame when we were kids so I wouldn't get in",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "trouble",
+          "normalized": "trouble",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 240,
+      "start_seconds": 649.141,
+      "end_seconds": 653.14,
+      "whisper_text": "He'd killed her himself with three bowls of Wolf Bab.",
+      "assemblyai_text": "He'd killed her himself with 3 bowls of",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "wolf",
+          "normalized": "wolf",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "bab",
+          "normalized": "bab",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 241,
+      "start_seconds": 653.141,
+      "end_seconds": 657.14,
+      "whisper_text": "I let the silence hang just long enough to be convincing.",
+      "assemblyai_text": "I let the silence hang just long",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "enough",
+          "normalized": "enough",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "to",
+          "normalized": "to",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "be",
+          "normalized": "be",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "convincing",
+          "normalized": "convincing",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 264,
+      "start_seconds": 707.141,
+      "end_seconds": 713.14,
+      "whisper_text": "Lucian had sat at our table and watched me do it more times than I could count.",
+      "assemblyai_text": "had sat at our table and watched me do it, more times than I could count.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 271,
+      "start_seconds": 727.639,
+      "end_seconds": 731.14,
+      "whisper_text": "And I'm going to use a single second of it.",
+      "assemblyai_text": "And I'm going to use single second of it.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "a",
+          "normalized": "a",
+          "type": "FUNCTION_WORD"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 283,
+      "start_seconds": 761.151,
+      "end_seconds": 763.15,
+      "whisper_text": "Arya's voice was strange.",
+      "assemblyai_text": "voice was strange.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "arya's",
+          "normalized": "arya's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 295,
+      "start_seconds": 788.641,
+      "end_seconds": 790.64,
+      "whisper_text": "Arya's eyes narrowed.",
+      "assemblyai_text": "eyes narrowed.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "arya's",
+          "normalized": "arya's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 306,
+      "start_seconds": 810.739,
+      "end_seconds": 812.64,
+      "whisper_text": "The room was quiet. Then Arya's face shifted.",
+      "assemblyai_text": "The room was quiet, then face shifted.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "arya's",
+          "normalized": "arya's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 310,
+      "start_seconds": 818.641,
+      "end_seconds": 820.64,
+      "whisper_text": "A cold-willed woman.",
+      "assemblyai_text": "a woman,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "cold",
+          "normalized": "cold",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "willed",
+          "normalized": "willed",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 311,
+      "start_seconds": 820.641,
+      "end_seconds": 822.64,
+      "whisper_text": "We give her more.",
+      "assemblyai_text": "we give",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "her",
+          "normalized": "her",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "more",
+          "normalized": "more",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 315,
+      "start_seconds": 828.641,
+      "end_seconds": 830.64,
+      "whisper_text": "Arya dropped onto the couch across from her.",
+      "assemblyai_text": "Aria dropped onto the couch across from",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "her",
+          "normalized": "her",
+          "type": "FUNCTION_WORD"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 323,
+      "start_seconds": 844.989,
+      "end_seconds": 846.64,
+      "whisper_text": "Lucian can give her a title.",
+      "assemblyai_text": "can give her a title,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 354,
+      "start_seconds": 910.641,
+      "end_seconds": 914.64,
+      "whisper_text": "Lucian was coming in three days expecting a bride.",
+      "assemblyai_text": "was coming in 3 days expecting a bride,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 361,
+      "start_seconds": 930.7139999999999,
+      "end_seconds": 934.64,
+      "whisper_text": "I held my contract for a month after.",
+      "assemblyai_text": "I held my contract for a after.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "month",
+          "normalized": "month",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 377,
+      "start_seconds": 974.241,
+      "end_seconds": 976.24,
+      "whisper_text": "It's cold word. Both of you.",
+      "assemblyai_text": "both of you.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "it's",
+          "normalized": "it's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "cold",
+          "normalized": "cold",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "word",
+          "normalized": "word",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 383,
+      "start_seconds": 986.8389999999999,
+      "end_seconds": 992.24,
+      "whisper_text": "On the desk there was a beaten piece of snow lily cake on a ceramic plate.",
+      "assemblyai_text": "On the desk, a piece of snow lily cake on a ceramic plate.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "there",
+          "normalized": "there",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "was",
+          "normalized": "was",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "beaten",
+          "normalized": "beaten",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 387,
+      "start_seconds": 1004.641,
+      "end_seconds": 1008.88,
+      "whisper_text": "All right?",
+      "assemblyai_text": "",
+      "comparison_status": "NO_TIME_AWARE_ASR_MATCH",
+      "missing_words": [
+        {
+          "word": "all",
+          "normalized": "all",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "right",
+          "normalized": "right",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 390,
+      "start_seconds": 1012.881,
+      "end_seconds": 1016.88,
+      "whisper_text": "About Lucien coming to Coldwilled Manor for years always with a reason.",
+      "assemblyai_text": "about Lucien coming to manor for years, always with a reason,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "coldwilled",
+          "normalized": "coldwilled",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 409,
+      "start_seconds": 1064.271,
+      "end_seconds": 1066.27,
+      "whisper_text": "That I needed to be patient.",
+      "assemblyai_text": "that I needed to be",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "patient",
+          "normalized": "patient",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 410,
+      "start_seconds": 1066.271,
+      "end_seconds": 1068.27,
+      "whisper_text": "Arya made a small side beside me.",
+      "assemblyai_text": "Aria made a small beside me.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "side",
+          "normalized": "side",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 421,
+      "start_seconds": 1095.681,
+      "end_seconds": 1097.68,
+      "whisper_text": "Morgana looked at her.",
+      "assemblyai_text": "looked at her,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "morgana",
+          "normalized": "morgana",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 429,
+      "start_seconds": 1114.461,
+      "end_seconds": 1116.46,
+      "whisper_text": "I'll have it handled before the wedding.",
+      "assemblyai_text": "I'll have it handled before the",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "wedding",
+          "normalized": "wedding",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 439,
+      "start_seconds": 1144.524,
+      "end_seconds": 1146.35,
+      "whisper_text": "Lucien's motor cord arrived exactly on time.",
+      "assemblyai_text": "Lucien's arrived exactly on time.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "motor",
+          "normalized": "motor",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "cord",
+          "normalized": "cord",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 459,
+      "start_seconds": 1201.151,
+      "end_seconds": 1203.15,
+      "whisper_text": "It's going to be very interesting.",
+      "assemblyai_text": "it's be very interesting.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "going",
+          "normalized": "going",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "to",
+          "normalized": "to",
+          "type": "FUNCTION_WORD"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 460,
+      "start_seconds": 1203.349,
+      "end_seconds": 1205.15,
+      "whisper_text": "They grabbed me the net.",
+      "assemblyai_text": "They grabbed me the",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "net",
+          "normalized": "net",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 461,
+      "start_seconds": 1210.96,
+      "end_seconds": 1220.96,
+      "whisper_text": "Arya and I had gone out to look at jewelry for our own upcoming ceremonies.",
+      "assemblyai_text": "and I had gone out to look at jewelry for our own upcoming ceremonies.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "aria",
+          "normalized": "aria",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 462,
+      "start_seconds": 1220.961,
+      "end_seconds": 1224.96,
+      "whisper_text": "I stopped at a small cafe to wait while she went ahead.",
+      "assemblyai_text": "I stopped at a small to wait while she went ahead.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "cafe",
+          "normalized": "cafe",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 470,
+      "start_seconds": 1240.961,
+      "end_seconds": 1242.96,
+      "whisper_text": "Lucian sat on the edge of the bed.",
+      "assemblyai_text": "sat on the edge of the bed.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 474,
+      "start_seconds": 1250.961,
+      "end_seconds": 1252.96,
+      "whisper_text": "He looked at me the way he used to look at me.",
+      "assemblyai_text": "",
+      "comparison_status": "NO_TIME_AWARE_ASR_MATCH",
+      "missing_words": [
+        {
+          "word": "he",
+          "normalized": "he",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "looked",
+          "normalized": "looked",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "at",
+          "normalized": "at",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "me",
+          "normalized": "me",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "the",
+          "normalized": "the",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "way",
+          "normalized": "way",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "he",
+          "normalized": "he",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "used",
+          "normalized": "used",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "to",
+          "normalized": "to",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "look",
+          "normalized": "look",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "at",
+          "normalized": "at",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "me",
+          "normalized": "me",
+          "type": "FUNCTION_WORD"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 475,
+      "start_seconds": 1252.961,
+      "end_seconds": 1254.96,
+      "whisper_text": "He looked at me.",
+      "assemblyai_text": "",
+      "comparison_status": "NO_TIME_AWARE_ASR_MATCH",
+      "missing_words": [
+        {
+          "word": "he",
+          "normalized": "he",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "looked",
+          "normalized": "looked",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "at",
+          "normalized": "at",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "me",
+          "normalized": "me",
+          "type": "FUNCTION_WORD"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 502,
+      "start_seconds": 1316.501,
+      "end_seconds": 1320.74,
+      "whisper_text": "Your jaw tightened.",
+      "assemblyai_text": "jaw tightened.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "your",
+          "normalized": "your",
+          "type": "FUNCTION_WORD"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 503,
+      "start_seconds": 1320.939,
+      "end_seconds": 1324.88,
+      "whisper_text": "The room was dark. I didn't know it.",
+      "assemblyai_text": "The room was dark. I didn't know",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "it",
+          "normalized": "it",
+          "type": "FUNCTION_WORD"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 507,
+      "start_seconds": 1330.881,
+      "end_seconds": 1332.88,
+      "whisper_text": "Faint but unrestakeable.",
+      "assemblyai_text": "faint but",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "unrestakeable",
+          "normalized": "unrestakeable",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 511,
+      "start_seconds": 1338.881,
+      "end_seconds": 1340.88,
+      "whisper_text": "At Lucian standing there with his red eyes",
+      "assemblyai_text": "at standing there with his red eyes",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 525,
+      "start_seconds": 1372.221,
+      "end_seconds": 1374.22,
+      "whisper_text": "And then we're going to fix this.",
+      "assemblyai_text": "and then we're fix this.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "going",
+          "normalized": "going",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "to",
+          "normalized": "to",
+          "type": "FUNCTION_WORD"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 537,
+      "start_seconds": 1398.221,
+      "end_seconds": 1400.22,
+      "whisper_text": "Except whatever you decided to give me?",
+      "assemblyai_text": "whatever you decided to give me?",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "except",
+          "normalized": "except",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 544,
+      "start_seconds": 1412.221,
+      "end_seconds": 1414.22,
+      "whisper_text": "Then the door opened and Alpha Various walked in.",
+      "assemblyai_text": "Then the door opened and Alpha walked in,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "various",
+          "normalized": "various",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 545,
+      "start_seconds": 1414.221,
+      "end_seconds": 1416.22,
+      "whisper_text": "Followed by Luna Various.",
+      "assemblyai_text": "followed by Luna",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "various",
+          "normalized": "various",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 546,
+      "start_seconds": 1416.221,
+      "end_seconds": 1418.22,
+      "whisper_text": "Luna Various rushed toward me with both hands out.",
+      "assemblyai_text": "Luna rushed toward me with both hands out.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "various",
+          "normalized": "various",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 547,
+      "start_seconds": 1418.221,
+      "end_seconds": 1420.22,
+      "whisper_text": "Vivian, sweetheart. You're finally up.",
+      "assemblyai_text": "sweetheart! You're finally up!",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "vivienne",
+          "normalized": "vivienne",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 549,
+      "start_seconds": 1422.221,
+      "end_seconds": 1424.22,
+      "whisper_text": "Smoothing it back like I was 12 years old.",
+      "assemblyai_text": "smoothing it back like I was 12 years",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "old",
+          "normalized": "old",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 556,
+      "start_seconds": 1437.601,
+      "end_seconds": 1439.6,
+      "whisper_text": "Luna Various's laughed.",
+      "assemblyai_text": "Luna laughed,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "various's",
+          "normalized": "various's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 562,
+      "start_seconds": 1451.601,
+      "end_seconds": 1453.183,
+      "whisper_text": "Which is why you can call Chief Elder LaRonde",
+      "assemblyai_text": "Which is why you can call Chief Elder",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "laronde",
+          "normalized": "laronde",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 565,
+      "start_seconds": 1459.649,
+      "end_seconds": 1461.6,
+      "whisper_text": "Alpha Various looked at his son.",
+      "assemblyai_text": "Alpha looked at his son.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "various",
+          "normalized": "various",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 566,
+      "start_seconds": 1461.601,
+      "end_seconds": 1463.6,
+      "whisper_text": "Lucian said nothing.",
+      "assemblyai_text": "said nothing.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 572,
+      "start_seconds": 1477.141,
+      "end_seconds": 1481.14,
+      "whisper_text": "I was at Coldwell Manor having dinner with Chief Elder LaRonde and his wife.",
+      "assemblyai_text": "I was at Coldwell Manor having dinner with Chief Elder and his wife.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "laronde",
+          "normalized": "laronde",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 573,
+      "start_seconds": 1483.14,
+      "end_seconds": 1485.14,
+      "whisper_text": "Luna Various looked between me and Lucian.",
+      "assemblyai_text": "Luna looked between me and",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "various",
+          "normalized": "various",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 574,
+      "start_seconds": 1485.141,
+      "end_seconds": 1489.14,
+      "whisper_text": "That's not... The servants said the bride arrived in the convoy.",
+      "assemblyai_text": "That's not— the said the bride arrived in the convoy.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "servants",
+          "normalized": "servants",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 582,
+      "start_seconds": 1503.141,
+      "end_seconds": 1505.301,
+      "whisper_text": "Luna Various has sat down hard in the chair behind her.",
+      "assemblyai_text": "Luna sat down hard in the chair behind her.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "various",
+          "normalized": "various",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "has",
+          "normalized": "has",
+          "type": "FUNCTION_WORD"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 583,
+      "start_seconds": 1507.14,
+      "end_seconds": 1509.14,
+      "whisper_text": "Alpha Various turned to Lucian.",
+      "assemblyai_text": "Alpha turned to",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "various",
+          "normalized": "various",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 586,
+      "start_seconds": 1515.141,
+      "end_seconds": 1519.63,
+      "whisper_text": "Lucian's mouth tightened.",
+      "assemblyai_text": "mouth tightened.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian's",
+          "normalized": "lucian's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 588,
+      "start_seconds": 1521.631,
+      "end_seconds": 1527.04,
+      "whisper_text": "Lucian... Various's voice dropped.",
+      "assemblyai_text": "voice dropped.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "various's",
+          "normalized": "various's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 589,
+      "start_seconds": 1527.041,
+      "end_seconds": 1531.15,
+      "whisper_text": "Who is she?",
+      "assemblyai_text": "Who is",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "she",
+          "normalized": "she",
+          "type": "FUNCTION_WORD"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 590,
+      "start_seconds": 1531.151,
+      "end_seconds": 1533.15,
+      "whisper_text": "Lucian stopped.",
+      "assemblyai_text": "stopped,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 600,
+      "start_seconds": 1553.781,
+      "end_seconds": 1555.78,
+      "whisper_text": "He came to Coldwell Manor every chance he got.",
+      "assemblyai_text": "He came to Manor every chance he got.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "coldwell",
+          "normalized": "coldwell",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 603,
+      "start_seconds": 1559.781,
+      "end_seconds": 1561.78,
+      "whisper_text": "I looked at Alpha Various.",
+      "assemblyai_text": "I looked at Alpha",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "various",
+          "normalized": "various",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 606,
+      "start_seconds": 1565.781,
+      "end_seconds": 1567.78,
+      "whisper_text": "Lucian went pale.",
+      "assemblyai_text": "went pale.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 610,
+      "start_seconds": 1573.781,
+      "end_seconds": 1575.78,
+      "whisper_text": "Alpha Various said he didn't raise his voice.",
+      "assemblyai_text": "Alpha said. He didn't raise his voice.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "various",
+          "normalized": "various",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 615,
+      "start_seconds": 1590.381,
+      "end_seconds": 1592.38,
+      "whisper_text": "Lucian turned to me.",
+      "assemblyai_text": "turned to me.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 620,
+      "start_seconds": 1600.381,
+      "end_seconds": 1602.38,
+      "whisper_text": "Alpha Various looked at me.",
+      "assemblyai_text": "Alpha looked at me,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "various",
+          "normalized": "various",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 624,
+      "start_seconds": 1608.381,
+      "end_seconds": 1610.38,
+      "whisper_text": "The same calculation I'd seen in Lucian a hundred times.",
+      "assemblyai_text": "the same calculation I'd seen in a hundred times.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 629,
+      "start_seconds": 1619.891,
+      "end_seconds": 1621.89,
+      "whisper_text": "Lucian and Morgana are properly made it now.",
+      "assemblyai_text": "and Morgana are properly now.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "made",
+          "normalized": "made",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "it",
+          "normalized": "it",
+          "type": "FUNCTION_WORD"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 632,
+      "start_seconds": 1625.891,
+      "end_seconds": 1627.89,
+      "whisper_text": "No reason this has to leave these walls.",
+      "assemblyai_text": "No reason this has to leave",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "these",
+          "normalized": "these",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "walls",
+          "normalized": "walls",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 634,
+      "start_seconds": 1631.391,
+      "end_seconds": 1633.39,
+      "whisper_text": "Luna Valerce recovered fast.",
+      "assemblyai_text": "Luna recovered fast,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "valerce",
+          "normalized": "valerce",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 641,
+      "start_seconds": 1646.391,
+      "end_seconds": 1648.39,
+      "whisper_text": "Then at Lucian.",
+      "assemblyai_text": "then at",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 651,
+      "start_seconds": 1674.901,
+      "end_seconds": 1677.9,
+      "whisper_text": "Instead, Alpha Valerce told the guards to keep me in the East guest room",
+      "assemblyai_text": "Instead, Alpha told the guards to keep me in the east guest room",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "valerce",
+          "normalized": "valerce",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 652,
+      "start_seconds": 1677.901,
+      "end_seconds": 1681.9,
+      "whisper_text": "until he and Lucian returned from what he called a necessary visit.",
+      "assemblyai_text": "until he and returned from what he called A necessary visit.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 662,
+      "start_seconds": 1701.471,
+      "end_seconds": 1703.47,
+      "whisper_text": "Then Lucian came back alone.",
+      "assemblyai_text": "Then came back alone.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 666,
+      "start_seconds": 1711.471,
+      "end_seconds": 1713.47,
+      "whisper_text": "Laurent's talked to us.",
+      "assemblyai_text": "talked to us,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "laurent's",
+          "normalized": "laurent's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 670,
+      "start_seconds": 1719.471,
+      "end_seconds": 1723.62,
+      "whisper_text": "Lucian looked up.",
+      "assemblyai_text": "looked up.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 704,
+      "start_seconds": 1804.211,
+      "end_seconds": 1808.21,
+      "whisper_text": "Lucian, my voice came out steady even though nothing else was.",
+      "assemblyai_text": "my voice came out steady even though nothing else was.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 715,
+      "start_seconds": 1833.484,
+      "end_seconds": 1835.21,
+      "whisper_text": "A silver blade in both hands.",
+      "assemblyai_text": "a silver blade in both",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "hands",
+          "normalized": "hands",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 718,
+      "start_seconds": 1838.211,
+      "end_seconds": 1840.21,
+      "whisper_text": "Lucian turned his head.",
+      "assemblyai_text": "turned his head.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 721,
+      "start_seconds": 1846.211,
+      "end_seconds": 1851.21,
+      "whisper_text": "The blade flew out of Arya's grip and hit the far wall.",
+      "assemblyai_text": "The blade flew out of grip and hit the far wall.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "arya's",
+          "normalized": "arya's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 723,
+      "start_seconds": 1853.211,
+      "end_seconds": 1855.21,
+      "whisper_text": "Caught herself on the door warm.",
+      "assemblyai_text": "caught herself on the door",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "warm",
+          "normalized": "warm",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 724,
+      "start_seconds": 1855.259,
+      "end_seconds": 1857.21,
+      "whisper_text": "Lucian turned back to me.",
+      "assemblyai_text": "turned back to me.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 735,
+      "start_seconds": 1874.211,
+      "end_seconds": 1876.21,
+      "whisper_text": "At Arya's empty hands.",
+      "assemblyai_text": "at empty hands,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "arya's",
+          "normalized": "arya's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 736,
+      "start_seconds": 1876.211,
+      "end_seconds": 1878.21,
+      "whisper_text": "At Lucian standing over me.",
+      "assemblyai_text": "at standing over me.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 739,
+      "start_seconds": 1882.211,
+      "end_seconds": 1885.78,
+      "whisper_text": "Lucian didn't move immediately.",
+      "assemblyai_text": "didn't move immediately.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 744,
+      "start_seconds": 1898.781,
+      "end_seconds": 1900.78,
+      "whisper_text": "White haired, unharried.",
+      "assemblyai_text": "white-haired, white-haired,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "unharried",
+          "normalized": "unharried",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 746,
+      "start_seconds": 1901.781,
+      "end_seconds": 1903.78,
+      "whisper_text": "The alpha king's personal emise.",
+      "assemblyai_text": "the Alpha King's personal",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "emise",
+          "normalized": "emise",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 749,
+      "start_seconds": 1907.781,
+      "end_seconds": 1909.78,
+      "whisper_text": "Laurent looked at Lucian.",
+      "assemblyai_text": "Laurent looked at",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 753,
+      "start_seconds": 1916.781,
+      "end_seconds": 1919.78,
+      "whisper_text": "He clipped his hands behind his back.",
+      "assemblyai_text": "He his hands behind his back.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "clipped",
+          "normalized": "clipped",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 757,
+      "start_seconds": 1925.781,
+      "end_seconds": 1927.78,
+      "whisper_text": "Lucian's eyes moved to the royal seal.",
+      "assemblyai_text": "eyes moved to the royal",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian's",
+          "normalized": "lucian's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "seal",
+          "normalized": "seal",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 762,
+      "start_seconds": 1936.781,
+      "end_seconds": 1939.78,
+      "whisper_text": "He looked at Alpha Valeris who had appeared in the doorway.",
+      "assemblyai_text": "He looked at Alpha who had appeared in the doorway.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "valeris",
+          "normalized": "valeris",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 770,
+      "start_seconds": 1954.781,
+      "end_seconds": 1956.78,
+      "whisper_text": "The royal sea was with me.",
+      "assemblyai_text": "The Royal was with me,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "sea",
+          "normalized": "sea",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 773,
+      "start_seconds": 1961.781,
+      "end_seconds": 1963.78,
+      "whisper_text": "Alpha Valeris looked at Lucian.",
+      "assemblyai_text": "Alpha looked at",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "valeris",
+          "normalized": "valeris",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 788,
+      "start_seconds": 1991.301,
+      "end_seconds": 1992.3,
+      "whisper_text": "I looked at him.",
+      "assemblyai_text": "at him.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "i",
+          "normalized": "i",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "looked",
+          "normalized": "looked",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 796,
+      "start_seconds": 2013.221,
+      "end_seconds": 2016.22,
+      "whisper_text": "Arya Appyr appeared at my side immediately.",
+      "assemblyai_text": "Aria appeared at my side immediately.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "appyr",
+          "normalized": "appyr",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 801,
+      "start_seconds": 2026.221,
+      "end_seconds": 2029.22,
+      "whisper_text": "watching everything he built from a part of the scenes.",
+      "assemblyai_text": "watching everything he built the",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "from",
+          "normalized": "from",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "a",
+          "normalized": "a",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "part",
+          "normalized": "part",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "of",
+          "normalized": "of",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "scenes",
+          "normalized": "scenes",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 802,
+      "start_seconds": 2029.221,
+      "end_seconds": 2033.22,
+      "whisper_text": "Lucian didn't look away from me until the guards put their hands on his arms.",
+      "assemblyai_text": "didn't look away from me until the guards put their hands on his arms.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 807,
+      "start_seconds": 2040.27,
+      "end_seconds": 2041.245,
+      "whisper_text": "Lucian.",
+      "assemblyai_text": "",
+      "comparison_status": "NO_TIME_AWARE_ASR_MATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 809,
+      "start_seconds": 2044.221,
+      "end_seconds": 2046.22,
+      "whisper_text": "Soulbinding shackles.",
+      "assemblyai_text": "shackles,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "soulbinding",
+          "normalized": "soulbinding",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 811,
+      "start_seconds": 2048.22,
+      "end_seconds": 2050.219,
+      "whisper_text": "Alpha Valerius and Luna Valerius.",
+      "assemblyai_text": "",
+      "comparison_status": "NO_TIME_AWARE_ASR_MATCH",
+      "missing_words": [
+        {
+          "word": "alpha",
+          "normalized": "alpha",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "valerius",
+          "normalized": "valerius",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "and",
+          "normalized": "and",
+          "type": "FUNCTION_WORD"
+        },
+        {
+          "word": "luna",
+          "normalized": "luna",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        },
+        {
+          "word": "valerius",
+          "normalized": "valerius",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 814,
+      "start_seconds": 2055.22,
+      "end_seconds": 2056.219,
+      "whisper_text": "Their pact title stripped.",
+      "assemblyai_text": "Their title stripped,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "pact",
+          "normalized": "pact",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 815,
+      "start_seconds": 2056.22,
+      "end_seconds": 2058.219,
+      "whisper_text": "The blood moon pact dissolved.",
+      "assemblyai_text": "the Blood Moon dissolved,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "pact",
+          "normalized": "pact",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 816,
+      "start_seconds": 2058.22,
+      "end_seconds": 2061.219,
+      "whisper_text": "Valerius' manner seized and transferred to high council jurisdiction.",
+      "assemblyai_text": "seized and transferred to High Council jurisdiction.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "valerius'",
+          "normalized": "valerius'",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        },
+        {
+          "word": "manner",
+          "normalized": "manner",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 824,
+      "start_seconds": 2081.061,
+      "end_seconds": 2082.06,
+      "whisper_text": "Packs gone.",
+      "assemblyai_text": "gone,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "packs",
+          "normalized": "packs",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 825,
+      "start_seconds": 2082.061,
+      "end_seconds": 2083.06,
+      "whisper_text": "Manners sealed.",
+      "assemblyai_text": "sealed.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "manners",
+          "normalized": "manners",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 841,
+      "start_seconds": 2115.061,
+      "end_seconds": 2116.061,
+      "whisper_text": "Either am I.",
+      "assemblyai_text": "am I.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "either",
+          "normalized": "either",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 843,
+      "start_seconds": 2118.61,
+      "end_seconds": 2121.06,
+      "whisper_text": "Then Arya straightened up.",
+      "assemblyai_text": "then Aria straightened",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "up",
+          "normalized": "up",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 855,
+      "start_seconds": 2139.11,
+      "end_seconds": 2143.06,
+      "whisper_text": "When Lucian came back injured and I wouldn't leave until I knew he was okay.",
+      "assemblyai_text": "when came back injured, and I wouldn't leave until I knew he was okay.",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 859,
+      "start_seconds": 2148.11,
+      "end_seconds": 2150.06,
+      "whisper_text": "You waited a month at a border post for Lucian?",
+      "assemblyai_text": "You waited a month at a border post for",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 868,
+      "start_seconds": 2167.72,
+      "end_seconds": 2175.72,
+      "whisper_text": "Just two men who knocked on the front door and came in when my mother opened it.",
+      "assemblyai_text": "Just 2 men who knocked on the front door and came in when my mother opened",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "it",
+          "normalized": "it",
+          "type": "FUNCTION_WORD"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 878,
+      "start_seconds": 2191.721,
+      "end_seconds": 2194.72,
+      "whisper_text": "Not the desperate, clinging feeling I used to get around Lucian.",
+      "assemblyai_text": "Not the desperate, clinging feeling I used to get around",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "lucian",
+          "normalized": "lucian",
+          "type": "KNOWN_NAME_OR_STORY_TERM"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 886,
+      "start_seconds": 2206.721,
+      "end_seconds": 2208.72,
+      "whisper_text": "From the sitting room I heard Arya's voice.",
+      "assemblyai_text": "From the sitting room, I heard voice,",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "arya's",
+          "normalized": "arya's",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    },
+    {
+      "subtitle_id": 893,
+      "start_seconds": 2224.84,
+      "end_seconds": 2227.09,
+      "whisper_text": "You challenged three older kids to a race and one.",
+      "assemblyai_text": "You challenged 3 older kids to a race and",
+      "comparison_status": "TIME_AWARE_MISMATCH",
+      "missing_words": [
+        {
+          "word": "one",
+          "normalized": "one",
+          "type": "CONTENT_WORD_OR_UNKNOWN_NAME"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5038 @@
+{
+  "version": "2.0",
+  "video": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\input\\Husbands.mp4",
+  "test_duration": 30.0,
+  "sample_interval": 0.25,
+  "frames_processed": 120,
+  "reference_srt_cues": 908,
+  "detections": 226,
+  "subtitle_cues": 186,
+  "raw_detections": [
+    {
+      "timestamp": 0.75,
+      "text": "> a",
+      "confidence": 61.0,
+      "word_count": 2,
+      "x_center": 0.5042,
+      "y_center": 0.5991,
+      "box_width": 430.0,
+      "box_height": 230.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 3.75,
+      "text": "= | Se",
+      "confidence": 61.67,
+      "word_count": 3,
+      "x_center": 0.4583,
+      "y_center": 0.6185,
+      "box_width": 384.0,
+      "box_height": 41.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 3.75,
+      "text": "= ae",
+      "confidence": 56.5,
+      "word_count": 2,
+      "x_center": 0.4406,
+      "y_center": 0.6309,
+      "box_width": 396.0,
+      "box_height": 50.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 3.75,
+      "text": "> fs 1",
+      "confidence": 38.67,
+      "word_count": 3,
+      "x_center": 0.3724,
+      "y_center": 0.7777,
+      "box_width": 357.5,
+      "box_height": 57.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 3.75,
+      "text": "a {",
+      "confidence": 70.5,
+      "word_count": 2,
+      "x_center": 0.3688,
+      "y_center": 0.8007,
+      "box_width": 268.0,
+      "box_height": 63.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 4.0,
+      "text": "— ;",
+      "confidence": 48.5,
+      "word_count": 2,
+      "x_center": 0.3885,
+      "y_center": 0.6297,
+      "box_width": 276.0,
+      "box_height": 43.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 4.0,
+      "text": ". a PS",
+      "confidence": 39.33,
+      "word_count": 3,
+      "x_center": 0.587,
+      "y_center": 0.8638,
+      "box_width": 222.5,
+      "box_height": 24.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 4.25,
+      "text": "= lid e ;",
+      "confidence": 55.0,
+      "word_count": 4,
+      "x_center": 0.3771,
+      "y_center": 0.6274,
+      "box_width": 255.0,
+      "box_height": 56.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 4.25,
+      "text": "af 5 1",
+      "confidence": 49.67,
+      "word_count": 3,
+      "x_center": 0.4156,
+      "y_center": 0.7093,
+      "box_width": 296.0,
+      "box_height": 36.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 4.25,
+      "text": ". 4 >",
+      "confidence": 72.33,
+      "word_count": 3,
+      "x_center": 0.413,
+      "y_center": 0.7388,
+      "box_width": 206.5,
+      "box_height": 36.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 4.5,
+      "text": "7 VE |",
+      "confidence": 59.33,
+      "word_count": 3,
+      "x_center": 0.3417,
+      "y_center": 0.5991,
+      "box_width": 271.0,
+      "box_height": 124.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 4.5,
+      "text": "wa on",
+      "confidence": 57.5,
+      "word_count": 2,
+      "x_center": 0.6839,
+      "y_center": 0.6055,
+      "box_width": 293.5,
+      "box_height": 152.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 4.75,
+      "text": "oy > > z=",
+      "confidence": 53.25,
+      "word_count": 4,
+      "x_center": 0.4865,
+      "y_center": 0.5991,
+      "box_width": 456.0,
+      "box_height": 13.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 4.75,
+      "text": ", d",
+      "confidence": 58.5,
+      "word_count": 2,
+      "x_center": 0.4922,
+      "y_center": 0.6191,
+      "box_width": 301.5,
+      "box_height": 12.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 5.0,
+      "text": "\\ ,",
+      "confidence": 62.0,
+      "word_count": 2,
+      "x_center": 0.4417,
+      "y_center": 0.6073,
+      "box_width": 298.0,
+      "box_height": 65.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 5.0,
+      "text": "! mM |",
+      "confidence": 56.33,
+      "word_count": 3,
+      "x_center": 0.6198,
+      "y_center": 0.625,
+      "box_width": 363.0,
+      "box_height": 62.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 5.0,
+      "text": ", é é » \"",
+      "confidence": 45.0,
+      "word_count": 5,
+      "x_center": 0.4333,
+      "y_center": 0.6934,
+      "box_width": 288.0,
+      "box_height": 36.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 5.0,
+      "text": "Av “a a",
+      "confidence": 47.0,
+      "word_count": 3,
+      "x_center": 0.6057,
+      "y_center": 0.7046,
+      "box_width": 172.5,
+      "box_height": 37.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 5.0,
+      "text": "ice",
+      "confidence": 37.0,
+      "word_count": 1,
+      "x_center": 0.4583,
+      "y_center": 0.7412,
+      "box_width": 142.0,
+      "box_height": 36.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 5.25,
+      "text": "i Z",
+      "confidence": 66.5,
+      "word_count": 2,
+      "x_center": 0.525,
+      "y_center": 0.9481,
+      "box_width": 63.0,
+      "box_height": 10.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 5.5,
+      "text": "PS Pe *",
+      "confidence": 40.33,
+      "word_count": 3,
+      "x_center": 0.337,
+      "y_center": 0.6315,
+      "box_width": 323.5,
+      "box_height": 65.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 5.5,
+      "text": "me Ao Ladd",
+      "confidence": 44.67,
+      "word_count": 3,
+      "x_center": 0.5073,
+      "y_center": 0.6792,
+      "box_width": 399.0,
+      "box_height": 80.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 5.5,
+      "text": "Ses",
+      "confidence": 58.0,
+      "word_count": 1,
+      "x_center": 0.4125,
+      "y_center": 0.7388,
+      "box_width": 64.0,
+      "box_height": 38.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 5.75,
+      "text": "i/@",
+      "confidence": 81.0,
+      "word_count": 1,
+      "x_center": 0.2318,
+      "y_center": 0.5991,
+      "box_width": 62.5,
+      "box_height": 22.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 5.75,
+      "text": "j 4) f -«t",
+      "confidence": 65.5,
+      "word_count": 4,
+      "x_center": 0.4036,
+      "y_center": 0.6238,
+      "box_width": 233.5,
+      "box_height": 21.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 6.25,
+      "text": "q —_ *",
+      "confidence": 64.0,
+      "word_count": 3,
+      "x_center": 0.5984,
+      "y_center": 0.9416,
+      "box_width": 160.5,
+      "box_height": 15.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 6.5,
+      "text": "} | \\",
+      "confidence": 56.67,
+      "word_count": 3,
+      "x_center": 0.4609,
+      "y_center": 0.7742,
+      "box_width": 119.5,
+      "box_height": 41.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 7.75,
+      "text": "i = 7",
+      "confidence": 61.33,
+      "word_count": 3,
+      "x_center": 0.5391,
+      "y_center": 0.8726,
+      "box_width": 426.5,
+      "box_height": 35.5,
+      "reference": {
+        "score": 0.061,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 8.25,
+      "text": "7 =",
+      "confidence": 69.0,
+      "word_count": 2,
+      "x_center": 0.1417,
+      "y_center": 0.5991,
+      "box_width": 136.0,
+      "box_height": 54.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 8.75,
+      "text": "= — =",
+      "confidence": 71.67,
+      "word_count": 3,
+      "x_center": 0.4958,
+      "y_center": 0.6504,
+      "box_width": 444.0,
+      "box_height": 90.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 8.75,
+      "text": "Pea",
+      "confidence": 38.0,
+      "word_count": 1,
+      "x_center": 0.5214,
+      "y_center": 0.8208,
+      "box_width": 459.5,
+      "box_height": 118.0,
+      "reference": {
+        "score": 0.061,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 8.75,
+      "text": "4 |",
+      "confidence": 58.0,
+      "word_count": 2,
+      "x_center": 0.8427,
+      "y_center": 0.8956,
+      "box_width": 151.0,
+      "box_height": 52.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 9.0,
+      "text": "“whee",
+      "confidence": 35.0,
+      "word_count": 1,
+      "x_center": 0.7167,
+      "y_center": 0.8302,
+      "box_width": 272.0,
+      "box_height": 110.0,
+      "reference": {
+        "score": 0.09,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 9.5,
+      "text": "The third bo",
+      "confidence": 95.67,
+      "word_count": 3,
+      "x_center": 0.4703,
+      "y_center": 0.7164,
+      "box_width": 148.5,
+      "box_height": 29.5,
+      "reference": {
+        "score": 0.32,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 9.5,
+      "text": "tasted like rot:",
+      "confidence": 96.0,
+      "word_count": 3,
+      "x_center": 0.5,
+      "y_center": 0.7547,
+      "box_width": 178.0,
+      "box_height": 23.0,
+      "reference": {
+        "score": 0.385,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 9.75,
+      "text": "tasted like rot.",
+      "confidence": 85.67,
+      "word_count": 3,
+      "x_center": 0.5099,
+      "y_center": 0.7524,
+      "box_width": 188.5,
+      "box_height": 36.0,
+      "reference": {
+        "score": 0.385,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 10.0,
+      "text": "tasted like rot.",
+      "confidence": 96.0,
+      "word_count": 3,
+      "x_center": 0.4932,
+      "y_center": 0.7512,
+      "box_width": 176.5,
+      "box_height": 38.0,
+      "reference": {
+        "score": 0.385,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 10.25,
+      "text": "tasted like rot",
+      "confidence": 95.67,
+      "word_count": 3,
+      "x_center": 0.4948,
+      "y_center": 0.75,
+      "box_width": 173.0,
+      "box_height": 28.0,
+      "reference": {
+        "score": 0.385,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 10.5,
+      "text": "The third bov",
+      "confidence": 93.67,
+      "word_count": 3,
+      "x_center": 0.4823,
+      "y_center": 0.714,
+      "box_width": 161.0,
+      "box_height": 30.5,
+      "reference": {
+        "score": 0.316,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 10.5,
+      "text": "tastec like rot",
+      "confidence": 90.0,
+      "word_count": 3,
+      "x_center": 0.4927,
+      "y_center": 0.7488,
+      "box_width": 172.0,
+      "box_height": 42.0,
+      "reference": {
+        "score": 0.359,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 10.5,
+      "text": "onl",
+      "confidence": 62.0,
+      "word_count": 1,
+      "x_center": 0.0729,
+      "y_center": 0.8107,
+      "box_width": 70.0,
+      "box_height": 64.5,
+      "reference": {
+        "score": 0.091,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 10.75,
+      "text": "The third bowl",
+      "confidence": 96.0,
+      "word_count": 3,
+      "x_center": 0.4995,
+      "y_center": 0.717,
+      "box_width": 177.5,
+      "box_height": 23.5,
+      "reference": {
+        "score": 0.364,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 11.0,
+      "text": "The third bo",
+      "confidence": 96.0,
+      "word_count": 3,
+      "x_center": 0.4703,
+      "y_center": 0.717,
+      "box_width": 149.5,
+      "box_height": 23.5,
+      "reference": {
+        "score": 0.32,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 11.5,
+      "text": "I couldn't feel",
+      "confidence": 92.67,
+      "word_count": 3,
+      "x_center": 0.4443,
+      "y_center": 0.7182,
+      "box_width": 158.5,
+      "box_height": 28.0,
+      "reference": {
+        "score": 0.385,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 11.5,
+      "text": "2 -* 7",
+      "confidence": 66.33,
+      "word_count": 3,
+      "x_center": 0.7786,
+      "y_center": 0.8237,
+      "box_width": 196.5,
+      "box_height": 28.5,
+      "reference": {
+        "score": 0.044,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 11.75,
+      "text": "—\" .",
+      "confidence": 44.5,
+      "word_count": 2,
+      "x_center": 0.5641,
+      "y_center": 0.6138,
+      "box_width": 251.5,
+      "box_height": 25.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 11.75,
+      "text": "I couldn't",
+      "confidence": 92.5,
+      "word_count": 2,
+      "x_center": 0.4,
+      "y_center": 0.7182,
+      "box_width": 116.0,
+      "box_height": 21.0,
+      "reference": {
+        "score": 0.274,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 11.75,
+      "text": "ands a",
+      "confidence": 80.0,
+      "word_count": 2,
+      "x_center": 0.4161,
+      "y_center": 0.7577,
+      "box_width": 84.5,
+      "box_height": 21.5,
+      "reference": {
+        "score": 0.174,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 11.75,
+      "text": "? — -",
+      "confidence": 66.0,
+      "word_count": 3,
+      "x_center": 0.6719,
+      "y_center": 0.8355,
+      "box_width": 93.0,
+      "box_height": 28.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 11.75,
+      "text": "om »",
+      "confidence": 65.0,
+      "word_count": 2,
+      "x_center": 0.6698,
+      "y_center": 0.8561,
+      "box_width": 144.0,
+      "box_height": 32.0,
+      "reference": {
+        "score": 0.091,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 11.75,
+      "text": "Oy MT",
+      "confidence": 54.0,
+      "word_count": 2,
+      "x_center": 0.4516,
+      "y_center": 0.8744,
+      "box_width": 138.5,
+      "box_height": 72.5,
+      "reference": {
+        "score": 0.213,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 12.0,
+      "text": "_ a",
+      "confidence": 59.0,
+      "word_count": 2,
+      "x_center": 0.2307,
+      "y_center": 0.6038,
+      "box_width": 189.5,
+      "box_height": 17.0,
+      "reference": {
+        "score": 0.047,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 12.0,
+      "text": "I couldn't feel my 7",
+      "confidence": 84.0,
+      "word_count": 5,
+      "x_center": 0.562,
+      "y_center": 0.7028,
+      "box_width": 271.5,
+      "box_height": 42.5,
+      "reference": {
+        "score": 0.458,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 12.0,
+      "text": "hands a",
+      "confidence": 85.0,
+      "word_count": 2,
+      "x_center": 0.3943,
+      "y_center": 0.7577,
+      "box_width": 94.5,
+      "box_height": 21.0,
+      "reference": {
+        "score": 0.204,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 12.25,
+      "text": "I couldn't fee",
+      "confidence": 93.33,
+      "word_count": 3,
+      "x_center": 0.4464,
+      "y_center": 0.7152,
+      "box_width": 160.5,
+      "box_height": 32.5,
+      "reference": {
+        "score": 0.364,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 12.25,
+      "text": "hands anymore.",
+      "confidence": 95.5,
+      "word_count": 2,
+      "x_center": 0.5016,
+      "y_center": 0.7541,
+      "box_width": 197.5,
+      "box_height": 25.0,
+      "reference": {
+        "score": 0.342,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 12.25,
+      "text": "Ss)",
+      "confidence": 41.0,
+      "word_count": 1,
+      "x_center": 0.5776,
+      "y_center": 0.8296,
+      "box_width": 38.5,
+      "box_height": 50.5,
+      "reference": {
+        "score": 0.062,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 12.25,
+      "text": "mee)",
+      "confidence": 39.0,
+      "word_count": 1,
+      "x_center": 0.5771,
+      "y_center": 0.8962,
+      "box_width": 263.0,
+      "box_height": 54.0,
+      "reference": {
+        "score": 0.089,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 12.5,
+      "text": "——_ eae",
+      "confidence": 40.5,
+      "word_count": 2,
+      "x_center": 0.1953,
+      "y_center": 0.5991,
+      "box_width": 187.5,
+      "box_height": 19.0,
+      "reference": {
+        "score": 0.133,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 12.5,
+      "text": "Icouldn't",
+      "confidence": 89.0,
+      "word_count": 1,
+      "x_center": 0.4,
+      "y_center": 0.7182,
+      "box_width": 116.0,
+      "box_height": 21.0,
+      "reference": {
+        "score": 0.25,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 12.5,
+      "text": "hands any,",
+      "confidence": 86.5,
+      "word_count": 2,
+      "x_center": 0.4276,
+      "y_center": 0.7577,
+      "box_width": 126.5,
+      "box_height": 35.0,
+      "reference": {
+        "score": 0.25,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 12.5,
+      "text": "(ne i>)",
+      "confidence": 47.5,
+      "word_count": 2,
+      "x_center": 0.5885,
+      "y_center": 0.9068,
+      "box_width": 257.0,
+      "box_height": 45.0,
+      "reference": {
+        "score": 0.09,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 12.75,
+      "text": "I couldn't feel",
+      "confidence": 93.33,
+      "word_count": 3,
+      "x_center": 0.4531,
+      "y_center": 0.7182,
+      "box_width": 167.0,
+      "box_height": 21.5,
+      "reference": {
+        "score": 0.385,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 12.75,
+      "text": "; hands an",
+      "confidence": 84.33,
+      "word_count": 3,
+      "x_center": 0.263,
+      "y_center": 0.7494,
+      "box_width": 252.5,
+      "box_height": 28.0,
+      "reference": {
+        "score": 0.225,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 13.0,
+      "text": "= ™ <",
+      "confidence": 66.33,
+      "word_count": 3,
+      "x_center": 0.4521,
+      "y_center": 0.6032,
+      "box_width": 431.0,
+      "box_height": 21.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 13.0,
+      "text": "€ a",
+      "confidence": 87.0,
+      "word_count": 2,
+      "x_center": 0.8063,
+      "y_center": 0.645,
+      "box_width": 146.0,
+      "box_height": 19.5,
+      "reference": {
+        "score": 0.047,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 13.0,
+      "text": "I couldn't feel my",
+      "confidence": 85.75,
+      "word_count": 4,
+      "x_center": 0.5083,
+      "y_center": 0.7134,
+      "box_width": 220.0,
+      "box_height": 32.0,
+      "reference": {
+        "score": 0.444,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 13.0,
+      "text": "hands _",
+      "confidence": 69.5,
+      "word_count": 2,
+      "x_center": 0.5292,
+      "y_center": 0.7577,
+      "box_width": 224.0,
+      "box_height": 29.0,
+      "reference": {
+        "score": 0.17,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 13.5,
+      "text": "Ls aS",
+      "confidence": 62.0,
+      "word_count": 2,
+      "x_center": 0.8026,
+      "y_center": 0.6504,
+      "box_width": 158.5,
+      "box_height": 32.0,
+      "reference": {
+        "score": 0.17,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 13.5,
+      "text": "2 a",
+      "confidence": 61.5,
+      "word_count": 2,
+      "x_center": 0.6583,
+      "y_center": 0.9139,
+      "box_width": 76.0,
+      "box_height": 39.0,
+      "reference": {
+        "score": 0.089,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 13.75,
+      "text": "LED wolfsbane wy",
+      "confidence": 58.0,
+      "word_count": 3,
+      "x_center": 0.3974,
+      "y_center": 0.6639,
+      "box_width": 381.5,
+      "box_height": 76.0,
+      "reference": {
+        "score": 0.253,
+        "matched_text": "The third bowl tasted like rot. I couldn't feel my hands anymore."
+      }
+    },
+    {
+      "timestamp": 13.75,
+      "text": "reached my chest.",
+      "confidence": 81.33,
+      "word_count": 3,
+      "x_center": 0.6359,
+      "y_center": 0.7476,
+      "box_width": 253.5,
+      "box_height": 38.0,
+      "reference": {
+        "score": 0.552,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 14.0,
+      "text": "wan tic 4",
+      "confidence": 57.67,
+      "word_count": 3,
+      "x_center": 0.6307,
+      "y_center": 0.658,
+      "box_width": 329.5,
+      "box_height": 20.5,
+      "reference": {
+        "score": 0.194,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 14.0,
+      "text": "~~ re",
+      "confidence": 47.0,
+      "word_count": 2,
+      "x_center": 0.2672,
+      "y_center": 0.6828,
+      "box_width": 73.5,
+      "box_height": 12.0,
+      "reference": {
+        "score": 0.091,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 14.0,
+      "text": "LES wolfsbane .",
+      "confidence": 66.0,
+      "word_count": 3,
+      "x_center": 0.4755,
+      "y_center": 0.6675,
+      "box_width": 456.5,
+      "box_height": 75.0,
+      "reference": {
+        "score": 0.255,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 14.0,
+      "text": "already reached my chest Vv",
+      "confidence": 83.6,
+      "word_count": 5,
+      "x_center": 0.5375,
+      "y_center": 0.7471,
+      "box_width": 357.0,
+      "box_height": 45.0,
+      "reference": {
+        "score": 0.696,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 14.25,
+      "text": "€ Ne _",
+      "confidence": 52.0,
+      "word_count": 3,
+      "x_center": 0.8109,
+      "y_center": 0.6598,
+      "box_width": 158.5,
+      "box_height": 62.0,
+      "reference": {
+        "score": 0.073,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 14.25,
+      "text": "The wolfsba",
+      "confidence": 91.5,
+      "word_count": 2,
+      "x_center": 0.412,
+      "y_center": 0.7005,
+      "box_width": 147.5,
+      "box_height": 50.5,
+      "reference": {
+        "score": 0.34,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 14.25,
+      "text": "already reached my chest. ¥",
+      "confidence": 74.6,
+      "word_count": 5,
+      "x_center": 0.463,
+      "y_center": 0.7476,
+      "box_width": 444.5,
+      "box_height": 50.5,
+      "reference": {
+        "score": 0.727,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 14.5,
+      "text": "The",
+      "confidence": 97.0,
+      "word_count": 1,
+      "x_center": 0.3057,
+      "y_center": 0.7182,
+      "box_width": 45.5,
+      "box_height": 21.0,
+      "reference": {
+        "score": 0.133,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 14.5,
+      "text": "> my chest™",
+      "confidence": 66.0,
+      "word_count": 3,
+      "x_center": 0.6427,
+      "y_center": 0.7577,
+      "box_width": 225.0,
+      "box_height": 27.0,
+      "reference": {
+        "score": 0.32,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 14.75,
+      "text": "ae had",
+      "confidence": 57.5,
+      "word_count": 2,
+      "x_center": 0.5505,
+      "y_center": 0.6828,
+      "box_width": 280.5,
+      "box_height": 86.5,
+      "reference": {
+        "score": 0.208,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 14.75,
+      "text": "<& a my %",
+      "confidence": 77.0,
+      "word_count": 4,
+      "x_center": 0.5563,
+      "y_center": 0.7547,
+      "box_width": 426.0,
+      "box_height": 55.5,
+      "reference": {
+        "score": 0.174,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 15.0,
+      "text": ". The ha de®",
+      "confidence": 81.25,
+      "word_count": 4,
+      "x_center": 0.4234,
+      "y_center": 0.7028,
+      "box_width": 406.5,
+      "box_height": 44.5,
+      "reference": {
+        "score": 0.353,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 15.0,
+      "text": "already ied my",
+      "confidence": 75.33,
+      "word_count": 3,
+      "x_center": 0.4198,
+      "y_center": 0.7577,
+      "box_width": 243.0,
+      "box_height": 34.0,
+      "reference": {
+        "score": 0.464,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 15.25,
+      "text": ". The",
+      "confidence": 68.0,
+      "word_count": 2,
+      "x_center": 0.1766,
+      "y_center": 0.7182,
+      "box_width": 169.5,
+      "box_height": 30.0,
+      "reference": {
+        "score": 0.133,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 15.25,
+      "text": "alread reat ned my chest™",
+      "confidence": 78.4,
+      "word_count": 5,
+      "x_center": 0.5234,
+      "y_center": 0.7577,
+      "box_width": 339.5,
+      "box_height": 43.5,
+      "reference": {
+        "score": 0.636,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 15.5,
+      "text": ". The hadi",
+      "confidence": 64.33,
+      "word_count": 3,
+      "x_center": 0.4229,
+      "y_center": 0.6975,
+      "box_width": 406.0,
+      "box_height": 53.0,
+      "reference": {
+        "score": 0.28,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 15.5,
+      "text": "already reached my",
+      "confidence": 96.0,
+      "word_count": 3,
+      "x_center": 0.4214,
+      "y_center": 0.7577,
+      "box_width": 241.5,
+      "box_height": 27.0,
+      "reference": {
+        "score": 0.6,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 15.75,
+      "text": "The had ®",
+      "confidence": 57.0,
+      "word_count": 3,
+      "x_center": 0.5516,
+      "y_center": 0.6981,
+      "box_width": 281.5,
+      "box_height": 50.5,
+      "reference": {
+        "score": 0.286,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 15.75,
+      "text": "eached my chest™ %",
+      "confidence": 56.0,
+      "word_count": 4,
+      "x_center": 0.7021,
+      "y_center": 0.7577,
+      "box_width": 286.0,
+      "box_height": 27.0,
+      "reference": {
+        "score": 0.526,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 16.5,
+      "text": "Lucian stood at",
+      "confidence": 96.0,
+      "word_count": 3,
+      "x_center": 0.5036,
+      "y_center": 0.7182,
+      "box_width": 187.5,
+      "box_height": 21.0,
+      "reference": {
+        "score": 0.441,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 16.5,
+      "text": "thebed \"\" %",
+      "confidence": 56.0,
+      "word_count": 3,
+      "x_center": 0.7708,
+      "y_center": 0.7547,
+      "box_width": 220.0,
+      "box_height": 24.5,
+      "reference": {
+        "score": 0.25,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 16.75,
+      "text": "thefoot of \\..",
+      "confidence": 60.0,
+      "word_count": 3,
+      "x_center": 0.6307,
+      "y_center": 0.7571,
+      "box_width": 354.5,
+      "box_height": 32.5,
+      "reference": {
+        "score": 0.192,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 17.0,
+      "text": "plan",
+      "confidence": 56.0,
+      "word_count": 1,
+      "x_center": 0.3781,
+      "y_center": 0.7005,
+      "box_width": 87.0,
+      "box_height": 43.0,
+      "reference": {
+        "score": 0.151,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 17.0,
+      "text": "‘the foot of thebed",
+      "confidence": 60.5,
+      "word_count": 4,
+      "x_center": 0.474,
+      "y_center": 0.7459,
+      "box_width": 223.0,
+      "box_height": 44.0,
+      "reference": {
+        "score": 0.394,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 17.5,
+      "text": "thé foot of",
+      "confidence": 73.67,
+      "word_count": 3,
+      "x_center": 0.3979,
+      "y_center": 0.7565,
+      "box_width": 131.0,
+      "box_height": 23.0,
+      "reference": {
+        "score": 0.192,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 17.5,
+      "text": "4 S",
+      "confidence": 81.5,
+      "word_count": 2,
+      "x_center": 0.6599,
+      "y_center": 0.8119,
+      "box_width": 286.5,
+      "box_height": 43.5,
+      "reference": {
+        "score": 0.089,
+        "matched_text": "The wolf bead had already reached my chest."
+      }
+    },
+    {
+      "timestamp": 17.75,
+      "text": "» i ex ‘ -",
+      "confidence": 54.4,
+      "word_count": 5,
+      "x_center": 0.4766,
+      "y_center": 0.6403,
+      "box_width": 377.5,
+      "box_height": 35.5,
+      "reference": {
+        "score": 0.113,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 17.75,
+      "text": "stood at...",
+      "confidence": 81.0,
+      "word_count": 2,
+      "x_center": 0.613,
+      "y_center": 0.7058,
+      "box_width": 118.5,
+      "box_height": 51.0,
+      "reference": {
+        "score": 0.262,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 17.75,
+      "text": "the foot of the:bed",
+      "confidence": 93.25,
+      "word_count": 4,
+      "x_center": 0.5042,
+      "y_center": 0.7506,
+      "box_width": 233.0,
+      "box_height": 40.0,
+      "reference": {
+        "score": 0.417,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 18.0,
+      "text": "eee",
+      "confidence": 36.0,
+      "word_count": 1,
+      "x_center": 0.6943,
+      "y_center": 0.5991,
+      "box_width": 293.5,
+      "box_height": 55.5,
+      "reference": {
+        "score": 0.115,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 18.0,
+      "text": "- a”",
+      "confidence": 46.0,
+      "word_count": 2,
+      "x_center": 0.3516,
+      "y_center": 0.661,
+      "box_width": 129.5,
+      "box_height": 19.0,
+      "reference": {
+        "score": 0.04,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 18.0,
+      "text": "and watched",
+      "confidence": 93.0,
+      "word_count": 2,
+      "x_center": 0.4068,
+      "y_center": 0.7022,
+      "box_width": 158.5,
+      "box_height": 46.0,
+      "reference": {
+        "score": 0.344,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 18.25,
+      "text": "Vi,",
+      "confidence": 46.0,
+      "word_count": 1,
+      "x_center": 0.6328,
+      "y_center": 0.6775,
+      "box_width": 75.5,
+      "box_height": 15.5,
+      "reference": {
+        "score": 0.078,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 18.25,
+      "text": "_ and watched mé go.,",
+      "confidence": 71.0,
+      "word_count": 5,
+      "x_center": 0.4818,
+      "y_center": 0.7058,
+      "box_width": 283.5,
+      "box_height": 48.5,
+      "reference": {
+        "score": 0.464,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 18.5,
+      "text": "and watched me go. |",
+      "confidence": 79.0,
+      "word_count": 5,
+      "x_center": 0.5115,
+      "y_center": 0.7164,
+      "box_width": 259.0,
+      "box_height": 34.0,
+      "reference": {
+        "score": 0.486,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 18.5,
+      "text": "~~\"",
+      "confidence": 46.0,
+      "word_count": 1,
+      "x_center": 0.9818,
+      "y_center": 0.783,
+      "box_width": 17.5,
+      "box_height": 12.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 18.5,
+      "text": "2 > |",
+      "confidence": 65.33,
+      "word_count": 3,
+      "x_center": 0.3115,
+      "y_center": 0.8001,
+      "box_width": 196.0,
+      "box_height": 26.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 18.5,
+      "text": "= - y",
+      "confidence": 70.67,
+      "word_count": 3,
+      "x_center": 0.3516,
+      "y_center": 0.852,
+      "box_width": 337.5,
+      "box_height": 21.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 18.75,
+      "text": "co aye",
+      "confidence": 62.0,
+      "word_count": 2,
+      "x_center": 0.4385,
+      "y_center": 0.6333,
+      "box_width": 412.0,
+      "box_height": 39.0,
+      "reference": {
+        "score": 0.169,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 18.75,
+      "text": "ws ‘te | Vint if ras",
+      "confidence": 50.33,
+      "word_count": 6,
+      "x_center": 0.4,
+      "y_center": 0.6557,
+      "box_width": 292.0,
+      "box_height": 44.0,
+      "reference": {
+        "score": 0.286,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 18.75,
+      "text": "a of 7",
+      "confidence": 49.33,
+      "word_count": 3,
+      "x_center": 0.6562,
+      "y_center": 0.786,
+      "box_width": 264.0,
+      "box_height": 71.0,
+      "reference": {
+        "score": 0.169,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 18.75,
+      "text": "es ra 3",
+      "confidence": 52.33,
+      "word_count": 3,
+      "x_center": 0.626,
+      "y_center": 0.8213,
+      "box_width": 268.0,
+      "box_height": 64.0,
+      "reference": {
+        "score": 0.214,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 19.0,
+      "text": "Ye A",
+      "confidence": 52.0,
+      "word_count": 2,
+      "x_center": 0.5219,
+      "y_center": 0.7506,
+      "box_width": 150.0,
+      "box_height": 25.0,
+      "reference": {
+        "score": 0.113,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 19.25,
+      "text": "22 tae",
+      "confidence": 40.0,
+      "word_count": 2,
+      "x_center": 0.2516,
+      "y_center": 0.6427,
+      "box_width": 231.5,
+      "box_height": 19.0,
+      "reference": {
+        "score": 0.145,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 19.25,
+      "text": "jv rr",
+      "confidence": 45.5,
+      "word_count": 2,
+      "x_center": 0.5609,
+      "y_center": 0.6616,
+      "box_width": 228.5,
+      "box_height": 12.5,
+      "reference": {
+        "score": 0.111,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 19.25,
+      "text": "Ves aK",
+      "confidence": 41.5,
+      "word_count": 2,
+      "x_center": 0.501,
+      "y_center": 0.6527,
+      "box_width": 450.0,
+      "box_height": 63.0,
+      "reference": {
+        "score": 0.218,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 19.25,
+      "text": "es gy",
+      "confidence": 48.5,
+      "word_count": 2,
+      "x_center": 0.5563,
+      "y_center": 0.7052,
+      "box_width": 103.0,
+      "box_height": 14.5,
+      "reference": {
+        "score": 0.148,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 19.5,
+      "text": "ol 4 tg",
+      "confidence": 53.67,
+      "word_count": 3,
+      "x_center": 0.1333,
+      "y_center": 0.5991,
+      "box_width": 50.0,
+      "box_height": 6.5,
+      "reference": {
+        "score": 0.214,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 19.5,
+      "text": "Mi oo",
+      "confidence": 40.0,
+      "word_count": 2,
+      "x_center": 0.6552,
+      "y_center": 0.6256,
+      "box_width": 217.0,
+      "box_height": 68.5,
+      "reference": {
+        "score": 0.148,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 19.5,
+      "text": "ie .",
+      "confidence": 40.0,
+      "word_count": 2,
+      "x_center": 0.6531,
+      "y_center": 0.6698,
+      "box_width": 304.0,
+      "box_height": 40.5,
+      "reference": {
+        "score": 0.078,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 19.5,
+      "text": "get",
+      "confidence": 57.0,
+      "word_count": 1,
+      "x_center": 0.388,
+      "y_center": 0.8455,
+      "box_width": 39.5,
+      "box_height": 38.5,
+      "reference": {
+        "score": 0.077,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 19.75,
+      "text": "as Ad,",
+      "confidence": 53.5,
+      "word_count": 2,
+      "x_center": 0.4599,
+      "y_center": 0.5991,
+      "box_width": 441.5,
+      "box_height": 15.0,
+      "reference": {
+        "score": 0.172,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 19.75,
+      "text": "Ge fp",
+      "confidence": 55.5,
+      "word_count": 2,
+      "x_center": 0.4484,
+      "y_center": 0.6486,
+      "box_width": 69.5,
+      "box_height": 22.5,
+      "reference": {
+        "score": 0.103,
+        "matched_text": "Lucian stood at the dend of the bed and watched me go."
+      }
+    },
+    {
+      "timestamp": 19.75,
+      "text": "Fe : ac Y he:",
+      "confidence": 55.2,
+      "word_count": 5,
+      "x_center": 0.401,
+      "y_center": 0.6757,
+      "box_width": 290.0,
+      "box_height": 22.0,
+      "reference": {
+        "score": 0.237,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 20.0,
+      "text": "= é",
+      "confidence": 36.5,
+      "word_count": 2,
+      "x_center": 0.7458,
+      "y_center": 0.5991,
+      "box_width": 228.0,
+      "box_height": 5.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 20.0,
+      "text": "All high-ranking blogd.",
+      "confidence": 83.33,
+      "word_count": 3,
+      "x_center": 0.5026,
+      "y_center": 0.7081,
+      "box_width": 275.5,
+      "box_height": 47.5,
+      "reference": {
+        "score": 0.535,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 20.0,
+      "text": "‘ cmt ¢",
+      "confidence": 50.33,
+      "word_count": 3,
+      "x_center": 0.7615,
+      "y_center": 0.8255,
+      "box_width": 139.0,
+      "box_height": 44.0,
+      "reference": {
+        "score": 0.167,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 20.0,
+      "text": "Me a",
+      "confidence": 56.5,
+      "word_count": 2,
+      "x_center": 0.5813,
+      "y_center": 0.8579,
+      "box_width": 223.0,
+      "box_height": 22.0,
+      "reference": {
+        "score": 0.162,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 20.25,
+      "text": "Thx, re .",
+      "confidence": 53.0,
+      "word_count": 3,
+      "x_center": 0.5542,
+      "y_center": 0.6621,
+      "box_width": 397.0,
+      "box_height": 13.5,
+      "reference": {
+        "score": 0.205,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 20.25,
+      "text": "A Ri 2",
+      "confidence": 58.67,
+      "word_count": 3,
+      "x_center": 0.2245,
+      "y_center": 0.704,
+      "box_width": 161.5,
+      "box_height": 17.0,
+      "reference": {
+        "score": 0.205,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 20.25,
+      "text": "_~ All high-ranking blood.",
+      "confidence": 84.25,
+      "word_count": 4,
+      "x_center": 0.4661,
+      "y_center": 0.7182,
+      "box_width": 310.5,
+      "box_height": 22.0,
+      "reference": {
+        "score": 0.563,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 20.5,
+      "text": "eo oye",
+      "confidence": 49.0,
+      "word_count": 2,
+      "x_center": 0.4922,
+      "y_center": 0.5991,
+      "box_width": 472.5,
+      "box_height": 74.5,
+      "reference": {
+        "score": 0.256,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 20.5,
+      "text": "i »* Ries",
+      "confidence": 52.67,
+      "word_count": 3,
+      "x_center": 0.2245,
+      "y_center": 0.7011,
+      "box_width": 160.5,
+      "box_height": 19.5,
+      "reference": {
+        "score": 0.308,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 20.75,
+      "text": "o 4) as = Ge",
+      "confidence": 56.8,
+      "word_count": 5,
+      "x_center": 0.5401,
+      "y_center": 0.6539,
+      "box_width": 409.5,
+      "box_height": 65.5,
+      "reference": {
+        "score": 0.238,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 20.75,
+      "text": "blo",
+      "confidence": 73.0,
+      "word_count": 1,
+      "x_center": 0.6729,
+      "y_center": 0.7488,
+      "box_width": 34.0,
+      "box_height": 10.0,
+      "reference": {
+        "score": 0.115,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 20.75,
+      "text": ": he",
+      "confidence": 47.5,
+      "word_count": 2,
+      "x_center": 0.5422,
+      "y_center": 0.9015,
+      "box_width": 142.5,
+      "box_height": 19.5,
+      "reference": {
+        "score": 0.114,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 21.0,
+      "text": "A * MS ¥,",
+      "confidence": 58.75,
+      "word_count": 4,
+      "x_center": 0.4292,
+      "y_center": 0.6963,
+      "box_width": 380.0,
+      "box_height": 23.5,
+      "reference": {
+        "score": 0.162,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 21.0,
+      "text": "blogd.",
+      "confidence": 89.0,
+      "word_count": 1,
+      "x_center": 0.712,
+      "y_center": 0.7182,
+      "box_width": 74.5,
+      "box_height": 23.5,
+      "reference": {
+        "score": 0.148,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 21.25,
+      "text": "se FAB",
+      "confidence": 38.0,
+      "word_count": 2,
+      "x_center": 0.2469,
+      "y_center": 0.5991,
+      "box_width": 159.0,
+      "box_height": 22.5,
+      "reference": {
+        "score": 0.182,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 21.25,
+      "text": "‘Ny eee,",
+      "confidence": 38.5,
+      "word_count": 2,
+      "x_center": 0.2604,
+      "y_center": 0.6468,
+      "box_width": 243.0,
+      "box_height": 30.5,
+      "reference": {
+        "score": 0.154,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 21.25,
+      "text": "a ee",
+      "confidence": 41.5,
+      "word_count": 2,
+      "x_center": 0.3948,
+      "y_center": 0.6757,
+      "box_width": 281.0,
+      "box_height": 13.0,
+      "reference": {
+        "score": 0.162,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 21.25,
+      "text": "»¢ .",
+      "confidence": 38.0,
+      "word_count": 2,
+      "x_center": 0.6062,
+      "y_center": 0.7553,
+      "box_width": 231.0,
+      "box_height": 22.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 21.25,
+      "text": "‘ ‘",
+      "confidence": 68.5,
+      "word_count": 2,
+      "x_center": 0.676,
+      "y_center": 0.8921,
+      "box_width": 51.0,
+      "box_height": 15.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 21.5,
+      "text": "Tr ougn. .",
+      "confidence": 70.33,
+      "word_count": 3,
+      "x_center": 0.6219,
+      "y_center": 0.7246,
+      "box_width": 295.0,
+      "box_height": 16.0,
+      "reference": {
+        "score": 0.25,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 21.5,
+      "text": "hs. i",
+      "confidence": 60.5,
+      "word_count": 2,
+      "x_center": 0.4911,
+      "y_center": 0.8538,
+      "box_width": 136.5,
+      "box_height": 29.5,
+      "reference": {
+        "score": 0.113,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 21.75,
+      "text": "| Wy pe",
+      "confidence": 50.33,
+      "word_count": 3,
+      "x_center": 0.3667,
+      "y_center": 0.6427,
+      "box_width": 306.0,
+      "box_height": 22.5,
+      "reference": {
+        "score": 0.158,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 21.75,
+      "text": "bt ou",
+      "confidence": 79.0,
+      "word_count": 2,
+      "x_center": 0.4615,
+      "y_center": 0.7246,
+      "box_width": 141.0,
+      "box_height": 15.5,
+      "reference": {
+        "score": 0.211,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 21.75,
+      "text": "a A &",
+      "confidence": 66.33,
+      "word_count": 3,
+      "x_center": 0.7469,
+      "y_center": 0.7695,
+      "box_width": 111.0,
+      "box_height": 27.0,
+      "reference": {
+        "score": 0.167,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 22.0,
+      "text": "a = SN",
+      "confidence": 47.33,
+      "word_count": 3,
+      "x_center": 0.5813,
+      "y_center": 0.5991,
+      "box_width": 402.0,
+      "box_height": 32.5,
+      "reference": {
+        "score": 0.162,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 22.0,
+      "text": "vf => >",
+      "confidence": 56.0,
+      "word_count": 3,
+      "x_center": 0.5547,
+      "y_center": 0.6185,
+      "box_width": 315.5,
+      "box_height": 37.5,
+      "reference": {
+        "score": 0.039,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 22.0,
+      "text": "Sb eh",
+      "confidence": 54.0,
+      "word_count": 2,
+      "x_center": 0.6302,
+      "y_center": 0.717,
+      "box_width": 94.0,
+      "box_height": 21.0,
+      "reference": {
+        "score": 0.185,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 22.0,
+      "text": "2 . =",
+      "confidence": 48.0,
+      "word_count": 3,
+      "x_center": 0.0745,
+      "y_center": 0.8237,
+      "box_width": 53.5,
+      "box_height": 16.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 22.0,
+      "text": "oo q >",
+      "confidence": 71.67,
+      "word_count": 3,
+      "x_center": 0.2266,
+      "y_center": 0.8673,
+      "box_width": 191.5,
+      "box_height": 15.5,
+      "reference": {
+        "score": 0.113,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 22.5,
+      "text": "e 4 ~~, > ~ =",
+      "confidence": 68.17,
+      "word_count": 6,
+      "x_center": 0.5479,
+      "y_center": 0.6256,
+      "box_width": 306.0,
+      "box_height": 20.5,
+      "reference": {
+        "score": 0.111,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 22.5,
+      "text": "4 if",
+      "confidence": 64.0,
+      "word_count": 2,
+      "x_center": 0.7635,
+      "y_center": 0.6728,
+      "box_width": 224.0,
+      "box_height": 42.5,
+      "reference": {
+        "score": 0.108,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 22.5,
+      "text": "<~ \\",
+      "confidence": 51.5,
+      "word_count": 2,
+      "x_center": 0.4953,
+      "y_center": 0.8367,
+      "box_width": 475.5,
+      "box_height": 21.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 22.5,
+      "text": "> “",
+      "confidence": 68.5,
+      "word_count": 2,
+      "x_center": 0.2693,
+      "y_center": 0.8603,
+      "box_width": 50.5,
+      "box_height": 14.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 22.5,
+      "text": "Pee",
+      "confidence": 35.0,
+      "word_count": 1,
+      "x_center": 0.2495,
+      "y_center": 0.9304,
+      "box_width": 35.5,
+      "box_height": 25.0,
+      "reference": {
+        "score": 0.167,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 22.75,
+      "text": ">} i =",
+      "confidence": 61.0,
+      "word_count": 3,
+      "x_center": 0.5927,
+      "y_center": 0.6651,
+      "box_width": 356.0,
+      "box_height": 44.5,
+      "reference": {
+        "score": 0.059,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 22.75,
+      "text": "to speal",
+      "confidence": 92.0,
+      "word_count": 2,
+      "x_center": 0.5667,
+      "y_center": 0.7152,
+      "box_width": 95.0,
+      "box_height": 26.0,
+      "reference": {
+        "score": 0.341,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 23.0,
+      "text": "foo ay\" ‘py",
+      "confidence": 43.33,
+      "word_count": 3,
+      "x_center": 0.713,
+      "y_center": 0.6509,
+      "box_width": 251.5,
+      "box_height": 93.5,
+      "reference": {
+        "score": 0.19,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 23.0,
+      "text": ", a",
+      "confidence": 56.5,
+      "word_count": 2,
+      "x_center": 0.6615,
+      "y_center": 0.7624,
+      "box_width": 109.0,
+      "box_height": 10.0,
+      "reference": {
+        "score": 0.059,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 23.5,
+      "text": "AS \\",
+      "confidence": 62.5,
+      "word_count": 2,
+      "x_center": 0.6651,
+      "y_center": 0.5991,
+      "box_width": 321.5,
+      "box_height": 37.0,
+      "reference": {
+        "score": 0.078,
+        "matched_text": "Seven pups, whole high-ranking blood. That's enough."
+      }
+    },
+    {
+      "timestamp": 23.5,
+      "text": "“ea.",
+      "confidence": 51.0,
+      "word_count": 1,
+      "x_center": 0.1193,
+      "y_center": 0.8302,
+      "box_width": 42.5,
+      "box_height": 8.5,
+      "reference": {
+        "score": 0.114,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 23.75,
+      "text": "‘> a, aed",
+      "confidence": 48.33,
+      "word_count": 3,
+      "x_center": 0.3573,
+      "y_center": 0.6539,
+      "box_width": 156.0,
+      "box_height": 30.0,
+      "reference": {
+        "score": 0.158,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 23.75,
+      "text": "ak) ~> SS",
+      "confidence": 52.33,
+      "word_count": 3,
+      "x_center": 0.2094,
+      "y_center": 0.8296,
+      "box_width": 201.0,
+      "box_height": 54.0,
+      "reference": {
+        "score": 0.158,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 23.75,
+      "text": "? - P",
+      "confidence": 45.67,
+      "word_count": 3,
+      "x_center": 0.2224,
+      "y_center": 0.8803,
+      "box_width": 197.5,
+      "box_height": 54.0,
+      "reference": {
+        "score": 0.059,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 24.0,
+      "text": "t. \\",
+      "confidence": 42.5,
+      "word_count": 2,
+      "x_center": 0.3135,
+      "y_center": 0.6303,
+      "box_width": 89.0,
+      "box_height": 19.5,
+      "reference": {
+        "score": 0.059,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 24.0,
+      "text": "ie 44 VES",
+      "confidence": 56.33,
+      "word_count": 3,
+      "x_center": 0.5948,
+      "y_center": 0.6704,
+      "box_width": 182.0,
+      "box_height": 36.0,
+      "reference": {
+        "score": 0.238,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 24.0,
+      "text": "2 ii",
+      "confidence": 53.0,
+      "word_count": 2,
+      "x_center": 0.3484,
+      "y_center": 0.8037,
+      "box_width": 215.5,
+      "box_height": 24.5,
+      "reference": {
+        "score": 0.162,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 24.0,
+      "text": "08 | C a",
+      "confidence": 48.25,
+      "word_count": 4,
+      "x_center": 0.5,
+      "y_center": 0.8267,
+      "box_width": 480.0,
+      "box_height": 52.5,
+      "reference": {
+        "score": 0.154,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 24.0,
+      "text": "_— ef ;",
+      "confidence": 58.0,
+      "word_count": 3,
+      "x_center": 0.3714,
+      "y_center": 0.9322,
+      "box_width": 299.5,
+      "box_height": 23.5,
+      "reference": {
+        "score": 0.057,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 24.25,
+      "text": "a , ” So *",
+      "confidence": 47.6,
+      "word_count": 5,
+      "x_center": 0.5802,
+      "y_center": 0.625,
+      "box_width": 371.0,
+      "box_height": 34.0,
+      "reference": {
+        "score": 0.162,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 24.25,
+      "text": "Li ‘ >",
+      "confidence": 56.33,
+      "word_count": 3,
+      "x_center": 0.8401,
+      "y_center": 0.6958,
+      "box_width": 130.5,
+      "box_height": 13.0,
+      "reference": {
+        "score": 0.057,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 24.25,
+      "text": "? 4 -_",
+      "confidence": 59.33,
+      "word_count": 3,
+      "x_center": 0.6672,
+      "y_center": 0.8284,
+      "box_width": 273.5,
+      "box_height": 15.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 24.25,
+      "text": "th nin,",
+      "confidence": 39.0,
+      "word_count": 2,
+      "x_center": 0.7422,
+      "y_center": 0.8868,
+      "box_width": 66.5,
+      "box_height": 11.0,
+      "reference": {
+        "score": 0.261,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 24.5,
+      "text": "i >",
+      "confidence": 65.5,
+      "word_count": 2,
+      "x_center": 0.6927,
+      "y_center": 0.8184,
+      "box_width": 257.0,
+      "box_height": 30.5,
+      "reference": {
+        "score": 0.059,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 24.75,
+      "text": "- bi, A =",
+      "confidence": 52.75,
+      "word_count": 4,
+      "x_center": 0.5729,
+      "y_center": 0.6657,
+      "box_width": 301.0,
+      "box_height": 19.0,
+      "reference": {
+        "score": 0.162,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 25.0,
+      "text": "*, Prt, ~f",
+      "confidence": 46.67,
+      "word_count": 3,
+      "x_center": 0.3661,
+      "y_center": 0.6468,
+      "box_width": 260.5,
+      "box_height": 27.5,
+      "reference": {
+        "score": 0.158,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 25.25,
+      "text": "emp",
+      "confidence": 41.0,
+      "word_count": 1,
+      "x_center": 0.3594,
+      "y_center": 0.6987,
+      "box_width": 145.0,
+      "box_height": 21.5,
+      "reference": {
+        "score": 0.111,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 25.5,
+      "text": "~ -",
+      "confidence": 61.5,
+      "word_count": 2,
+      "x_center": 0.5172,
+      "y_center": 0.5991,
+      "box_width": 144.5,
+      "box_height": 16.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 26.25,
+      "text": "% ~f",
+      "confidence": 50.0,
+      "word_count": 2,
+      "x_center": 0.4708,
+      "y_center": 0.6439,
+      "box_width": 156.0,
+      "box_height": 29.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 26.25,
+      "text": "4 J",
+      "confidence": 79.0,
+      "word_count": 2,
+      "x_center": 0.3328,
+      "y_center": 0.7093,
+      "box_width": 84.5,
+      "box_height": 6.0,
+      "reference": {
+        "score": 0.056,
+        "matched_text": "I tried to speak. Nothing came out."
+      }
+    },
+    {
+      "timestamp": 26.25,
+      "text": "~ the or ad",
+      "confidence": 78.5,
+      "word_count": 4,
+      "x_center": 0.3505,
+      "y_center": 0.76,
+      "box_width": 336.5,
+      "box_height": 47.5,
+      "reference": {
+        "score": 0.327,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 26.5,
+      "text": "ae, * VW",
+      "confidence": 49.0,
+      "word_count": 3,
+      "x_center": 0.6182,
+      "y_center": 0.5991,
+      "box_width": 244.5,
+      "box_height": 9.5,
+      "reference": {
+        "score": 0.178,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 26.5,
+      "text": "a Ye",
+      "confidence": 60.5,
+      "word_count": 2,
+      "x_center": 0.3734,
+      "y_center": 0.7028,
+      "box_width": 123.5,
+      "box_height": 13.0,
+      "reference": {
+        "score": 0.136,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 26.5,
+      "text": "ever",
+      "confidence": 83.0,
+      "word_count": 1,
+      "x_center": 0.6453,
+      "y_center": 0.7246,
+      "box_width": 54.5,
+      "box_height": 15.5,
+      "reference": {
+        "score": 0.182,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 26.5,
+      "text": "NS 7",
+      "confidence": 52.0,
+      "word_count": 2,
+      "x_center": 0.8203,
+      "y_center": 0.8998,
+      "box_width": 117.5,
+      "box_height": 45.5,
+      "reference": {
+        "score": 0.091,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 26.75,
+      "text": "= 2",
+      "confidence": 41.5,
+      "word_count": 2,
+      "x_center": 0.8422,
+      "y_center": 0.5991,
+      "box_width": 127.5,
+      "box_height": 51.0,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 26.75,
+      "text": "You were never",
+      "confidence": 93.33,
+      "word_count": 3,
+      "x_center": 0.5005,
+      "y_center": 0.7199,
+      "box_width": 193.5,
+      "box_height": 26.0,
+      "reference": {
+        "score": 0.519,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 27.0,
+      "text": "% i = | =. =",
+      "confidence": 52.17,
+      "word_count": 6,
+      "x_center": 0.5286,
+      "y_center": 0.6562,
+      "box_width": 433.5,
+      "box_height": 36.5,
+      "reference": {
+        "score": 0.049,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 27.0,
+      "text": "youl wir",
+      "confidence": 54.5,
+      "word_count": 2,
+      "x_center": 0.4401,
+      "y_center": 0.6963,
+      "box_width": 68.5,
+      "box_height": 23.5,
+      "reference": {
+        "score": 0.25,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 27.0,
+      "text": "ou were",
+      "confidence": 77.5,
+      "word_count": 2,
+      "x_center": 0.4198,
+      "y_center": 0.7199,
+      "box_width": 116.0,
+      "box_height": 27.5,
+      "reference": {
+        "score": 0.298,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 27.0,
+      "text": "4 aa",
+      "confidence": 65.5,
+      "word_count": 2,
+      "x_center": 0.6833,
+      "y_center": 0.7895,
+      "box_width": 303.0,
+      "box_height": 21.0,
+      "reference": {
+        "score": 0.091,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 27.25,
+      "text": "You were never =",
+      "confidence": 82.0,
+      "word_count": 4,
+      "x_center": 0.5354,
+      "y_center": 0.7199,
+      "box_width": 227.0,
+      "box_height": 28.0,
+      "reference": {
+        "score": 0.519,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 27.25,
+      "text": "WARS",
+      "confidence": 43.0,
+      "word_count": 1,
+      "x_center": 0.6047,
+      "y_center": 0.8225,
+      "box_width": 355.5,
+      "box_height": 70.5,
+      "reference": {
+        "score": 0.231,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 27.5,
+      "text": ". ij",
+      "confidence": 42.5,
+      "word_count": 2,
+      "x_center": 0.6672,
+      "y_center": 0.6002,
+      "box_width": 255.5,
+      "box_height": 19.5,
+      "reference": {
+        "score": 0.083,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 27.5,
+      "text": "Youwerenever _",
+      "confidence": 77.0,
+      "word_count": 2,
+      "x_center": 0.5349,
+      "y_center": 0.7129,
+      "box_width": 226.5,
+      "box_height": 31.0,
+      "reference": {
+        "score": 0.462,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 27.5,
+      "text": "the o ad",
+      "confidence": 89.33,
+      "word_count": 3,
+      "x_center": 0.4865,
+      "y_center": 0.7642,
+      "box_width": 206.0,
+      "box_height": 19.5,
+      "reference": {
+        "score": 0.333,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 27.75,
+      "text": "= . => — { y",
+      "confidence": 64.33,
+      "word_count": 6,
+      "x_center": 0.4229,
+      "y_center": 0.6627,
+      "box_width": 205.0,
+      "box_height": 30.5,
+      "reference": {
+        "score": 0.049,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 27.75,
+      "text": "‘ a cA",
+      "confidence": 68.33,
+      "word_count": 3,
+      "x_center": 0.4755,
+      "y_center": 0.691,
+      "box_width": 222.5,
+      "box_height": 31.0,
+      "reference": {
+        "score": 0.091,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 27.75,
+      "text": "Vivienne. + wal",
+      "confidence": 52.33,
+      "word_count": 3,
+      "x_center": 0.6911,
+      "y_center": 0.7182,
+      "box_width": 296.5,
+      "box_height": 31.0,
+      "reference": {
+        "score": 0.412,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 28.0,
+      "text": "pee — ” 4",
+      "confidence": 48.0,
+      "word_count": 4,
+      "x_center": 0.4891,
+      "y_center": 0.6728,
+      "box_width": 268.5,
+      "box_height": 33.5,
+      "reference": {
+        "score": 0.148,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 28.0,
+      "text": "~~\"",
+      "confidence": 38.0,
+      "word_count": 1,
+      "x_center": 0.5401,
+      "y_center": 0.944,
+      "box_width": 25.5,
+      "box_height": 13.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 28.25,
+      "text": "Tei ee Ss",
+      "confidence": 42.0,
+      "word_count": 3,
+      "x_center": 0.3198,
+      "y_center": 0.6916,
+      "box_width": 244.0,
+      "box_height": 33.0,
+      "reference": {
+        "score": 0.258,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 28.25,
+      "text": ">. > Mivienne> As",
+      "confidence": 47.75,
+      "word_count": 4,
+      "x_center": 0.3964,
+      "y_center": 0.7182,
+      "box_width": 380.5,
+      "box_height": 31.5,
+      "reference": {
+        "score": 0.364,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 28.25,
+      "text": "ST a4",
+      "confidence": 52.5,
+      "word_count": 2,
+      "x_center": 0.325,
+      "y_center": 0.7471,
+      "box_width": 312.0,
+      "box_height": 18.5,
+      "reference": {
+        "score": 0.296,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 28.5,
+      "text": "ae, poet .",
+      "confidence": 48.0,
+      "word_count": 3,
+      "x_center": 0.4349,
+      "y_center": 0.6586,
+      "box_width": 327.5,
+      "box_height": 43.0,
+      "reference": {
+        "score": 0.213,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 28.5,
+      "text": "aor = Kee",
+      "confidence": 58.67,
+      "word_count": 3,
+      "x_center": 0.4146,
+      "y_center": 0.8373,
+      "box_width": 390.0,
+      "box_height": 13.0,
+      "reference": {
+        "score": 0.213,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 28.75,
+      "text": "+ “aes",
+      "confidence": 42.5,
+      "word_count": 2,
+      "x_center": 0.7948,
+      "y_center": 0.6787,
+      "box_width": 186.0,
+      "box_height": 14.5,
+      "reference": {
+        "score": 0.16,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 28.75,
+      "text": "fas",
+      "confidence": 37.0,
+      "word_count": 1,
+      "x_center": 0.8609,
+      "y_center": 0.77,
+      "box_width": 128.5,
+      "box_height": 24.0,
+      "reference": {
+        "score": 0.08,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 28.75,
+      "text": ">) ae aa",
+      "confidence": 40.0,
+      "word_count": 3,
+      "x_center": 0.412,
+      "y_center": 0.7919,
+      "box_width": 308.5,
+      "box_height": 13.5,
+      "reference": {
+        "score": 0.222,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 28.75,
+      "text": "= : ra",
+      "confidence": 54.0,
+      "word_count": 3,
+      "x_center": 0.5427,
+      "y_center": 0.8491,
+      "box_width": 309.0,
+      "box_height": 9.0,
+      "reference": {
+        "score": 0.095,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 28.75,
+      "text": "i) NS ee Rs",
+      "confidence": 40.0,
+      "word_count": 4,
+      "x_center": 0.5495,
+      "y_center": 0.8886,
+      "box_width": 422.5,
+      "box_height": 24.0,
+      "reference": {
+        "score": 0.375,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 28.75,
+      "text": "od Nee ae",
+      "confidence": 43.0,
+      "word_count": 3,
+      "x_center": 0.4714,
+      "y_center": 0.9116,
+      "box_width": 329.5,
+      "box_height": 16.0,
+      "reference": {
+        "score": 0.327,
+        "matched_text": "You were never the one I wanted Vivienne."
+      }
+    },
+    {
+      "timestamp": 28.75,
+      "text": "=) Le | = 2S",
+      "confidence": 56.8,
+      "word_count": 5,
+      "x_center": 0.4938,
+      "y_center": 0.921,
+      "box_width": 434.0,
+      "box_height": 20.5,
+      "reference": {
+        "score": 0.148,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 29.0,
+      "text": "ae ‘ ¥. Ce,",
+      "confidence": 47.0,
+      "word_count": 4,
+      "x_center": 0.7219,
+      "y_center": 0.7883,
+      "box_width": 250.0,
+      "box_height": 36.0,
+      "reference": {
+        "score": 0.222,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 29.0,
+      "text": "tz Wes",
+      "confidence": 60.5,
+      "word_count": 2,
+      "x_center": 0.7714,
+      "y_center": 0.9051,
+      "box_width": 216.5,
+      "box_height": 27.5,
+      "reference": {
+        "score": 0.286,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 29.25,
+      "text": "x “ = ;",
+      "confidence": 46.25,
+      "word_count": 4,
+      "x_center": 0.6958,
+      "y_center": 0.839,
+      "box_width": 253.0,
+      "box_height": 65.5,
+      "reference": {
+        "score": 0.0,
+        "matched_text": null
+      }
+    },
+    {
+      "timestamp": 29.25,
+      "text": "De NSE.",
+      "confidence": 40.0,
+      "word_count": 2,
+      "x_center": 0.5068,
+      "y_center": 0.9263,
+      "box_width": 72.5,
+      "box_height": 26.5,
+      "reference": {
+        "score": 0.286,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 29.5,
+      "text": "| Ee",
+      "confidence": 44.0,
+      "word_count": 2,
+      "x_center": 0.7719,
+      "y_center": 0.6397,
+      "box_width": 219.0,
+      "box_height": 62.5,
+      "reference": {
+        "score": 0.167,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 29.5,
+      "text": "Si, \"His voice didn’t we ver |",
+      "confidence": 63.0,
+      "word_count": 7,
+      "x_center": 0.4922,
+      "y_center": 0.7022,
+      "box_width": 370.5,
+      "box_height": 60.0,
+      "reference": {
+        "score": 0.833,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 29.75,
+      "text": "voice didn't waver. -™, °",
+      "confidence": 71.8,
+      "word_count": 5,
+      "x_center": 0.6177,
+      "y_center": 0.7182,
+      "box_width": 313.0,
+      "box_height": 29.0,
+      "reference": {
+        "score": 0.9,
+        "matched_text": "His voice didn't waver."
+      }
+    },
+    {
+      "timestamp": 29.75,
+      "text": "Sys Pa AS",
+      "confidence": 43.67,
+      "word_count": 3,
+      "x_center": 0.3036,
+      "y_center": 0.8721,
+      "box_width": 200.5,
+      "box_height": 35.5,
+      "reference": {
+        "score": 0.194,
+        "matched_text": "His voice didn't waver."
+      }
+    }
+  ],
+  "subtitle_cues_data": [
+    {
+      "cue_id": "OCR_0001",
+      "start_seconds": 0.75,
+      "end_seconds": 1.0,
+      "text": "> a",
+      "confidence": 61.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0002",
+      "start_seconds": 3.75,
+      "end_seconds": 4.0,
+      "text": "= | Se",
+      "confidence": 61.67,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0003",
+      "start_seconds": 3.75,
+      "end_seconds": 4.0,
+      "text": "= ae",
+      "confidence": 56.5,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0004",
+      "start_seconds": 3.75,
+      "end_seconds": 4.0,
+      "text": "> fs 1",
+      "confidence": 38.67,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0005",
+      "start_seconds": 3.75,
+      "end_seconds": 4.0,
+      "text": "a {",
+      "confidence": 70.5,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0006",
+      "start_seconds": 4.0,
+      "end_seconds": 5.25,
+      "text": "\\ ,",
+      "confidence": 62.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 3
+    },
+    {
+      "cue_id": "OCR_0007",
+      "start_seconds": 4.0,
+      "end_seconds": 4.25,
+      "text": ". a PS",
+      "confidence": 39.33,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0008",
+      "start_seconds": 4.25,
+      "end_seconds": 4.5,
+      "text": "= lid e ;",
+      "confidence": 55.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0009",
+      "start_seconds": 4.25,
+      "end_seconds": 4.5,
+      "text": "af 5 1",
+      "confidence": 49.67,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0010",
+      "start_seconds": 4.25,
+      "end_seconds": 4.5,
+      "text": ". 4 >",
+      "confidence": 72.33,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0011",
+      "start_seconds": 4.5,
+      "end_seconds": 4.75,
+      "text": "7 VE |",
+      "confidence": 59.33,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0012",
+      "start_seconds": 4.5,
+      "end_seconds": 4.75,
+      "text": "wa on",
+      "confidence": 57.5,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0013",
+      "start_seconds": 4.75,
+      "end_seconds": 5.0,
+      "text": "oy > > z=",
+      "confidence": 53.25,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0014",
+      "start_seconds": 4.75,
+      "end_seconds": 5.0,
+      "text": ", d",
+      "confidence": 58.5,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0015",
+      "start_seconds": 5.0,
+      "end_seconds": 5.25,
+      "text": "! mM |",
+      "confidence": 56.33,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0016",
+      "start_seconds": 5.0,
+      "end_seconds": 5.25,
+      "text": "Av “a a",
+      "confidence": 47.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0017",
+      "start_seconds": 5.0,
+      "end_seconds": 5.25,
+      "text": "ice",
+      "confidence": 37.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0018",
+      "start_seconds": 5.25,
+      "end_seconds": 5.5,
+      "text": "i Z",
+      "confidence": 66.5,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0019",
+      "start_seconds": 5.5,
+      "end_seconds": 5.75,
+      "text": "PS Pe *",
+      "confidence": 40.33,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0020",
+      "start_seconds": 5.5,
+      "end_seconds": 5.75,
+      "text": "me Ao Ladd",
+      "confidence": 44.67,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0021",
+      "start_seconds": 5.5,
+      "end_seconds": 5.75,
+      "text": "Ses",
+      "confidence": 58.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0022",
+      "start_seconds": 5.75,
+      "end_seconds": 6.0,
+      "text": "i/@",
+      "confidence": 81.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0023",
+      "start_seconds": 5.75,
+      "end_seconds": 6.0,
+      "text": "j 4) f -«t",
+      "confidence": 65.5,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0024",
+      "start_seconds": 6.25,
+      "end_seconds": 6.5,
+      "text": "q —_ *",
+      "confidence": 64.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0025",
+      "start_seconds": 6.5,
+      "end_seconds": 6.75,
+      "text": "} | \\",
+      "confidence": 56.67,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0026",
+      "start_seconds": 7.75,
+      "end_seconds": 8.0,
+      "text": "i = 7",
+      "confidence": 61.33,
+      "reference_match_score": 0.061,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0027",
+      "start_seconds": 8.25,
+      "end_seconds": 8.5,
+      "text": "7 =",
+      "confidence": 69.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0028",
+      "start_seconds": 8.75,
+      "end_seconds": 9.0,
+      "text": "= — =",
+      "confidence": 71.67,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0029",
+      "start_seconds": 8.75,
+      "end_seconds": 9.0,
+      "text": "Pea",
+      "confidence": 38.0,
+      "reference_match_score": 0.061,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0030",
+      "start_seconds": 8.75,
+      "end_seconds": 9.0,
+      "text": "4 |",
+      "confidence": 58.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0031",
+      "start_seconds": 9.0,
+      "end_seconds": 9.25,
+      "text": "“whee",
+      "confidence": 35.0,
+      "reference_match_score": 0.09,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0032",
+      "start_seconds": 9.5,
+      "end_seconds": 11.25,
+      "text": "The third bowl",
+      "confidence": 96.0,
+      "reference_match_score": 0.364,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "detections": 4
+    },
+    {
+      "cue_id": "OCR_0033",
+      "start_seconds": 9.5,
+      "end_seconds": 10.75,
+      "text": "tasted like rot:",
+      "confidence": 96.0,
+      "reference_match_score": 0.385,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "detections": 5
+    },
+    {
+      "cue_id": "OCR_0034",
+      "start_seconds": 10.5,
+      "end_seconds": 10.75,
+      "text": "onl",
+      "confidence": 62.0,
+      "reference_match_score": 0.091,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0035",
+      "start_seconds": 11.5,
+      "end_seconds": 12.75,
+      "text": "I couldn't fee",
+      "confidence": 93.33,
+      "reference_match_score": 0.364,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "detections": 5
+    },
+    {
+      "cue_id": "OCR_0036",
+      "start_seconds": 11.5,
+      "end_seconds": 11.75,
+      "text": "2 -* 7",
+      "confidence": 66.33,
+      "reference_match_score": 0.044,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0037",
+      "start_seconds": 11.75,
+      "end_seconds": 12.0,
+      "text": "? — -",
+      "confidence": 66.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0038",
+      "start_seconds": 11.75,
+      "end_seconds": 13.0,
+      "text": "hands a",
+      "confidence": 85.0,
+      "reference_match_score": 0.204,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 3
+    },
+    {
+      "cue_id": "OCR_0039",
+      "start_seconds": 11.75,
+      "end_seconds": 12.0,
+      "text": "om »",
+      "confidence": 65.0,
+      "reference_match_score": 0.091,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0040",
+      "start_seconds": 11.75,
+      "end_seconds": 12.0,
+      "text": "Oy MT",
+      "confidence": 54.0,
+      "reference_match_score": 0.213,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0041",
+      "start_seconds": 12.0,
+      "end_seconds": 13.25,
+      "text": "€ a",
+      "confidence": 87.0,
+      "reference_match_score": 0.047,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0042",
+      "start_seconds": 12.25,
+      "end_seconds": 12.75,
+      "text": "hands anymore.",
+      "confidence": 95.5,
+      "reference_match_score": 0.342,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0043",
+      "start_seconds": 12.25,
+      "end_seconds": 12.5,
+      "text": "Ss)",
+      "confidence": 41.0,
+      "reference_match_score": 0.062,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0044",
+      "start_seconds": 12.25,
+      "end_seconds": 12.5,
+      "text": "mee)",
+      "confidence": 39.0,
+      "reference_match_score": 0.089,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0045",
+      "start_seconds": 12.5,
+      "end_seconds": 12.75,
+      "text": "——_ eae",
+      "confidence": 40.5,
+      "reference_match_score": 0.133,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0046",
+      "start_seconds": 12.5,
+      "end_seconds": 12.75,
+      "text": "(ne i>)",
+      "confidence": 47.5,
+      "reference_match_score": 0.09,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0047",
+      "start_seconds": 12.75,
+      "end_seconds": 13.25,
+      "text": "I couldn't feel",
+      "confidence": 93.33,
+      "reference_match_score": 0.385,
+      "reference_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0048",
+      "start_seconds": 13.0,
+      "end_seconds": 13.25,
+      "text": "= ™ <",
+      "confidence": 66.33,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0049",
+      "start_seconds": 13.0,
+      "end_seconds": 13.25,
+      "text": "hands _",
+      "confidence": 69.5,
+      "reference_match_score": 0.17,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0050",
+      "start_seconds": 13.5,
+      "end_seconds": 13.75,
+      "text": "Ls aS",
+      "confidence": 62.0,
+      "reference_match_score": 0.17,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0051",
+      "start_seconds": 13.5,
+      "end_seconds": 13.75,
+      "text": "2 a",
+      "confidence": 61.5,
+      "reference_match_score": 0.089,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0052",
+      "start_seconds": 13.75,
+      "end_seconds": 14.25,
+      "text": "LES wolfsbane .",
+      "confidence": 66.0,
+      "reference_match_score": 0.255,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0053",
+      "start_seconds": 13.75,
+      "end_seconds": 14.5,
+      "text": "already reached my chest Vv",
+      "confidence": 83.6,
+      "reference_match_score": 0.696,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 3
+    },
+    {
+      "cue_id": "OCR_0054",
+      "start_seconds": 14.0,
+      "end_seconds": 14.25,
+      "text": "wan tic 4",
+      "confidence": 57.67,
+      "reference_match_score": 0.194,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0055",
+      "start_seconds": 14.0,
+      "end_seconds": 14.25,
+      "text": "~~ re",
+      "confidence": 47.0,
+      "reference_match_score": 0.091,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0056",
+      "start_seconds": 14.25,
+      "end_seconds": 14.5,
+      "text": "€ Ne _",
+      "confidence": 52.0,
+      "reference_match_score": 0.073,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0057",
+      "start_seconds": 14.25,
+      "end_seconds": 14.5,
+      "text": "The wolfsba",
+      "confidence": 91.5,
+      "reference_match_score": 0.34,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0058",
+      "start_seconds": 14.5,
+      "end_seconds": 15.5,
+      "text": "The",
+      "confidence": 97.0,
+      "reference_match_score": 0.133,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0059",
+      "start_seconds": 14.5,
+      "end_seconds": 14.75,
+      "text": "> my chest™",
+      "confidence": 66.0,
+      "reference_match_score": 0.32,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0060",
+      "start_seconds": 14.75,
+      "end_seconds": 15.0,
+      "text": "ae had",
+      "confidence": 57.5,
+      "reference_match_score": 0.208,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0061",
+      "start_seconds": 14.75,
+      "end_seconds": 15.0,
+      "text": "<& a my %",
+      "confidence": 77.0,
+      "reference_match_score": 0.174,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0062",
+      "start_seconds": 15.0,
+      "end_seconds": 16.0,
+      "text": ". The ha de®",
+      "confidence": 81.25,
+      "reference_match_score": 0.353,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 3
+    },
+    {
+      "cue_id": "OCR_0063",
+      "start_seconds": 15.0,
+      "end_seconds": 15.75,
+      "text": "already reached my",
+      "confidence": 96.0,
+      "reference_match_score": 0.6,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0064",
+      "start_seconds": 15.25,
+      "end_seconds": 15.5,
+      "text": "alread reat ned my chest™",
+      "confidence": 78.4,
+      "reference_match_score": 0.636,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0065",
+      "start_seconds": 15.75,
+      "end_seconds": 16.0,
+      "text": "eached my chest™ %",
+      "confidence": 56.0,
+      "reference_match_score": 0.526,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0066",
+      "start_seconds": 16.5,
+      "end_seconds": 16.75,
+      "text": "Lucian stood at",
+      "confidence": 96.0,
+      "reference_match_score": 0.441,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0067",
+      "start_seconds": 16.5,
+      "end_seconds": 16.75,
+      "text": "thebed \"\" %",
+      "confidence": 56.0,
+      "reference_match_score": 0.25,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0068",
+      "start_seconds": 16.75,
+      "end_seconds": 17.75,
+      "text": "thé foot of",
+      "confidence": 73.67,
+      "reference_match_score": 0.192,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0069",
+      "start_seconds": 17.0,
+      "end_seconds": 17.25,
+      "text": "plan",
+      "confidence": 56.0,
+      "reference_match_score": 0.151,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0070",
+      "start_seconds": 17.0,
+      "end_seconds": 18.0,
+      "text": "the foot of the:bed",
+      "confidence": 93.25,
+      "reference_match_score": 0.417,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0071",
+      "start_seconds": 17.5,
+      "end_seconds": 17.75,
+      "text": "4 S",
+      "confidence": 81.5,
+      "reference_match_score": 0.089,
+      "reference_text": "The wolf bead had already reached my chest.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0072",
+      "start_seconds": 17.75,
+      "end_seconds": 18.0,
+      "text": "» i ex ‘ -",
+      "confidence": 54.4,
+      "reference_match_score": 0.113,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0073",
+      "start_seconds": 17.75,
+      "end_seconds": 18.0,
+      "text": "stood at...",
+      "confidence": 81.0,
+      "reference_match_score": 0.262,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0074",
+      "start_seconds": 18.0,
+      "end_seconds": 18.25,
+      "text": "eee",
+      "confidence": 36.0,
+      "reference_match_score": 0.115,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0075",
+      "start_seconds": 18.0,
+      "end_seconds": 18.25,
+      "text": "- a”",
+      "confidence": 46.0,
+      "reference_match_score": 0.04,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0076",
+      "start_seconds": 18.0,
+      "end_seconds": 18.75,
+      "text": "and watched",
+      "confidence": 93.0,
+      "reference_match_score": 0.344,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "detections": 3
+    },
+    {
+      "cue_id": "OCR_0077",
+      "start_seconds": 18.25,
+      "end_seconds": 18.5,
+      "text": "Vi,",
+      "confidence": 46.0,
+      "reference_match_score": 0.078,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0078",
+      "start_seconds": 18.5,
+      "end_seconds": 18.75,
+      "text": "~~\"",
+      "confidence": 46.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0079",
+      "start_seconds": 18.5,
+      "end_seconds": 18.75,
+      "text": "2 > |",
+      "confidence": 65.33,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0080",
+      "start_seconds": 18.5,
+      "end_seconds": 18.75,
+      "text": "= - y",
+      "confidence": 70.67,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0081",
+      "start_seconds": 18.75,
+      "end_seconds": 19.0,
+      "text": "co aye",
+      "confidence": 62.0,
+      "reference_match_score": 0.169,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0082",
+      "start_seconds": 18.75,
+      "end_seconds": 19.0,
+      "text": "ws ‘te | Vint if ras",
+      "confidence": 50.33,
+      "reference_match_score": 0.286,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0083",
+      "start_seconds": 18.75,
+      "end_seconds": 19.0,
+      "text": "a of 7",
+      "confidence": 49.33,
+      "reference_match_score": 0.169,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0084",
+      "start_seconds": 18.75,
+      "end_seconds": 19.0,
+      "text": "es ra 3",
+      "confidence": 52.33,
+      "reference_match_score": 0.214,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0085",
+      "start_seconds": 19.0,
+      "end_seconds": 20.25,
+      "text": "Me a",
+      "confidence": 56.5,
+      "reference_match_score": 0.162,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0086",
+      "start_seconds": 19.25,
+      "end_seconds": 19.5,
+      "text": "22 tae",
+      "confidence": 40.0,
+      "reference_match_score": 0.145,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0087",
+      "start_seconds": 19.25,
+      "end_seconds": 19.5,
+      "text": "jv rr",
+      "confidence": 45.5,
+      "reference_match_score": 0.111,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0088",
+      "start_seconds": 19.25,
+      "end_seconds": 19.5,
+      "text": "Ves aK",
+      "confidence": 41.5,
+      "reference_match_score": 0.218,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0089",
+      "start_seconds": 19.25,
+      "end_seconds": 19.5,
+      "text": "es gy",
+      "confidence": 48.5,
+      "reference_match_score": 0.148,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0090",
+      "start_seconds": 19.5,
+      "end_seconds": 19.75,
+      "text": "ol 4 tg",
+      "confidence": 53.67,
+      "reference_match_score": 0.214,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0091",
+      "start_seconds": 19.5,
+      "end_seconds": 19.75,
+      "text": "Mi oo",
+      "confidence": 40.0,
+      "reference_match_score": 0.148,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0092",
+      "start_seconds": 19.5,
+      "end_seconds": 19.75,
+      "text": "ie .",
+      "confidence": 40.0,
+      "reference_match_score": 0.078,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0093",
+      "start_seconds": 19.5,
+      "end_seconds": 19.75,
+      "text": "get",
+      "confidence": 57.0,
+      "reference_match_score": 0.077,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0094",
+      "start_seconds": 19.75,
+      "end_seconds": 20.0,
+      "text": "as Ad,",
+      "confidence": 53.5,
+      "reference_match_score": 0.172,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0095",
+      "start_seconds": 19.75,
+      "end_seconds": 20.0,
+      "text": "Ge fp",
+      "confidence": 55.5,
+      "reference_match_score": 0.103,
+      "reference_text": "Lucian stood at the dend of the bed and watched me go.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0096",
+      "start_seconds": 19.75,
+      "end_seconds": 20.0,
+      "text": "Fe : ac Y he:",
+      "confidence": 55.2,
+      "reference_match_score": 0.237,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0097",
+      "start_seconds": 20.0,
+      "end_seconds": 20.25,
+      "text": "= é",
+      "confidence": 36.5,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0098",
+      "start_seconds": 20.0,
+      "end_seconds": 20.5,
+      "text": "_~ All high-ranking blood.",
+      "confidence": 84.25,
+      "reference_match_score": 0.563,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0099",
+      "start_seconds": 20.0,
+      "end_seconds": 20.25,
+      "text": "‘ cmt ¢",
+      "confidence": 50.33,
+      "reference_match_score": 0.167,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0100",
+      "start_seconds": 20.25,
+      "end_seconds": 20.5,
+      "text": "Thx, re .",
+      "confidence": 53.0,
+      "reference_match_score": 0.205,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0101",
+      "start_seconds": 20.25,
+      "end_seconds": 20.5,
+      "text": "A Ri 2",
+      "confidence": 58.67,
+      "reference_match_score": 0.205,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0102",
+      "start_seconds": 20.5,
+      "end_seconds": 20.75,
+      "text": "eo oye",
+      "confidence": 49.0,
+      "reference_match_score": 0.256,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0103",
+      "start_seconds": 20.5,
+      "end_seconds": 20.75,
+      "text": "i »* Ries",
+      "confidence": 52.67,
+      "reference_match_score": 0.308,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0104",
+      "start_seconds": 20.75,
+      "end_seconds": 21.0,
+      "text": "o 4) as = Ge",
+      "confidence": 56.8,
+      "reference_match_score": 0.238,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0105",
+      "start_seconds": 20.75,
+      "end_seconds": 21.25,
+      "text": "blogd.",
+      "confidence": 89.0,
+      "reference_match_score": 0.148,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0106",
+      "start_seconds": 20.75,
+      "end_seconds": 21.0,
+      "text": ": he",
+      "confidence": 47.5,
+      "reference_match_score": 0.114,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0107",
+      "start_seconds": 21.0,
+      "end_seconds": 22.25,
+      "text": "A * MS ¥,",
+      "confidence": 58.75,
+      "reference_match_score": 0.162,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0108",
+      "start_seconds": 21.25,
+      "end_seconds": 21.5,
+      "text": "se FAB",
+      "confidence": 38.0,
+      "reference_match_score": 0.182,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0109",
+      "start_seconds": 21.25,
+      "end_seconds": 21.5,
+      "text": "‘Ny eee,",
+      "confidence": 38.5,
+      "reference_match_score": 0.154,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0110",
+      "start_seconds": 21.25,
+      "end_seconds": 21.5,
+      "text": "a ee",
+      "confidence": 41.5,
+      "reference_match_score": 0.162,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0111",
+      "start_seconds": 21.25,
+      "end_seconds": 21.5,
+      "text": "‘ ‘",
+      "confidence": 68.5,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0112",
+      "start_seconds": 21.5,
+      "end_seconds": 21.75,
+      "text": "Tr ougn. .",
+      "confidence": 70.33,
+      "reference_match_score": 0.25,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0113",
+      "start_seconds": 21.5,
+      "end_seconds": 21.75,
+      "text": "hs. i",
+      "confidence": 60.5,
+      "reference_match_score": 0.113,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0114",
+      "start_seconds": 21.75,
+      "end_seconds": 22.0,
+      "text": "| Wy pe",
+      "confidence": 50.33,
+      "reference_match_score": 0.158,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0115",
+      "start_seconds": 21.75,
+      "end_seconds": 22.0,
+      "text": "bt ou",
+      "confidence": 79.0,
+      "reference_match_score": 0.211,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0116",
+      "start_seconds": 21.75,
+      "end_seconds": 22.0,
+      "text": "a A &",
+      "confidence": 66.33,
+      "reference_match_score": 0.167,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0117",
+      "start_seconds": 22.0,
+      "end_seconds": 22.25,
+      "text": "vf => >",
+      "confidence": 56.0,
+      "reference_match_score": 0.039,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0118",
+      "start_seconds": 22.0,
+      "end_seconds": 22.25,
+      "text": "Sb eh",
+      "confidence": 54.0,
+      "reference_match_score": 0.185,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0119",
+      "start_seconds": 22.0,
+      "end_seconds": 22.25,
+      "text": "2 . =",
+      "confidence": 48.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0120",
+      "start_seconds": 22.0,
+      "end_seconds": 22.25,
+      "text": "oo q >",
+      "confidence": 71.67,
+      "reference_match_score": 0.113,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0121",
+      "start_seconds": 22.5,
+      "end_seconds": 22.75,
+      "text": "e 4 ~~, > ~ =",
+      "confidence": 68.17,
+      "reference_match_score": 0.111,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0122",
+      "start_seconds": 22.5,
+      "end_seconds": 22.75,
+      "text": "4 if",
+      "confidence": 64.0,
+      "reference_match_score": 0.108,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0123",
+      "start_seconds": 22.5,
+      "end_seconds": 22.75,
+      "text": "> “",
+      "confidence": 68.5,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0124",
+      "start_seconds": 22.5,
+      "end_seconds": 22.75,
+      "text": "Pee",
+      "confidence": 35.0,
+      "reference_match_score": 0.167,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0125",
+      "start_seconds": 22.75,
+      "end_seconds": 23.0,
+      "text": ">} i =",
+      "confidence": 61.0,
+      "reference_match_score": 0.059,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0126",
+      "start_seconds": 22.75,
+      "end_seconds": 23.0,
+      "text": "to speal",
+      "confidence": 92.0,
+      "reference_match_score": 0.341,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0127",
+      "start_seconds": 23.0,
+      "end_seconds": 23.25,
+      "text": "foo ay\" ‘py",
+      "confidence": 43.33,
+      "reference_match_score": 0.19,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0128",
+      "start_seconds": 23.0,
+      "end_seconds": 23.25,
+      "text": ", a",
+      "confidence": 56.5,
+      "reference_match_score": 0.059,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0129",
+      "start_seconds": 23.5,
+      "end_seconds": 23.75,
+      "text": "AS \\",
+      "confidence": 62.5,
+      "reference_match_score": 0.078,
+      "reference_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0130",
+      "start_seconds": 23.5,
+      "end_seconds": 23.75,
+      "text": "“ea.",
+      "confidence": 51.0,
+      "reference_match_score": 0.114,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0131",
+      "start_seconds": 23.75,
+      "end_seconds": 24.0,
+      "text": "‘> a, aed",
+      "confidence": 48.33,
+      "reference_match_score": 0.158,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0132",
+      "start_seconds": 23.75,
+      "end_seconds": 24.0,
+      "text": "ak) ~> SS",
+      "confidence": 52.33,
+      "reference_match_score": 0.158,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0133",
+      "start_seconds": 23.75,
+      "end_seconds": 24.0,
+      "text": "? - P",
+      "confidence": 45.67,
+      "reference_match_score": 0.059,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0134",
+      "start_seconds": 24.0,
+      "end_seconds": 24.25,
+      "text": "t. \\",
+      "confidence": 42.5,
+      "reference_match_score": 0.059,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0135",
+      "start_seconds": 24.0,
+      "end_seconds": 24.25,
+      "text": "ie 44 VES",
+      "confidence": 56.33,
+      "reference_match_score": 0.238,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0136",
+      "start_seconds": 24.0,
+      "end_seconds": 24.25,
+      "text": "2 ii",
+      "confidence": 53.0,
+      "reference_match_score": 0.162,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0137",
+      "start_seconds": 24.0,
+      "end_seconds": 24.25,
+      "text": "08 | C a",
+      "confidence": 48.25,
+      "reference_match_score": 0.154,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0138",
+      "start_seconds": 24.0,
+      "end_seconds": 24.25,
+      "text": "_— ef ;",
+      "confidence": 58.0,
+      "reference_match_score": 0.057,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0139",
+      "start_seconds": 24.25,
+      "end_seconds": 24.5,
+      "text": "a , ” So *",
+      "confidence": 47.6,
+      "reference_match_score": 0.162,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0140",
+      "start_seconds": 24.25,
+      "end_seconds": 24.5,
+      "text": "Li ‘ >",
+      "confidence": 56.33,
+      "reference_match_score": 0.057,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0141",
+      "start_seconds": 24.25,
+      "end_seconds": 24.5,
+      "text": "? 4 -_",
+      "confidence": 59.33,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0142",
+      "start_seconds": 24.25,
+      "end_seconds": 24.5,
+      "text": "th nin,",
+      "confidence": 39.0,
+      "reference_match_score": 0.261,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0143",
+      "start_seconds": 24.5,
+      "end_seconds": 24.75,
+      "text": "i >",
+      "confidence": 65.5,
+      "reference_match_score": 0.059,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0144",
+      "start_seconds": 24.75,
+      "end_seconds": 25.0,
+      "text": "- bi, A =",
+      "confidence": 52.75,
+      "reference_match_score": 0.162,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0145",
+      "start_seconds": 25.0,
+      "end_seconds": 25.25,
+      "text": "*, Prt, ~f",
+      "confidence": 46.67,
+      "reference_match_score": 0.158,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0146",
+      "start_seconds": 25.25,
+      "end_seconds": 25.5,
+      "text": "emp",
+      "confidence": 41.0,
+      "reference_match_score": 0.111,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0147",
+      "start_seconds": 25.5,
+      "end_seconds": 25.75,
+      "text": "~ -",
+      "confidence": 61.5,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0148",
+      "start_seconds": 26.25,
+      "end_seconds": 26.5,
+      "text": "% ~f",
+      "confidence": 50.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0149",
+      "start_seconds": 26.25,
+      "end_seconds": 26.5,
+      "text": "4 J",
+      "confidence": 79.0,
+      "reference_match_score": 0.056,
+      "reference_text": "I tried to speak. Nothing came out.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0150",
+      "start_seconds": 26.25,
+      "end_seconds": 26.5,
+      "text": "~ the or ad",
+      "confidence": 78.5,
+      "reference_match_score": 0.327,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0151",
+      "start_seconds": 26.5,
+      "end_seconds": 26.75,
+      "text": "ae, * VW",
+      "confidence": 49.0,
+      "reference_match_score": 0.178,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0152",
+      "start_seconds": 26.5,
+      "end_seconds": 26.75,
+      "text": "a Ye",
+      "confidence": 60.5,
+      "reference_match_score": 0.136,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0153",
+      "start_seconds": 26.5,
+      "end_seconds": 26.75,
+      "text": "ever",
+      "confidence": 83.0,
+      "reference_match_score": 0.182,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0154",
+      "start_seconds": 26.5,
+      "end_seconds": 26.75,
+      "text": "NS 7",
+      "confidence": 52.0,
+      "reference_match_score": 0.091,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0155",
+      "start_seconds": 26.75,
+      "end_seconds": 27.0,
+      "text": "= 2",
+      "confidence": 41.5,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0156",
+      "start_seconds": 26.75,
+      "end_seconds": 27.75,
+      "text": "You were never",
+      "confidence": 93.33,
+      "reference_match_score": 0.519,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 3
+    },
+    {
+      "cue_id": "OCR_0157",
+      "start_seconds": 27.0,
+      "end_seconds": 27.25,
+      "text": "% i = | =. =",
+      "confidence": 52.17,
+      "reference_match_score": 0.049,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0158",
+      "start_seconds": 27.0,
+      "end_seconds": 27.25,
+      "text": "youl wir",
+      "confidence": 54.5,
+      "reference_match_score": 0.25,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0159",
+      "start_seconds": 27.0,
+      "end_seconds": 27.25,
+      "text": "ou were",
+      "confidence": 77.5,
+      "reference_match_score": 0.298,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0160",
+      "start_seconds": 27.0,
+      "end_seconds": 27.25,
+      "text": "4 aa",
+      "confidence": 65.5,
+      "reference_match_score": 0.091,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0161",
+      "start_seconds": 27.25,
+      "end_seconds": 27.5,
+      "text": "WARS",
+      "confidence": 43.0,
+      "reference_match_score": 0.231,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0162",
+      "start_seconds": 27.5,
+      "end_seconds": 27.75,
+      "text": ". ij",
+      "confidence": 42.5,
+      "reference_match_score": 0.083,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0163",
+      "start_seconds": 27.5,
+      "end_seconds": 27.75,
+      "text": "the o ad",
+      "confidence": 89.33,
+      "reference_match_score": 0.333,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0164",
+      "start_seconds": 27.75,
+      "end_seconds": 28.0,
+      "text": "= . => — { y",
+      "confidence": 64.33,
+      "reference_match_score": 0.049,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0165",
+      "start_seconds": 27.75,
+      "end_seconds": 28.0,
+      "text": "‘ a cA",
+      "confidence": 68.33,
+      "reference_match_score": 0.091,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0166",
+      "start_seconds": 27.75,
+      "end_seconds": 28.5,
+      "text": "Vivienne. + wal",
+      "confidence": 52.33,
+      "reference_match_score": 0.412,
+      "reference_text": "His voice didn't waver.",
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0167",
+      "start_seconds": 28.0,
+      "end_seconds": 28.25,
+      "text": "pee — ” 4",
+      "confidence": 48.0,
+      "reference_match_score": 0.148,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0168",
+      "start_seconds": 28.0,
+      "end_seconds": 28.25,
+      "text": "~~\"",
+      "confidence": 38.0,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0169",
+      "start_seconds": 28.25,
+      "end_seconds": 28.5,
+      "text": "Tei ee Ss",
+      "confidence": 42.0,
+      "reference_match_score": 0.258,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0170",
+      "start_seconds": 28.25,
+      "end_seconds": 28.5,
+      "text": "ST a4",
+      "confidence": 52.5,
+      "reference_match_score": 0.296,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0171",
+      "start_seconds": 28.5,
+      "end_seconds": 28.75,
+      "text": "ae, poet .",
+      "confidence": 48.0,
+      "reference_match_score": 0.213,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0172",
+      "start_seconds": 28.5,
+      "end_seconds": 28.75,
+      "text": "aor = Kee",
+      "confidence": 58.67,
+      "reference_match_score": 0.213,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0173",
+      "start_seconds": 28.75,
+      "end_seconds": 29.0,
+      "text": "+ “aes",
+      "confidence": 42.5,
+      "reference_match_score": 0.16,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0174",
+      "start_seconds": 28.75,
+      "end_seconds": 29.0,
+      "text": "fas",
+      "confidence": 37.0,
+      "reference_match_score": 0.08,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0175",
+      "start_seconds": 28.75,
+      "end_seconds": 29.0,
+      "text": ">) ae aa",
+      "confidence": 40.0,
+      "reference_match_score": 0.222,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0176",
+      "start_seconds": 28.75,
+      "end_seconds": 29.0,
+      "text": "= : ra",
+      "confidence": 54.0,
+      "reference_match_score": 0.095,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0177",
+      "start_seconds": 28.75,
+      "end_seconds": 29.0,
+      "text": "i) NS ee Rs",
+      "confidence": 40.0,
+      "reference_match_score": 0.375,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0178",
+      "start_seconds": 28.75,
+      "end_seconds": 29.0,
+      "text": "od Nee ae",
+      "confidence": 43.0,
+      "reference_match_score": 0.327,
+      "reference_text": "You were never the one I wanted Vivienne.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0179",
+      "start_seconds": 28.75,
+      "end_seconds": 29.0,
+      "text": "=) Le | = 2S",
+      "confidence": 56.8,
+      "reference_match_score": 0.148,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0180",
+      "start_seconds": 29.0,
+      "end_seconds": 29.25,
+      "text": "ae ‘ ¥. Ce,",
+      "confidence": 47.0,
+      "reference_match_score": 0.222,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0181",
+      "start_seconds": 29.0,
+      "end_seconds": 29.25,
+      "text": "tz Wes",
+      "confidence": 60.5,
+      "reference_match_score": 0.286,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0182",
+      "start_seconds": 29.25,
+      "end_seconds": 29.5,
+      "text": "x “ = ;",
+      "confidence": 46.25,
+      "reference_match_score": 0.0,
+      "reference_text": null,
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0183",
+      "start_seconds": 29.25,
+      "end_seconds": 29.5,
+      "text": "De NSE.",
+      "confidence": 40.0,
+      "reference_match_score": 0.286,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0184",
+      "start_seconds": 29.5,
+      "end_seconds": 29.75,
+      "text": "| Ee",
+      "confidence": 44.0,
+      "reference_match_score": 0.167,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    },
+    {
+      "cue_id": "OCR_0185",
+      "start_seconds": 29.5,
+      "end_seconds": 30.0,
+      "text": "voice didn't waver. -™, °",
+      "confidence": 71.8,
+      "reference_match_score": 0.9,
+      "reference_text": "His voice didn't waver.",
+      "detections": 2
+    },
+    {
+      "cue_id": "OCR_0186",
+      "start_seconds": 29.75,
+      "end_seconds": 30.0,
+      "text": "Sys Pa AS",
+      "confidence": 43.67,
+      "reference_match_score": 0.194,
+      "reference_text": "His voice didn't waver.",
+      "detections": 1
+    }
+  ]
+}

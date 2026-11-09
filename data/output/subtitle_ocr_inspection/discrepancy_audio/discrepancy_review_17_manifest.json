@@ -1,0 +1,145 @@
+{
+  "source_audio": "data\\output\\audio\\full_audio.wav",
+  "output_audio": "data\\output\\subtitle_ocr_inspection\\discrepancy_audio\\discrepancy_review_17_cues.wav",
+  "sample_rate": 16000,
+  "padding_seconds": 0.5,
+  "gap_seconds": 1.0,
+  "cues": [
+    {
+      "subtitle_id": 27,
+      "source_start_seconds": 90.411,
+      "source_end_seconds": 93.00999999999999,
+      "duration_seconds": 2.5989375,
+      "whisper_text": "Three bowls of wolf's babe.",
+      "assemblyai_text": "3 bowls of"
+    },
+    {
+      "subtitle_id": 32,
+      "source_start_seconds": 102.491,
+      "source_end_seconds": 107.09,
+      "duration_seconds": 4.599,
+      "whisper_text": "Lucian looked at me. That calm, unerisval stare.",
+      "assemblyai_text": "looked at me, that calm, stare"
+    },
+    {
+      "subtitle_id": 76,
+      "source_start_seconds": 227.68099999999998,
+      "source_end_seconds": 235.2,
+      "duration_seconds": 7.5190625,
+      "whisper_text": "He said the only thing I was good for was my Moon Veal voice.",
+      "assemblyai_text": "He said the only thing I was good for was my voice."
+    },
+    {
+      "subtitle_id": 112,
+      "source_start_seconds": 343.241,
+      "source_end_seconds": 346.24,
+      "duration_seconds": 2.999,
+      "whisper_text": "Why cold well?",
+      "assemblyai_text": "Why"
+    },
+    {
+      "subtitle_id": 113,
+      "source_start_seconds": 345.29,
+      "source_end_seconds": 348.24,
+      "duration_seconds": 2.95,
+      "whisper_text": "Why only cold well?",
+      "assemblyai_text": "Why only"
+    },
+    {
+      "subtitle_id": 128,
+      "source_start_seconds": 383.421,
+      "source_end_seconds": 386.42,
+      "duration_seconds": 2.999,
+      "whisper_text": "You go through the manner.",
+      "assemblyai_text": "You go through the"
+    },
+    {
+      "subtitle_id": 177,
+      "source_start_seconds": 504.361,
+      "source_end_seconds": 507.36,
+      "duration_seconds": 2.999,
+      "whisper_text": "Right. I held his graze.",
+      "assemblyai_text": "Right. I held his"
+    },
+    {
+      "subtitle_id": 240,
+      "source_start_seconds": 648.641,
+      "source_end_seconds": 653.64,
+      "duration_seconds": 4.999,
+      "whisper_text": "He'd killed her himself with three bowls of Wolf Bab.",
+      "assemblyai_text": "He'd killed her himself with 3 bowls of"
+    },
+    {
+      "subtitle_id": 439,
+      "source_start_seconds": 1144.024,
+      "source_end_seconds": 1146.85,
+      "duration_seconds": 2.826,
+      "whisper_text": "Lucien's motor cord arrived exactly on time.",
+      "assemblyai_text": "Lucien's arrived exactly on time."
+    },
+    {
+      "subtitle_id": 723,
+      "source_start_seconds": 1852.711,
+      "source_end_seconds": 1855.71,
+      "duration_seconds": 2.999,
+      "whisper_text": "Caught herself on the door warm.",
+      "assemblyai_text": "caught herself on the door"
+    },
+    {
+      "subtitle_id": 744,
+      "source_start_seconds": 1898.281,
+      "source_end_seconds": 1901.28,
+      "duration_seconds": 2.999,
+      "whisper_text": "White haired, unharried.",
+      "assemblyai_text": "white-haired, white-haired,"
+    },
+    {
+      "subtitle_id": 746,
+      "source_start_seconds": 1901.281,
+      "source_end_seconds": 1904.28,
+      "duration_seconds": 2.999,
+      "whisper_text": "The alpha king's personal emise.",
+      "assemblyai_text": "the Alpha King's personal"
+    },
+    {
+      "subtitle_id": 753,
+      "source_start_seconds": 1916.281,
+      "source_end_seconds": 1920.28,
+      "duration_seconds": 3.999,
+      "whisper_text": "He clipped his hands behind his back.",
+      "assemblyai_text": "He his hands behind his back."
+    },
+    {
+      "subtitle_id": 757,
+      "source_start_seconds": 1925.281,
+      "source_end_seconds": 1928.28,
+      "duration_seconds": 2.999,
+      "whisper_text": "Lucian's eyes moved to the royal seal.",
+      "assemblyai_text": "eyes moved to the royal"
+    },
+    {
+      "subtitle_id": 770,
+      "source_start_seconds": 1954.281,
+      "source_end_seconds": 1957.28,
+      "duration_seconds": 2.999,
+      "whisper_text": "The royal sea was with me.",
+      "assemblyai_text": "The Royal was with me,"
+    },
+    {
+      "subtitle_id": 816,
+      "source_start_seconds": 2057.72,
+      "source_end_seconds": 2061.719,
+      "duration_seconds": 3.9990625,
+      "whisper_text": "Valerius' manner seized and transferred to high council jurisdiction.",
+      "assemblyai_text": "seized and transferred to High Council jurisdiction."
+    },
+    {
+      "subtitle_id": 825,
+      "source_start_seconds": 2081.561,
+      "source_end_seconds": 2083.56,
+      "duration_seconds": 1.999,
+      "whisper_text": "Manners sealed.",
+      "assemblyai_text": "sealed."
+    }
+  ]
+}

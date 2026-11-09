@@ -1,0 +1,32 @@
+[
+  {
+    "candidate_id": "MD_0009",
+    "text": "There won't",
+    "candidate_start": 176.562,
+    "candidate_end": 176.836,
+    "clip_start": 173.562,
+    "clip_end": 179.836,
+    "duration": 6.274,
+    "audio_file": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\review_clips\\MD_0009.wav"
+  },
+  {
+    "candidate_id": "MD_0011",
+    "text": "Every time I complained, he hurt me.",
+    "candidate_start": 243.279,
+    "candidate_end": 246.206,
+    "clip_start": 240.279,
+    "clip_end": 249.206,
+    "duration": 8.927,
+    "audio_file": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\review_clips\\MD_0011.wav"
+  },
+  {
+    "candidate_id": "MD_0013",
+    "text": "I couldn't speak.",
+    "candidate_start": 267.09,
+    "candidate_end": 267.939,
+    "clip_start": 264.09,
+    "clip_end": 270.939,
+    "duration": 6.849,
+    "audio_file": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\review_clips\\MD_0013.wav"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "engine_version": "7.0.0",
+  "created_at": "2026-11-05T19:11:16.999832+00:00",
+  "source": {
+    "original_srt": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\input\\input.srt",
+    "edit_plan": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\subtitle_edit_plan_v6.json"
+  },
+  "output": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\localized_review_v7.srt",
+  "statistics": {
+    "original_subtitles": 908,
+    "new_subtitles": 2,
+    "updated_subtitle_timings": 2,
+    "total_subtitles": 910,
+    "applied_edits": 4,
+    "overlapping_adjacent_cues": 0,
+    "verification": "PASSED",
+    "overlap_correction": "PASSED"
+  },
+  "applied_edits": [
+    {
+      "edit_id": "EDIT_MD_0011_NEW",
+      "operation": "ADD_SUBTITLE",
+      "new_subtitle_id": "NEW_MD_0011",
+      "start_ms": 243199,
+      "end_ms": 246286
+    },
+    {
+      "edit_id": "EDIT_MD_0011_UPDATE",
+      "operation": "UPDATE_SUBTITLE_TIMING",
+      "subtitle_id": 79,
+      "start_ms": 249703,
+      "end_ms": 251041
+    },
+    {
+      "edit_id": "EDIT_MD_0013_NEW",
+      "operation": "ADD_SUBTITLE",
+      "new_subtitle_id": "NEW_MD_0013",
+      "start_ms": 267010,
+      "end_ms": 268019
+    },
+    {
+      "edit_id": "EDIT_MD_0013_UPDATE",
+      "operation": "UPDATE_SUBTITLE_TIMING",
+      "subtitle_id": 84,
+      "start_ms": 271400,
+      "end_ms": 273926
+    }
+  ],
+  "overlaps": [
+    {
+      "subtitle_number": 86,
+      "next_subtitle_number": 87,
+      "overlap_ms": 65
+    }
+  ],
+  "original_srt_modified": false,
+  "overlap_correction": {
+    "subtitle_number": 86,
+    "old_end": "00:04:33,926",
+    "new_end": "00:04:33,861",
+    "next_subtitle_number": 87,
+    "reason": "Removed overlap caused by end-time padding."
+  }
+}

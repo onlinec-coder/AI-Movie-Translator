@@ -1,0 +1,828 @@
+{
+  "schema_version": "1.0.0",
+  "engine_version": "2.0.0",
+  "source": {
+    "feature_file": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\visual_features_v1\\visual_features_v2.json",
+    "ground_truth_file": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\transition_ground_truth_v1.json"
+  },
+  "top_changes": {
+    "absolute_brightness_delta": [
+      {
+        "frame_id": "VF_000248",
+        "timestamp_seconds": 247.0,
+        "brightness_delta": -206.3717,
+        "absolute_brightness_delta": 206.3717,
+        "color_histogram_distance": 0.662199,
+        "structural_similarity": 0.133506,
+        "edge_difference": 0.097812
+      },
+      {
+        "frame_id": "VF_000247",
+        "timestamp_seconds": 246.0,
+        "brightness_delta": 204.1019,
+        "absolute_brightness_delta": 204.1019,
+        "color_histogram_distance": 0.647224,
+        "structural_similarity": 0.126978,
+        "edge_difference": 0.107708
+      },
+      {
+        "frame_id": "VF_000112",
+        "timestamp_seconds": 111.0,
+        "brightness_delta": -189.1288,
+        "absolute_brightness_delta": 189.1288,
+        "color_histogram_distance": 0.564448,
+        "structural_similarity": 0.147394,
+        "edge_difference": 0.061042
+      },
+      {
+        "frame_id": "VF_000111",
+        "timestamp_seconds": 110.0,
+        "brightness_delta": 183.7521,
+        "absolute_brightness_delta": 183.7521,
+        "color_histogram_distance": 0.538905,
+        "structural_similarity": 0.187684,
+        "edge_difference": 0.018038
+      },
+      {
+        "frame_id": "VF_000011",
+        "timestamp_seconds": 10.0,
+        "brightness_delta": -136.5292,
+        "absolute_brightness_delta": 136.5292,
+        "color_histogram_distance": 0.641617,
+        "structural_similarity": 0.17816,
+        "edge_difference": 0.063767
+      },
+      {
+        "frame_id": "VF_000010",
+        "timestamp_seconds": 9.0,
+        "brightness_delta": 133.7742,
+        "absolute_brightness_delta": 133.7742,
+        "color_histogram_distance": 0.97644,
+        "structural_similarity": 0.222848,
+        "edge_difference": 0.033872
+      },
+      {
+        "frame_id": "VF_000290",
+        "timestamp_seconds": 289.0,
+        "brightness_delta": 110.9235,
+        "absolute_brightness_delta": 110.9235,
+        "color_histogram_distance": 0.582047,
+        "structural_similarity": 0.193828,
+        "edge_difference": 0.088003
+      },
+      {
+        "frame_id": "VF_000291",
+        "timestamp_seconds": 290.0,
+        "brightness_delta": -79.9487,
+        "absolute_brightness_delta": 79.9487,
+        "color_histogram_distance": 0.497547,
+        "structural_similarity": 0.382862,
+        "edge_difference": 0.068299
+      },
+      {
+        "frame_id": "VF_000295",
+        "timestamp_seconds": 294.0,
+        "brightness_delta": -43.9967,
+        "absolute_brightness_delta": 43.9967,
+        "color_histogram_distance": 0.413997,
+        "structural_similarity": 0.202573,
+        "edge_difference": 0.133351
+      },
+      {
+        "frame_id": "VF_000055",
+        "timestamp_seconds": 54.0,
+        "brightness_delta": -43.4589,
+        "absolute_brightness_delta": 43.4589,
+        "color_histogram_distance": 0.529509,
+        "structural_similarity": 0.11954,
+        "edge_difference": 0.121406
+      },
+      {
+        "frame_id": "VF_000309",
+        "timestamp_seconds": 308.0,
+        "brightness_delta": 35.7343,
+        "absolute_brightness_delta": 35.7343,
+        "color_histogram_distance": 0.655388,
+        "structural_similarity": 0.176946,
+        "edge_difference": 0.092222
+      },
+      {
+        "frame_id": "VF_000276",
+        "timestamp_seconds": 275.0,
+        "brightness_delta": -34.376,
+        "absolute_brightness_delta": 34.376,
+        "color_histogram_distance": 0.546951,
+        "structural_similarity": 0.23557,
+        "edge_difference": 0.091944
+      },
+      {
+        "frame_id": "VF_000074",
+        "timestamp_seconds": 73.0,
+        "brightness_delta": -33.4196,
+        "absolute_brightness_delta": 33.4196,
+        "color_histogram_distance": 0.50548,
+        "structural_similarity": 0.147781,
+        "edge_difference": 0.19434
+      },
+      {
+        "frame_id": "VF_000056",
+        "timestamp_seconds": 55.0,
+        "brightness_delta": 33.0473,
+        "absolute_brightness_delta": 33.0473,
+        "color_histogram_distance": 0.413481,
+        "structural_similarity": 0.185053,
+        "edge_difference": 0.104635
+      },
+      {
+        "frame_id": "VF_000269",
+        "timestamp_seconds": 268.0,
+        "brightness_delta": 32.3136,
+        "absolute_brightness_delta": 32.3136,
+        "color_histogram_distance": 0.730289,
+        "structural_similarity": 0.311545,
+        "edge_difference": 0.051736
+      }
+    ],
+    "color_histogram_distance": [
+      {
+        "frame_id": "VF_000010",
+        "timestamp_seconds": 9.0,
+        "brightness_delta": 133.7742,
+        "absolute_brightness_delta": 133.7742,
+        "color_histogram_distance": 0.97644,
+        "structural_similarity": 0.222848,
+        "edge_difference": 0.033872
+      },
+      {
+        "frame_id": "VF_000269",
+        "timestamp_seconds": 268.0,
+        "brightness_delta": 32.3136,
+        "absolute_brightness_delta": 32.3136,
+        "color_histogram_distance": 0.730289,
+        "structural_similarity": 0.311545,
+        "edge_difference": 0.051736
+      },
+      {
+        "frame_id": "VF_000248",
+        "timestamp_seconds": 247.0,
+        "brightness_delta": -206.3717,
+        "absolute_brightness_delta": 206.3717,
+        "color_histogram_distance": 0.662199,
+        "structural_similarity": 0.133506,
+        "edge_difference": 0.097812
+      },
+      {
+        "frame_id": "VF_000309",
+        "timestamp_seconds": 308.0,
+        "brightness_delta": 35.7343,
+        "absolute_brightness_delta": 35.7343,
+        "color_histogram_distance": 0.655388,
+        "structural_similarity": 0.176946,
+        "edge_difference": 0.092222
+      },
+      {
+        "frame_id": "VF_000008",
+        "timestamp_seconds": 7.0,
+        "brightness_delta": 30.8362,
+        "absolute_brightness_delta": 30.8362,
+        "color_histogram_distance": 0.652483,
+        "structural_similarity": 0.271812,
+        "edge_difference": 0.075556
+      },
+      {
+        "frame_id": "VF_000247",
+        "timestamp_seconds": 246.0,
+        "brightness_delta": 204.1019,
+        "absolute_brightness_delta": 204.1019,
+        "color_histogram_distance": 0.647224,
+        "structural_similarity": 0.126978,
+        "edge_difference": 0.107708
+      },
+      {
+        "frame_id": "VF_000011",
+        "timestamp_seconds": 10.0,
+        "brightness_delta": -136.5292,
+        "absolute_brightness_delta": 136.5292,
+        "color_histogram_distance": 0.641617,
+        "structural_similarity": 0.17816,
+        "edge_difference": 0.063767
+      },
+      {
+        "frame_id": "VF_000308",
+        "timestamp_seconds": 307.0,
+        "brightness_delta": -13.7618,
+        "absolute_brightness_delta": 13.7618,
+        "color_histogram_distance": 0.624237,
+        "structural_similarity": 0.239415,
+        "edge_difference": 0.013056
+      },
+      {
+        "frame_id": "VF_000290",
+        "timestamp_seconds": 289.0,
+        "brightness_delta": 110.9235,
+        "absolute_brightness_delta": 110.9235,
+        "color_histogram_distance": 0.582047,
+        "structural_similarity": 0.193828,
+        "edge_difference": 0.088003
+      },
+      {
+        "frame_id": "VF_000267",
+        "timestamp_seconds": 266.0,
+        "brightness_delta": 15.4175,
+        "absolute_brightness_delta": 15.4175,
+        "color_histogram_distance": 0.580549,
+        "structural_similarity": 0.317162,
+        "edge_difference": 0.092604
+      },
+      {
+        "frame_id": "VF_000112",
+        "timestamp_seconds": 111.0,
+        "brightness_delta": -189.1288,
+        "absolute_brightness_delta": 189.1288,
+        "color_histogram_distance": 0.564448,
+        "structural_similarity": 0.147394,
+        "edge_difference": 0.061042
+      },
+      {
+        "frame_id": "VF_000276",
+        "timestamp_seconds": 275.0,
+        "brightness_delta": -34.376,
+        "absolute_brightness_delta": 34.376,
+        "color_histogram_distance": 0.546951,
+        "structural_similarity": 0.23557,
+        "edge_difference": 0.091944
+      },
+      {
+        "frame_id": "VF_000111",
+        "timestamp_seconds": 110.0,
+        "brightness_delta": 183.7521,
+        "absolute_brightness_delta": 183.7521,
+        "color_histogram_distance": 0.538905,
+        "structural_similarity": 0.187684,
+        "edge_difference": 0.018038
+      },
+      {
+        "frame_id": "VF_000055",
+        "timestamp_seconds": 54.0,
+        "brightness_delta": -43.4589,
+        "absolute_brightness_delta": 43.4589,
+        "color_histogram_distance": 0.529509,
+        "structural_similarity": 0.11954,
+        "edge_difference": 0.121406
+      },
+      {
+        "frame_id": "VF_000074",
+        "timestamp_seconds": 73.0,
+        "brightness_delta": -33.4196,
+        "absolute_brightness_delta": 33.4196,
+        "color_histogram_distance": 0.50548,
+        "structural_similarity": 0.147781,
+        "edge_difference": 0.19434
+      }
+    ],
+    "edge_difference": [
+      {
+        "frame_id": "VF_000205",
+        "timestamp_seconds": 204.0,
+        "brightness_delta": -18.5995,
+        "absolute_brightness_delta": 18.5995,
+        "color_histogram_distance": 0.251898,
+        "structural_similarity": 0.140966,
+        "edge_difference": 0.236493
+      },
+      {
+        "frame_id": "VF_000160",
+        "timestamp_seconds": 159.0,
+        "brightness_delta": 0.5842,
+        "absolute_brightness_delta": 0.5842,
+        "color_histogram_distance": 0.052798,
+        "structural_similarity": 0.227571,
+        "edge_difference": 0.224149
+      },
+      {
+        "frame_id": "VF_000196",
+        "timestamp_seconds": 195.0,
+        "brightness_delta": -25.0114,
+        "absolute_brightness_delta": 25.0114,
+        "color_histogram_distance": 0.269706,
+        "structural_similarity": 0.17428,
+        "edge_difference": 0.22349
+      },
+      {
+        "frame_id": "VF_000197",
+        "timestamp_seconds": 196.0,
+        "brightness_delta": 2.4647,
+        "absolute_brightness_delta": 2.4647,
+        "color_histogram_distance": 0.034127,
+        "structural_similarity": 0.458241,
+        "edge_difference": 0.222153
+      },
+      {
+        "frame_id": "VF_000030",
+        "timestamp_seconds": 29.0,
+        "brightness_delta": -2.1906,
+        "absolute_brightness_delta": 2.1906,
+        "color_histogram_distance": 0.041191,
+        "structural_similarity": 0.203849,
+        "edge_difference": 0.221545
+      },
+      {
+        "frame_id": "VF_000031",
+        "timestamp_seconds": 30.0,
+        "brightness_delta": 0.9449,
+        "absolute_brightness_delta": 0.9449,
+        "color_histogram_distance": 0.058798,
+        "structural_similarity": 0.190028,
+        "edge_difference": 0.221493
+      },
+      {
+        "frame_id": "VF_000187",
+        "timestamp_seconds": 186.0,
+        "brightness_delta": -6.1736,
+        "absolute_brightness_delta": 6.1736,
+        "color_histogram_distance": 0.091175,
+        "structural_similarity": 0.169366,
+        "edge_difference": 0.217205
+      },
+      {
+        "frame_id": "VF_000199",
+        "timestamp_seconds": 198.0,
+        "brightness_delta": 0.8389,
+        "absolute_brightness_delta": 0.8389,
+        "color_histogram_distance": 0.135426,
+        "structural_similarity": 0.165284,
+        "edge_difference": 0.217049
+      },
+      {
+        "frame_id": "VF_000204",
+        "timestamp_seconds": 203.0,
+        "brightness_delta": 0.2146,
+        "absolute_brightness_delta": 0.2146,
+        "color_histogram_distance": 0.036229,
+        "structural_similarity": 0.634043,
+        "edge_difference": 0.215729
+      },
+      {
+        "frame_id": "VF_000173",
+        "timestamp_seconds": 172.0,
+        "brightness_delta": -0.228,
+        "absolute_brightness_delta": 0.228,
+        "color_histogram_distance": 0.134865,
+        "structural_similarity": 0.169627,
+        "edge_difference": 0.214983
+      },
+      {
+        "frame_id": "VF_000203",
+        "timestamp_seconds": 202.0,
+        "brightness_delta": -3.6364,
+        "absolute_brightness_delta": 3.6364,
+        "color_histogram_distance": 0.146705,
+        "structural_similarity": 0.166469,
+        "edge_difference": 0.212465
+      },
+      {
+        "frame_id": "VF_000189",
+        "timestamp_seconds": 188.0,
+        "brightness_delta": 10.0981,
+        "absolute_brightness_delta": 10.0981,
+        "color_histogram_distance": 0.213843,
+        "structural_similarity": 0.199021,
+        "edge_difference": 0.210642
+      },
+      {
+        "frame_id": "VF_000029",
+        "timestamp_seconds": 28.0,
+        "brightness_delta": -6.1684,
+        "absolute_brightness_delta": 6.1684,
+        "color_histogram_distance": 0.173743,
+        "structural_similarity": 0.188428,
+        "edge_difference": 0.208056
+      },
+      {
+        "frame_id": "VF_000159",
+        "timestamp_seconds": 158.0,
+        "brightness_delta": 1.28,
+        "absolute_brightness_delta": 1.28,
+        "color_histogram_distance": 0.067626,
+        "structural_similarity": 0.231128,
+        "edge_difference": 0.207205
+      },
+      {
+        "frame_id": "VF_000188",
+        "timestamp_seconds": 187.0,
+        "brightness_delta": -4.1315,
+        "absolute_brightness_delta": 4.1315,
+        "color_histogram_distance": 0.077892,
+        "structural_similarity": 0.216598,
+        "edge_difference": 0.206198
+      }
+    ]
+  },
+  "ground_truth_comparison": [
+    {
+      "event_id": "GT_001",
+      "boundary_type": "SCENE_BOUNDARY",
+      "transition_effect": "FADE_THROUGH_WHITE_DISSOLVE",
+      "start_seconds": 8.4,
+      "end_seconds": 9.8,
+      "measurements": [
+        {
+          "frame_id": "VF_000008",
+          "timestamp_seconds": 7.0,
+          "brightness_delta": 30.8362,
+          "absolute_brightness_delta": 30.8362,
+          "color_histogram_distance": 0.652483,
+          "structural_similarity": 0.271812,
+          "edge_difference": 0.075556
+        },
+        {
+          "frame_id": "VF_000009",
+          "timestamp_seconds": 8.0,
+          "brightness_delta": -14.0311,
+          "absolute_brightness_delta": 14.0311,
+          "color_histogram_distance": 0.275335,
+          "structural_similarity": 0.751962,
+          "edge_difference": 0.046736
+        },
+        {
+          "frame_id": "VF_000010",
+          "timestamp_seconds": 9.0,
+          "brightness_delta": 133.7742,
+          "absolute_brightness_delta": 133.7742,
+          "color_histogram_distance": 0.97644,
+          "structural_similarity": 0.222848,
+          "edge_difference": 0.033872
+        },
+        {
+          "frame_id": "VF_000011",
+          "timestamp_seconds": 10.0,
+          "brightness_delta": -136.5292,
+          "absolute_brightness_delta": 136.5292,
+          "color_histogram_distance": 0.641617,
+          "structural_similarity": 0.17816,
+          "edge_difference": 0.063767
+        },
+        {
+          "frame_id": "VF_000012",
+          "timestamp_seconds": 11.0,
+          "brightness_delta": 4.0607,
+          "absolute_brightness_delta": 4.0607,
+          "color_histogram_distance": 0.107469,
+          "structural_similarity": 0.170173,
+          "edge_difference": 0.136267
+        }
+      ]
+    },
+    {
+      "event_id": "GT_002",
+      "boundary_type": "SHOT_BOUNDARY",
+      "transition_effect": "HARD_CUT",
+      "start_seconds": 108.2,
+      "end_seconds": 108.4,
+      "measurements": [
+        {
+          "frame_id": "VF_000108",
+          "timestamp_seconds": 107.0,
+          "brightness_delta": 0.8017,
+          "absolute_brightness_delta": 0.8017,
+          "color_histogram_distance": 0.021064,
+          "structural_similarity": 0.546954,
+          "edge_difference": 0.161319
+        },
+        {
+          "frame_id": "VF_000109",
+          "timestamp_seconds": 108.0,
+          "brightness_delta": -10.6733,
+          "absolute_brightness_delta": 10.6733,
+          "color_histogram_distance": 0.277242,
+          "structural_similarity": 0.265576,
+          "edge_difference": 0.120417
+        },
+        {
+          "frame_id": "VF_000110",
+          "timestamp_seconds": 109.0,
+          "brightness_delta": -3.931,
+          "absolute_brightness_delta": 3.931,
+          "color_histogram_distance": 0.097741,
+          "structural_similarity": 0.441445,
+          "edge_difference": 0.034323
+        },
+        {
+          "frame_id": "VF_000111",
+          "timestamp_seconds": 110.0,
+          "brightness_delta": 183.7521,
+          "absolute_brightness_delta": 183.7521,
+          "color_histogram_distance": 0.538905,
+          "structural_similarity": 0.187684,
+          "edge_difference": 0.018038
+        }
+      ]
+    },
+    {
+      "event_id": "GT_003",
+      "boundary_type": "NO_BOUNDARY",
+      "transition_effect": "LIGHT_LEAK_FLASH",
+      "start_seconds": 110.0,
+      "end_seconds": 110.6,
+      "measurements": [
+        {
+          "frame_id": "VF_000109",
+          "timestamp_seconds": 108.0,
+          "brightness_delta": -10.6733,
+          "absolute_brightness_delta": 10.6733,
+          "color_histogram_distance": 0.277242,
+          "structural_similarity": 0.265576,
+          "edge_difference": 0.120417
+        },
+        {
+          "frame_id": "VF_000110",
+          "timestamp_seconds": 109.0,
+          "brightness_delta": -3.931,
+          "absolute_brightness_delta": 3.931,
+          "color_histogram_distance": 0.097741,
+          "structural_similarity": 0.441445,
+          "edge_difference": 0.034323
+        },
+        {
+          "frame_id": "VF_000111",
+          "timestamp_seconds": 110.0,
+          "brightness_delta": 183.7521,
+          "absolute_brightness_delta": 183.7521,
+          "color_histogram_distance": 0.538905,
+          "structural_similarity": 0.187684,
+          "edge_difference": 0.018038
+        },
+        {
+          "frame_id": "VF_000112",
+          "timestamp_seconds": 111.0,
+          "brightness_delta": -189.1288,
+          "absolute_brightness_delta": 189.1288,
+          "color_histogram_distance": 0.564448,
+          "structural_similarity": 0.147394,
+          "edge_difference": 0.061042
+        },
+        {
+          "frame_id": "VF_000113",
+          "timestamp_seconds": 112.0,
+          "brightness_delta": -10.6192,
+          "absolute_brightness_delta": 10.6192,
+          "color_histogram_distance": 0.126347,
+          "structural_similarity": 0.296216,
+          "edge_difference": 0.132951
+        }
+      ]
+    },
+    {
+      "event_id": "GT_004",
+      "boundary_type": "SHOT_BOUNDARY",
+      "transition_effect": "HARD_CUT",
+      "start_seconds": 111.6,
+      "end_seconds": 111.8,
+      "measurements": [
+        {
+          "frame_id": "VF_000111",
+          "timestamp_seconds": 110.0,
+          "brightness_delta": 183.7521,
+          "absolute_brightness_delta": 183.7521,
+          "color_histogram_distance": 0.538905,
+          "structural_similarity": 0.187684,
+          "edge_difference": 0.018038
+        },
+        {
+          "frame_id": "VF_000112",
+          "timestamp_seconds": 111.0,
+          "brightness_delta": -189.1288,
+          "absolute_brightness_delta": 189.1288,
+          "color_histogram_distance": 0.564448,
+          "structural_similarity": 0.147394,
+          "edge_difference": 0.061042
+        },
+        {
+          "frame_id": "VF_000113",
+          "timestamp_seconds": 112.0,
+          "brightness_delta": -10.6192,
+          "absolute_brightness_delta": 10.6192,
+          "color_histogram_distance": 0.126347,
+          "structural_similarity": 0.296216,
+          "edge_difference": 0.132951
+        },
+        {
+          "frame_id": "VF_000114",
+          "timestamp_seconds": 113.0,
+          "brightness_delta": 1.543,
+          "absolute_brightness_delta": 1.543,
+          "color_histogram_distance": 0.026507,
+          "structural_similarity": 0.889329,
+          "edge_difference": 0.060608
+        }
+      ]
+    },
+    {
+      "event_id": "GT_005",
+      "boundary_type": "NO_BOUNDARY",
+      "transition_effect": "WHITE_FLASH",
+      "start_seconds": 246.2,
+      "end_seconds": 246.6,
+      "measurements": [
+        {
+          "frame_id": "VF_000246",
+          "timestamp_seconds": 245.0,
+          "brightness_delta": 0.1083,
+          "absolute_brightness_delta": 0.1083,
+          "color_histogram_distance": 0.021616,
+          "structural_similarity": 0.587857,
+          "edge_difference": 0.120503
+        },
+        {
+          "frame_id": "VF_000247",
+          "timestamp_seconds": 246.0,
+          "brightness_delta": 204.1019,
+          "absolute_brightness_delta": 204.1019,
+          "color_histogram_distance": 0.647224,
+          "structural_similarity": 0.126978,
+          "edge_difference": 0.107708
+        },
+        {
+          "frame_id": "VF_000248",
+          "timestamp_seconds": 247.0,
+          "brightness_delta": -206.3717,
+          "absolute_brightness_delta": 206.3717,
+          "color_histogram_distance": 0.662199,
+          "structural_similarity": 0.133506,
+          "edge_difference": 0.097812
+        },
+        {
+          "frame_id": "VF_000249",
+          "timestamp_seconds": 248.0,
+          "brightness_delta": -3.2021,
+          "absolute_brightness_delta": 3.2021,
+          "color_histogram_distance": 0.159258,
+          "structural_similarity": 0.209008,
+          "edge_difference": 0.188403
+        }
+      ]
+    },
+    {
+      "event_id": "GT_006",
+      "boundary_type": "SHOT_BOUNDARY",
+      "transition_effect": "HARD_CUT",
+      "start_seconds": 248.0,
+      "end_seconds": 248.2,
+      "measurements": [
+        {
+          "frame_id": "VF_000247",
+          "timestamp_seconds": 246.0,
+          "brightness_delta": 204.1019,
+          "absolute_brightness_delta": 204.1019,
+          "color_histogram_distance": 0.647224,
+          "structural_similarity": 0.126978,
+          "edge_difference": 0.107708
+        },
+        {
+          "frame_id": "VF_000248",
+          "timestamp_seconds": 247.0,
+          "brightness_delta": -206.3717,
+          "absolute_brightness_delta": 206.3717,
+          "color_histogram_distance": 0.662199,
+          "structural_similarity": 0.133506,
+          "edge_difference": 0.097812
+        },
+        {
+          "frame_id": "VF_000249",
+          "timestamp_seconds": 248.0,
+          "brightness_delta": -3.2021,
+          "absolute_brightness_delta": 3.2021,
+          "color_histogram_distance": 0.159258,
+          "structural_similarity": 0.209008,
+          "edge_difference": 0.188403
+        },
+        {
+          "frame_id": "VF_000250",
+          "timestamp_seconds": 249.0,
+          "brightness_delta": 0.9324,
+          "absolute_brightness_delta": 0.9324,
+          "color_histogram_distance": 0.039862,
+          "structural_similarity": 0.611211,
+          "edge_difference": 0.111111
+        },
+        {
+          "frame_id": "VF_000251",
+          "timestamp_seconds": 250.0,
+          "brightness_delta": 9.1519,
+          "absolute_brightness_delta": 9.1519,
+          "color_histogram_distance": 0.215735,
+          "structural_similarity": 0.240721,
+          "edge_difference": 0.14441
+        }
+      ]
+    },
+    {
+      "event_id": "GT_007",
+      "boundary_type": "SCENE_BOUNDARY_CANDIDATE",
+      "transition_effect": "FADE_THROUGH_WHITE_DISSOLVE",
+      "start_seconds": 289.0,
+      "end_seconds": 289.6,
+      "measurements": [
+        {
+          "frame_id": "VF_000288",
+          "timestamp_seconds": 287.0,
+          "brightness_delta": -3.5477,
+          "absolute_brightness_delta": 3.5477,
+          "color_histogram_distance": 0.131923,
+          "structural_similarity": 0.266914,
+          "edge_difference": 0.133385
+        },
+        {
+          "frame_id": "VF_000289",
+          "timestamp_seconds": 288.0,
+          "brightness_delta": 1.3747,
+          "absolute_brightness_delta": 1.3747,
+          "color_histogram_distance": 0.048937,
+          "structural_similarity": 0.567173,
+          "edge_difference": 0.115365
+        },
+        {
+          "frame_id": "VF_000290",
+          "timestamp_seconds": 289.0,
+          "brightness_delta": 110.9235,
+          "absolute_brightness_delta": 110.9235,
+          "color_histogram_distance": 0.582047,
+          "structural_similarity": 0.193828,
+          "edge_difference": 0.088003
+        },
+        {
+          "frame_id": "VF_000291",
+          "timestamp_seconds": 290.0,
+          "brightness_delta": -79.9487,
+          "absolute_brightness_delta": 79.9487,
+          "color_histogram_distance": 0.497547,
+          "structural_similarity": 0.382862,
+          "edge_difference": 0.068299
+        },
+        {
+          "frame_id": "VF_000292",
+          "timestamp_seconds": 291.0,
+          "brightness_delta": 6.2507,
+          "absolute_brightness_delta": 6.2507,
+          "color_histogram_distance": 0.228612,
+          "structural_similarity": 0.463283,
+          "edge_difference": 0.089566
+        }
+      ]
+    },
+    {
+      "event_id": "GT_008",
+      "boundary_type": "SHOT_BOUNDARY",
+      "transition_effect": "DISSOLVE",
+      "start_seconds": 290.4,
+      "end_seconds": 291.0,
+      "measurements": [
+        {
+          "frame_id": "VF_000290",
+          "timestamp_seconds": 289.0,
+          "brightness_delta": 110.9235,
+          "absolute_brightness_delta": 110.9235,
+          "color_histogram_distance": 0.582047,
+          "structural_similarity": 0.193828,
+          "edge_difference": 0.088003
+        },
+        {
+          "frame_id": "VF_000291",
+          "timestamp_seconds": 290.0,
+          "brightness_delta": -79.9487,
+          "absolute_brightness_delta": 79.9487,
+          "color_histogram_distance": 0.497547,
+          "structural_similarity": 0.382862,
+          "edge_difference": 0.068299
+        },
+        {
+          "frame_id": "VF_000292",
+          "timestamp_seconds": 291.0,
+          "brightness_delta": 6.2507,
+          "absolute_brightness_delta": 6.2507,
+          "color_histogram_distance": 0.228612,
+          "structural_similarity": 0.463283,
+          "edge_difference": 0.089566
+        },
+        {
+          "frame_id": "VF_000293",
+          "timestamp_seconds": 292.0,
+          "brightness_delta": 6.5,
+          "absolute_brightness_delta": 6.5,
+          "color_histogram_distance": 0.235132,
+          "structural_similarity": 0.435813,
+          "edge_difference": 0.124045
+        },
+        {
+          "frame_id": "VF_000294",
+          "timestamp_seconds": 293.0,
+          "brightness_delta": -13.2024,
+          "absolute_brightness_delta": 13.2024,
+          "color_histogram_distance": 0.267239,
+          "structural_similarity": 0.307416,
+          "edge_difference": 0.172344
+        }
+      ]
+    }
+  ]
+}

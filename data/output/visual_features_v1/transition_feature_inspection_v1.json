@@ -1,0 +1,1359 @@
+{
+  "schema_version": "1.0.0",
+  "engine_version": "1.0.0",
+  "source": {
+    "feature_file": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\visual_features_v1\\transition_features_v1.json",
+    "ground_truth_file": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\transition_inspection_v1\\transition_ground_truth_v1.json"
+  },
+  "statistics": {
+    "total_comparisons": 91,
+    "ground_truth_events": 8
+  },
+  "top_changes": {
+    "absolute_brightness_delta": [
+      {
+        "window_id": "TW_002",
+        "from_frame": "TW_002_F012",
+        "to_frame": "TW_002_F013",
+        "timestamp_seconds": 110.6,
+        "brightness_delta": -189.0899,
+        "absolute_brightness_delta": 189.0899,
+        "color_histogram_distance": 0.56606,
+        "structural_similarity": 0.147766,
+        "edge_difference": 0.061372
+      },
+      {
+        "window_id": "TW_003",
+        "from_frame": "TW_003_F011",
+        "to_frame": "TW_003_F012",
+        "timestamp_seconds": 246.4,
+        "brightness_delta": 188.2846,
+        "absolute_brightness_delta": 188.2846,
+        "color_histogram_distance": 0.702967,
+        "structural_similarity": 0.221234,
+        "edge_difference": 0.090868
+      },
+      {
+        "window_id": "TW_003",
+        "from_frame": "TW_003_F012",
+        "to_frame": "TW_003_F013",
+        "timestamp_seconds": 246.6,
+        "brightness_delta": -187.0787,
+        "absolute_brightness_delta": 187.0787,
+        "color_histogram_distance": 0.684053,
+        "structural_similarity": 0.224701,
+        "edge_difference": 0.081892
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F010",
+        "to_frame": "TW_004_F011",
+        "timestamp_seconds": 289.2,
+        "brightness_delta": 179.5355,
+        "absolute_brightness_delta": 179.5355,
+        "color_histogram_distance": 0.715351,
+        "structural_similarity": 0.29937,
+        "edge_difference": 0.071493
+      },
+      {
+        "window_id": "TW_001",
+        "from_frame": "TW_001_F010",
+        "to_frame": "TW_001_F011",
+        "timestamp_seconds": 9.2,
+        "brightness_delta": 112.7454,
+        "absolute_brightness_delta": 112.7454,
+        "color_histogram_distance": 0.597742,
+        "structural_similarity": 0.810074,
+        "edge_difference": 0.012396
+      },
+      {
+        "window_id": "TW_001",
+        "from_frame": "TW_001_F009",
+        "to_frame": "TW_001_F010",
+        "timestamp_seconds": 9.0,
+        "brightness_delta": 105.3188,
+        "absolute_brightness_delta": 105.3188,
+        "color_histogram_distance": 0.858636,
+        "structural_similarity": 0.429701,
+        "edge_difference": 0.001389
+      },
+      {
+        "window_id": "TW_001",
+        "from_frame": "TW_001_F012",
+        "to_frame": "TW_001_F013",
+        "timestamp_seconds": 9.6,
+        "brightness_delta": -99.7622,
+        "absolute_brightness_delta": 99.7622,
+        "color_histogram_distance": 0.544388,
+        "structural_similarity": 0.532437,
+        "edge_difference": 0.049028
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F011",
+        "to_frame": "TW_004_F012",
+        "timestamp_seconds": 289.4,
+        "brightness_delta": -98.2342,
+        "absolute_brightness_delta": 98.2342,
+        "color_histogram_distance": 0.677485,
+        "structural_similarity": 0.657709,
+        "edge_difference": 0.023767
+      },
+      {
+        "window_id": "TW_002",
+        "from_frame": "TW_002_F011",
+        "to_frame": "TW_002_F012",
+        "timestamp_seconds": 110.4,
+        "brightness_delta": 96.837,
+        "absolute_brightness_delta": 96.837,
+        "color_histogram_distance": 0.465957,
+        "structural_similarity": 0.582453,
+        "edge_difference": 0.033559
+      },
+      {
+        "window_id": "TW_002",
+        "from_frame": "TW_002_F010",
+        "to_frame": "TW_002_F011",
+        "timestamp_seconds": 110.2,
+        "brightness_delta": 88.0743,
+        "absolute_brightness_delta": 88.0743,
+        "color_histogram_distance": 0.481048,
+        "structural_similarity": 0.295361,
+        "edge_difference": 0.067986
+      },
+      {
+        "window_id": "TW_001",
+        "from_frame": "TW_001_F011",
+        "to_frame": "TW_001_F012",
+        "timestamp_seconds": 9.4,
+        "brightness_delta": -82.6505,
+        "absolute_brightness_delta": 82.6505,
+        "color_histogram_distance": 0.699264,
+        "structural_similarity": 0.7526,
+        "edge_difference": 0.019375
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F012",
+        "to_frame": "TW_004_F013",
+        "timestamp_seconds": 289.6,
+        "brightness_delta": -76.0883,
+        "absolute_brightness_delta": 76.0883,
+        "color_histogram_distance": 0.494371,
+        "structural_similarity": 0.489084,
+        "edge_difference": 0.056233
+      },
+      {
+        "window_id": "TW_001",
+        "from_frame": "TW_001_F013",
+        "to_frame": "TW_001_F014",
+        "timestamp_seconds": 9.8,
+        "brightness_delta": -34.2738,
+        "absolute_brightness_delta": 34.2738,
+        "color_histogram_distance": 0.407696,
+        "structural_similarity": 0.437207,
+        "edge_difference": 0.072431
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F009",
+        "to_frame": "TW_004_F010",
+        "timestamp_seconds": 289.0,
+        "brightness_delta": 29.9517,
+        "absolute_brightness_delta": 29.9517,
+        "color_histogram_distance": 0.367177,
+        "structural_similarity": 0.663768,
+        "edge_difference": 0.061111
+      },
+      {
+        "window_id": "TW_003",
+        "from_frame": "TW_003_F013",
+        "to_frame": "TW_003_F014",
+        "timestamp_seconds": 246.8,
+        "brightness_delta": -19.2919,
+        "absolute_brightness_delta": 19.2919,
+        "color_histogram_distance": 0.224681,
+        "structural_similarity": 0.822246,
+        "edge_difference": 0.027517
+      }
+    ],
+    "color_histogram_distance": [
+      {
+        "window_id": "TW_001",
+        "from_frame": "TW_001_F009",
+        "to_frame": "TW_001_F010",
+        "timestamp_seconds": 9.0,
+        "brightness_delta": 105.3188,
+        "absolute_brightness_delta": 105.3188,
+        "color_histogram_distance": 0.858636,
+        "structural_similarity": 0.429701,
+        "edge_difference": 0.001389
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F010",
+        "to_frame": "TW_004_F011",
+        "timestamp_seconds": 289.2,
+        "brightness_delta": 179.5355,
+        "absolute_brightness_delta": 179.5355,
+        "color_histogram_distance": 0.715351,
+        "structural_similarity": 0.29937,
+        "edge_difference": 0.071493
+      },
+      {
+        "window_id": "TW_003",
+        "from_frame": "TW_003_F011",
+        "to_frame": "TW_003_F012",
+        "timestamp_seconds": 246.4,
+        "brightness_delta": 188.2846,
+        "absolute_brightness_delta": 188.2846,
+        "color_histogram_distance": 0.702967,
+        "structural_similarity": 0.221234,
+        "edge_difference": 0.090868
+      },
+      {
+        "window_id": "TW_001",
+        "from_frame": "TW_001_F011",
+        "to_frame": "TW_001_F012",
+        "timestamp_seconds": 9.4,
+        "brightness_delta": -82.6505,
+        "absolute_brightness_delta": 82.6505,
+        "color_histogram_distance": 0.699264,
+        "structural_similarity": 0.7526,
+        "edge_difference": 0.019375
+      },
+      {
+        "window_id": "TW_003",
+        "from_frame": "TW_003_F012",
+        "to_frame": "TW_003_F013",
+        "timestamp_seconds": 246.6,
+        "brightness_delta": -187.0787,
+        "absolute_brightness_delta": 187.0787,
+        "color_histogram_distance": 0.684053,
+        "structural_similarity": 0.224701,
+        "edge_difference": 0.081892
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F011",
+        "to_frame": "TW_004_F012",
+        "timestamp_seconds": 289.4,
+        "brightness_delta": -98.2342,
+        "absolute_brightness_delta": 98.2342,
+        "color_histogram_distance": 0.677485,
+        "structural_similarity": 0.657709,
+        "edge_difference": 0.023767
+      },
+      {
+        "window_id": "TW_001",
+        "from_frame": "TW_001_F008",
+        "to_frame": "TW_001_F009",
+        "timestamp_seconds": 8.8,
+        "brightness_delta": 7.4634,
+        "absolute_brightness_delta": 7.4634,
+        "color_histogram_distance": 0.597764,
+        "structural_similarity": 0.685624,
+        "edge_difference": 0.008351
+      },
+      {
+        "window_id": "TW_001",
+        "from_frame": "TW_001_F010",
+        "to_frame": "TW_001_F011",
+        "timestamp_seconds": 9.2,
+        "brightness_delta": 112.7454,
+        "absolute_brightness_delta": 112.7454,
+        "color_histogram_distance": 0.597742,
+        "structural_similarity": 0.810074,
+        "edge_difference": 0.012396
+      },
+      {
+        "window_id": "TW_002",
+        "from_frame": "TW_002_F012",
+        "to_frame": "TW_002_F013",
+        "timestamp_seconds": 110.6,
+        "brightness_delta": -189.0899,
+        "absolute_brightness_delta": 189.0899,
+        "color_histogram_distance": 0.56606,
+        "structural_similarity": 0.147766,
+        "edge_difference": 0.061372
+      },
+      {
+        "window_id": "TW_001",
+        "from_frame": "TW_001_F012",
+        "to_frame": "TW_001_F013",
+        "timestamp_seconds": 9.6,
+        "brightness_delta": -99.7622,
+        "absolute_brightness_delta": 99.7622,
+        "color_histogram_distance": 0.544388,
+        "structural_similarity": 0.532437,
+        "edge_difference": 0.049028
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F012",
+        "to_frame": "TW_004_F013",
+        "timestamp_seconds": 289.6,
+        "brightness_delta": -76.0883,
+        "absolute_brightness_delta": 76.0883,
+        "color_histogram_distance": 0.494371,
+        "structural_similarity": 0.489084,
+        "edge_difference": 0.056233
+      },
+      {
+        "window_id": "TW_002",
+        "from_frame": "TW_002_F010",
+        "to_frame": "TW_002_F011",
+        "timestamp_seconds": 110.2,
+        "brightness_delta": 88.0743,
+        "absolute_brightness_delta": 88.0743,
+        "color_histogram_distance": 0.481048,
+        "structural_similarity": 0.295361,
+        "edge_difference": 0.067986
+      },
+      {
+        "window_id": "TW_002",
+        "from_frame": "TW_002_F011",
+        "to_frame": "TW_002_F012",
+        "timestamp_seconds": 110.4,
+        "brightness_delta": 96.837,
+        "absolute_brightness_delta": 96.837,
+        "color_histogram_distance": 0.465957,
+        "structural_similarity": 0.582453,
+        "edge_difference": 0.033559
+      },
+      {
+        "window_id": "TW_001",
+        "from_frame": "TW_001_F013",
+        "to_frame": "TW_001_F014",
+        "timestamp_seconds": 9.8,
+        "brightness_delta": -34.2738,
+        "absolute_brightness_delta": 34.2738,
+        "color_histogram_distance": 0.407696,
+        "structural_similarity": 0.437207,
+        "edge_difference": 0.072431
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F009",
+        "to_frame": "TW_004_F010",
+        "timestamp_seconds": 289.0,
+        "brightness_delta": 29.9517,
+        "absolute_brightness_delta": 29.9517,
+        "color_histogram_distance": 0.367177,
+        "structural_similarity": 0.663768,
+        "edge_difference": 0.061111
+      }
+    ],
+    "edge_difference": [
+      {
+        "window_id": "TW_003",
+        "from_frame": "TW_003_F020",
+        "to_frame": "TW_003_F021",
+        "timestamp_seconds": 248.2,
+        "brightness_delta": -4.0111,
+        "absolute_brightness_delta": 4.0111,
+        "color_histogram_distance": 0.16445,
+        "structural_similarity": 0.211359,
+        "edge_difference": 0.187153
+      },
+      {
+        "window_id": "TW_002",
+        "from_frame": "TW_002_F018",
+        "to_frame": "TW_002_F019",
+        "timestamp_seconds": 111.8,
+        "brightness_delta": -11.0361,
+        "absolute_brightness_delta": 11.0361,
+        "color_histogram_distance": 0.1325,
+        "structural_similarity": 0.293475,
+        "edge_difference": 0.13217
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F000",
+        "to_frame": "TW_004_F001",
+        "timestamp_seconds": 287.2,
+        "brightness_delta": -3.3767,
+        "absolute_brightness_delta": 3.3767,
+        "color_histogram_distance": 0.120206,
+        "structural_similarity": 0.250696,
+        "edge_difference": 0.128385
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F002",
+        "to_frame": "TW_004_F003",
+        "timestamp_seconds": 287.6,
+        "brightness_delta": 1.1075,
+        "absolute_brightness_delta": 1.1075,
+        "color_histogram_distance": 0.016498,
+        "structural_similarity": 0.607861,
+        "edge_difference": 0.115382
+      },
+      {
+        "window_id": "TW_002",
+        "from_frame": "TW_002_F001",
+        "to_frame": "TW_002_F002",
+        "timestamp_seconds": 108.4,
+        "brightness_delta": -9.8573,
+        "absolute_brightness_delta": 9.8573,
+        "color_histogram_distance": 0.28838,
+        "structural_similarity": 0.2727,
+        "edge_difference": 0.114774
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F003",
+        "to_frame": "TW_004_F004",
+        "timestamp_seconds": 287.8,
+        "brightness_delta": 1.2387,
+        "absolute_brightness_delta": 1.2387,
+        "color_histogram_distance": 0.030048,
+        "structural_similarity": 0.679836,
+        "edge_difference": 0.113611
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F001",
+        "to_frame": "TW_004_F002",
+        "timestamp_seconds": 287.4,
+        "brightness_delta": 0.5751,
+        "absolute_brightness_delta": 0.5751,
+        "color_histogram_distance": 0.014511,
+        "structural_similarity": 0.696881,
+        "edge_difference": 0.109253
+      },
+      {
+        "window_id": "TW_003",
+        "from_frame": "TW_003_F002",
+        "to_frame": "TW_003_F003",
+        "timestamp_seconds": 244.6,
+        "brightness_delta": 0.0378,
+        "absolute_brightness_delta": 0.0378,
+        "color_histogram_distance": 0.020384,
+        "structural_similarity": 0.698982,
+        "edge_difference": 0.109236
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F004",
+        "to_frame": "TW_004_F005",
+        "timestamp_seconds": 288.0,
+        "brightness_delta": -0.1578,
+        "absolute_brightness_delta": 0.1578,
+        "color_histogram_distance": 0.014544,
+        "structural_similarity": 0.793157,
+        "edge_difference": 0.109045
+      },
+      {
+        "window_id": "TW_002",
+        "from_frame": "TW_002_F000",
+        "to_frame": "TW_002_F001",
+        "timestamp_seconds": 108.2,
+        "brightness_delta": 0.0957,
+        "absolute_brightness_delta": 0.0957,
+        "color_histogram_distance": 0.027704,
+        "structural_similarity": 0.80634,
+        "edge_difference": 0.108681
+      },
+      {
+        "window_id": "TW_003",
+        "from_frame": "TW_003_F003",
+        "to_frame": "TW_003_F004",
+        "timestamp_seconds": 244.8,
+        "brightness_delta": 0.1432,
+        "absolute_brightness_delta": 0.1432,
+        "color_histogram_distance": 0.013754,
+        "structural_similarity": 0.699397,
+        "edge_difference": 0.105052
+      },
+      {
+        "window_id": "TW_003",
+        "from_frame": "TW_003_F010",
+        "to_frame": "TW_003_F011",
+        "timestamp_seconds": 246.2,
+        "brightness_delta": 16.3915,
+        "absolute_brightness_delta": 16.3915,
+        "color_histogram_distance": 0.270815,
+        "structural_similarity": 0.594154,
+        "edge_difference": 0.103802
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F005",
+        "to_frame": "TW_004_F006",
+        "timestamp_seconds": 288.2,
+        "brightness_delta": -0.7317,
+        "absolute_brightness_delta": 0.7317,
+        "color_histogram_distance": 0.038261,
+        "structural_similarity": 0.780581,
+        "edge_difference": 0.1025
+      },
+      {
+        "window_id": "TW_004",
+        "from_frame": "TW_004_F017",
+        "to_frame": "TW_004_F018",
+        "timestamp_seconds": 290.6,
+        "brightness_delta": 17.8994,
+        "absolute_brightness_delta": 17.8994,
+        "color_histogram_distance": 0.225026,
+        "structural_similarity": 0.415278,
+        "edge_difference": 0.101597
+      },
+      {
+        "window_id": "TW_003",
+        "from_frame": "TW_003_F004",
+        "to_frame": "TW_003_F005",
+        "timestamp_seconds": 245.0,
+        "brightness_delta": -0.1529,
+        "absolute_brightness_delta": 0.1529,
+        "color_histogram_distance": 0.015409,
+        "structural_similarity": 0.742737,
+        "edge_difference": 0.101267
+      }
+    ]
+  },
+  "ground_truth_comparison": [
+    {
+      "event_id": "GT_001",
+      "boundary_type": "SCENE_BOUNDARY",
+      "transition_effect": "FADE_THROUGH_WHITE_DISSOLVE",
+      "start_seconds": 8.4,
+      "end_seconds": 9.8,
+      "comparisons": [
+        {
+          "window_id": "TW_001",
+          "from_frame": "TW_001_F004",
+          "to_frame": "TW_001_F005",
+          "timestamp_seconds": 8.0,
+          "brightness_delta": 0.2397,
+          "absolute_brightness_delta": 0.2397,
+          "color_histogram_distance": 0.038738,
+          "structural_similarity": 0.944452,
+          "edge_difference": 0.034253
+        },
+        {
+          "window_id": "TW_001",
+          "from_frame": "TW_001_F005",
+          "to_frame": "TW_001_F006",
+          "timestamp_seconds": 8.2,
+          "brightness_delta": -7.6646,
+          "absolute_brightness_delta": 7.6646,
+          "color_histogram_distance": 0.168211,
+          "structural_similarity": 0.916822,
+          "edge_difference": 0.033368
+        },
+        {
+          "window_id": "TW_001",
+          "from_frame": "TW_001_F006",
+          "to_frame": "TW_001_F007",
+          "timestamp_seconds": 8.4,
+          "brightness_delta": -7.5469,
+          "absolute_brightness_delta": 7.5469,
+          "color_histogram_distance": 0.177749,
+          "structural_similarity": 0.924721,
+          "edge_difference": 0.025694
+        },
+        {
+          "window_id": "TW_001",
+          "from_frame": "TW_001_F007",
+          "to_frame": "TW_001_F008",
+          "timestamp_seconds": 8.6,
+          "brightness_delta": -9.1029,
+          "absolute_brightness_delta": 9.1029,
+          "color_histogram_distance": 0.172942,
+          "structural_similarity": 0.905309,
+          "edge_difference": 0.024618
+        },
+        {
+          "window_id": "TW_001",
+          "from_frame": "TW_001_F008",
+          "to_frame": "TW_001_F009",
+          "timestamp_seconds": 8.8,
+          "brightness_delta": 7.4634,
+          "absolute_brightness_delta": 7.4634,
+          "color_histogram_distance": 0.597764,
+          "structural_similarity": 0.685624,
+          "edge_difference": 0.008351
+        },
+        {
+          "window_id": "TW_001",
+          "from_frame": "TW_001_F009",
+          "to_frame": "TW_001_F010",
+          "timestamp_seconds": 9.0,
+          "brightness_delta": 105.3188,
+          "absolute_brightness_delta": 105.3188,
+          "color_histogram_distance": 0.858636,
+          "structural_similarity": 0.429701,
+          "edge_difference": 0.001389
+        },
+        {
+          "window_id": "TW_001",
+          "from_frame": "TW_001_F010",
+          "to_frame": "TW_001_F011",
+          "timestamp_seconds": 9.2,
+          "brightness_delta": 112.7454,
+          "absolute_brightness_delta": 112.7454,
+          "color_histogram_distance": 0.597742,
+          "structural_similarity": 0.810074,
+          "edge_difference": 0.012396
+        },
+        {
+          "window_id": "TW_001",
+          "from_frame": "TW_001_F011",
+          "to_frame": "TW_001_F012",
+          "timestamp_seconds": 9.4,
+          "brightness_delta": -82.6505,
+          "absolute_brightness_delta": 82.6505,
+          "color_histogram_distance": 0.699264,
+          "structural_similarity": 0.7526,
+          "edge_difference": 0.019375
+        },
+        {
+          "window_id": "TW_001",
+          "from_frame": "TW_001_F012",
+          "to_frame": "TW_001_F013",
+          "timestamp_seconds": 9.6,
+          "brightness_delta": -99.7622,
+          "absolute_brightness_delta": 99.7622,
+          "color_histogram_distance": 0.544388,
+          "structural_similarity": 0.532437,
+          "edge_difference": 0.049028
+        },
+        {
+          "window_id": "TW_001",
+          "from_frame": "TW_001_F013",
+          "to_frame": "TW_001_F014",
+          "timestamp_seconds": 9.8,
+          "brightness_delta": -34.2738,
+          "absolute_brightness_delta": 34.2738,
+          "color_histogram_distance": 0.407696,
+          "structural_similarity": 0.437207,
+          "edge_difference": 0.072431
+        },
+        {
+          "window_id": "TW_001",
+          "from_frame": "TW_001_F014",
+          "to_frame": "TW_001_F015",
+          "timestamp_seconds": 10.0,
+          "brightness_delta": -0.9839,
+          "absolute_brightness_delta": 0.9839,
+          "color_histogram_distance": 0.020236,
+          "structural_similarity": 0.730548,
+          "edge_difference": 0.07026
+        },
+        {
+          "window_id": "TW_001",
+          "from_frame": "TW_001_F015",
+          "to_frame": "TW_001_F016",
+          "timestamp_seconds": 10.2,
+          "brightness_delta": -1.0021,
+          "absolute_brightness_delta": 1.0021,
+          "color_histogram_distance": 0.029706,
+          "structural_similarity": 0.717372,
+          "edge_difference": 0.075573
+        },
+        {
+          "window_id": "TW_001",
+          "from_frame": "TW_001_F016",
+          "to_frame": "TW_001_F017",
+          "timestamp_seconds": 10.4,
+          "brightness_delta": -0.5071,
+          "absolute_brightness_delta": 0.5071,
+          "color_histogram_distance": 0.016434,
+          "structural_similarity": 0.74936,
+          "edge_difference": 0.072031
+        }
+      ]
+    },
+    {
+      "event_id": "GT_002",
+      "boundary_type": "SHOT_BOUNDARY",
+      "transition_effect": "HARD_CUT",
+      "start_seconds": 108.2,
+      "end_seconds": 108.4,
+      "comparisons": [
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F000",
+          "to_frame": "TW_002_F001",
+          "timestamp_seconds": 108.2,
+          "brightness_delta": 0.0957,
+          "absolute_brightness_delta": 0.0957,
+          "color_histogram_distance": 0.027704,
+          "structural_similarity": 0.80634,
+          "edge_difference": 0.108681
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F001",
+          "to_frame": "TW_002_F002",
+          "timestamp_seconds": 108.4,
+          "brightness_delta": -9.8573,
+          "absolute_brightness_delta": 9.8573,
+          "color_histogram_distance": 0.28838,
+          "structural_similarity": 0.2727,
+          "edge_difference": 0.114774
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F002",
+          "to_frame": "TW_002_F003",
+          "timestamp_seconds": 108.6,
+          "brightness_delta": -0.3648,
+          "absolute_brightness_delta": 0.3648,
+          "color_histogram_distance": 0.023088,
+          "structural_similarity": 0.828225,
+          "edge_difference": 0.02309
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F003",
+          "to_frame": "TW_002_F004",
+          "timestamp_seconds": 108.8,
+          "brightness_delta": -0.503,
+          "absolute_brightness_delta": 0.503,
+          "color_histogram_distance": 0.02278,
+          "structural_similarity": 0.809276,
+          "edge_difference": 0.023247
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F004",
+          "to_frame": "TW_002_F005",
+          "timestamp_seconds": 109.0,
+          "brightness_delta": -0.7216,
+          "absolute_brightness_delta": 0.7216,
+          "color_histogram_distance": 0.041421,
+          "structural_similarity": 0.776876,
+          "edge_difference": 0.022622
+        }
+      ]
+    },
+    {
+      "event_id": "GT_003",
+      "boundary_type": "NO_BOUNDARY",
+      "transition_effect": "LIGHT_LEAK_FLASH",
+      "start_seconds": 110.0,
+      "end_seconds": 110.6,
+      "comparisons": [
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F006",
+          "to_frame": "TW_002_F007",
+          "timestamp_seconds": 109.4,
+          "brightness_delta": -0.7318,
+          "absolute_brightness_delta": 0.7318,
+          "color_histogram_distance": 0.035436,
+          "structural_similarity": 0.776001,
+          "edge_difference": 0.027187
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F007",
+          "to_frame": "TW_002_F008",
+          "timestamp_seconds": 109.6,
+          "brightness_delta": 0.6426,
+          "absolute_brightness_delta": 0.6426,
+          "color_histogram_distance": 0.03431,
+          "structural_similarity": 0.672756,
+          "edge_difference": 0.041424
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F008",
+          "to_frame": "TW_002_F009",
+          "timestamp_seconds": 109.8,
+          "brightness_delta": -0.6058,
+          "absolute_brightness_delta": 0.6058,
+          "color_histogram_distance": 0.030408,
+          "structural_similarity": 0.643466,
+          "edge_difference": 0.05434
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F009",
+          "to_frame": "TW_002_F010",
+          "timestamp_seconds": 110.0,
+          "brightness_delta": -1.196,
+          "absolute_brightness_delta": 1.196,
+          "color_histogram_distance": 0.033109,
+          "structural_similarity": 0.606695,
+          "edge_difference": 0.074757
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F010",
+          "to_frame": "TW_002_F011",
+          "timestamp_seconds": 110.2,
+          "brightness_delta": 88.0743,
+          "absolute_brightness_delta": 88.0743,
+          "color_histogram_distance": 0.481048,
+          "structural_similarity": 0.295361,
+          "edge_difference": 0.067986
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F011",
+          "to_frame": "TW_002_F012",
+          "timestamp_seconds": 110.4,
+          "brightness_delta": 96.837,
+          "absolute_brightness_delta": 96.837,
+          "color_histogram_distance": 0.465957,
+          "structural_similarity": 0.582453,
+          "edge_difference": 0.033559
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F012",
+          "to_frame": "TW_002_F013",
+          "timestamp_seconds": 110.6,
+          "brightness_delta": -189.0899,
+          "absolute_brightness_delta": 189.0899,
+          "color_histogram_distance": 0.56606,
+          "structural_similarity": 0.147766,
+          "edge_difference": 0.061372
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F013",
+          "to_frame": "TW_002_F014",
+          "timestamp_seconds": 110.8,
+          "brightness_delta": -0.0071,
+          "absolute_brightness_delta": 0.0071,
+          "color_histogram_distance": 0.001548,
+          "structural_similarity": 0.999779,
+          "edge_difference": 0.000573
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F014",
+          "to_frame": "TW_002_F015",
+          "timestamp_seconds": 111.0,
+          "brightness_delta": -0.0009,
+          "absolute_brightness_delta": 0.0009,
+          "color_histogram_distance": 0.00038,
+          "structural_similarity": 0.999959,
+          "edge_difference": 1.7e-05
+        }
+      ]
+    },
+    {
+      "event_id": "GT_004",
+      "boundary_type": "SHOT_BOUNDARY",
+      "transition_effect": "HARD_CUT",
+      "start_seconds": 111.6,
+      "end_seconds": 111.8,
+      "comparisons": [
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F014",
+          "to_frame": "TW_002_F015",
+          "timestamp_seconds": 111.0,
+          "brightness_delta": -0.0009,
+          "absolute_brightness_delta": 0.0009,
+          "color_histogram_distance": 0.00038,
+          "structural_similarity": 0.999959,
+          "edge_difference": 1.7e-05
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F015",
+          "to_frame": "TW_002_F016",
+          "timestamp_seconds": 111.2,
+          "brightness_delta": -0.032,
+          "absolute_brightness_delta": 0.032,
+          "color_histogram_distance": 0.012421,
+          "structural_similarity": 0.995063,
+          "edge_difference": 0.007274
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F016",
+          "to_frame": "TW_002_F017",
+          "timestamp_seconds": 111.4,
+          "brightness_delta": 0.0012,
+          "absolute_brightness_delta": 0.0012,
+          "color_histogram_distance": 0.001001,
+          "structural_similarity": 0.999811,
+          "edge_difference": 0.000208
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F017",
+          "to_frame": "TW_002_F018",
+          "timestamp_seconds": 111.6,
+          "brightness_delta": 0.0047,
+          "absolute_brightness_delta": 0.0047,
+          "color_histogram_distance": 0.000574,
+          "structural_similarity": 0.999838,
+          "edge_difference": 0.000156
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F018",
+          "to_frame": "TW_002_F019",
+          "timestamp_seconds": 111.8,
+          "brightness_delta": -11.0361,
+          "absolute_brightness_delta": 11.0361,
+          "color_histogram_distance": 0.1325,
+          "structural_similarity": 0.293475,
+          "edge_difference": 0.13217
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F019",
+          "to_frame": "TW_002_F020",
+          "timestamp_seconds": 112.0,
+          "brightness_delta": 0.2958,
+          "absolute_brightness_delta": 0.2958,
+          "color_histogram_distance": 0.015312,
+          "structural_similarity": 0.961646,
+          "edge_difference": 0.035122
+        },
+        {
+          "window_id": "TW_002",
+          "from_frame": "TW_002_F020",
+          "to_frame": "TW_002_F021",
+          "timestamp_seconds": 112.2,
+          "brightness_delta": 0.1015,
+          "absolute_brightness_delta": 0.1015,
+          "color_histogram_distance": 0.010101,
+          "structural_similarity": 0.964228,
+          "edge_difference": 0.030226
+        }
+      ]
+    },
+    {
+      "event_id": "GT_005",
+      "boundary_type": "NO_BOUNDARY",
+      "transition_effect": "WHITE_FLASH",
+      "start_seconds": 246.2,
+      "end_seconds": 246.6,
+      "comparisons": [
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F007",
+          "to_frame": "TW_003_F008",
+          "timestamp_seconds": 245.6,
+          "brightness_delta": 0.1692,
+          "absolute_brightness_delta": 0.1692,
+          "color_histogram_distance": 0.013016,
+          "structural_similarity": 0.762613,
+          "edge_difference": 0.100625
+        },
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F008",
+          "to_frame": "TW_003_F009",
+          "timestamp_seconds": 245.8,
+          "brightness_delta": -0.0979,
+          "absolute_brightness_delta": 0.0979,
+          "color_histogram_distance": 0.011076,
+          "structural_similarity": 0.813925,
+          "edge_difference": 0.082708
+        },
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F009",
+          "to_frame": "TW_003_F010",
+          "timestamp_seconds": 246.0,
+          "brightness_delta": -0.6455,
+          "absolute_brightness_delta": 0.6455,
+          "color_histogram_distance": 0.029968,
+          "structural_similarity": 0.72759,
+          "edge_difference": 0.097378
+        },
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F010",
+          "to_frame": "TW_003_F011",
+          "timestamp_seconds": 246.2,
+          "brightness_delta": 16.3915,
+          "absolute_brightness_delta": 16.3915,
+          "color_histogram_distance": 0.270815,
+          "structural_similarity": 0.594154,
+          "edge_difference": 0.103802
+        },
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F011",
+          "to_frame": "TW_003_F012",
+          "timestamp_seconds": 246.4,
+          "brightness_delta": 188.2846,
+          "absolute_brightness_delta": 188.2846,
+          "color_histogram_distance": 0.702967,
+          "structural_similarity": 0.221234,
+          "edge_difference": 0.090868
+        },
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F012",
+          "to_frame": "TW_003_F013",
+          "timestamp_seconds": 246.6,
+          "brightness_delta": -187.0787,
+          "absolute_brightness_delta": 187.0787,
+          "color_histogram_distance": 0.684053,
+          "structural_similarity": 0.224701,
+          "edge_difference": 0.081892
+        },
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F013",
+          "to_frame": "TW_003_F014",
+          "timestamp_seconds": 246.8,
+          "brightness_delta": -19.2919,
+          "absolute_brightness_delta": 19.2919,
+          "color_histogram_distance": 0.224681,
+          "structural_similarity": 0.822246,
+          "edge_difference": 0.027517
+        },
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F014",
+          "to_frame": "TW_003_F015",
+          "timestamp_seconds": 247.0,
+          "brightness_delta": 0.0002,
+          "absolute_brightness_delta": 0.0002,
+          "color_histogram_distance": 0.001051,
+          "structural_similarity": 0.999819,
+          "edge_difference": 0.001042
+        },
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F015",
+          "to_frame": "TW_003_F016",
+          "timestamp_seconds": 247.2,
+          "brightness_delta": -0.0013,
+          "absolute_brightness_delta": 0.0013,
+          "color_histogram_distance": 0.000371,
+          "structural_similarity": 0.999967,
+          "edge_difference": 0.000104
+        }
+      ]
+    },
+    {
+      "event_id": "GT_006",
+      "boundary_type": "SHOT_BOUNDARY",
+      "transition_effect": "HARD_CUT",
+      "start_seconds": 248.0,
+      "end_seconds": 248.2,
+      "comparisons": [
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F016",
+          "to_frame": "TW_003_F017",
+          "timestamp_seconds": 247.4,
+          "brightness_delta": 0.0,
+          "absolute_brightness_delta": 0.0,
+          "color_histogram_distance": 0.0,
+          "structural_similarity": 1.0,
+          "edge_difference": 0.0
+        },
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F017",
+          "to_frame": "TW_003_F018",
+          "timestamp_seconds": 247.6,
+          "brightness_delta": -0.0131,
+          "absolute_brightness_delta": 0.0131,
+          "color_histogram_distance": 0.002896,
+          "structural_similarity": 0.999081,
+          "edge_difference": 0.004253
+        },
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F018",
+          "to_frame": "TW_003_F019",
+          "timestamp_seconds": 247.8,
+          "brightness_delta": -0.0047,
+          "absolute_brightness_delta": 0.0047,
+          "color_histogram_distance": 0.000931,
+          "structural_similarity": 0.999821,
+          "edge_difference": 0.000903
+        },
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F019",
+          "to_frame": "TW_003_F020",
+          "timestamp_seconds": 248.0,
+          "brightness_delta": -0.0,
+          "absolute_brightness_delta": 0.0,
+          "color_histogram_distance": 0.00023,
+          "structural_similarity": 0.999949,
+          "edge_difference": 0.000243
+        },
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F020",
+          "to_frame": "TW_003_F021",
+          "timestamp_seconds": 248.2,
+          "brightness_delta": -4.0111,
+          "absolute_brightness_delta": 4.0111,
+          "color_histogram_distance": 0.16445,
+          "structural_similarity": 0.211359,
+          "edge_difference": 0.187153
+        },
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F021",
+          "to_frame": "TW_003_F022",
+          "timestamp_seconds": 248.4,
+          "brightness_delta": 0.8267,
+          "absolute_brightness_delta": 0.8267,
+          "color_histogram_distance": 0.026228,
+          "structural_similarity": 0.769769,
+          "edge_difference": 0.074948
+        },
+        {
+          "window_id": "TW_003",
+          "from_frame": "TW_003_F022",
+          "to_frame": "TW_003_F023",
+          "timestamp_seconds": 248.6,
+          "brightness_delta": 0.301,
+          "absolute_brightness_delta": 0.301,
+          "color_histogram_distance": 0.01632,
+          "structural_similarity": 0.769267,
+          "edge_difference": 0.077361
+        }
+      ]
+    },
+    {
+      "event_id": "GT_007",
+      "boundary_type": "SCENE_BOUNDARY_CANDIDATE",
+      "transition_effect": "FADE_THROUGH_WHITE_DISSOLVE",
+      "start_seconds": 289.0,
+      "end_seconds": 289.6,
+      "comparisons": [
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F006",
+          "to_frame": "TW_004_F007",
+          "timestamp_seconds": 288.4,
+          "brightness_delta": -0.082,
+          "absolute_brightness_delta": 0.082,
+          "color_histogram_distance": 0.013122,
+          "structural_similarity": 0.819302,
+          "edge_difference": 0.093056
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F007",
+          "to_frame": "TW_004_F008",
+          "timestamp_seconds": 288.6,
+          "brightness_delta": 0.1271,
+          "absolute_brightness_delta": 0.1271,
+          "color_histogram_distance": 0.025863,
+          "structural_similarity": 0.835365,
+          "edge_difference": 0.088073
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F008",
+          "to_frame": "TW_004_F009",
+          "timestamp_seconds": 288.8,
+          "brightness_delta": -0.4566,
+          "absolute_brightness_delta": 0.4566,
+          "color_histogram_distance": 0.017148,
+          "structural_similarity": 0.851684,
+          "edge_difference": 0.096163
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F009",
+          "to_frame": "TW_004_F010",
+          "timestamp_seconds": 289.0,
+          "brightness_delta": 29.9517,
+          "absolute_brightness_delta": 29.9517,
+          "color_histogram_distance": 0.367177,
+          "structural_similarity": 0.663768,
+          "edge_difference": 0.061111
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F010",
+          "to_frame": "TW_004_F011",
+          "timestamp_seconds": 289.2,
+          "brightness_delta": 179.5355,
+          "absolute_brightness_delta": 179.5355,
+          "color_histogram_distance": 0.715351,
+          "structural_similarity": 0.29937,
+          "edge_difference": 0.071493
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F011",
+          "to_frame": "TW_004_F012",
+          "timestamp_seconds": 289.4,
+          "brightness_delta": -98.2342,
+          "absolute_brightness_delta": 98.2342,
+          "color_histogram_distance": 0.677485,
+          "structural_similarity": 0.657709,
+          "edge_difference": 0.023767
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F012",
+          "to_frame": "TW_004_F013",
+          "timestamp_seconds": 289.6,
+          "brightness_delta": -76.0883,
+          "absolute_brightness_delta": 76.0883,
+          "color_histogram_distance": 0.494371,
+          "structural_similarity": 0.489084,
+          "edge_difference": 0.056233
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F013",
+          "to_frame": "TW_004_F014",
+          "timestamp_seconds": 289.8,
+          "brightness_delta": -0.3916,
+          "absolute_brightness_delta": 0.3916,
+          "color_histogram_distance": 0.035345,
+          "structural_similarity": 0.557527,
+          "edge_difference": 0.083872
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F014",
+          "to_frame": "TW_004_F015",
+          "timestamp_seconds": 290.0,
+          "brightness_delta": -0.9321,
+          "absolute_brightness_delta": 0.9321,
+          "color_histogram_distance": 0.04797,
+          "structural_similarity": 0.595235,
+          "edge_difference": 0.081736
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F015",
+          "to_frame": "TW_004_F016",
+          "timestamp_seconds": 290.2,
+          "brightness_delta": -1.8413,
+          "absolute_brightness_delta": 1.8413,
+          "color_histogram_distance": 0.040344,
+          "structural_similarity": 0.589339,
+          "edge_difference": 0.081337
+        }
+      ]
+    },
+    {
+      "event_id": "GT_008",
+      "boundary_type": "SHOT_BOUNDARY",
+      "transition_effect": "DISSOLVE",
+      "start_seconds": 290.4,
+      "end_seconds": 291.0,
+      "comparisons": [
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F013",
+          "to_frame": "TW_004_F014",
+          "timestamp_seconds": 289.8,
+          "brightness_delta": -0.3916,
+          "absolute_brightness_delta": 0.3916,
+          "color_histogram_distance": 0.035345,
+          "structural_similarity": 0.557527,
+          "edge_difference": 0.083872
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F014",
+          "to_frame": "TW_004_F015",
+          "timestamp_seconds": 290.0,
+          "brightness_delta": -0.9321,
+          "absolute_brightness_delta": 0.9321,
+          "color_histogram_distance": 0.04797,
+          "structural_similarity": 0.595235,
+          "edge_difference": 0.081736
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F015",
+          "to_frame": "TW_004_F016",
+          "timestamp_seconds": 290.2,
+          "brightness_delta": -1.8413,
+          "absolute_brightness_delta": 1.8413,
+          "color_histogram_distance": 0.040344,
+          "structural_similarity": 0.589339,
+          "edge_difference": 0.081337
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F016",
+          "to_frame": "TW_004_F017",
+          "timestamp_seconds": 290.4,
+          "brightness_delta": -0.6954,
+          "absolute_brightness_delta": 0.6954,
+          "color_histogram_distance": 0.035522,
+          "structural_similarity": 0.688757,
+          "edge_difference": 0.092378
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F017",
+          "to_frame": "TW_004_F018",
+          "timestamp_seconds": 290.6,
+          "brightness_delta": 17.8994,
+          "absolute_brightness_delta": 17.8994,
+          "color_histogram_distance": 0.225026,
+          "structural_similarity": 0.415278,
+          "edge_difference": 0.101597
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F018",
+          "to_frame": "TW_004_F019",
+          "timestamp_seconds": 290.8,
+          "brightness_delta": 0.2125,
+          "absolute_brightness_delta": 0.2125,
+          "color_histogram_distance": 0.010241,
+          "structural_similarity": 0.914686,
+          "edge_difference": 0.063021
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F019",
+          "to_frame": "TW_004_F020",
+          "timestamp_seconds": 291.0,
+          "brightness_delta": -0.0116,
+          "absolute_brightness_delta": 0.0116,
+          "color_histogram_distance": 0.010432,
+          "structural_similarity": 0.926592,
+          "edge_difference": 0.064444
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F020",
+          "to_frame": "TW_004_F021",
+          "timestamp_seconds": 291.2,
+          "brightness_delta": -0.6131,
+          "absolute_brightness_delta": 0.6131,
+          "color_histogram_distance": 0.030229,
+          "structural_similarity": 0.896158,
+          "edge_difference": 0.074444
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F021",
+          "to_frame": "TW_004_F022",
+          "timestamp_seconds": 291.4,
+          "brightness_delta": -11.2365,
+          "absolute_brightness_delta": 11.2365,
+          "color_histogram_distance": 0.168634,
+          "structural_similarity": 0.470529,
+          "edge_difference": 0.090677
+        },
+        {
+          "window_id": "TW_004",
+          "from_frame": "TW_004_F022",
+          "to_frame": "TW_004_F023",
+          "timestamp_seconds": 291.6,
+          "brightness_delta": -0.5796,
+          "absolute_brightness_delta": 0.5796,
+          "color_histogram_distance": 0.038531,
+          "structural_similarity": 0.585007,
+          "edge_difference": 0.059444
+        }
+      ]
+    }
+  ]
+}

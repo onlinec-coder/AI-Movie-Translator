@@ -1,0 +1,1234 @@
+{
+  "schema_version": "1.0.0",
+  "engine": "subtitle_ocr_v1",
+  "source_video": "Husbands.mp4",
+  "language": "eng",
+  "test_duration_seconds": 30.0,
+  "sample_interval_seconds": 0.25,
+  "total_frames_sampled": 120,
+  "total_detections": 97,
+  "total_subtitle_cues": 91,
+  "crop_region": {
+    "x_start": 0.03,
+    "x_end": 0.97,
+    "y_start": 0.68,
+    "y_end": 0.84
+  },
+  "detections": [
+    {
+      "time": 0.25,
+      "text": "I",
+      "confidence": 27.0
+    },
+    {
+      "time": 1.25,
+      "text": "I ed j I",
+      "confidence": 49.25
+    },
+    {
+      "time": 1.5,
+      "text": "1 ean",
+      "confidence": 36.5
+    },
+    {
+      "time": 2.0,
+      "text": "aN I",
+      "confidence": 53.0
+    },
+    {
+      "time": 2.5,
+      "text": "_ WA",
+      "confidence": 47.5
+    },
+    {
+      "time": 3.25,
+      "text": "4 e-",
+      "confidence": 53.0
+    },
+    {
+      "time": 3.5,
+      "text": "I",
+      "confidence": 84.0
+    },
+    {
+      "time": 3.75,
+      "text": "V7 4 ad eee 3 ee at PY",
+      "confidence": 56.0
+    },
+    {
+      "time": 4.0,
+      "text": "Mod x BR ve ae a I",
+      "confidence": 47.86
+    },
+    {
+      "time": 4.25,
+      "text": "et ae de a aw. Fh, wy",
+      "confidence": 31.71
+    },
+    {
+      "time": 4.5,
+      "text": "3 OS",
+      "confidence": 39.5
+    },
+    {
+      "time": 4.75,
+      "text": "Pet eA 3 a i 2",
+      "confidence": 41.83
+    },
+    {
+      "time": 5.0,
+      "text": "Cul",
+      "confidence": 22.0
+    },
+    {
+      "time": 5.25,
+      "text": "A ee 3 Dd A",
+      "confidence": 29.8
+    },
+    {
+      "time": 5.75,
+      "text": "Ad BA. xa 4 rae I J 1",
+      "confidence": 43.62
+    },
+    {
+      "time": 6.0,
+      "text": "3 pis Fal Nee",
+      "confidence": 49.5
+    },
+    {
+      "time": 6.25,
+      "text": "a G at 2 on 2 fe",
+      "confidence": 50.43
+    },
+    {
+      "time": 6.5,
+      "text": "i",
+      "confidence": 32.0
+    },
+    {
+      "time": 7.0,
+      "text": "eee So",
+      "confidence": 30.0
+    },
+    {
+      "time": 7.75,
+      "text": "es ng en ee I ee",
+      "confidence": 28.17
+    },
+    {
+      "time": 8.0,
+      "text": "eee eS I en",
+      "confidence": 28.25
+    },
+    {
+      "time": 8.75,
+      "text": "i I",
+      "confidence": 60.5
+    },
+    {
+      "time": 9.0,
+      "text": "ap a ee",
+      "confidence": 32.33
+    },
+    {
+      "time": 9.5,
+      "text": "The third bow! q tasted like rot. if",
+      "confidence": 79.5
+    },
+    {
+      "time": 9.75,
+      "text": "The third bowl tasted like rot. I",
+      "confidence": 84.29
+    },
+    {
+      "time": 10.0,
+      "text": "tasted like rot.",
+      "confidence": 96.0
+    },
+    {
+      "time": 10.25,
+      "text": "The third bow tasted like rot.",
+      "confidence": 91.17
+    },
+    {
+      "time": 10.5,
+      "text": "The third bov tasted lik 2 ra t. ah a",
+      "confidence": 75.3
+    },
+    {
+      "time": 10.75,
+      "text": "The irdlbow! tasted like rot.",
+      "confidence": 86.4
+    },
+    {
+      "time": 11.0,
+      "text": "The third bow!’ tasted like rot.",
+      "confidence": 94.33
+    },
+    {
+      "time": 11.5,
+      "text": "sd I couldn't feel an",
+      "confidence": 70.2
+    },
+    {
+      "time": 11.75,
+      "text": "I couldn't hands anymore. I cote",
+      "confidence": 69.33
+    },
+    {
+      "time": 12.0,
+      "text": "yf I couldn't feel my",
+      "confidence": 68.2
+    },
+    {
+      "time": 12.25,
+      "text": "se ud I couldn't md hands ay nore...",
+      "confidence": 43.0
+    },
+    {
+      "time": 12.5,
+      "text": "YY I couldn't feel m hands anymore.",
+      "confidence": 75.43
+    },
+    {
+      "time": 12.75,
+      "text": "Se I couldn't hands anymore.",
+      "confidence": 48.8
+    },
+    {
+      "time": 13.0,
+      "text": "a I couldn't feel 4 hands mee LS ae",
+      "confidence": 63.89
+    },
+    {
+      "time": 13.5,
+      "text": "7 4 2 7",
+      "confidence": 37.75
+    },
+    {
+      "time": 13.75,
+      "text": "ty The wolfsbane hac already reached my che a",
+      "confidence": 77.11
+    },
+    {
+      "time": 14.0,
+      "text": "The wolfsbane had 4 already reached my che A",
+      "confidence": 86.22
+    },
+    {
+      "time": 14.25,
+      "text": "The wolfsbane had already reached my chest.",
+      "confidence": 87.29
+    },
+    {
+      "time": 14.5,
+      "text": "ll eae The had already reached my 2,",
+      "confidence": 62.12
+    },
+    {
+      "time": 14.75,
+      "text": "7 ae 6 7 The wolfsba ne already reached my chest 2,",
+      "confidence": 74.5
+    },
+    {
+      "time": 15.0,
+      "text": "ll _ e The already reac hed my chests",
+      "confidence": 68.78
+    },
+    {
+      "time": 15.25,
+      "text": "a a The wolfebane hadi already reached my chests",
+      "confidence": 63.11
+    },
+    {
+      "time": 15.5,
+      "text": "ae The already reached my chests",
+      "confidence": 74.33
+    },
+    {
+      "time": 15.75,
+      "text": "The wolfebane Nadie already reached my chest 2,",
+      "confidence": 73.62
+    },
+    {
+      "time": 16.0,
+      "text": "eS",
+      "confidence": 30.0
+    },
+    {
+      "time": 16.25,
+      "text": "a ae Lucian stood at",
+      "confidence": 76.0
+    },
+    {
+      "time": 16.5,
+      "text": "_ Lucian stood at thefootofthebed",
+      "confidence": 84.4
+    },
+    {
+      "time": 16.75,
+      "text": "the foot of thebed",
+      "confidence": 64.5
+    },
+    {
+      "time": 17.0,
+      "text": "Lucianstood-at, the.foot of",
+      "confidence": 54.33
+    },
+    {
+      "time": 17.25,
+      "text": "the foot of the'bed",
+      "confidence": 86.75
+    },
+    {
+      "time": 17.5,
+      "text": "os pe. Wi 4 a, thé foot of 3",
+      "confidence": 50.56
+    },
+    {
+      "time": 17.75,
+      "text": "_ Lucian stood at, the foot of the'bed",
+      "confidence": 73.75
+    },
+    {
+      "time": 18.0,
+      "text": "and watched",
+      "confidence": 94.5
+    },
+    {
+      "time": 18.25,
+      "text": "a bat 7 i _ and watched",
+      "confidence": 73.0
+    },
+    {
+      "time": 18.5,
+      "text": "and watched me go.",
+      "confidence": 91.25
+    },
+    {
+      "time": 18.75,
+      "text": "ua yt ANG 7 ie e Ai",
+      "confidence": 35.86
+    },
+    {
+      "time": 19.0,
+      "text": "es Ay op",
+      "confidence": 49.67
+    },
+    {
+      "time": 19.25,
+      "text": "I A I a Of PB ae",
+      "confidence": 42.14
+    },
+    {
+      "time": 19.5,
+      "text": "Ny RRS f",
+      "confidence": 42.67
+    },
+    {
+      "time": 19.75,
+      "text": "2 a fF f",
+      "confidence": 37.5
+    },
+    {
+      "time": 20.0,
+      "text": "hi 4 eae iS of NG A Pye NG All high-ranking blog lar 7 a, fa",
+      "confidence": 59.12
+    },
+    {
+      "time": 20.25,
+      "text": "A ae vn __, All high-ranking blood. I a fr ys",
+      "confidence": 39.55
+    },
+    {
+      "time": 20.5,
+      "text": "A 8 RE RE Ne All high-ranking blog lar",
+      "confidence": 57.11
+    },
+    {
+      "time": 20.75,
+      "text": "I Allhigh-ranking blood. od v4 oe",
+      "confidence": 38.33
+    },
+    {
+      "time": 21.0,
+      "text": "om, Jeo ay All high-ranking log las eye ol fe",
+      "confidence": 51.9
+    },
+    {
+      "time": 21.25,
+      "text": "a",
+      "confidence": 20.0
+    },
+    {
+      "time": 21.5,
+      "text": "I St’ ONE pe TR Mi MX Rouge At t's enough. C",
+      "confidence": 48.58
+    },
+    {
+      "time": 21.75,
+      "text": "ie Ps Je hi ll ga",
+      "confidence": 34.17
+    },
+    {
+      "time": 22.0,
+      "text": "Fei",
+      "confidence": 58.0
+    },
+    {
+      "time": 22.5,
+      "text": "aa",
+      "confidence": 33.0
+    },
+    {
+      "time": 23.0,
+      "text": "ON a I I ne",
+      "confidence": 51.8
+    },
+    {
+      "time": 23.75,
+      "text": "bom",
+      "confidence": 39.0
+    },
+    {
+      "time": 24.0,
+      "text": "Pa a. VE out. I 7 a 4a",
+      "confidence": 41.12
+    },
+    {
+      "time": 24.25,
+      "text": "if ee an a 4a wa",
+      "confidence": 43.67
+    },
+    {
+      "time": 24.5,
+      "text": "OP ad",
+      "confidence": 35.5
+    },
+    {
+      "time": 24.75,
+      "text": "OO ee hit ANG a",
+      "confidence": 37.8
+    },
+    {
+      "time": 25.25,
+      "text": "i At _ Ni",
+      "confidence": 44.25
+    },
+    {
+      "time": 25.5,
+      "text": "I aera I 4 oe I he I eS",
+      "confidence": 36.22
+    },
+    {
+      "time": 25.75,
+      "text": "1 sn A Li cal wilt",
+      "confidence": 36.17
+    },
+    {
+      "time": 26.0,
+      "text": "we",
+      "confidence": 40.0
+    },
+    {
+      "time": 26.25,
+      "text": "be Pd ag ena lever",
+      "confidence": 46.8
+    },
+    {
+      "time": 26.5,
+      "text": "eta never PESO x",
+      "confidence": 45.5
+    },
+    {
+      "time": 26.75,
+      "text": "ws were never Beh",
+      "confidence": 58.25
+    },
+    {
+      "time": 27.0,
+      "text": "Bh You were never oN",
+      "confidence": 46.6
+    },
+    {
+      "time": 27.25,
+      "text": "You were never",
+      "confidence": 94.67
+    },
+    {
+      "time": 27.5,
+      "text": "a a never",
+      "confidence": 35.33
+    },
+    {
+      "time": 28.0,
+      "text": "_ 7 Ye oy Vivienne,",
+      "confidence": 45.4
+    },
+    {
+      "time": 28.25,
+      "text": "ae eG en 2 ad P 7 mage 7 Mivienne 2 nan 7 a Soe a ha Set Pr Bs",
+      "confidence": 43.5
+    },
+    {
+      "time": 28.5,
+      "text": "ae 3 5 t x rte en onl a Ses i Mee te se a 7-5 e a ont 2 J a",
+      "confidence": 44.27
+    },
+    {
+      "time": 28.75,
+      "text": "A J gk ro a ie Gee",
+      "confidence": 31.86
+    },
+    {
+      "time": 29.0,
+      "text": "ill Se m",
+      "confidence": 40.67
+    },
+    {
+      "time": 29.25,
+      "text": "a yee ae I Ww Ret ae a",
+      "confidence": 34.62
+    },
+    {
+      "time": 29.5,
+      "text": "Be 2. His voice cen ft 2 ees ee",
+      "confidence": 44.89
+    },
+    {
+      "time": 29.75,
+      "text": "His voice didn't w car",
+      "confidence": 76.8
+    }
+  ],
+  "subtitles": [
+    {
+      "start_seconds": 0.25,
+      "end_seconds": 0.5,
+      "text": "I",
+      "detection_count": 1,
+      "average_ocr_confidence": 27.0,
+      "cue_id": "OCR_0001"
+    },
+    {
+      "start_seconds": 1.25,
+      "end_seconds": 1.5,
+      "text": "I ed j I",
+      "detection_count": 1,
+      "average_ocr_confidence": 49.25,
+      "cue_id": "OCR_0002"
+    },
+    {
+      "start_seconds": 1.5,
+      "end_seconds": 1.75,
+      "text": "1 ean",
+      "detection_count": 1,
+      "average_ocr_confidence": 36.5,
+      "cue_id": "OCR_0003"
+    },
+    {
+      "start_seconds": 2.0,
+      "end_seconds": 2.25,
+      "text": "aN I",
+      "detection_count": 1,
+      "average_ocr_confidence": 53.0,
+      "cue_id": "OCR_0004"
+    },
+    {
+      "start_seconds": 2.5,
+      "end_seconds": 2.75,
+      "text": "_ WA",
+      "detection_count": 1,
+      "average_ocr_confidence": 47.5,
+      "cue_id": "OCR_0005"
+    },
+    {
+      "start_seconds": 3.25,
+      "end_seconds": 3.5,
+      "text": "4 e-",
+      "detection_count": 1,
+      "average_ocr_confidence": 53.0,
+      "cue_id": "OCR_0006"
+    },
+    {
+      "start_seconds": 3.5,
+      "end_seconds": 3.75,
+      "text": "I",
+      "detection_count": 1,
+      "average_ocr_confidence": 84.0,
+      "cue_id": "OCR_0007"
+    },
+    {
+      "start_seconds": 3.75,
+      "end_seconds": 4.0,
+      "text": "V7 4 ad eee 3 ee at PY",
+      "detection_count": 1,
+      "average_ocr_confidence": 56.0,
+      "cue_id": "OCR_0008"
+    },
+    {
+      "start_seconds": 4.0,
+      "end_seconds": 4.25,
+      "text": "Mod x BR ve ae a I",
+      "detection_count": 1,
+      "average_ocr_confidence": 47.86,
+      "cue_id": "OCR_0009"
+    },
+    {
+      "start_seconds": 4.25,
+      "end_seconds": 4.5,
+      "text": "et ae de a aw. Fh, wy",
+      "detection_count": 1,
+      "average_ocr_confidence": 31.71,
+      "cue_id": "OCR_0010"
+    },
+    {
+      "start_seconds": 4.5,
+      "end_seconds": 4.75,
+      "text": "3 OS",
+      "detection_count": 1,
+      "average_ocr_confidence": 39.5,
+      "cue_id": "OCR_0011"
+    },
+    {
+      "start_seconds": 4.75,
+      "end_seconds": 5.0,
+      "text": "Pet eA 3 a i 2",
+      "detection_count": 1,
+      "average_ocr_confidence": 41.83,
+      "cue_id": "OCR_0012"
+    },
+    {
+      "start_seconds": 5.0,
+      "end_seconds": 5.25,
+      "text": "Cul",
+      "detection_count": 1,
+      "average_ocr_confidence": 22.0,
+      "cue_id": "OCR_0013"
+    },
+    {
+      "start_seconds": 5.25,
+      "end_seconds": 5.5,
+      "text": "A ee 3 Dd A",
+      "detection_count": 1,
+      "average_ocr_confidence": 29.8,
+      "cue_id": "OCR_0014"
+    },
+    {
+      "start_seconds": 5.75,
+      "end_seconds": 6.0,
+      "text": "Ad BA. xa 4 rae I J 1",
+      "detection_count": 1,
+      "average_ocr_confidence": 43.62,
+      "cue_id": "OCR_0015"
+    },
+    {
+      "start_seconds": 6.0,
+      "end_seconds": 6.25,
+      "text": "3 pis Fal Nee",
+      "detection_count": 1,
+      "average_ocr_confidence": 49.5,
+      "cue_id": "OCR_0016"
+    },
+    {
+      "start_seconds": 6.25,
+      "end_seconds": 6.5,
+      "text": "a G at 2 on 2 fe",
+      "detection_count": 1,
+      "average_ocr_confidence": 50.43,
+      "cue_id": "OCR_0017"
+    },
+    {
+      "start_seconds": 6.5,
+      "end_seconds": 6.75,
+      "text": "i",
+      "detection_count": 1,
+      "average_ocr_confidence": 32.0,
+      "cue_id": "OCR_0018"
+    },
+    {
+      "start_seconds": 7.0,
+      "end_seconds": 7.25,
+      "text": "eee So",
+      "detection_count": 1,
+      "average_ocr_confidence": 30.0,
+      "cue_id": "OCR_0019"
+    },
+    {
+      "start_seconds": 7.75,
+      "end_seconds": 8.0,
+      "text": "es ng en ee I ee",
+      "detection_count": 1,
+      "average_ocr_confidence": 28.17,
+      "cue_id": "OCR_0020"
+    },
+    {
+      "start_seconds": 8.0,
+      "end_seconds": 8.25,
+      "text": "eee eS I en",
+      "detection_count": 1,
+      "average_ocr_confidence": 28.25,
+      "cue_id": "OCR_0021"
+    },
+    {
+      "start_seconds": 8.75,
+      "end_seconds": 9.0,
+      "text": "i I",
+      "detection_count": 1,
+      "average_ocr_confidence": 60.5,
+      "cue_id": "OCR_0022"
+    },
+    {
+      "start_seconds": 9.0,
+      "end_seconds": 9.25,
+      "text": "ap a ee",
+      "detection_count": 1,
+      "average_ocr_confidence": 32.33,
+      "cue_id": "OCR_0023"
+    },
+    {
+      "start_seconds": 9.5,
+      "end_seconds": 10.0,
+      "text": "The third bow! q tasted like rot. if",
+      "detection_count": 2,
+      "average_ocr_confidence": 81.9,
+      "cue_id": "OCR_0024"
+    },
+    {
+      "start_seconds": 10.0,
+      "end_seconds": 10.25,
+      "text": "tasted like rot.",
+      "detection_count": 1,
+      "average_ocr_confidence": 96.0,
+      "cue_id": "OCR_0025"
+    },
+    {
+      "start_seconds": 10.25,
+      "end_seconds": 10.5,
+      "text": "The third bow tasted like rot.",
+      "detection_count": 1,
+      "average_ocr_confidence": 91.17,
+      "cue_id": "OCR_0026"
+    },
+    {
+      "start_seconds": 10.5,
+      "end_seconds": 10.75,
+      "text": "The third bov tasted lik 2 ra t. ah a",
+      "detection_count": 1,
+      "average_ocr_confidence": 75.3,
+      "cue_id": "OCR_0027"
+    },
+    {
+      "start_seconds": 10.75,
+      "end_seconds": 11.25,
+      "text": "The third bow!’ tasted like rot.",
+      "detection_count": 2,
+      "average_ocr_confidence": 90.37,
+      "cue_id": "OCR_0028"
+    },
+    {
+      "start_seconds": 11.5,
+      "end_seconds": 11.75,
+      "text": "sd I couldn't feel an",
+      "detection_count": 1,
+      "average_ocr_confidence": 70.2,
+      "cue_id": "OCR_0029"
+    },
+    {
+      "start_seconds": 11.75,
+      "end_seconds": 12.0,
+      "text": "I couldn't hands anymore. I cote",
+      "detection_count": 1,
+      "average_ocr_confidence": 69.33,
+      "cue_id": "OCR_0030"
+    },
+    {
+      "start_seconds": 12.0,
+      "end_seconds": 12.25,
+      "text": "yf I couldn't feel my",
+      "detection_count": 1,
+      "average_ocr_confidence": 68.2,
+      "cue_id": "OCR_0031"
+    },
+    {
+      "start_seconds": 12.25,
+      "end_seconds": 12.5,
+      "text": "se ud I couldn't md hands ay nore...",
+      "detection_count": 1,
+      "average_ocr_confidence": 43.0,
+      "cue_id": "OCR_0032"
+    },
+    {
+      "start_seconds": 12.5,
+      "end_seconds": 13.0,
+      "text": "YY I couldn't feel m hands anymore.",
+      "detection_count": 2,
+      "average_ocr_confidence": 62.12,
+      "cue_id": "OCR_0033"
+    },
+    {
+      "start_seconds": 13.0,
+      "end_seconds": 13.25,
+      "text": "a I couldn't feel 4 hands mee LS ae",
+      "detection_count": 1,
+      "average_ocr_confidence": 63.89,
+      "cue_id": "OCR_0034"
+    },
+    {
+      "start_seconds": 13.5,
+      "end_seconds": 13.75,
+      "text": "7 4 2 7",
+      "detection_count": 1,
+      "average_ocr_confidence": 37.75,
+      "cue_id": "OCR_0035"
+    },
+    {
+      "start_seconds": 13.75,
+      "end_seconds": 14.5,
+      "text": "ty The wolfsbane hac already reached my che a",
+      "detection_count": 3,
+      "average_ocr_confidence": 83.54,
+      "cue_id": "OCR_0036"
+    },
+    {
+      "start_seconds": 14.5,
+      "end_seconds": 14.75,
+      "text": "ll eae The had already reached my 2,",
+      "detection_count": 1,
+      "average_ocr_confidence": 62.12,
+      "cue_id": "OCR_0037"
+    },
+    {
+      "start_seconds": 14.75,
+      "end_seconds": 15.0,
+      "text": "7 ae 6 7 The wolfsba ne already reached my chest 2,",
+      "detection_count": 1,
+      "average_ocr_confidence": 74.5,
+      "cue_id": "OCR_0038"
+    },
+    {
+      "start_seconds": 15.0,
+      "end_seconds": 15.25,
+      "text": "ll _ e The already reac hed my chests",
+      "detection_count": 1,
+      "average_ocr_confidence": 68.78,
+      "cue_id": "OCR_0039"
+    },
+    {
+      "start_seconds": 15.25,
+      "end_seconds": 15.5,
+      "text": "a a The wolfebane hadi already reached my chests",
+      "detection_count": 1,
+      "average_ocr_confidence": 63.11,
+      "cue_id": "OCR_0040"
+    },
+    {
+      "start_seconds": 15.5,
+      "end_seconds": 15.75,
+      "text": "ae The already reached my chests",
+      "detection_count": 1,
+      "average_ocr_confidence": 74.33,
+      "cue_id": "OCR_0041"
+    },
+    {
+      "start_seconds": 15.75,
+      "end_seconds": 16.0,
+      "text": "The wolfebane Nadie already reached my chest 2,",
+      "detection_count": 1,
+      "average_ocr_confidence": 73.62,
+      "cue_id": "OCR_0042"
+    },
+    {
+      "start_seconds": 16.0,
+      "end_seconds": 16.25,
+      "text": "eS",
+      "detection_count": 1,
+      "average_ocr_confidence": 30.0,
+      "cue_id": "OCR_0043"
+    },
+    {
+      "start_seconds": 16.25,
+      "end_seconds": 16.5,
+      "text": "a ae Lucian stood at",
+      "detection_count": 1,
+      "average_ocr_confidence": 76.0,
+      "cue_id": "OCR_0044"
+    },
+    {
+      "start_seconds": 16.5,
+      "end_seconds": 16.75,
+      "text": "_ Lucian stood at thefootofthebed",
+      "detection_count": 1,
+      "average_ocr_confidence": 84.4,
+      "cue_id": "OCR_0045"
+    },
+    {
+      "start_seconds": 16.75,
+      "end_seconds": 17.0,
+      "text": "the foot of thebed",
+      "detection_count": 1,
+      "average_ocr_confidence": 64.5,
+      "cue_id": "OCR_0046"
+    },
+    {
+      "start_seconds": 17.0,
+      "end_seconds": 17.25,
+      "text": "Lucianstood-at, the.foot of",
+      "detection_count": 1,
+      "average_ocr_confidence": 54.33,
+      "cue_id": "OCR_0047"
+    },
+    {
+      "start_seconds": 17.25,
+      "end_seconds": 17.5,
+      "text": "the foot of the'bed",
+      "detection_count": 1,
+      "average_ocr_confidence": 86.75,
+      "cue_id": "OCR_0048"
+    },
+    {
+      "start_seconds": 17.5,
+      "end_seconds": 17.75,
+      "text": "os pe. Wi 4 a, thé foot of 3",
+      "detection_count": 1,
+      "average_ocr_confidence": 50.56,
+      "cue_id": "OCR_0049"
+    },
+    {
+      "start_seconds": 17.75,
+      "end_seconds": 18.0,
+      "text": "_ Lucian stood at, the foot of the'bed",
+      "detection_count": 1,
+      "average_ocr_confidence": 73.75,
+      "cue_id": "OCR_0050"
+    },
+    {
+      "start_seconds": 18.0,
+      "end_seconds": 18.25,
+      "text": "and watched",
+      "detection_count": 1,
+      "average_ocr_confidence": 94.5,
+      "cue_id": "OCR_0051"
+    },
+    {
+      "start_seconds": 18.25,
+      "end_seconds": 18.5,
+      "text": "a bat 7 i _ and watched",
+      "detection_count": 1,
+      "average_ocr_confidence": 73.0,
+      "cue_id": "OCR_0052"
+    },
+    {
+      "start_seconds": 18.5,
+      "end_seconds": 18.75,
+      "text": "and watched me go.",
+      "detection_count": 1,
+      "average_ocr_confidence": 91.25,
+      "cue_id": "OCR_0053"
+    },
+    {
+      "start_seconds": 18.75,
+      "end_seconds": 19.0,
+      "text": "ua yt ANG 7 ie e Ai",
+      "detection_count": 1,
+      "average_ocr_confidence": 35.86,
+      "cue_id": "OCR_0054"
+    },
+    {
+      "start_seconds": 19.0,
+      "end_seconds": 19.25,
+      "text": "es Ay op",
+      "detection_count": 1,
+      "average_ocr_confidence": 49.67,
+      "cue_id": "OCR_0055"
+    },
+    {
+      "start_seconds": 19.25,
+      "end_seconds": 19.5,
+      "text": "I A I a Of PB ae",
+      "detection_count": 1,
+      "average_ocr_confidence": 42.14,
+      "cue_id": "OCR_0056"
+    },
+    {
+      "start_seconds": 19.5,
+      "end_seconds": 19.75,
+      "text": "Ny RRS f",
+      "detection_count": 1,
+      "average_ocr_confidence": 42.67,
+      "cue_id": "OCR_0057"
+    },
+    {
+      "start_seconds": 19.75,
+      "end_seconds": 20.0,
+      "text": "2 a fF f",
+      "detection_count": 1,
+      "average_ocr_confidence": 37.5,
+      "cue_id": "OCR_0058"
+    },
+    {
+      "start_seconds": 20.0,
+      "end_seconds": 20.25,
+      "text": "hi 4 eae iS of NG A Pye NG All high-ranking blog lar 7 a, fa",
+      "detection_count": 1,
+      "average_ocr_confidence": 59.12,
+      "cue_id": "OCR_0059"
+    },
+    {
+      "start_seconds": 20.25,
+      "end_seconds": 20.5,
+      "text": "A ae vn __, All high-ranking blood. I a fr ys",
+      "detection_count": 1,
+      "average_ocr_confidence": 39.55,
+      "cue_id": "OCR_0060"
+    },
+    {
+      "start_seconds": 20.5,
+      "end_seconds": 20.75,
+      "text": "A 8 RE RE Ne All high-ranking blog lar",
+      "detection_count": 1,
+      "average_ocr_confidence": 57.11,
+      "cue_id": "OCR_0061"
+    },
+    {
+      "start_seconds": 20.75,
+      "end_seconds": 21.0,
+      "text": "I Allhigh-ranking blood. od v4 oe",
+      "detection_count": 1,
+      "average_ocr_confidence": 38.33,
+      "cue_id": "OCR_0062"
+    },
+    {
+      "start_seconds": 21.0,
+      "end_seconds": 21.25,
+      "text": "om, Jeo ay All high-ranking log las eye ol fe",
+      "detection_count": 1,
+      "average_ocr_confidence": 51.9,
+      "cue_id": "OCR_0063"
+    },
+    {
+      "start_seconds": 21.25,
+      "end_seconds": 21.5,
+      "text": "a",
+      "detection_count": 1,
+      "average_ocr_confidence": 20.0,
+      "cue_id": "OCR_0064"
+    },
+    {
+      "start_seconds": 21.5,
+      "end_seconds": 21.75,
+      "text": "I St’ ONE pe TR Mi MX Rouge At t's enough. C",
+      "detection_count": 1,
+      "average_ocr_confidence": 48.58,
+      "cue_id": "OCR_0065"
+    },
+    {
+      "start_seconds": 21.75,
+      "end_seconds": 22.0,
+      "text": "ie Ps Je hi ll ga",
+      "detection_count": 1,
+      "average_ocr_confidence": 34.17,
+      "cue_id": "OCR_0066"
+    },
+    {
+      "start_seconds": 22.0,
+      "end_seconds": 22.25,
+      "text": "Fei",
+      "detection_count": 1,
+      "average_ocr_confidence": 58.0,
+      "cue_id": "OCR_0067"
+    },
+    {
+      "start_seconds": 22.5,
+      "end_seconds": 22.75,
+      "text": "aa",
+      "detection_count": 1,
+      "average_ocr_confidence": 33.0,
+      "cue_id": "OCR_0068"
+    },
+    {
+      "start_seconds": 23.0,
+      "end_seconds": 23.25,
+      "text": "ON a I I ne",
+      "detection_count": 1,
+      "average_ocr_confidence": 51.8,
+      "cue_id": "OCR_0069"
+    },
+    {
+      "start_seconds": 23.75,
+      "end_seconds": 24.0,
+      "text": "bom",
+      "detection_count": 1,
+      "average_ocr_confidence": 39.0,
+      "cue_id": "OCR_0070"
+    },
+    {
+      "start_seconds": 24.0,
+      "end_seconds": 24.25,
+      "text": "Pa a. VE out. I 7 a 4a",
+      "detection_count": 1,
+      "average_ocr_confidence": 41.12,
+      "cue_id": "OCR_0071"
+    },
+    {
+      "start_seconds": 24.25,
+      "end_seconds": 24.5,
+      "text": "if ee an a 4a wa",
+      "detection_count": 1,
+      "average_ocr_confidence": 43.67,
+      "cue_id": "OCR_0072"
+    },
+    {
+      "start_seconds": 24.5,
+      "end_seconds": 24.75,
+      "text": "OP ad",
+      "detection_count": 1,
+      "average_ocr_confidence": 35.5,
+      "cue_id": "OCR_0073"
+    },
+    {
+      "start_seconds": 24.75,
+      "end_seconds": 25.0,
+      "text": "OO ee hit ANG a",
+      "detection_count": 1,
+      "average_ocr_confidence": 37.8,
+      "cue_id": "OCR_0074"
+    },
+    {
+      "start_seconds": 25.25,
+      "end_seconds": 25.5,
+      "text": "i At _ Ni",
+      "detection_count": 1,
+      "average_ocr_confidence": 44.25,
+      "cue_id": "OCR_0075"
+    },
+    {
+      "start_seconds": 25.5,
+      "end_seconds": 25.75,
+      "text": "I aera I 4 oe I he I eS",
+      "detection_count": 1,
+      "average_ocr_confidence": 36.22,
+      "cue_id": "OCR_0076"
+    },
+    {
+      "start_seconds": 25.75,
+      "end_seconds": 26.0,
+      "text": "1 sn A Li cal wilt",
+      "detection_count": 1,
+      "average_ocr_confidence": 36.17,
+      "cue_id": "OCR_0077"
+    },
+    {
+      "start_seconds": 26.0,
+      "end_seconds": 26.25,
+      "text": "we",
+      "detection_count": 1,
+      "average_ocr_confidence": 40.0,
+      "cue_id": "OCR_0078"
+    },
+    {
+      "start_seconds": 26.25,
+      "end_seconds": 26.5,
+      "text": "be Pd ag ena lever",
+      "detection_count": 1,
+      "average_ocr_confidence": 46.8,
+      "cue_id": "OCR_0079"
+    },
+    {
+      "start_seconds": 26.5,
+      "end_seconds": 26.75,
+      "text": "eta never PESO x",
+      "detection_count": 1,
+      "average_ocr_confidence": 45.5,
+      "cue_id": "OCR_0080"
+    },
+    {
+      "start_seconds": 26.75,
+      "end_seconds": 27.0,
+      "text": "ws were never Beh",
+      "detection_count": 1,
+      "average_ocr_confidence": 58.25,
+      "cue_id": "OCR_0081"
+    },
+    {
+      "start_seconds": 27.0,
+      "end_seconds": 27.5,
+      "text": "Bh You were never oN",
+      "detection_count": 2,
+      "average_ocr_confidence": 70.64,
+      "cue_id": "OCR_0082"
+    },
+    {
+      "start_seconds": 27.5,
+      "end_seconds": 27.75,
+      "text": "a a never",
+      "detection_count": 1,
+      "average_ocr_confidence": 35.33,
+      "cue_id": "OCR_0083"
+    },
+    {
+      "start_seconds": 28.0,
+      "end_seconds": 28.25,
+      "text": "_ 7 Ye oy Vivienne,",
+      "detection_count": 1,
+      "average_ocr_confidence": 45.4,
+      "cue_id": "OCR_0084"
+    },
+    {
+      "start_seconds": 28.25,
+      "end_seconds": 28.5,
+      "text": "ae eG en 2 ad P 7 mage 7 Mivienne 2 nan 7 a Soe a ha Set Pr Bs",
+      "detection_count": 1,
+      "average_ocr_confidence": 43.5,
+      "cue_id": "OCR_0085"
+    },
+    {
+      "start_seconds": 28.5,
+      "end_seconds": 28.75,
+      "text": "ae 3 5 t x rte en onl a Ses i Mee te se a 7-5 e a ont 2 J a",
+      "detection_count": 1,
+      "average_ocr_confidence": 44.27,
+      "cue_id": "OCR_0086"
+    },
+    {
+      "start_seconds": 28.75,
+      "end_seconds": 29.0,
+      "text": "A J gk ro a ie Gee",
+      "detection_count": 1,
+      "average_ocr_confidence": 31.86,
+      "cue_id": "OCR_0087"
+    },
+    {
+      "start_seconds": 29.0,
+      "end_seconds": 29.25,
+      "text": "ill Se m",
+      "detection_count": 1,
+      "average_ocr_confidence": 40.67,
+      "cue_id": "OCR_0088"
+    },
+    {
+      "start_seconds": 29.25,
+      "end_seconds": 29.5,
+      "text": "a yee ae I Ww Ret ae a",
+      "detection_count": 1,
+      "average_ocr_confidence": 34.62,
+      "cue_id": "OCR_0089"
+    },
+    {
+      "start_seconds": 29.5,
+      "end_seconds": 29.75,
+      "text": "Be 2. His voice cen ft 2 ees ee",
+      "detection_count": 1,
+      "average_ocr_confidence": 44.89,
+      "cue_id": "OCR_0090"
+    },
+    {
+      "start_seconds": 29.75,
+      "end_seconds": 30.0,
+      "text": "His voice didn't w car",
+      "detection_count": 1,
+      "average_ocr_confidence": 76.8,
+      "cue_id": "OCR_0091"
+    }
+  ]
+}

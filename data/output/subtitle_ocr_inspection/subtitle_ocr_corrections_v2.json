@@ -1,0 +1,104 @@
+
+{
+  "schema_version": "1.0.0",
+  "source_video": "data/input/Husbands.mp4",
+  "source_srt": "data/input/input.srt",
+  "source_srt_note": "Whisper CTranslate2 small ASR output. Not authoritative ground truth.",
+  "verification_method": [
+    "Burned-in English subtitle OCR",
+    "Manual visual inspection where available"
+  ],
+  "corrections": [
+    {
+      "cue_index": 1,
+      "start_seconds": 9.07,
+      "end_seconds": 13.47,
+      "original_text": "The third bowl tasted like rot. I couldn't feel my hands anymore.",
+      "status": "OCR_CONFIRMED",
+      "manual_visual_confirmation": false,
+      "notes": "OCR V5 confirmed all reference words across multiple frames. No correction proposed."
+    },
+    {
+      "cue_index": 2,
+      "start_seconds": 13.47,
+      "end_seconds": 15.81,
+      "original_text": "The wolf bead had already reached my chest.",
+      "status": "OCR_CONFIRMED",
+      "manual_visual_confirmation": false,
+      "notes": "OCR V5 confirmed the reference text with 0.75 coverage. No correction proposed."
+    },
+    {
+  "cue_index": 3,
+  "start_seconds": 15.831,
+  "end_seconds": 18.757,
+  "original_text": "Lucian stood at the dend of the bed and watched me go.",
+  "candidate_text": "Lucian stood at the foot of the bed and watched me go.",
+  "status": "MANUALLY_CONFIRMED",
+  "manual_visual_confirmation": true,
+  "notes": "Manually verified against the burned-in English subtitles in the source video. The correct word is 'foot'. Repeated OCR detections also read 'foot'. Whisper produced 'dend' and AssemblyAI produced 'end'."
+},
+    {
+      "cue_index": 4,
+      "start_seconds": 18.758,
+      "end_seconds": 21.790,
+      "original_text": "Seven pups, whole high-ranking blood. That's enough.",
+      "status": "VISUALLY_CONFIRMED",
+      "manual_visual_confirmation": true,
+      "burned_in_subtitle_sequence": [
+        "Seven pups,",
+        "whole high-ranking blood.",
+        "That's enough."
+      ],
+      "notes": "Words are correct. Three subtitle displays appear sequentially within one SRT cue. Individual display timestamps have not been measured."
+    },
+    {
+      "cue_index": 5,
+      "start_seconds": 21.791,
+      "end_seconds": 24.270,
+      "original_text": "I tried to speak. Nothing came out.",
+      "status": "VISUALLY_CONFIRMED",
+      "manual_visual_confirmation": true,
+      "burned_in_subtitle_sequence": [
+        "I tried to speak.",
+        "Nothing came out."
+      ],
+      "notes": "Both subtitle displays are present. OCR failed to reliably recognize the first display."
+    },
+    {
+      "cue_index": 6,
+      "start_seconds": 26.110,
+      "end_seconds": 28.030,
+      "original_text": "You were never the one I wanted Vivienne.",
+      "status": "VISUALLY_CONFIRMED",
+      "manual_visual_confirmation": true,
+      "burned_in_subtitle_sequence": [
+        "You were never the one I wanted,",
+        "Vivienne."
+      ],
+      "notes": "Words are correct. Two subtitle displays appear sequentially within one SRT cue. Individual display timestamps have not been measured."
+    },
+    {
+  "cue_index": 7,
+  "start_seconds": 29.23,
+  "end_seconds": 30.43,
+  "original_text": "His voice didn't waver.",
+  "status": "MANUALLY_CONFIRMED",
+  "manual_visual_confirmation": true,
+  "notes": "Manually verified against the burned-in English subtitles in the source video. The complete subtitle reads 'His voice didn't waver.'. OCR V5 detected only three of the four words."
+}
+  ],
+  "evidence_sources": {
+    "whisper": "data/input/input.srt",
+    "burned_in_subtitle_ocr_v5": "data/output/subtitle_ocr_inspection/subtitle_ocr_v5.json",
+    "burned_in_subtitle_ocr_v6": "data/output/subtitle_ocr_inspection/subtitle_ocr_v6.json",
+    "burned_in_subtitle_ocr_v7": "data/output/subtitle_ocr_inspection/subtitle_ocr_v7.json"
+  },
+  "rules": [
+    "Never treat input.srt as authoritative ground truth.",
+    "Keep Whisper, AssemblyAI, and burned-in subtitle OCR evidence independent.",
+    "Do not automatically change source subtitles based on OCR alone.",
+    "Preserve the original SRT and store corrections separately.",
+    "Do not invent individual subtitle display timestamps.",
+    "Distinguish OCR confirmation from manual visual confirmation."
+  ]
+}

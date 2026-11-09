@@ -1,0 +1,243 @@
+
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-movie-translator.local/schemas/analysis_schema.json",
+  "title": "AI Movie Analysis",
+  "description": "Unified audio and video analysis output for movie localization and dubbing.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "media",
+    "segments",
+    "speakers",
+    "characters"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0.0"
+    },
+    "media": {
+      "type": "object",
+      "required": ["source_file", "duration"],
+      "properties": {
+        "source_file": { "type": "string" },
+        "duration": { "type": "number", "minimum": 0 },
+        "video": {
+          "type": ["object", "null"],
+          "properties": {
+            "width": { "type": "integer" },
+            "height": { "type": "integer" },
+            "fps": { "type": "number" },
+            "codec": { "type": "string" }
+          }
+        },
+        "audio": {
+          "type": ["object", "null"],
+          "properties": {
+            "codec": { "type": "string" },
+            "sample_rate": { "type": "integer" },
+            "channels": { "type": "integer" }
+          }
+        }
+      }
+    },
+    "speakers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["speaker_id", "speaker_type"],
+        "properties": {
+          "speaker_id": { "type": "string" },
+          "speaker_type": {
+            "type": "string",
+            "enum": [
+              "character",
+              "narrator",
+              "inner_monologue",
+              "unknown",
+              "other"
+            ]
+          },
+          "voice_description": { "type": ["string", "null"] },
+          "gender": {
+            "type": ["string", "null"],
+            "enum": ["male", "female", "unknown", null]
+          },
+          "confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          }
+        }
+      }
+    },
+    "characters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["character_id", "name"],
+        "properties": {
+          "character_id": { "type": "string" },
+          "name": { "type": "string" },
+          "aliases": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "gender": { "type": ["string", "null"] },
+          "visual_description": { "type": ["string", "null"] },
+          "speech_style": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "segments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["segment_id", "start", "end", "text"],
+        "properties": {
+          "segment_id": { "type": "string" },
+          "start": { "type": "number", "minimum": 0 },
+          "end": { "type": "number", "minimum": 0 },
+          "text": { "type": "string" },
+          "speaker_id": { "type": ["string", "null"] },
+          "character_id": { "type": ["string", "null"] },
+          "segment_type": {
+            "type": "string",
+            "enum": [
+              "dialogue",
+              "narration",
+              "inner_monologue",
+              "sound",
+              "unknown"
+            ]
+          },
+          "words": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["text", "start", "end"],
+              "properties": {
+                "text": { "type": "string" },
+                "start": { "type": "number", "minimum": 0 },
+                "end": { "type": "number", "minimum": 0 },
+                "confidence": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 1
+                }
+              }
+            }
+          },
+          "emotion": {
+            "type": "object",
+            "properties": {
+              "label": {
+                "type": ["string", "null"],
+                "enum": [
+                  "neutral",
+                  "happy",
+                  "sad",
+                  "angry",
+                  "fearful",
+                  "surprised",
+                  "disgusted",
+                  "calm",
+                  "uncertain",
+                  null
+                ]
+              },
+              "intensity": {
+                "type": ["number", "null"],
+                "minimum": 0,
+                "maximum": 1
+              },
+              "confidence": {
+                "type": ["number", "null"],
+                "minimum": 0,
+                "maximum": 1
+              }
+            }
+          },
+          "vocal_delivery": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "normal",
+                "whispering",
+                "shouting",
+                "crying",
+                "laughing",
+                "singing",
+                "breathing",
+                "strained",
+                "hesitant"
+              ]
+            }
+          },
+          "pauses": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["start", "end", "duration"],
+              "properties": {
+                "start": { "type": "number" },
+                "end": { "type": "number" },
+                "duration": { "type": "number" },
+                "type": {
+                  "type": "string",
+                  "enum": [
+                    "silence",
+                    "breath",
+                    "hesitation",
+                    "dramatic_pause",
+                    "unknown"
+                  ]
+                }
+              }
+            }
+          },
+          "visual_context": {
+            "type": "object",
+            "properties": {
+              "visible_character_ids": {
+                "type": "array",
+                "items": { "type": "string" }
+              },
+              "on_screen_speaker_id": {
+                "type": ["string", "null"]
+              },
+              "shot_description": {
+                "type": ["string", "null"]
+              },
+              "confidence": {
+                "type": ["number", "null"],
+                "minimum": 0,
+                "maximum": 1
+              }
+            }
+          },
+          "confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "source": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "audio",
+                "video",
+                "subtitle",
+                "ai_inference",
+                "human_review"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "engine_version": "transition_signal_visualizer_v1",
+  "total_windows": 4,
+  "total_ground_truth_events": 8,
+  "charts": [
+    {
+      "window_id": "TW_001",
+      "frame_count": 20,
+      "comparison_count": 19,
+      "events_annotated": 1,
+      "chart_file": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\visual_features_v1\\transition_signal_charts_v1\\TW_001_signals.png",
+      "metric_points": {
+        "brightness_mean": 0,
+        "absolute_brightness_delta": 0,
+        "color_histogram_distance": 0,
+        "edge_difference": 0,
+        "structural_similarity": 0
+      }
+    },
+    {
+      "window_id": "TW_002",
+      "frame_count": 25,
+      "comparison_count": 24,
+      "events_annotated": 3,
+      "chart_file": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\visual_features_v1\\transition_signal_charts_v1\\TW_002_signals.png",
+      "metric_points": {
+        "brightness_mean": 0,
+        "absolute_brightness_delta": 0,
+        "color_histogram_distance": 0,
+        "edge_difference": 0,
+        "structural_similarity": 0
+      }
+    },
+    {
+      "window_id": "TW_003",
+      "frame_count": 25,
+      "comparison_count": 24,
+      "events_annotated": 2,
+      "chart_file": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\visual_features_v1\\transition_signal_charts_v1\\TW_003_signals.png",
+      "metric_points": {
+        "brightness_mean": 0,
+        "absolute_brightness_delta": 0,
+        "color_histogram_distance": 0,
+        "edge_difference": 0,
+        "structural_similarity": 0
+      }
+    },
+    {
+      "window_id": "TW_004",
+      "frame_count": 25,
+      "comparison_count": 24,
+      "events_annotated": 2,
+      "chart_file": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\visual_features_v1\\transition_signal_charts_v1\\TW_004_signals.png",
+      "metric_points": {
+        "brightness_mean": 0,
+        "absolute_brightness_delta": 0,
+        "color_histogram_distance": 0,
+        "edge_difference": 0,
+        "structural_similarity": 0
+      }
+    }
+  ]
+}

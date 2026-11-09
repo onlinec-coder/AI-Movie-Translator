@@ -1,0 +1,155 @@
+{
+  "schema_version": "5.0.0",
+  "engine_version": "5.0.0",
+  "created_at": "2026-11-06T03:00:39",
+  "source": {
+    "alignment_file": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\alignment_result_v4.json",
+    "human_review_file": "C:\\Users\\chinzorig\\AI-Movie-Translator\\data\\output\\review_clips\\review_decisions.json"
+  },
+  "method": {
+    "type": "human_verified_missing_dialogue_review",
+    "uses_v4_candidates": true,
+    "uses_human_review_decisions": true,
+    "uses_asr_word_timestamps": true,
+    "automatic_srt_modification": false
+  },
+  "timing_settings": {
+    "padding_seconds": 0.08,
+    "timing_source": "ASR_WORD_TIMESTAMPS"
+  },
+  "statistics": {
+    "confirmed_missing_dialogue": 2,
+    "existing_subtitle_continuation": 1,
+    "rejected_asr": 0,
+    "unconfirmed": 0,
+    "timing_conflicts": 3
+  },
+  "reviewed_candidates": [
+    {
+      "candidate_id": "MD_0009",
+      "decision": "EXISTING_SUBTITLE_CONTINUATION",
+      "review_status": "HUMAN_CONFIRMED",
+      "candidate_type": "POTENTIAL_MISSING_DIALOGUE",
+      "text": "There won't",
+      "audio_verified": true,
+      "speaker_ids": [
+        "SPK_002"
+      ],
+      "candidate_timing": {
+        "start_seconds": 176.562,
+        "end_seconds": 176.836
+      },
+      "proposed_subtitle_timing": {
+        "start_seconds": 176.482,
+        "end_seconds": 176.916,
+        "source": "ASR_WORD_TIMESTAMPS_WITH_PADDING",
+        "padding_seconds": 0.08
+      },
+      "related_subtitle_ids": [
+        56
+      ],
+      "related_subtitles": [
+        {
+          "subtitle_id": 56,
+          "found": true,
+          "source_text": "One word from him and it\nbecomes a royal be a choice after that.",
+          "subtitle_timing": {
+            "start_seconds": 172.381,
+            "end_seconds": 177.78
+          },
+          "overlap_with_proposed_timing_seconds": 0.434,
+          "requires_timing_review": true
+        }
+      ],
+      "timing_conflict_count": 1,
+      "action": "KEEP_EXISTING_SUBTITLE",
+      "editing_recommendation": "NO_NEW_SUBTITLE_REQUIRED",
+      "notes": "Dialogue is a continuation of subtitle 56. No new subtitle required.",
+      "automatic_srt_modification": false
+    },
+    {
+      "candidate_id": "MD_0011",
+      "decision": "CONFIRMED_MISSING_DIALOGUE",
+      "review_status": "HUMAN_CONFIRMED",
+      "candidate_type": "POTENTIAL_MISSING_DIALOGUE",
+      "text": "Every time I complained, he hurt me.",
+      "audio_verified": true,
+      "speaker_ids": [
+        "SPK_003"
+      ],
+      "candidate_timing": {
+        "start_seconds": 243.279,
+        "end_seconds": 246.206
+      },
+      "proposed_subtitle_timing": {
+        "start_seconds": 243.199,
+        "end_seconds": 246.286,
+        "source": "ASR_WORD_TIMESTAMPS_WITH_PADDING",
+        "padding_seconds": 0.08
+      },
+      "related_subtitle_ids": [
+        79
+      ],
+      "related_subtitles": [
+        {
+          "subtitle_id": 79,
+          "found": true,
+          "source_text": "She finally looked at me.",
+          "subtitle_timing": {
+            "start_seconds": 243.63,
+            "end_seconds": 251.63
+          },
+          "overlap_with_proposed_timing_seconds": 2.656,
+          "requires_timing_review": true
+        }
+      ],
+      "timing_conflict_count": 1,
+      "action": "PROPOSE_NEW_SUBTITLE",
+      "editing_recommendation": "REVIEW_EXISTING_SUBTITLE_SPLIT_OR_OVERLAP",
+      "notes": "Dialogue is audible in source video but absent from the SRT text.",
+      "automatic_srt_modification": false
+    },
+    {
+      "candidate_id": "MD_0013",
+      "decision": "CONFIRMED_MISSING_DIALOGUE",
+      "review_status": "HUMAN_CONFIRMED",
+      "candidate_type": "POTENTIAL_MISSING_DIALOGUE",
+      "text": "I couldn't speak.",
+      "audio_verified": true,
+      "speaker_ids": [
+        "SPK_001"
+      ],
+      "candidate_timing": {
+        "start_seconds": 267.09,
+        "end_seconds": 267.939
+      },
+      "proposed_subtitle_timing": {
+        "start_seconds": 267.01,
+        "end_seconds": 268.019,
+        "source": "ASR_WORD_TIMESTAMPS_WITH_PADDING",
+        "padding_seconds": 0.08
+      },
+      "related_subtitle_ids": [
+        84
+      ],
+      "related_subtitles": [
+        {
+          "subtitle_id": 84,
+          "found": true,
+          "source_text": "I made it back because\na servant broke the lock.",
+          "subtitle_timing": {
+            "start_seconds": 265.86,
+            "end_seconds": 273.86
+          },
+          "overlap_with_proposed_timing_seconds": 1.009,
+          "requires_timing_review": true
+        }
+      ],
+      "timing_conflict_count": 1,
+      "action": "PROPOSE_NEW_SUBTITLE",
+      "editing_recommendation": "REVIEW_EXISTING_SUBTITLE_SPLIT_OR_OVERLAP",
+      "notes": "Dialogue is audible in source video but absent from the SRT text.",
+      "automatic_srt_modification": false
+    }
+  ]
+}
